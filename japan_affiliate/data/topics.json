@@ -1,0 +1,242 @@
+[
+ {
+  "slug": "japan-ic-card-guide",
+  "keyword": "suica pasmo icoca japan guide tourists",
+  "title": "Suica, Pasmo & ICOCA: The Easy Guide to Japan's Transit Cards",
+  "cluster": "transport",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "railpass",
+   "klook"
+  ]
+ },
+ {
+  "slug": "japan-esim-vs-pocket-wifi",
+  "keyword": "japan esim vs pocket wifi",
+  "title": "Japan eSIM vs Pocket WiFi: Which Should You Choose?",
+  "cluster": "connectivity",
+  "intent": "commercial",
+  "priority": 10,
+  "affiliates": [
+   "esim",
+   "wifi"
+  ]
+ },
+ {
+  "slug": "tokyo-kyoto-osaka-7-day-itinerary",
+  "keyword": "7 day japan itinerary tokyo kyoto osaka",
+  "title": "7 Days in Japan: Tokyo, Kyoto & Osaka Itinerary for First-Timers",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 10,
+  "affiliates": [
+   "booking",
+   "klook",
+   "railpass"
+  ]
+ },
+ {
+  "slug": "where-to-stay-in-tokyo",
+  "keyword": "where to stay in tokyo first time",
+  "title": "Where to Stay in Tokyo: Best Areas for First-Time Visitors",
+  "cluster": "hotels",
+  "intent": "commercial",
+  "priority": 9,
+  "affiliates": [
+   "booking",
+   "agoda"
+  ]
+ },
+ {
+  "slug": "where-to-stay-in-kyoto",
+  "keyword": "where to stay in kyoto",
+  "title": "Where to Stay in Kyoto: Best Areas and Hotel Types",
+  "cluster": "hotels",
+  "intent": "commercial",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "agoda"
+  ]
+ },
+ {
+  "slug": "is-japan-rail-pass-worth-it",
+  "keyword": "is japan rail pass worth it",
+  "title": "Is the Japan Rail Pass Worth It? How to Decide for Your Trip",
+  "cluster": "transport",
+  "intent": "commercial",
+  "priority": 9,
+  "affiliates": [
+   "railpass"
+  ]
+ },
+ {
+  "slug": "best-day-trips-from-tokyo",
+  "keyword": "best day trips from tokyo",
+  "title": "Best Day Trips from Tokyo (and How to Get There)",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "klook",
+   "viator",
+   "gyg"
+  ]
+ },
+ {
+  "slug": "japan-travel-insurance",
+  "keyword": "do you need travel insurance for japan",
+  "title": "Do You Need Travel Insurance for Japan?",
+  "cluster": "planning",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "insurance"
+  ]
+ },
+ {
+  "slug": "japan-cherry-blossom-guide",
+  "keyword": "best time to see cherry blossoms japan",
+  "title": "When and Where to See Cherry Blossoms in Japan",
+  "cluster": "seasonal",
+  "intent": "informational",
+  "priority": 7,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
+ },
+ {
+  "slug": "japan-onsen-etiquette",
+  "keyword": "onsen etiquette for tourists tattoos",
+  "title": "Onsen Etiquette for First-Timers (Including Tattoo Rules)",
+  "cluster": "culture",
+  "intent": "informational",
+  "priority": 6,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
+ },
+ {
+  "slug": "osaka-food-guide",
+  "keyword": "what to eat in osaka",
+  "title": "What to Eat in Osaka: A Street Food and Restaurant Guide",
+  "cluster": "food",
+  "intent": "informational",
+  "priority": 6,
+  "affiliates": [
+   "klook",
+   "viator"
+  ]
+ },
+ {
+  "slug": "japan-luggage-forwarding",
+  "keyword": "japan luggage forwarding takkyubin tourists",
+  "title": "Luggage Forwarding in Japan: How Takkyubin Works",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 5,
+  "affiliates": [
+   "klook"
+  ]
+ },
+ {
+  "slug": "best-japanese-snack-subscription-boxes",
+  "keyword": "best japanese snack subscription box",
+  "title": "Best Japanese Snack Subscription Boxes Compared",
+  "cluster": "products",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "bokksu",
+   "amazon"
+  ]
+ },
+ {
+  "slug": "how-to-buy-japanese-products-online",
+  "keyword": "how to buy japanese products online from overseas",
+  "title": "How to Buy Japanese Products Online From Overseas (Shipping, Fees, Proxies)",
+  "cluster": "products",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "dokodemo",
+   "proxy"
+  ]
+ },
+ {
+  "slug": "japanese-kitchen-knives-buying-guide",
+  "keyword": "best japanese kitchen knives for beginners",
+  "title": "Japanese Kitchen Knives: A Beginner's Buying Guide",
+  "cluster": "products",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "amazon",
+   "dokodemo"
+  ]
+ },
+ {
+  "slug": "matcha-buying-guide",
+  "keyword": "how to choose matcha ceremonial vs culinary",
+  "title": "Matcha Buying Guide: Ceremonial vs Culinary Grades",
+  "cluster": "products",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "amazon",
+   "bokksu"
+  ]
+ },
+ {
+  "slug": "japanese-skincare-for-beginners",
+  "keyword": "japanese skincare routine products beginners",
+  "title": "Japanese Skincare for Beginners: Routine and Where to Buy",
+  "cluster": "products",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "dokodemo",
+   "amazon"
+  ]
+ },
+ {
+  "slug": "japanese-stationery-guide",
+  "keyword": "best japanese stationery pens notebooks",
+  "title": "Best Japanese Stationery: Pens, Notebooks and Where to Buy",
+  "cluster": "products",
+  "intent": "commercial",
+  "priority": 6,
+  "affiliates": [
+   "amazon",
+   "dokodemo"
+  ]
+ },
+ {
+  "slug": "japanese-convenience-store-snacks",
+  "keyword": "best japanese convenience store snacks",
+  "title": "Best Japanese Convenience Store Snacks to Try (and Order Online)",
+  "cluster": "products",
+  "intent": "informational",
+  "priority": 6,
+  "affiliates": [
+   "bokksu",
+   "amazon"
+  ]
+ },
+ {
+  "slug": "what-to-buy-in-japan-souvenirs",
+  "keyword": "what to buy in japan souvenirs",
+  "title": "What to Buy in Japan: Souvenirs and Everyday Finds Worth Packing Space For",
+  "cluster": "products",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "klook",
+   "bokksu",
+   "amazon"
+  ]
+ }
+]

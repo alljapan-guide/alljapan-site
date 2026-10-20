@@ -1,0 +1,64 @@
+name: japan-affiliate-publish
+on:
+  schedule:
+    - cron: "17 21 * * *"   # daily, 06:17 JST
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Articles to generate"
+        default: "1"
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: japan-affiliate
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    defaults:
+      run:
+        working-directory: japan_affiliate
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.13"}
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q tests
+
+      # 1. New article (kill switch: repo variable JA_AUTOPUBLISH=false pauses this block, site still rebuilds)
+      - name: Find sourced facts (only when fewer than 3 topics are ready)
+        if: ${{ vars.JA_AUTOPUBLISH != 'false' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline.research --buffer 3
+
+      # 2. Re-check EVERY fact against its official page (also keeps old articles honest)
+      - name: Verify facts against official pages (auto-repair changed facts)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline.verify --heal | tee "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Write the article from verified facts
+        if: ${{ vars.JA_AUTOPUBLISH != 'false' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pipeline.generate -n "${{ inputs.count || 1 }}"
+
+      # 3. Licensed photos with credits
+      - name: Fetch photos from Wikimedia Commons
+        run: python -m pipeline.fetch_images
+
+      # 4. Strict build: fails (and nothing is published) if a fact is unverified, a photo is missing, etc.
+      - run: python -m pipeline.build
+
+      - name: Commit new content
+        run: |
+          git config user.name "japan-compass-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add content/articles data/facts.json data/images.json assets/images
+          git diff --cached --quiet || (git commit -m "content: auto-publish article and refresh fact checks" && git pull --rebase && git push)
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: japan_affiliate/dist}
+      - uses: actions/deploy-pages@v4

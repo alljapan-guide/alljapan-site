@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="{{ site.language }}">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ canonical }}">
+<link rel="stylesheet" href="{{ root }}style.css">
+{% if jsonld %}<script type="application/ld+json">{{ jsonld|safe }}</script>{% endif %}
+{% if faq %}<script type="application/ld+json">{{ faq|safe }}</script>{% endif %}
+</head>
+<body>
+<header><a class="brand" href="{{ root }}">{{ site.name }}</a><span>{{ site.tagline }}</span></header>
+<main>{% block main %}{% endblock %}</main>
+<footer><p>{{ site.disclosure }}</p><p><a href="{{ root }}about.html">About &amp; editorial policy</a> · <a href="{{ root }}privacy.html">Privacy &amp; disclosure</a> · &copy; {{ site.name }}</p></footer>
+</body></html>

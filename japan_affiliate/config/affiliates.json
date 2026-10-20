@@ -1,0 +1,83 @@
+{
+  "_note": "Fill 'link' with your own tracking URL after approval by each program. Entries with an empty link are rendered as plain text, never as a broken link.",
+  "programs": {
+    "klook": {
+      "name": "Klook",
+      "category": "tours-tickets",
+      "link": "",
+      "network": "Klook Affiliate / Travelpayouts"
+    },
+    "viator": {
+      "name": "Viator",
+      "category": "tours-tickets",
+      "link": "",
+      "network": "Viator Partner"
+    },
+    "gyg": {
+      "name": "GetYourGuide",
+      "category": "tours-tickets",
+      "link": "",
+      "network": "GetYourGuide Partner"
+    },
+    "booking": {
+      "name": "Booking.com",
+      "category": "hotels",
+      "link": "",
+      "network": "Booking.com Affiliate / Travelpayouts"
+    },
+    "agoda": {
+      "name": "Agoda",
+      "category": "hotels",
+      "link": "",
+      "network": "Agoda Partners"
+    },
+    "esim": {
+      "name": "Airalo",
+      "category": "connectivity",
+      "link": "",
+      "network": "Airalo Partner"
+    },
+    "railpass": {
+      "name": "Japan Rail Pass",
+      "category": "transport",
+      "link": "",
+      "network": "Travelpayouts / JRailPass"
+    },
+    "wifi": {
+      "name": "Pocket WiFi rental",
+      "category": "connectivity",
+      "link": "",
+      "network": "Travelpayouts"
+    },
+    "insurance": {
+      "name": "Travel insurance",
+      "category": "insurance",
+      "link": "",
+      "network": "Travelpayouts"
+    },
+    "bokksu": {
+      "name": "Bokksu / Bokksu Market",
+      "category": "products",
+      "link": "",
+      "network": "CJ (via FlexOffers listing); rates unverified"
+    },
+    "dokodemo": {
+      "name": "Dokodemo",
+      "category": "products",
+      "link": "",
+      "network": "Dokodemo affiliate; ~3-4% listed by third parties"
+    },
+    "amazon": {
+      "name": "Amazon Associates",
+      "category": "products",
+      "link": "",
+      "network": "Amazon Associates (regional)"
+    },
+    "proxy": {
+      "name": "Japan proxy shopping service",
+      "category": "products",
+      "link": "",
+      "network": "Buyee/ZenMarket/Tenso: terms not verified"
+    }
+  }
+}

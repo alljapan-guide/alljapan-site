@@ -1,0 +1,32 @@
+{
+  "name": "All Japan",
+  "tagline": "Practical, honest guides for first-time visitors to Japan",
+  "base_url": "https://alljapan.win",
+  "language": "en",
+  "author": "Japan Compass Editorial Team",
+  "disclosure": "Some links on this page are affiliate links. If you book or buy through them we may earn a commission at no extra cost to you. We only recommend things we would use ourselves.",
+  "articles_per_run": 1,
+  "min_words": 900,
+  "max_words": 3500,
+  "official_domains": [
+    "japanrailpass.net",
+    "jreast.co.jp",
+    "jr-central.co.jp",
+    "jr-odekake.net",
+    "pasmo.co.jp",
+    "support.apple.com",
+    "japan.travel",
+    "jnto.go.jp",
+    "gotokyo.org",
+    "kyoto.travel",
+    "visitnara.jp",
+    "todaiji.or.jp",
+    "inari.jp"
+  ],
+  "min_facts": 2,
+  "min_photos": 2,
+  "min_callouts": 2,
+  "min_diagrams": 1,
+  "contact_email": "",
+  "repo_url": "https://github.com/genepas1006-oss/ec-pb-dashboard"
+}

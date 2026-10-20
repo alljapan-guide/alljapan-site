@@ -1,0 +1,358 @@
+[
+ {
+  "id": "jrp_7day_online",
+  "text": "¥50,000",
+  "claim": "7-day Ordinary Japan Rail Pass, bought online (adult)",
+  "source_name": "Japan Rail Pass official site: Types and prices",
+  "source_url": "https://japanrailpass.net/en/purchase/price/",
+  "must_contain": [
+   "50,000"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it"
+  ]
+ },
+ {
+  "id": "jrp_7day_agency",
+  "text": "¥53,000",
+  "claim": "7-day Ordinary Japan Rail Pass, exchange order from overseas agencies (adult)",
+  "source_name": "Japan Rail Pass official site: Types and prices",
+  "source_url": "https://japanrailpass.net/en/purchase/price/",
+  "must_contain": [
+   "53,000"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it"
+  ]
+ },
+ {
+  "id": "nozomi_supplement",
+  "text": "¥4,960",
+  "claim": "Special ticket for NOZOMI/MIZUHO with the pass, Tokyo to Kyoto",
+  "source_name": "Japan Rail Pass official site: Use of NOZOMI/MIZUHO trains",
+  "source_url": "https://japanrailpass.net/en/use/special-ticket/",
+  "must_contain": [
+   "4,960"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it"
+  ]
+ },
+ {
+  "id": "nozomi_not_covered",
+  "text": "NOZOMI and MIZUHO trains are not covered by the pass and need a separate ticket",
+  "claim": "Pass coverage of NOZOMI/MIZUHO",
+  "source_name": "Japan Rail Pass official site: Use of NOZOMI/MIZUHO trains",
+  "source_url": "https://japanrailpass.net/en/use/special-ticket/",
+  "must_contain": [
+   "NOZOMI",
+   "MIZUHO"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it",
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ]
+ },
+ {
+  "id": "tokyo_kyoto_130",
+  "text": "about 130 minutes",
+  "claim": "Tokyo to Kyoto on the Tokaido Shinkansen",
+  "source_name": "JR Central: Kyoto by Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/kyoto/",
+  "must_contain": [
+   "130 minutes"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it",
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ]
+ },
+ {
+  "id": "ic_ten_cards",
+  "text": "ten transport IC cards (including Suica, PASMO and ICOCA) are interoperable nationwide",
+  "claim": "Nationwide IC card interoperability",
+  "source_name": "PASMO official site",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "Suica",
+   "ICOCA",
+   "PiTaPa"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "iphone_esim",
+  "text": "iPhone XS, XS Max, XR or later",
+  "claim": "iPhone models that support eSIM",
+  "source_name": "Apple Support: Set up eSIM on iPhone",
+  "source_url": "https://support.apple.com/en-us/118669",
+  "must_contain": [
+   "iPhone XS"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-esim-vs-pocket-wifi"
+  ]
+ },
+ {
+  "id": "jp_wifi_rental",
+  "text": "rental kiosks at major airports and delivery to your hotel",
+  "claim": "Pocket Wi-Fi rental options",
+  "source_name": "Japan National Tourism Organization: Wi-Fi in Japan",
+  "source_url": "https://www.japan.travel/en/plan/wifi-and-connectivity/",
+  "must_contain": [
+   "Rental kiosks",
+   "delivered"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-esim-vs-pocket-wifi"
+  ]
+ },
+ {
+  "id": "shinjuku_lines",
+  "text": "on all the JR lines, the Keio Line, the Odakyu Electric Railway, the Tokyo Metro Marunouchi Line, and the Toei Shinjuku and Oedo lines",
+  "claim": "Rail access at Shinjuku Station",
+  "source_name": "GO TOKYO: A guide to Shinjuku",
+  "source_url": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+  "must_contain": [
+   "Keio",
+   "Odakyu",
+   "Toei Oedo"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary",
+   "where-to-stay-in-tokyo"
+  ]
+ },
+ {
+  "id": "sensoji_oldest",
+  "text": "Tokyo's oldest temple",
+  "claim": "Sensoji, Asakusa",
+  "source_name": "GO TOKYO: Sensoji Temple",
+  "source_url": "https://www.gotokyo.org/en/spot/15/index.html",
+  "must_contain": [
+   "Sensoji",
+   "oldest"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary",
+   "where-to-stay-in-tokyo"
+  ]
+ },
+ {
+  "id": "tokyo_station_area",
+  "text": "Tokyo Station & Marunouchi area guide",
+  "claim": "Official area guide for Tokyo Station and Marunouchi",
+  "source_name": "GO TOKYO: Tokyo Station & Marunouchi",
+  "source_url": "https://www.gotokyo.org/en/destinations/central-tokyo/tokyo-station-and-marunouchi/index.html",
+  "must_contain": [
+   "Marunouchi"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-tokyo"
+  ]
+ },
+ {
+  "id": "fushimi_9min",
+  "text": "about 9 minutes from Kyoto Station by the JR Nara Line",
+  "claim": "Getting to Fushimi Inari Taisha",
+  "source_name": "Kyoto City Tourism Association: Access to Fushimi Inari",
+  "source_url": "https://kyoto.travel/en/getting-around/comfortable-access-to-fushimi-fushimi-inari-taisha-shrine/",
+  "must_contain": [
+   "9 minutes"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ]
+ },
+ {
+  "id": "nara_jr_41",
+  "text": "about 41 minutes on the JR Rapid from Kyoto to JR Nara Station",
+  "claim": "Kyoto to Nara by JR",
+  "source_name": "Official Nara Travel Guide: Travel to Nara",
+  "source_url": "https://www.visitnara.jp/travel-to-nara/",
+  "must_contain": [
+   "41"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ]
+ },
+ {
+  "id": "nara_park_guide",
+  "text": "Nara Park area guide",
+  "claim": "Official area guide for Nara Park",
+  "source_name": "Official Nara Travel Guide: Nara Park",
+  "source_url": "https://www.visitnara.jp/destinations/area/nara-park/",
+  "must_contain": [
+   "Nara"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ]
+ },
+ {
+  "id": "jrc_booking",
+  "text": "JR Central's official Shinkansen booking and fares site",
+  "claim": "Where to look up Tokaido Shinkansen fares and timetables",
+  "source_name": "JR Central: Shinkansen Travel Site",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/",
+  "must_contain": [
+   "Shinkansen"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it",
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ]
+ },
+ {
+  "id": "jnto_regional_passes",
+  "text": "its overview of regional JR rail passes (JR East, JR West and others)",
+  "claim": "Overview of regional JR rail passes",
+  "source_name": "Japan National Tourism Organization: Regional JR Rail Passes",
+  "source_url": "https://www.japan.travel/en/plan/jr-rail-passes/",
+  "must_contain": [
+   "Regional",
+   "JR East",
+   "JR West"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it"
+  ]
+ },
+ {
+  "id": "jrp_coverage",
+  "text": "the pass covers JR Group trains, not private railways or subways",
+  "claim": "Coverage of the Japan Rail Pass",
+  "source_name": "Japan Rail Pass official site: Valid sections",
+  "source_url": "https://japanrailpass.net/en/about_jrp/route/",
+  "must_contain": [
+   "JR"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "is-japan-rail-pass-worth-it"
+  ]
+ },
+ {
+  "id": "apple_wallet_cards",
+  "text": "you can add a Suica, PASMO, ICOCA or TOICA card to Apple Wallet on an iPhone or Apple Watch",
+  "claim": "Transit cards that Apple Wallet supports in Japan",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Suica, PASMO, ICOCA, or TOICA",
+   "Apple Wallet"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "apple_wallet_needs",
+  "text": "an iPhone 8 or later, an Apple Account with two-factor authentication, and an eligible payment card in Apple Wallet",
+  "claim": "What you need to add a transit card to Apple Wallet",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "iPhone 8",
+   "two-factor",
+   "eligible payment card"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "apple_express_mode",
+  "text": "Express Mode lets you pay for transit rides with just a tap, and can be turned on for only one card at a time",
+  "claim": "Express Mode for transit cards in Apple Wallet",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Express Mode",
+   "one card at a time"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "pasmo_not_every_line",
+  "text": "this does not mean PASMO can be used on every railway and bus line in Japan",
+  "claim": "Limits of IC card coverage",
+  "must_contain": [
+   "every railway and bus line"
+  ],
+  "source_name": "PASMO official site: What is PASMO?",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "pasmo_shopping",
+  "text": "transit IC cards can also be used for cashless payments at participating stores",
+  "claim": "Shopping use of IC cards",
+  "must_contain": [
+   "participating stores"
+  ],
+  "source_name": "PASMO official site: What is PASMO?",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "pasmo_android",
+  "text": "Android devices purchased outside of Japan are, in general, not compatible with Mobile PASMO",
+  "claim": "Android phones and Mobile PASMO",
+  "must_contain": [
+   "Android devices purchased outside of Japan",
+   "not compatible"
+  ],
+  "source_name": "PASMO official site: What is PASMO?",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ },
+ {
+  "id": "pasmo_tourist",
+  "text": "announces TOURIST PASMO, an IC card for international visitors (check the page for current availability)",
+  "claim": "Visitor IC card announced by PASMO",
+  "must_contain": [
+   "TOURIST PASMO",
+   "International Visitors"
+  ],
+  "source_name": "PASMO official site: What is PASMO?",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-ic-card-guide"
+  ]
+ }
+]
