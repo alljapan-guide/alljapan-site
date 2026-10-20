@@ -15,6 +15,9 @@ concurrency: japan-affiliate
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      # Article generation runs only when an API key is registered; without one the site still verifies facts and publishes.
+      HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
     environment:
       name: github-pages
     defaults:
@@ -29,7 +32,7 @@ jobs:
 
       # 1. New article (kill switch: repo variable JA_AUTOPUBLISH=false pauses this block, site still rebuilds)
       - name: Find sourced facts (only when fewer than 3 topics are ready)
-        if: ${{ vars.JA_AUTOPUBLISH != 'false' }}
+        if: ${{ vars.JA_AUTOPUBLISH != 'false' && env.HAS_KEY == 'true' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m pipeline.research --buffer 3
@@ -41,7 +44,7 @@ jobs:
         run: python -m pipeline.verify --heal | tee "$GITHUB_STEP_SUMMARY" || true
 
       - name: Write the article from verified facts
-        if: ${{ vars.JA_AUTOPUBLISH != 'false' }}
+        if: ${{ vars.JA_AUTOPUBLISH != 'false' && env.HAS_KEY == 'true' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m pipeline.generate -n "${{ inputs.count || 1 }}"
