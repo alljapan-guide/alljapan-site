@@ -24,7 +24,7 @@
 
 ## ステップ1: リポジトリを自分専用にする
 
-今は `ec-pb-dashboard` リポジトリの `claude/japan-affiliate-site` ブランチにあります。売上ダッシュボードとは別物なので、専用リポジトリに分けることを推奨します。
+このサイト専用のリポジトリ（組織アカウント配下）に置きます。
 
 1. GitHub で新しいリポジトリを作る（例: `japan-compass`）。公開（Public）か非公開かは、GitHub Pages のプラン条件に依存します。無料プランでは公開リポジトリが無難です。条件は [GitHub Docs: Pages](https://docs.github.com/en/pages) で確認してください。
 2. `japan_affiliate/` フォルダ**ごと**（フォルダ名もそのまま）と `.github/workflows/japan-affiliate-publish.yml` を、新リポジトリにコピーします。ワークフローが `japan_affiliate/` フォルダを前提にしているため、構成を変えなければ編集は不要です。

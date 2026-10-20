@@ -5,7 +5,7 @@
 4. **Publishing autonomy**: fully automatic after passing the gate (default) vs. PR-for-review. Kill switch: repo variable `JA_AUTOPUBLISH=false`.
 5. **Affiliate sign-ups**: require your identity/tax details; I cannot do these. Start with Travelpayouts.
 6. **Disclosure of AI assistance**: the About page states AI-assisted drafting. Recommended to keep.
-7. **Repo placement**: currently inside ec-pb-dashboard on branch `claude/japan-affiliate-site`; recommend moving to its own repo.
+7. **Repo placement**: dedicated repository under a neutral organization.
 
 ## Update: niche scope (owner direction)
 Owner wants more than inbound travel. Decision (Claude): **Japan products + travel for overseas readers** ("Japan Compass"), run as one site with two clusters:
