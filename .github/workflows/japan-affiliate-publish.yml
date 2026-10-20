@@ -1,5 +1,8 @@
 name: japan-affiliate-publish
 on:
+  push:
+    branches: [main]
+    paths: ["japan_affiliate/**", ".github/workflows/japan-affiliate-publish.yml"]
   schedule:
     - cron: "17 21 * * *"   # daily, 06:17 JST
   workflow_dispatch:

@@ -354,5 +354,364 @@
   "topics": [
    "japan-ic-card-guide"
   ]
+ },
+ {
+  "id": "kyoto_central_size",
+  "text": "the central part of Kyoto City spans roughly twenty kilometers east to west and north to south, so one-way access to most of its locations is possible within an hour",
+  "claim": "Size of central Kyoto",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "spans roughly twenty kilometers",
+   "possible within an hour"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_transport_advice",
+  "text": "buses can be very crowded depending on the season, and trains and subways (Kyoto City Subway, JR, Hankyu and Keihan) are recommended for traveling in all directions",
+  "claim": "Getting around Kyoto",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "can be very crowded depending on the season",
+   "The use of trains and subways"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_station_area",
+  "text": "the Kyoto Station area has many large hotels and business hotels, making it relatively easy to find vacancies even during peak seasons",
+  "claim": "Kyoto Station area lodging",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "many large hotels and business hotels",
+   "relatively easy to find vacancies even during peak seasons"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_shijo",
+  "text": "the Shijo-Kawaramachi area is a commercial district with lodging that includes traditional ryokan, guesthouses and designer hotels",
+  "claim": "Shijo-Kawaramachi lodging",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "Shijo-Kawaramachi area is a commercial district",
+   "traditional ryokan, guesthouses, and designer hotels"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_gion",
+  "text": "the Gion and Higashiyama area has many long-standing ryokan inns and luxury hotels, and is recommended for those who wish to spend an exceptional time for special occasions or a relaxing time in a very Kyoto-like atmosphere",
+  "claim": "Gion and Higashiyama lodging",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "many long-standing ryokan inns",
+   "spend an exceptional time for special occasions"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_gosho",
+  "text": "the Kyoto Gosho and Nijo Castle area is relatively quiet, and the Kyoto City Subway Tozai Line and the JR Sagano Line run through it",
+  "claim": "Kyoto Gosho and Nijo Castle area",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "is relatively quiet",
+   "Kyoto City Subway Tozai Line and the JR Sagano Line"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_arashiyama",
+  "text": "in Arashiyama the restaurants and cafes tend to close at early hours, and the area is best enjoyed in the daytime, especially early in the morning",
+  "claim": "Arashiyama area",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "tend to close at early hours",
+   "especially early in the morning"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "kyoto_ohara",
+  "text": "the Ohara, Kurama and Kibune area is about an hour away from Kyoto Station and suits those who want a relaxing time away from the bustle of the city",
+  "claim": "Ohara, Kurama and Kibune",
+  "source_name": "Kyoto City Tourism Association: Choosing accommodation, key features of each area",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/choosing-accommodation-key-features-of-each-area/",
+  "must_contain": [
+   "about an hour away from Kyoto Station"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "where-to-stay-in-kyoto"
+  ]
+ },
+ {
+  "id": "nikko_shinjuku",
+  "text": "JR and Tobu Railway jointly operate limited express services between JR Shinjuku Station and Tobu Nikko Station, taking about two hours (reservations necessary)",
+  "claim": "Nikko by limited express",
+  "source_name": "Japan National Tourism Organization: Nikko National Park, how to get there",
+  "source_url": "https://www.japan.travel/national-parks/parks/nikko/how-to-get-there/",
+  "must_contain": [
+   "limited express services between JR Shinjuku Station and Tobu Nikko Station",
+   "about two hours"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "nikko_shinkansen",
+  "text": "from Tokyo Station you can take the JR Tohoku Shinkansen and transfer at Utsunomiya Station for the JR Nikko Line, around 1 hour 40 minutes in total",
+  "claim": "Nikko via Shinkansen",
+  "source_name": "Japan National Tourism Organization: Nikko National Park, how to get there",
+  "source_url": "https://www.japan.travel/national-parks/parks/nikko/how-to-get-there/",
+  "must_contain": [
+   "transfer at Utsunomiya Station",
+   "around 1 hour 40 minutes in total"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "nikko_distance",
+  "text": "the park is about 125 kilometers from Tokyo and easy to reach for one- and two-day outings",
+  "claim": "Distance to Nikko",
+  "source_name": "Japan National Tourism Organization: Nikko National Park, how to get there",
+  "source_url": "https://www.japan.travel/national-parks/parks/nikko/how-to-get-there/",
+  "must_contain": [
+   "about 125 kilometers from Tokyo",
+   "one- and two-day outings"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "kamakura_route",
+  "text": "you take the JR Yokosuka Line from Tokyo Station to Kita-Kamakura Station (55 minutes)",
+  "claim": "Kamakura by JR",
+  "source_name": "Japan National Tourism Organization: Culture on the coast in Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "JR Yokosuka Line from Tokyo Station to Kita-Kamakura Station",
+   "55 minutes"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "kamakura_daibutsu",
+  "text": "a visit to the Kamakura Daibutsu is an easy day trip from Tokyo, and the statue is a bronze statue of Amida Buddha",
+  "claim": "Kamakura Daibutsu",
+  "source_name": "Japan National Tourism Organization: Kamakura Daibutsu (Great Buddha)",
+  "source_url": "https://www.japan.travel/en/spot/1588/",
+  "must_contain": [
+   "easy day trip from Tokyo",
+   "bronze statue of Amida Buddha"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "hakone_romancecar",
+  "text": "the direct Odakyu Railway Romance Car (1 hr 20 min) runs between Shinjuku Station and Hakone-Yumoto Station",
+  "claim": "Hakone by Odakyu",
+  "source_name": "Japan National Tourism Organization: Fuji-Hakone-Izu National Park, how to get there",
+  "source_url": "https://www.japan.travel/national-parks/parks/fuji-hakone-izu/how-to-get-there/",
+  "must_contain": [
+   "direct Odakyu Railway",
+   "1 hr 20 min",
+   "Hakone-Yumoto Station"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "hakone_shinkansen",
+  "text": "the Tokaido Shinkansen to Odawara Station followed by the Hakone Tozan Railway is another route to Hakone",
+  "claim": "Hakone via Odawara",
+  "source_name": "Japan National Tourism Organization: Fuji-Hakone-Izu National Park, how to get there",
+  "source_url": "https://www.japan.travel/national-parks/parks/fuji-hakone-izu/how-to-get-there/",
+  "must_contain": [
+   "Tokaido Shinkansen to Odawara Station",
+   "Hakone Tozan Railway"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "hakone_freepass",
+  "text": "the Hakone Free Pass is sold in various combinations and will save you money",
+  "claim": "Hakone Free Pass",
+  "source_name": "Japan National Tourism Organization: Fuji-Hakone-Izu National Park, how to get there",
+  "source_url": "https://www.japan.travel/national-parks/parks/fuji-hakone-izu/how-to-get-there/",
+  "must_contain": [
+   "Hakone Free Pass is sold in various combinations"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo"
+  ]
+ },
+ {
+  "id": "onsen_tattoo",
+  "text": "the majority of onsen in Japan prohibit tattooed guests and require full nudity in the bathing room, and it is still best to inquire at your onsen of choice before visiting",
+  "claim": "Nudity and tattoo rules",
+  "source_name": "Japan National Tourism Organization: A beginner's guide to onsen",
+  "source_url": "https://www.japan.travel/en/ph/story/onsen-etiquette/",
+  "must_contain": [
+   "Majority of the onsens in Japan prohibit tattooed guests",
+   "still best to inquire to your onsen of choice before visiting"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "onsen_wash",
+  "text": "you sit on a small stool and wash with the shower or small bucket, making sure no trace of soap is left, before entering the water",
+  "claim": "Washing before bathing",
+  "source_name": "Japan National Tourism Organization: A beginner's guide to onsen",
+  "source_url": "https://www.japan.travel/en/ph/story/onsen-etiquette/",
+  "must_contain": [
+   "Sit on small stools and wash with the shower or small bucket",
+   "no trace of soap left"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "onsen_towel",
+  "text": "the washcloth must not touch the onsen water; leave it to the side of the bath or balance it on your head",
+  "claim": "Towel etiquette",
+  "source_name": "Japan National Tourism Organization: A beginner's guide to onsen",
+  "source_url": "https://www.japan.travel/en/ph/story/onsen-etiquette/",
+  "must_contain": [
+   "washcloth touch the onsen water",
+   "balance the towel on your head"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "onsen_washcloth",
+  "text": "small washcloths are provided to cover your intimates and are the only things you can bring to the onsen room",
+  "claim": "What to bring into the bathing room",
+  "source_name": "Japan National Tourism Organization: A beginner's guide to onsen",
+  "source_url": "https://www.japan.travel/en/ph/story/onsen-etiquette/",
+  "must_contain": [
+   "Small washcloths are provided",
+   "only things you can bring to the onsen room"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "onsen_private",
+  "text": "private kashikiri onsen almost always cost extra and need to be reserved in advance or at the front desk, where you receive a key",
+  "claim": "Private onsen",
+  "source_name": "Japan National Tourism Organization: Onsen hot springs, on tattoos and etiquette",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/onsen-hot-springs-on-tattoos-and-etiquette/",
+  "must_contain": [
+   "kashikiri",
+   "need to be reserved in advance or at the front desk"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "onsen_free",
+  "text": "a public onsen at an accommodation is almost always free of charge for overnight guests",
+  "claim": "Cost of public onsen at accommodations",
+  "source_name": "Japan National Tourism Organization: Onsen hot springs, on tattoos and etiquette",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/onsen-hot-springs-on-tattoos-and-etiquette/",
+  "must_contain": [
+   "almost always free of charge for overnight guests"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "onsen_rotenburo",
+  "text": "open-air onsen are called rotenburo",
+  "claim": "Open-air onsen",
+  "source_name": "Japan National Tourism Organization: Onsen hot springs, on tattoos and etiquette",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/onsen-hot-springs-on-tattoos-and-etiquette/",
+  "must_contain": [
+   "rotenburo",
+   "open-air onsen"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "japan-onsen-etiquette"
+  ]
+ },
+ {
+  "id": "hakone_highlights",
+  "text": "strolling through breathtaking modern art in the fresh air and unwinding at a historic hot spring hotel",
+  "claim": "Highlights of the official Hakone itinerary",
+  "source_name": "Japan National Tourism Organization: Hakone itinerary",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Strolling through breathtaking modern art in the fresh air",
+   "Unwinding at a historic hot spring hotel"
+  ],
+  "verified_on": "2026-10-20",
+  "topics": [
+   "best-day-trips-from-tokyo",
+   "japan-onsen-etiquette"
+  ]
  }
 ]
