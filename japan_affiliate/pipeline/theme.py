@@ -135,6 +135,7 @@ table{border-collapse:collapse;width:100%;display:block;overflow-x:auto;font-siz
 ul.posts{list-style:none;padding:0;display:grid;gap:.9rem}ul.posts li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:.9rem 1rem}ul.posts a{font-weight:700;text-decoration:none}
 .site-footer{margin-top:3rem;color:#c9d4e2;background-color:var(--kon);background-image:__SEIGAIHA__;background-size:48px 24px}.site-footer .wrap{padding-top:2rem;padding-bottom:2.2rem;font-size:.85rem}
 .site-footer a{color:#e3c37a}.site-footer p{margin:.3rem 0}
+@media(min-width:60.01rem){.tabs{flex-wrap:wrap;overflow:visible;border-bottom:0;padding-bottom:.4rem}}
 @media(max-width:60rem){.home-grid{grid-template-columns:1fr}.sidebar{position:static}.hero:before{width:9rem;height:9rem;top:-2rem}.sidebar .topics-panel,.sidebar .latest-panel,.search .note{display:none}.nav{margin-left:0;width:100%}}
 """
 
