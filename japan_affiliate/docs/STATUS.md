@@ -6,3 +6,6 @@ Wikimedia: needs a descriptive User-Agent with a REAL contact (placeholder => 40
 Still not exercised: research / generate / verify --heal (need ANTHROPIC_API_KEY). 
 Local preview: python -m pipeline.build --draft. Strict build needs contact_email in config/site.json.
 Unknown official affiliate programs: Japan Rail Pass seller, pocket WiFi rental, Viator, GetYourGuide (links stay plain text until confirmed).
+
+## 2026-10-21 design update
+Home page redesigned (Wa theme): hero, left sidebar with search/topics/latest, topic tabs, photo cards, dark mode, mobile layout. See docs/DESIGN.md. Tests: 33 pass. Search is client-side (titles, descriptions, topics).

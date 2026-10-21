@@ -5,13 +5,14 @@ import re
 import textwrap
 
 INK, MUTED, LINE = "#1d2330", "#667085", "#d6dbe6"
-THEMES = {  # cluster -> (sky top, sky bottom, sun, far hills, near hills)
-    "transport": ("#dff1ff", "#fdf3e7", "#e8573d", "#9db8d8", "#5d7fae"),
-    "hotels": ("#fde7ef", "#fff6ea", "#e0803d", "#c7a3b8", "#8a5d7a"),
-    "itineraries": ("#e4f4e6", "#fff7e0", "#d9482f", "#9cc3a3", "#4e8a62"),
-    "connectivity": ("#e6e8ff", "#f2eefc", "#e2584a", "#a6a9da", "#5d61a8"),
+THEMES = {  # cluster -> (sky top, sky bottom, sun, far hills, near hills): washi sky, vermilion sun, indigo/pine hills
+    "transport": ("#e6edf4", "#f7f2e7", "#b8301b", "#8aa5bf", "#1d5a85"),
+    "hotels": ("#f3e4de", "#f7f2e7", "#b8301b", "#b79a96", "#6b3f4a"),
+    "itineraries": ("#e5ede3", "#f7f2e7", "#b8301b", "#8fae95", "#2f6b4f"),
+    "connectivity": ("#e4e6f2", "#f7f2e7", "#b8301b", "#9aa0c8", "#3a4580"),
+    "culture": ("#efe6d6", "#f7f2e7", "#b8301b", "#c2a77a", "#7a5a2b"),
 }
-DEFAULT_THEME = ("#e8f0f8", "#fdf3e7", "#e8573d", "#a5b8cf", "#5d7a9c")
+DEFAULT_THEME = ("#e6edf4", "#f7f2e7", "#b8301b", "#8aa5bf", "#1d5a85")
 CALLOUTS = {"tip": "Tip", "warn": "Watch out", "note": "Good to know", "pick": "Our pick"}
 
 

@@ -2,15 +2,23 @@
 <html lang="{{ site.language }}">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#14283f">
 <title>{{ title }}</title>
 <meta name="description" content="{{ description }}">
 <link rel="canonical" href="{{ canonical }}">
 <link rel="stylesheet" href="{{ root }}style.css">
 {% if jsonld %}<script type="application/ld+json">{{ jsonld|safe }}</script>{% endif %}
 {% if faq %}<script type="application/ld+json">{{ faq|safe }}</script>{% endif %}
+<script defer src="{{ root }}app.js"></script>
 </head>
-<body>
-<header><a class="brand" href="{{ root }}">{{ site.name }}</a><span>{{ site.tagline }}</span></header>
-<main>{% block main %}{% endblock %}</main>
-<footer><p>{{ site.disclosure }}</p><p><a href="{{ root }}about.html">About &amp; editorial policy</a> · <a href="{{ root }}privacy.html">Privacy &amp; disclosure</a> · &copy; {{ site.name }}</p></footer>
+<body class="{{ body_class }}">
+<a class="skip" href="#main">Skip to content</a>
+<div class="stripe" aria-hidden="true"></div>
+<header class="site-header"><div class="wrap">
+<a class="brand" href="{{ root }}index.html">{{ logo|safe }}<span><b>{{ site.name }}</b><small>{{ site.tagline }}</small></span></a>
+<form class="header-search" role="search" action="{{ root }}index.html" method="get"><input type="search" name="q" placeholder="Search guides" aria-label="Search guides" autocomplete="off"><button class="btn" type="submit">Search</button></form>
+<nav class="nav" aria-label="Main"><a href="{{ root }}index.html#guides">Guides</a><a href="{{ root }}about.html">About</a><a href="{{ root }}privacy.html">Privacy</a></nav>
+</div></header>
+<main id="main" class="{{ main_class }}">{% block main %}{% endblock %}</main>
+<footer class="site-footer"><div class="wrap"><p>{{ site.disclosure }}</p><p><a href="{{ root }}about.html">About &amp; editorial policy</a> · <a href="{{ root }}privacy.html">Privacy &amp; disclosure</a> · &copy; {{ site.name }}</p></div></footer>
 </body></html>

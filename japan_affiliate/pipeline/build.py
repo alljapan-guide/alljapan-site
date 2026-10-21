@@ -10,28 +10,14 @@ import markdown
 from jinja2 import Environment, FileSystemLoader
 
 from . import facts as F
+from . import theme as T
 from . import visuals as V
 from .affiliate import expand
-from .common import ARTICLES, ROOT, load_json, parse_article
+from .common import ARTICLES, ROOT, load_json, parse_article, word_count
 from .quality import check, check_links, internal_links
 
 DIST = ROOT / "dist"
-CSS = """:root{--ink:#1d2330;--muted:#667085;--line:#e3e6ec;--brand:#c0392b;--bg:#fff;--card:#fff8ee;--link:#1a5fb4}
-@media(prefers-color-scheme:dark){:root{--ink:#e8eaf0;--muted:#9aa3b5;--line:#2c3344;--bg:#14171f;--card:#1e2230;--link:#7fb0ff}}
-*{box-sizing:border-box}body{font:17px/1.75 system-ui,-apple-system,"Segoe UI",sans-serif;margin:0;color:var(--ink);background:var(--bg)}
-header,main,footer{max-width:46rem;margin:0 auto;padding-left:1rem;padding-right:1rem}
-header{padding-top:1rem;padding-bottom:.8rem;border-bottom:1px solid var(--line)}header .brand{font-weight:800;font-size:1.3rem;color:var(--brand);text-decoration:none;margin-right:.8rem}
-header span{color:var(--muted);font-size:.9rem}h1{line-height:1.2;font-size:2rem;margin:1rem 0 .4rem}h2{margin-top:2.4rem;padding-top:.4rem;border-top:3px solid var(--brand);display:inline-block;line-height:1.3}h3{margin-top:1.6rem}
-a{color:var(--link)}.meta{color:var(--muted);font-size:.9rem}svg.hero{display:block;width:100%;height:auto;max-height:220px;border-radius:14px;margin:.6rem 0}
-.disc{background:var(--card);border-left:4px solid #e0a100;padding:.6rem .9rem;font-size:.88rem;margin:1rem 0;border-radius:0 8px 8px 0}
-.callout{border-radius:12px;padding:.8rem 1rem;margin:1.4rem 0;border-left:5px solid;background:var(--card)}.callout strong{display:block;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;margin-bottom:.2rem}
-.callout.tip{border-color:#2e9e5b}.callout.warn{border-color:#d9822b}.callout.note{border-color:#3b7dd8}.callout.pick{border-color:var(--brand)}
-figure{margin:1.6rem 0}figure.photo img{width:100%;height:auto;border-radius:12px;display:block}figcaption{font-size:.85rem;color:var(--muted);margin-top:.4rem}figcaption .credit{display:block;font-size:.78rem}
-figure.diagram{background:var(--card);border-radius:14px;padding:1rem;text-align:center}figure.diagram svg{width:100%;max-width:420px;height:auto}figure.photo.pending div{padding:2rem;border:2px dashed var(--line);border-radius:12px;color:var(--muted);text-align:center}
-table{border-collapse:collapse;width:100%;display:block;overflow-x:auto;font-size:.95rem}th,td{border:1px solid var(--line);padding:.5rem .7rem;text-align:left}th{background:var(--card)}
-.fact{background:linear-gradient(transparent 62%,#ffe58a88 0)}.fact sup{font-size:.7em}section.sources{margin-top:2.4rem;padding:1rem 1.2rem;background:var(--card);border-radius:12px;font-size:.88rem}section.sources h2{border:0;margin:0 0 .4rem;font-size:1.1rem}
-footer{border-top:1px solid var(--line);margin-top:3rem;padding-top:1rem;padding-bottom:2rem;color:var(--muted);font-size:.85rem}
-ul.posts{list-style:none;padding:0;display:grid;gap:.9rem}ul.posts li{background:var(--card);border-radius:12px;padding:.9rem 1rem}ul.posts a{font-weight:700;text-decoration:none}"""
+
 
 
 def load_articles(strict=True):
@@ -105,7 +91,8 @@ def build(strict=True):
     if DIST.exists():
         shutil.rmtree(DIST)
     DIST.mkdir()
-    (DIST / "style.css").write_text(CSS, encoding="utf-8")
+    (DIST / "style.css").write_text(T.css(), encoding="utf-8")
+    (DIST / "app.js").write_text(T.JS + "\n" + T.HEADER_JS, encoding="utf-8")
     facts = F.load()
     images = json.loads((ROOT / 'data' / 'images.json').read_text()) if (ROOT / 'data' / 'images.json').exists() else {}
     shutil.copytree(ROOT / 'assets' / 'images', DIST / 'images') if (ROOT / 'assets' / 'images').exists() else None
@@ -115,7 +102,9 @@ def build(strict=True):
     def write(name, **kw):
         kw.setdefault("jsonld", "")
         kw.setdefault("faq", "")
-        kw.update(site=site, root=kw.get("root", ""))
+        kw.setdefault("body_class", "")
+        kw.setdefault("main_class", "article-main")
+        kw.update(site=site, root=kw.get("root", ""), logo=T.logo_svg())
         kw["canonical"] = f"{base}/{name}" if name != "index.html" else f"{base}/"
         (DIST / name).write_text(page.render(**kw), encoding="utf-8")
 
@@ -142,15 +131,26 @@ def build(strict=True):
               content=f"<article><h1>{html.escape(meta['title'])}</h1>"
                       f"{V.hero_svg(meta['cluster'], meta['slug'])}<p class='meta'>Updated {meta['updated']} · {site['author']}</p>"
                       f"<p class='disc'>{html.escape(site['disclosure'])}</p>{content}{rel_html}</article>")
-    items = "".join(f"<li><a href='{m['slug']}.html'>{html.escape(m['title'])}</a><br>"
-                    f"<span class='meta'>{html.escape(m['description'])}</span></li>" for m, _ in articles)
+    cards, thumbs_done = [], 0
+    for meta, body in articles:
+        rec = images.get(f"{meta['slug']}/1")
+        thumb = None
+        if rec and (ROOT / "assets" / "images" / rec["file"]).exists():
+            if T.thumbnail(ROOT / "assets" / "images" / rec["file"], DIST / "images" / "t" / rec["file"]):
+                thumb = f"images/t/{rec['file']}"
+            else:
+                thumb = f"images/{rec['file']}"
+        cards.append(T.card_html(meta, word_count(body), rec if thumb else None, thumb))
+    counts = {cl: len(ms) for cl, ms in by_cluster.items()}
+    latest = [(m["title"], m["slug"], m["updated"]) for m, _ in articles[:3]]
+    fresh = sum(1 for f in facts.values() if F.is_fresh(f))
     write("index.html", title=f"{site['name']} – {site['tagline']}", description=site["tagline"],
-          content=f"<h1>Latest guides</h1><ul class='posts'>{items}</ul>")
+          body_class="home", main_class="", content=T.home_html(site, cards, counts, fresh, latest))
     for cl, ms in by_cluster.items():
         lst = "".join(f"<li><a href='{m['slug']}.html'>{html.escape(m['title'])}</a></li>" for m in ms)
         urls.append(f"{base}/c-{cl}.html")
-        write(f"c-{cl}.html", title=f"{cl.title()} guides | {site['name']}", description=f"{cl.title()} guides for Japan",
-              content=f"<h1>{html.escape(cl.title())}</h1><ul class='posts'>{lst}</ul>")
+        write(f"c-{cl}.html", title=f"{T.topic(cl)[0]} guides | {site['name']}", description=f"{T.topic(cl)[0]} guides for Japan",
+              content=f"<h1>{html.escape(T.topic(cl)[0])}</h1><ul class='posts'>{lst}</ul>")
     if strict and not site.get("contact_email"):
         raise SystemExit("config/site.json: set contact_email (shown on the privacy page) before publishing")
     contact = html.escape(site.get("contact_email") or "(set contact_email in config/site.json)")
