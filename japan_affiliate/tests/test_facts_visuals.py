@@ -167,3 +167,16 @@ def test_photo_caption_comes_from_commons_title_not_article_guess():
     h = V.photo_html({"title": "File:Yagi-Uda antenna for Wi-Fi on Router.jpg", "file": "a.jpg", "author": "A", "license": "CC0",
                       "license_url": "", "source_url": "s"}, "A portable WiFi router")
     assert "Yagi-Uda antenna for Wi-Fi on Router" in h and "portable WiFi router" not in h
+
+
+def test_pinned_file_query_requests_exact_title_and_picks_it():
+    seen = {}
+
+    def fake_get(url):
+        seen["url"] = url
+        return {"query": {"pages": {"9": {"title": "File:Pinned.jpg", "imageinfo": [{
+            "mime": "image/jpeg", "width": 3000, "height": 2000, "thumburl": "https://thumb.wikimedia.org/x/1200px-Pinned.jpg",
+            "descriptionurl": "d", "extmetadata": {"LicenseShortName": {"value": "CC0"}, "Artist": {"value": "A"}}}]}}}}
+    rec = FI.search("file:Pinned.jpg", fake_get)
+    assert "titles=File%3APinned.jpg" in seen["url"] and rec["title"] == "File:Pinned.jpg"
+    assert rec["download"] == "https://upload.wikimedia.org/x/1200px-Pinned.jpg"

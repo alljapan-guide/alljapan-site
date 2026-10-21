@@ -77,6 +77,15 @@ def pick(api_json):
 
 
 def search(query, get=http_json):
+    """`file:Exact Commons title.jpg` pins one file; anything else is a ranked Commons search."""
+    if query.lower().startswith("file:"):
+        title = "File:" + query[5:].strip()
+        q = urllib.parse.urlencode({"action": "query", "format": "json", "titles": title, "prop": "imageinfo",
+                                    "iiprop": "url|extmetadata|size|mime", "iiurlwidth": 1200})
+        data = get(f"{API}?{q}")
+        for p in (data.get("query", {}).get("pages", {}) or {}).values():
+            p["index"] = 0
+        return pick(data)
     q = urllib.parse.urlencode({"action": "query", "format": "json", "generator": "search", "gsrsearch": f"{query} filetype:bitmap",
                                 "gsrnamespace": 6, "gsrlimit": 15, "prop": "imageinfo", "iiprop": "url|extmetadata|size|mime",
                                 "iiurlwidth": 1200})

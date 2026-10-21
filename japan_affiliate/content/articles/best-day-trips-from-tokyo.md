@@ -6,7 +6,7 @@ date: 2026-10-20
 updated: 2026-10-20
 cluster: itineraries
 affiliates: klook | viator | gyg
-image_queries: Kamakura Daibutsu Great Buddha | Nikko Toshogu shrine
+image_queries: file:Kamakura Daibutsu - 01.jpg | Nikko Toshogu shrine
 ---
 If you only have one free day, choose by travel time and interest. Kamakura is the shortest trip and has a famous Great Buddha, Hakone is built around an easy rail route and a pass system, and Nikko is the longest but is described by the tourism organisation as an outing for one or two days.
 
