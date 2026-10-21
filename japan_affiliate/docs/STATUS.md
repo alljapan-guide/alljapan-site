@@ -9,3 +9,6 @@ Unknown official affiliate programs: Japan Rail Pass seller, pocket WiFi rental,
 
 ## 2026-10-21 design update
 Home page redesigned (Wa theme): hero, left sidebar with search/topics/latest, topic tabs, photo cards, dark mode, mobile layout. See docs/DESIGN.md. Tests: 33 pass. Search is client-side (titles, descriptions, topics).
+
+## 2026-10-21 hosting
+Owner prefers hosting on Cloudflare Pages with GitHub kept only as storage/automation. Workflow publishes to Cloudflare Pages when secrets CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID exist (project name from repo variable CF_PAGES_PROJECT, default 'alljapan'); otherwise it keeps publishing to GitHub Pages. See docs/CLOUDFLARE_SETUP.md.

@@ -21,6 +21,8 @@ jobs:
     env:
       # Article generation runs only when an API key is registered; without one the site still verifies facts and publishes.
       HAS_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+      # When both Cloudflare secrets exist the site is published to Cloudflare Pages; otherwise to GitHub Pages (the safe default).
+      HAS_CF: ${{ secrets.CLOUDFLARE_API_TOKEN != '' && secrets.CLOUDFLARE_ACCOUNT_ID != '' }}
     environment:
       name: github-pages
     defaults:
@@ -65,6 +67,17 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add content/articles data/facts.json data/images.json assets/images
           git diff --cached --quiet || (git commit -m "content: auto-publish article and refresh fact checks" && git pull --rebase && git push)
-      - uses: actions/upload-pages-artifact@v3
+      - name: Publish to GitHub Pages (only while Cloudflare is not configured)
+        if: ${{ env.HAS_CF != 'true' }}
+        uses: actions/upload-pages-artifact@v3
         with: {path: japan_affiliate/dist}
-      - uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        if: ${{ env.HAS_CF != 'true' }}
+        uses: actions/deploy-pages@v4
+      - name: Deploy to Cloudflare Pages
+        if: ${{ env.HAS_CF == 'true' }}
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy japan_affiliate/dist --project-name=${{ vars.CF_PAGES_PROJECT || 'alljapan' }} --branch=main
