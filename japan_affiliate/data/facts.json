@@ -713,5 +713,562 @@
    "best-day-trips-from-tokyo",
    "japan-onsen-etiquette"
   ]
+ },
+ {
+  "id": "sakura_span",
+  "text": "the sakura season runs from the latter half of March to as late as early May",
+  "claim": "Length of the sakura season",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "From the latter half of March to as late as early May"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_start",
+  "text": "the season begins on the island of Kyushu, in southwestern Japan, in March, and daily updates then track the sakura front as it moves north",
+  "claim": "Where the season starts",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "Sakura season begins on the island of Kyushu",
+   "daily updates begin to track the sakura front as it progresses northward"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_somei",
+  "text": "Somei-Yoshino, with their abundance of pale pink blossoms, are the most common cherry trees in Japan, and weeping cherry trees (shidare-zakura) are often found in parks and along riverbanks",
+  "claim": "Common varieties",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "Somei-Yoshino, with their abundance of pale pink blossoms",
+   "shidare-zakura"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_caveat",
+  "text": "the forecast is subject to change due to weather conditions",
+  "claim": "Forecast caveat",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "The forecast is subject to change due to weather conditions"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_south_north",
+  "text": "the warmer climates of Kyushu and Shikoku see the first action in early spring, with late spring viewing in mountain areas, as well as in Tohoku and Hokkaido",
+  "claim": "Regional order of bloom",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "The warmer climates of Kyushu and Shikoku in the south see the first action in early spring",
+   "late spring viewing in mountain areas, as well as in Tohoku and Hokkaido"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_late_spots",
+  "text": "it points to late-blooming options such as Ashino Park in Aomori and Matsumae Park in Hokkaido, which has late spring cherry blossoms and castle views",
+  "claim": "Late-blooming places",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "Head to Aomori for late-blooming cherry blossoms at Ashino Park",
+   "Matsumae Park in Hokkaido has late spring cherry blossoms"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_himeji",
+  "text": "Himeji Castle is among its suggestions for cherry blossoms framed around an iconic castle",
+  "claim": "Himeji Castle suggestion",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "Visit iconic Himeji Castle, framed by delicate pink blooms"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "sakura_source",
+  "text": "the forecast figures it publishes are sourced from the Japan Weather Association",
+  "claim": "Forecast source",
+  "source_name": "Japan National Tourism Organization: Cherry blossom forecast",
+  "source_url": "https://www.japan.travel/en/see-and-do/cherry-blossom-forecast/",
+  "must_contain": [
+   "Source: Japan Weather Association"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "tokyo_sakura_window",
+  "text": "from late March to early April, Tokyo transforms as cherry blossom fever grips the city",
+  "claim": "Tokyo's cherry blossom window",
+  "source_name": "GO TOKYO: When and where to see cherry blossoms in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/hanami-guide/index.html",
+  "must_contain": [
+   "From late March to early April, Tokyo transforms as cherry blossom fever grips the city"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "tokyo_full_bloom",
+  "text": "it normally takes about one week to 10 days from flowering to full bloom",
+  "claim": "Time from first flowers to full bloom",
+  "source_name": "GO TOKYO: When and where to see cherry blossoms in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/hanami-guide/index.html",
+  "must_contain": [
+   "It normally takes about one week to 10 days from flowering to full bloom"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "tokyo_hanami",
+  "text": "people flock to parks to hold hanami parties and picnics to view and photograph the flowers",
+  "claim": "Hanami in Tokyo",
+  "source_name": "GO TOKYO: When and where to see cherry blossoms in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/hanami-guide/index.html",
+  "must_contain": [
+   "people flock to parks to hold hanami parties and picnics"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "tokyo_rikugien",
+  "text": "Rikugien Gardens holds a Spring Special Evening Opening when its weeping cherry trees are illuminated",
+  "claim": "Night viewing (yozakura) example",
+  "source_name": "GO TOKYO: When and where to see cherry blossoms in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/hanami-guide/index.html",
+  "must_contain": [
+   "Spring Special Evening Opening",
+   "yozakura"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-cherry-blossom-guide"
+  ]
+ },
+ {
+  "id": "osaka_known_for",
+  "text": "Osaka is known for street food and local specialties, including takoyaki and okonomiyaki, and for the reputation of being the kitchen of Japan",
+  "claim": "Osaka's food reputation",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "famous for its street food and local specialties",
+   "Takoyaki",
+   "Okonomiyaki"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "takoyaki_def",
+  "text": "takoyaki are octopus dumplings originating from Osaka, made from a batter of flour, dashi, eggs, and water",
+  "claim": "What takoyaki is",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "Takoyaki are delicious octopus dumplings originating from Osaka",
+   "a batter of flour, dashi, eggs, and water"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "takoyaki_fill",
+  "text": "the batter is filled with diced octopus, tempura scraps (tenkasu), pickled ginger, and green onions, then usually topped with takoyaki sauce, mayonnaise, bonito flakes, and seaweed flakes",
+  "claim": "Takoyaki fillings and toppings",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "filled with diced octopus, tempura scraps (Tenkasu), pickled ginger, and green onions",
+   "bonito flakes, and seaweed flakes"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "takoyaki_1930s",
+  "text": "takoyaki originated in Osaka in the 1930s",
+  "claim": "Takoyaki origin",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "Takoyaki originated in Osaka in the 1930s"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "okonomi_def",
+  "text": "okonomiyaki is a savoury pancake that typically consists of a batter made from flour, grated yam, eggs, and dashi, mixed with ingredients such as shredded cabbage, green onions, pork belly slices and seafood",
+  "claim": "What okonomiyaki is",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "Okonomiyaki is a savoury pancake",
+   "flour, grated yam, eggs, and dashi",
+   "shredded cabbage, green onions, pork belly slices"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "okonomi_name",
+  "text": "the name okonomiyaki translates to grilled as you like it, reflecting how customisable it is",
+  "claim": "Meaning of the name",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "grilled as you like it"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "okonomi_table",
+  "text": "okonomiyaki restaurants often have griddles built into the tables so that you can cook your own",
+  "claim": "Cooking okonomiyaki at the table",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "griddles built into tables"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "osaka_kuidaore",
+  "text": "Osakans are associated with the phrase kuidaore, which means to eat until you fall over",
+  "claim": "Osaka food culture",
+  "source_name": "Japan National Tourism Organization: Must-eat street food in Osaka",
+  "source_url": "https://www.japan.travel/en/my/story/osaka-street-food/",
+  "must_contain": [
+   "kuidaore",
+   "eat until you fall over"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "kushikatsu_def",
+  "text": "kushikatsu is basically battered, deep-fried food on a skewer, dipped in tangy brown sauce",
+  "claim": "What kushikatsu is",
+  "source_name": "Japan National Tourism Organization: Must-eat street food in Osaka",
+  "source_url": "https://www.japan.travel/en/my/story/osaka-street-food/",
+  "must_contain": [
+   "battered, deep-fried food on a skewer",
+   "tangy brown sauce"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "kushikatsu_shinsekai",
+  "text": "kushikatsu was supposedly invented in Shinsekai during the prewar era, and the district remains the destination for this dish",
+  "claim": "Kushikatsu and Shinsekai",
+  "source_name": "Japan National Tourism Organization: Must-eat street food in Osaka",
+  "source_url": "https://www.japan.travel/en/my/story/osaka-street-food/",
+  "must_contain": [
+   "It was in Shinsekai during the prewar era that kushikatsu was supposedly invented"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "osaka_yakiniku",
+  "text": "the Tsuruhashi district has lots of yakiniku (Korean-style barbecue) stalls, with a cluster of restaurants right outside Tsuruhashi station",
+  "claim": "Yakiniku in Tsuruhashi",
+  "source_name": "Japan National Tourism Organization: Must-eat street food in Osaka",
+  "source_url": "https://www.japan.travel/en/my/story/osaka-street-food/",
+  "must_contain": [
+   "Tsuruhashi district has lots of yakiniku",
+   "right outside Tsuruhashi station"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "osaka_dotonbori",
+  "text": "you can take a stroll through the bustling streets of Dotonbori to enjoy Osaka's local cuisine",
+  "claim": "Dotonbori",
+  "source_name": "Japan National Tourism Organization: Osaka cuisine",
+  "source_url": "https://www.japan.travel/en/ca/cuisine/kansai/osaka/",
+  "must_contain": [
+   "take a stroll through the bustling streets of Dotonbori"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "osaka-food-guide"
+  ]
+ },
+ {
+  "id": "hf_def",
+  "text": "visitors can use Japan's delivery and storage services to travel hands-free, and service counters certified as Hands-Free Travel are marked with a logo",
+  "claim": "What Hands-Free Travel is",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "hands-free travel around Japan",
+   "service counters certified as"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_airports",
+  "text": "Narita, Haneda and Kansai International Airport all offer luggage delivery services where you can drop your luggage off to be delivered to your hotel",
+  "claim": "Airport luggage delivery",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "all offer luggage delivery services where you can drop your luggage off to be delivered to your hotel"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_hotels",
+  "text": "most major hotels can arrange luggage delivery between hotels, and you can ask the front desk how to send your baggage to your next destination",
+  "claim": "Hotel-to-hotel delivery",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "most major hotels can arrange luggage delivery between hotels",
+   "Ask for details at the front desk"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_conbini",
+  "text": "even if you are not staying in a large hotel, you can drop your bags off at a designated convenience store to be sent on",
+  "claim": "Convenience store drop-off",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "drop your bags off at a designated convenience store to be sent on"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_lockers",
+  "text": "coin lockers of various sizes are available at most stations and tourist facilities, and in very busy locations the lockers fill up very quickly",
+  "claim": "Coin lockers",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "coin lockers of various sizes at most stations and tourist facilities",
+   "the lockers fill up very quickly"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_limits",
+  "text": "items should not exceed 160 linear cm, should weigh within 25 to 30 kg, and contents should be under 300,000 yen in value",
+  "claim": "Size, weight and value limits",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "items not exceeding 160 linear cm",
+   "within 25 to 30 kg in weight",
+   "under 300,000 yen in value"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_refused",
+  "text": "valuables, fragile items, fresh products and liquids, and dangerous and hazardous materials cannot be accepted",
+  "claim": "Items that cannot be sent",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "Several items cannot be accepted: valuables, fragile items, fresh products and liquids, dangerous and hazardous materials"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_comp",
+  "text": "compensation for damaged or lost items is provided, the amount may vary depending on the carrier, and a shipment tracking service is available",
+  "claim": "Compensation and tracking",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "Compensation services for damaged or lost items are provided",
+   "The amount of compensation may vary depending on the carrier used",
+   "shipment tracking service"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_fee",
+  "text": "the fee varies according to the airport, shipping destination and size of the luggage",
+  "claim": "How fees are set",
+  "source_name": "Japan National Tourism Organization: Luggage & Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "fee varies according to the airport, shipping destination and size of the luggage"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_hotel_to_airport",
+  "text": "options for sending luggage from your hotel to the airport all require advance booking at least a day ahead",
+  "claim": "Hotel to airport booking",
+  "source_name": "Japan National Tourism Organization: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "all require advance booking at least a day ahead"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_sameday",
+  "text": "some services offer same-day delivery if you send before 11am, and between cities some companies offer same-day delivery if dropped off before 11am depending on the distance",
+  "claim": "Same-day delivery",
+  "source_name": "Japan National Tourism Organization: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "some of which offer same-day services if you send before 11am",
+   "some companies offer same-day delivery if dropped off before 11am"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_carriers",
+  "text": "Yamato operates nationwide, Sagawa Express has drop-off counters at train stations and tourist centres in Tokyo, and pickup services such as Luggage-Free Travel, QL Liner and Airporter are listed",
+  "claim": "Luggage carriers named by JNTO",
+  "source_name": "Japan National Tourism Organization: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Yamato operates nationwide",
+   "Sagawa Express has drop-off counters at train stations and tourist centres in Tokyo",
+   "QL Liner"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_trains",
+  "text": "on trains there is limited storage space, so you can have your luggage sent to your next accommodation",
+  "claim": "Why forward luggage by train",
+  "source_name": "Japan National Tourism Organization: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "On trains, there is limited storage space"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
+ },
+ {
+  "id": "hf_price_range",
+  "text": "most companies charge between 2,000-3,000 yen to deliver a piece of check-in luggage (up to 30kg; 160cm dimension), according to a page dated 14 November 2018",
+  "claim": "Price range reported by JNTO",
+  "source_name": "Japan National Tourism Organization: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "most companies charge between 2,000-3,000 yen to deliver a piece of check-in luggage",
+   "14 November 2018"
+  ],
+  "verified_on": "2026-10-22",
+  "topics": [
+   "japan-luggage-forwarding"
+  ]
  }
 ]
