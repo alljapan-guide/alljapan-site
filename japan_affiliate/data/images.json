@@ -142,5 +142,41 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Kamakura_Daibutsu_-_01.jpg",
   "file": "best-day-trips-from-tokyo-1.jpg",
   "query": "file:Kamakura Daibutsu - 01.jpg"
+ },
+ "japan-luggage-forwarding/1": {
+  "title": "File:Haneda International Airport International Terminal no5.JPG",
+  "author": "toshinori baba",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Haneda_International_Airport_International_Terminal_no5.JPG",
+  "file": "japan-luggage-forwarding-1.jpg",
+  "query": "Haneda Airport arrivals lobby"
+ },
+ "japan-luggage-forwarding/2": {
+  "title": "File:Shioiri Station coin lockers 20100514.jpg",
+  "author": "Uploader; Vantey",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shioiri_Station_coin_lockers_20100514.jpg",
+  "file": "japan-luggage-forwarding-2.jpg",
+  "query": "Japan train station coin lockers"
+ },
+ "osaka-food-guide/2": {
+  "title": "File:Osaka Dotonbori yoru 02.jpg",
+  "author": "Sakai Yayoi",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_yoru_02.jpg",
+  "file": "osaka-food-guide-2.jpg",
+  "query": "Dotonbori Osaka night"
+ },
+ "osaka-food-guide/1": {
+  "title": "File:Food street in Dotonbori, Osaka; January 2016.jpg",
+  "author": "chopstuey",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Food_street_in_Dotonbori,_Osaka;_January_2016.jpg",
+  "file": "osaka-food-guide-1.jpg",
+  "query": "Takoyaki street food Osaka"
  }
 }
