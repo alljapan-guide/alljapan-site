@@ -15,3 +15,6 @@ Owner prefers hosting on Cloudflare Pages with GitHub kept only as storage/autom
 
 ## 2026-10-21 hosting switched
 Public site now served by Cloudflare Pages (project alljapan, custom domain alljapan.win). The workflow deploys there (secrets CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID set); GitHub Pages was unpublished by the owner. www.alljapan.win still has an old GitHub CNAME (optional cleanup). Desktop tabs now wrap instead of scrolling.
+
+## 2026-10-22 daily articles
+Added osaka-food-guide, japan-luggage-forwarding, japan-cherry-blossom-guide (38 facts, all verified against official pages). 11 articles total. Scheduled routine cannot push (no add_repo in routine sessions); today's batch was produced in the main session. Fix: attach the repo (push access) as the routine's source in claude.ai.

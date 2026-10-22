@@ -178,5 +178,23 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Food_street_in_Dotonbori,_Osaka;_January_2016.jpg",
   "file": "osaka-food-guide-1.jpg",
   "query": "Takoyaki street food Osaka"
+ },
+ "japan-cherry-blossom-guide/1": {
+  "title": "File:Cherry blossom in Nakameguro 20230330-1.jpg",
+  "author": "Suicasmo",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_in_Nakameguro_20230330-1.jpg",
+  "file": "japan-cherry-blossom-guide-1.jpg",
+  "query": "Nakameguro cherry blossoms"
+ },
+ "japan-cherry-blossom-guide/2": {
+  "title": "File:Cherry blossom at Uyeno Park, Tokyo (NYPL Hades-2360291-4044090).jpg",
+  "author": "Scan by NYPL",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_at_Uyeno_Park,_Tokyo_(NYPL_Hades-2360291-4044090).jpg",
+  "file": "japan-cherry-blossom-guide-2.jpg",
+  "query": "Cherry blossoms Ueno Park hanami"
  }
 }
