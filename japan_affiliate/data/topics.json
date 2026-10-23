@@ -238,5 +238,31 @@
    "bokksu",
    "amazon"
   ]
+ },
+ {
+  "slug": "nara-day-trip-from-kyoto-osaka",
+  "keyword": "nara day trip from kyoto or osaka",
+  "title": "Nara Day Trip from Kyoto or Osaka: Getting There and What to See",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "klook",
+   "viator",
+   "gyg"
+  ]
+ },
+ {
+  "slug": "fushimi-inari-guide",
+  "keyword": "how to get to fushimi inari taisha",
+  "title": "Fushimi Inari Taisha: How to Get There and How to Plan Your Walk",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "klook",
+   "viator",
+   "gyg"
+  ]
  }
 ]

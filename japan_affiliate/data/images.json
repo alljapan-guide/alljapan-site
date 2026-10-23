@@ -196,5 +196,59 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Cherry_blossom_at_Uyeno_Park,_Tokyo_(NYPL_Hades-2360291-4044090).jpg",
   "file": "japan-cherry-blossom-guide-2.jpg",
   "query": "Cherry blossoms Ueno Park hanami"
+ },
+ "fushimi-inari-guide/1": {
+  "title": "File:20181110 Fushimi Inari Torii 12.jpg",
+  "author": "Balon Greyjoy",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_12.jpg",
+  "file": "fushimi-inari-guide-1.jpg",
+  "query": "Fushimi Inari Taisha torii gates"
+ },
+ "fushimi-inari-guide/2": {
+  "title": "File:Kyoto Schrein Fushimi-Inari-taisha 02.jpg",
+  "author": "Zairon",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kyoto_Schrein_Fushimi-Inari-taisha_02.jpg",
+  "file": "fushimi-inari-guide-2.jpg",
+  "query": "Fushimi Inari Taisha main gate Kyoto"
+ },
+ "japan-travel-insurance/1": {
+  "title": "File:Sassa General Hospital 20130503.JPG",
+  "author": "Waka77",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sassa_General_Hospital_20130503.JPG",
+  "file": "japan-travel-insurance-1.jpg",
+  "query": "Japan hospital building sign"
+ },
+ "japan-travel-insurance/2": {
+  "title": "File:Old ambulance's interior at Fire Museum.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Old_ambulance%27s_interior_at_Fire_Museum.jpg",
+  "file": "japan-travel-insurance-2.jpg",
+  "query": "Tokyo ambulance"
+ },
+ "nara-day-trip-from-kyoto-osaka/1": {
+  "title": "File:Temple building, shrine, Rōben Sugi and deer below Nigatsu-dō, Tōdai-ji, Nara, 2016.jpg",
+  "author": "DimiTalen",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Temple_building,_shrine,_R%C5%8Dben_Sugi_and_deer_below_Nigatsu-d%C5%8D,_T%C5%8Ddai-ji,_Nara,_2016.jpg",
+  "file": "nara-day-trip-from-kyoto-osaka-1.jpg",
+  "query": "Nara Park deer Todai-ji"
+ },
+ "nara-day-trip-from-kyoto-osaka/2": {
+  "title": "File:Todai-ji Daibutsuden front view in 2011.jpg",
+  "author": "ONO Masanobu",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Todai-ji_Daibutsuden_front_view_in_2011.jpg",
+  "file": "nara-day-trip-from-kyoto-osaka-2.jpg",
+  "query": "Todai-ji Daibutsuden Nara"
  }
 }
