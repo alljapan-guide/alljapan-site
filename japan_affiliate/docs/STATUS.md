@@ -18,3 +18,7 @@ Public site now served by Cloudflare Pages (project alljapan, custom domain allj
 
 ## 2026-10-22 daily articles
 Added osaka-food-guide, japan-luggage-forwarding, japan-cherry-blossom-guide (38 facts, all verified against official pages). 11 articles total. Scheduled routine cannot push (no add_repo in routine sessions); today's batch was produced in the main session. Fix: attach the repo (push access) as the routine's source in claude.ai.
+
+## 2026-10-23 daily articles
+Added nara-day-trip-from-kyoto-osaka, fushimi-inari-guide, japan-travel-insurance (57 new facts, all verified against official pages; 6 Wikimedia photos). 14 articles; local strict build and tests pass.
+DEPLOY BLOCKED (not caused by these articles): gotokyo.org returns 502 / is unreachable, so 7 facts (shinjuku_lines, sensoji_oldest, tokyo_station_area, tokyo_sakura_window, tokyo_full_bloom, tokyo_hanami, tokyo_rikugien) fail verification in CI and the strict build stops at japan-cherry-blossom-guide. CI runs since 2026-10-22 13:54 UTC fail for this reason; the live site stays on the last good deploy. Fix when gotokyo.org recovers, or re-source those facts to another official page.
