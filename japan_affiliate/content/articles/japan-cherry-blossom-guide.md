@@ -10,7 +10,7 @@ image_queries: Nakameguro cherry blossoms | Cherry blossoms Ueno Park hanami
 ---
 The cherry blossom season is not a single date. It is a wave that starts in the south and moves north, so the best plan is a flexible one: pick a window, choose a base that lets you shift by a few days, and check the official forecast shortly before you travel.
 
-This guide uses the Japan National Tourism Organization and the Tokyo tourism board as its sources, linked in the Sources box. We do not predict bloom dates, because nobody can do that reliably months ahead. Where we give advice, we label it as our view.
+This guide uses the Japan National Tourism Organization (JNTO) as its source, including its Tokyo spot pages, linked in the Sources box. We do not predict bloom dates, because nobody can do that reliably months ahead. Where we give advice, we label it as our view.
 
 {{photo:1|Cherry blossoms along a canal in Tokyo}}
 
@@ -32,11 +32,11 @@ Our view: this is why trips that cover several regions can see more than one sta
 
 ## Tokyo: late March to early April
 
-The Tokyo tourism board says that {{fact:tokyo_sakura_window}}. It adds that {{fact:tokyo_hanami}}.
+The JNTO page on Shinjuku Gyoen says that {{fact:tokyo_sakura_window}}. A JNTO hanami guide adds that {{fact:tokyo_hanami}}.
 
-On timing within a single place, the same page notes that {{fact:tokyo_full_bloom}}. That matters for your plan: a bloom is not a day, it is a short period, and weather can shorten it.
+On timing within a single place, the Shinjuku Gyoen page notes that {{fact:tokyo_full_bloom}}. That matters for your plan: a bloom is not a day, it is a short period, and weather can shorten it.
 
-For evening viewing, the page describes one example: {{fact:tokyo_rikugien}}. Our view: if you are in Tokyo, check whether an evening opening is running during your dates, since these events are scheduled by the park each year.
+For evening viewing, the JNTO Rikugien page describes one example: {{fact:tokyo_rikugien}}. Our view: if you are in Tokyo, check whether an evening opening is running during your dates, since these events are scheduled by the park each year.
 
 If you are choosing where to sleep in Tokyo, our [Tokyo area guide](where-to-stay-in-tokyo.html) compares the main bases.
 
@@ -88,7 +88,7 @@ The national tourism organisation says the season runs from the latter half of M
 
 ### When is the best time to see cherry blossoms in Tokyo?
 
-The Tokyo tourism board says Tokyo transforms from late March to early April. It also notes that it normally takes about one week to 10 days from flowering to full bloom.
+JNTO's Shinjuku Gyoen page says the Somei Yoshino cherries there blossom from late March to early April. It also notes that hanami season is usually short and difficult to predict.
 
 ### Can I rely on a forecast made months ahead?
 

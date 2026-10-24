@@ -27,7 +27,7 @@ Tokyo is huge, and no single neighbourhood is the city. These criteria matter mo
 
 ## Shinjuku: the easiest all-round base
 
-The official GO TOKYO guide says Shinjuku Station is {{fact:shinjuku_lines}}. For a first visit that is the key point: whichever direction you want to go, you are likely to find a direct line.
+The JNTO guide to Shinjuku says Shinjuku Station is {{fact:shinjuku_lines}}. For a first visit that is the key point: whichever direction you want to go, you are likely to find a direct line.
 
 Our view: this makes Shinjuku forgiving for first-timers, because you can change plans without changing hotels. The station is very large, so allow extra time to find the right exit on your first day, and pick a hotel within a few minutes' walk of a station exit.
 
@@ -35,7 +35,7 @@ Our view: this makes Shinjuku forgiving for first-timers, because you can change
 
 ## Asakusa: traditional atmosphere
 
-GO TOKYO describes Sensoji as {{fact:sensoji_oldest}}, and the area around it is organised around that temple. Our view: this suits travellers who want an older feel to the city and a calmer evening than the big western hubs. Because the area sits to the east, check how many transfers you need to reach the places on your list.
+JNTO describes Sensoji as {{fact:sensoji_oldest}}, and the area around it is organised around that temple. Our view: this suits travellers who want an older feel to the city and a calmer evening than the big western hubs. Because the area sits to the east, check how many transfers you need to reach the places on your list.
 
 ## Tokyo Station and Marunouchi: the bullet train base
 
