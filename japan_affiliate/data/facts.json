@@ -2079,5 +2079,519 @@
   "topics": [
    "japan-travel-insurance"
   ]
+ },
+ {
+  "id": "visa_passport",
+  "text": "all foreign visitors must have a valid passport",
+  "claim": "Passport requirement",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "All foreign visitors must have a valid passport"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_exempt",
+  "text": "passport holders of some countries and regions do not need a visa if their period of stay in Japan is 90 days or less and they are only engaging in tourism activities",
+  "claim": "Visa exemption",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "do not need a visa if their period of stay in Japan is 90 days or less"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_list",
+  "text": "the Ministry of Foreign Affairs publishes a list of countries and regions that have visa exemption arrangements with Japan",
+  "claim": "Exemption list",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "List of Countries and Regions that have Visa Exemption Arrangements with Japan"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_docs",
+  "text": "depending on your circumstances the documents may include a visa application form, a valid passport, a recent photo, an accommodation reservation confirmation or itinerary, and proof of sufficient funds to cover your trip",
+  "claim": "Documents for a tourist visa",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Accommodation Reservation Confirmation or Itinerary",
+   "Proof of sufficient funds to cover your trip"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_time",
+  "text": "processing times vary but generally take around five business days",
+  "claim": "Visa processing time",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Processing times vary but generally take around five business days"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_stay",
+  "text": "most short-term stays allow up to 90 days, and some nationalities may be granted 15, 30, or 180 days",
+  "claim": "Length of stay",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Most short-term stays allow up to 90 days"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_no_work",
+  "text": "on a visa for tourists you cannot engage in paid work, enroll in long-term educational programs or apply for residency",
+  "claim": "Tourist restrictions",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Engage in paid work",
+   "Enroll in long-term educational programs",
+   "Apply for residency"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_vjw",
+  "text": "registration through the Visit Japan Website is not required, but advance registration makes procedures like tax-free shopping more convenient",
+  "claim": "Visit Japan Web",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Registration is not required, but advance registration makes procedures like tax-free shopping more convenient"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_change",
+  "text": "visa regulations are subject to change at any time, so check the Japanese Ministry of Foreign Affairs official website for the latest information",
+  "claim": "Rules can change",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Visa regulations are subject to change at any time",
+   "Ministry of Foreign Affairs official website for the latest information"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_embassy",
+  "text": "you can contact the Japanese embassy or consulate in your country of residence with further questions",
+  "claim": "Embassy contact",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "contact the Japanese embassy or consulate in your country of residence"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "visa_nomad",
+  "text": "Japan now offers a Digital Nomad Visa for international remote workers",
+  "claim": "Digital Nomad Visa",
+  "source_name": "JNTO: Entry Into Japan and Visa Information",
+  "source_url": "https://www.japan.travel/en/plan/visa-info/",
+  "must_contain": [
+   "Japan now offers a Digital Nomad Visa for international remote workers"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-visa-and-entry-basics"
+  ]
+ },
+ {
+  "id": "law_passport",
+  "text": "you should carry your passport with you at all times as a form of identification",
+  "claim": "Carry your passport",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "carry your passport with you at all times as a form of identification"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_ignorance",
+  "text": "ignorance of the local laws is not accepted as a valid line of defense",
+  "claim": "Ignorance of the law",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "ignorance is not accepted as a valid line of defense"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_smoking",
+  "text": "smoking is not allowed in most restaurants and bars, except in designated areas",
+  "claim": "Smoking rules",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "Smoking is not allowed in most restaurants and bars, except in designated areas"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_smoking_fine",
+  "text": "the smoking rule is strictly enforced, especially in the main cities, and can result in a fine, so JNTO advises finding a smoking area rather than smoking while walking",
+  "claim": "Smoking fines",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "can result in a fine",
+   "find a smoking area"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_drinking",
+  "text": "drinking outside does not violate any laws and is part of the culture, especially during hanami season, but loud and boisterous behavior is not part of Japanese culture",
+  "claim": "Drinking outdoors",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "violate any laws",
+   "loud and boisterous behavior is not part of Japanese culture"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_litter",
+  "text": "you should take any litter home with you",
+  "claim": "Litter",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "Be sure to take any litter home with you"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_tattoo",
+  "text": "many public swimming pools, public baths, hot spring resorts, and gyms prohibit entry to anyone with tattoos, even small ones",
+  "claim": "Tattoo rules",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "hot spring resorts, and gyms prohibit entry to anyone with tattoos"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_tattoo_cover",
+  "text": "the rules are loosening slightly, and some establishments will simply ask you to cover any tattoos up, but JNTO advises researching in advance to avoid disappointment",
+  "claim": "Covering tattoos",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "some establishments will simply ask you to cover any tattoos up",
+   "Research in advance to avoid any disappointment"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_drugs",
+  "text": "there is zero tolerance towards any kind of drug-related crime",
+  "claim": "Drug laws",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "There is zero tolerance towards any kind of drug-related crime"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "law_cannabis",
+  "text": "cannabis is treated in the same way as other drugs, and possession of a small amount can lead to a prison sentence, even if it is prescribed in your country of origin",
+  "claim": "Cannabis",
+  "source_name": "JNTO: Local Laws",
+  "source_url": "https://www.japan.travel/en/plan/local-laws/",
+  "must_contain": [
+   "cannabis is treated in the same way as other drugs",
+   "Possession of a small amount can lead to a prison sentence"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-local-laws-for-visitors"
+  ]
+ },
+ {
+  "id": "w_varies",
+  "text": "the weather varies greatly from region to region, so JNTO advises checking the forecast for the areas you will visit",
+  "claim": "Regional weather",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "The weather varies greatly from region to region"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_range",
+  "text": "Japan stretches from the northernmost island of Hokkaido to the subtropics of Okinawa",
+  "claim": "Geographic range",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "to the subtropics of Okinawa"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_mountains",
+  "text": "dense forest and mountainous terrain cover 70 percent of the country",
+  "claim": "Terrain",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "covering 70 percent of the country"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_spring",
+  "text": "in spring the cherry blossoms bloom between March and May depending on your location, starting in the south and moving north",
+  "claim": "Spring",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "bloom between March and May depending on your location"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_rainy",
+  "text": "the rainy season begins in May to June",
+  "claim": "Rainy season",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "the rainy season begins in May to June"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_summer",
+  "text": "summer throughout Japan is stiflingly hot and intensely humid",
+  "claim": "Summer",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "Summer throughout Japan is stiflingly hot and intensely humid"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_typhoon",
+  "text": "August and September may bring typhoons that can thwart your travel plans",
+  "claim": "Typhoons",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "August and September may bring typhoons"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_autumn",
+  "text": "autumn leaves blanket the country between late September and early December, starting in Hokkaido and moving south",
+  "claim": "Autumn",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "between late September and early December"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_winter",
+  "text": "winter brings many sunny days and beautiful blue skies, and the ski season begins",
+  "claim": "Winter",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "winter brings many sunny days and beautiful blue skies",
+   "The ski season begins"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_quake",
+  "text": "Japan is located on the fault lines of four tectonic plates, making earthquakes a common occurrence",
+  "claim": "Earthquakes",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "fault lines of four tectonic plates, making earthquakes a common occurrence"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_evac",
+  "text": "before your trip, JNTO advises familiarizing yourself with earthquake preparedness and locating the designated evacuation area for the buildings where you stay",
+  "claim": "Earthquake preparation",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "locate the designated evacuation area for the buildings where you stay"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_volcano",
+  "text": "Japan has over 100 active volcanos, most of which are not a threat to human activity",
+  "claim": "Volcanos",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "over 100 active volcanos"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_heat",
+  "text": "JNTO links heat illness prevention information, including WBGT (Wet Bulb Globe Temperature) information",
+  "claim": "Heat illness",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "Heat Illness Prevention",
+   "WBGT (Wet Bulb Globe Temperature)"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_spring_comfort",
+  "text": "spring is a comfortable time to get out and explore the cities and countryside",
+  "claim": "Spring comfort",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "spring is a comfortable time to get out and explore the cities and countryside"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
+ },
+ {
+  "id": "w_autumn_outdoor",
+  "text": "like spring, the fall season is perfect for outdoor exploration",
+  "claim": "Autumn outdoors",
+  "source_name": "JNTO: Weather & Geography",
+  "source_url": "https://www.japan.travel/en/plan/weather/",
+  "must_contain": [
+   "the fall season is perfect for outdoor exploration"
+  ],
+  "verified_on": "2026-10-24",
+  "topics": [
+   "japan-weather-by-season"
+  ]
  }
 ]

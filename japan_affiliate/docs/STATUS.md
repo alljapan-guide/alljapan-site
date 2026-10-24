@@ -22,3 +22,7 @@ Added osaka-food-guide, japan-luggage-forwarding, japan-cherry-blossom-guide (38
 ## 2026-10-23 daily articles
 Added nara-day-trip-from-kyoto-osaka, fushimi-inari-guide, japan-travel-insurance (57 new facts, all verified against official pages; 6 Wikimedia photos). 14 articles; local strict build and tests pass.
 DEPLOY BLOCKED (not caused by these articles): gotokyo.org returns 502 / is unreachable, so 7 facts (shinjuku_lines, sensoji_oldest, tokyo_station_area, tokyo_sakura_window, tokyo_full_bloom, tokyo_hanami, tokyo_rikugien) fail verification in CI and the strict build stops at japan-cherry-blossom-guide. CI runs since 2026-10-22 13:54 UTC fail for this reason; the live site stays on the last good deploy. Fix when gotokyo.org recovers, or re-source those facts to another official page.
+
+## 2026-10-24 daily articles + deploy fix
+Re-sourced 7 facts from gotokyo.org (unreachable from CI since 2026-10-22) to JNTO pages (Shinjuku, Tokyo Station area, Tokyo itineraries page, Shinjuku Gyoen, Rikugien, hanami guide); cherry-blossom and where-to-stay-in-tokyo wording updated to match. CI deploy of the 2026-10-23 batch then succeeded.
+Added japan-visa-and-entry-basics, japan-local-laws-for-visitors, japan-weather-by-season (36 new facts, 6 photos). 17 articles. Wikimedia download 429s: retry or change the subject.

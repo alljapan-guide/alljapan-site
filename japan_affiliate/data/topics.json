@@ -264,5 +264,41 @@
    "viator",
    "gyg"
   ]
+ },
+ {
+  "slug": "japan-visa-and-entry-basics",
+  "keyword": "do i need a visa for japan tourist",
+  "title": "Do You Need a Visa for Japan? Entry Basics for Tourists",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "insurance",
+   "esim"
+  ]
+ },
+ {
+  "slug": "japan-local-laws-for-visitors",
+  "keyword": "japan laws for tourists smoking drinking tattoos",
+  "title": "Japan Rules for Visitors: Smoking, Drinking, Tattoos and Drugs",
+  "cluster": "culture",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
+ },
+ {
+  "slug": "japan-weather-by-season",
+  "keyword": "japan weather by season when to visit",
+  "title": "Japan Weather by Season: What to Expect and How to Plan",
+  "cluster": "seasonal",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
  }
 ]
