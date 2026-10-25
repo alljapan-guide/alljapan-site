@@ -3079,5 +3079,634 @@
   "topics": [
    "which-airport-to-fly-into-japan"
   ]
+ },
+ {
+  "id": "bh_shops",
+  "text": "shops are generally open from 10:00am to 8:00pm every day in urban areas",
+  "claim": "Shop hours",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "10:00am to 8:00pm every day in urban areas"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_offices",
+  "text": "offices are open from 9:00am to 5:00pm on weekdays and closed on the weekends",
+  "claim": "Office hours",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "9:00am to 5:00pm on weekdays, closed on the weekends"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_rural",
+  "text": "in rural areas, shops often close earlier, sometimes by 6:00pm",
+  "claim": "Rural hours",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "In rural areas, shops often close earlier, sometimes by 6:00pm"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_restaurants",
+  "text": "restaurant opening hours can vary greatly, so it is always wise to check official websites or Google Maps for up-to-date hours",
+  "claim": "Restaurant hours",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "it is always wise to check official websites or Google Maps for up-to-date hours"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_24h",
+  "text": "many convenience stores such as 7-Eleven, FamilyMart, and Lawson, as well as some chain restaurants and discount stores, operate 24 hours a day, even on national holidays",
+  "claim": "24-hour stores",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "7-Eleven, FamilyMart, and Lawson",
+   "operate 24 hours a day, even on national holidays"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_trains",
+  "text": "most trains run from around 5:00am to midnight",
+  "claim": "Train hours",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "Most trains run from around 5:00am to midnight"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_apps",
+  "text": "to check train times and last trains, use apps like Google Maps, NAVITIME, or Japan Travel by Navitime, or check station displays and railway company websites",
+  "claim": "Timetable apps",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "Google Maps, NAVITIME, or Japan Travel by Navitime",
+   "Check station displays or railway company websites"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_rush",
+  "text": "commuter rush hour is around 7:30am to 9:00am on weekday mornings and around 5:30pm to 7:00pm in the evening",
+  "claim": "Rush hour",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "around 7:30am to 9:00am in the morning and around 5:30pm to 7:00pm in the evening"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_rush_luggage",
+  "text": "commuter trains at those times are extremely crowded, making it difficult to board with large luggage, and hands-free travel is recommended",
+  "claim": "Rush hour luggage",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "making it difficult to board with large luggage",
+   "Hands-free travel is recommended"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_shrines",
+  "text": "shrines and temples are generally open year-round, and the grounds are often accessible for worship from morning until late afternoon",
+  "claim": "Shrine and temple hours",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "Generally, they are open year-round, and the grounds are often accessible for worship from morning until late afternoon"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_shrine_office",
+  "text": "the shrine office, where amulets and goshuin stamps are issued, will have specific opening hours",
+  "claim": "Shrine office",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "The shrine office (where amulets and goshuin stamps are issued) will have specific opening hours"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_shrine_crowds",
+  "text": "visiting popular shrines and temples on weekdays or early in the morning is recommended to avoid crowds, and the year-end and New Year period is extremely busy",
+  "claim": "Shrine crowds",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "visiting on weekdays or early in the morning is recommended",
+   "The year-end and New Year period is extremely busy"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_three",
+  "text": "Japan has three major holiday seasons when domestic travel peaks and many businesses may close or operate on reduced hours",
+  "claim": "Major holiday seasons",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "three major holiday seasons when domestic travel peaks"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_newyear",
+  "text": "around New Year, from late December to early January, many businesses close for several days",
+  "claim": "New Year",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "Many businesses close for several days"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_golden",
+  "text": "Golden Week, in late April and early May, is a cluster of national holidays, so expect crowds and fully booked transport",
+  "claim": "Golden Week",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "A cluster of national holidays; expect crowds and fully booked transport"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_obon",
+  "text": "Obon, in mid-August, is a traditional family holiday when many people travel back to their hometowns",
+  "claim": "Obon",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "A traditional family holiday where many people travel back to their hometowns"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "bh_reserve",
+  "text": "during those periods some services may be reservation-only due to popular demand, and you can travel outside them for a quieter experience or book well in advance",
+  "claim": "Holiday reservations",
+  "source_name": "JNTO: Business Hours & Holidays",
+  "source_url": "https://www.japan.travel/en/plan/business-hours-and-holidays/",
+  "must_contain": [
+   "some services may be reservation-only due to popular demand",
+   "Travel outside these periods for a quieter experience or book well in advance"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ]
+ },
+ {
+  "id": "cm_ask",
+  "text": "always ask if you are unsure of any particular cultural curiosities",
+  "claim": "Ask when unsure",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "Always ask if you are unsure of any particular cultural curiosities"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_bow",
+  "text": "as a guest in the country, you will more likely be bowed at than expected to bow",
+  "claim": "Bowing",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "you will more likely be bowed at, rather than expected to bow"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_public",
+  "text": "you should show respect for the places you are in and the people who are there, especially on public transport",
+  "claim": "Public places",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "Show respect for the places you are in and the people who are there, especially on public transport"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_phone",
+  "text": "if you carry a phone, keep it on silent mode and avoid speaking on it",
+  "claim": "Phones",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "If you carry a phone, keep it on silent mode and avoid speaking on it"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_follow",
+  "text": "if in doubt, just follow the locals",
+  "claim": "Follow the locals",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "If in doubt, just follow the locals"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_chopsticks",
+  "text": "if you would prefer a different kind of utensil than chopsticks, you can ask the staff, although an alternative may not be available, especially at more traditional spots",
+  "claim": "Chopsticks",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "just ask the staff",
+   "an alternative may not be available"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_sushi",
+  "text": "you can eat sushi with your hands",
+  "claim": "Sushi",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "you can eat it with your hands"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_slurp",
+  "text": "local culture dictates that you slurp rather than chew noodles, though whether you slurp or not is up to you",
+  "claim": "Noodles",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "local culture dictates that you slurp rather than chew",
+   "Whether you choose to slurp or not is up to you"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_tipping",
+  "text": "most western hotels in Japan follow the practices you would expect worldwide, with the exception of tipping, which is not needed",
+  "claim": "Tipping",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "with the exception of tipping, there is no need"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_ryokan",
+  "text": "the more traditional ryokan hotels still follow a time-honored code of conduct, from taking off your shoes at the entrance to sleeping on futons on the floor",
+  "claim": "Ryokan conduct",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "still follow a time-honored code of conduct",
+   "sleeping on futons on the floor"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_yukata",
+  "text": "the yukata gowns you will usually find in your room can sometimes be worn outside, and sometimes not",
+  "claim": "Yukata",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "can sometimes be worn outside, sometimes not"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_dinner",
+  "text": "at a ryokan, dinner may be served in your room or in a communal dining room",
+  "claim": "Ryokan dinner",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "dinner may be served in your room or in a communal dining room"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "cm_simply_ask",
+  "text": "if you are confused, simply ask, which is the best way to avoid awkward misunderstandings",
+  "claim": "Simply ask",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "simply ask"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
+ },
+ {
+  "id": "bt_passes",
+  "text": "a wide range of train, bus and ferry passes are available, and regional passes may offer you more value for money if you stay local",
+  "claim": "Passes",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "A wide range of train, bus and ferry passes are available",
+   "regional passes may offer you more value for money"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_jrpass",
+  "text": "for extensive traveling throughout Japan, JNTO suggests the JR Rail Pass",
+  "claim": "JR Rail Pass",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "extensive traveling throughout Japan, purchase the JR Rail Pass"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_air",
+  "text": "a recent increase in the number of budget airlines means you can fly to many of the country airports for much cheaper prices",
+  "claim": "Budget airlines",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "A recent increase in the number of budget airlines"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_bus",
+  "text": "the overnight bus is a cost-saving alternative for long-distance travel, with the added benefit of saving the cost of a night of accommodation, and the main Tokyo bus hubs include the Shinjuku Expressway Bus Terminal",
+  "claim": "Overnight bus",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "overnight bus",
+   "Shinjuku Expressway Bus Terminal"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_hotels",
+  "text": "there is a wide range of cheaper business hotels all around the country, and capsule hotels offer a cheap, if slightly tight, night of accommodation",
+  "claim": "Cheaper hotels",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "cheaper business hotels",
+   "capsule hotels offer you a cheap"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_hostels",
+  "text": "a new wave of boutique hostels offers the individuality of a boutique hotel at hostel prices",
+  "claim": "Boutique hostels",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "boutique hostels"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_ryokan",
+  "text": "traditional ryokans can vary wildly in price, and it is possible to find some at the cheaper end of the spectrum in places a little out of the way",
+  "claim": "Ryokan prices",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "Traditional ryokans can vary wildly in price"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_meals",
+  "text": "reserving a room without meals might seem like a cost-cutting option, but there may not be any other places to eat in the area",
+  "claim": "Rooms without meals",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "reserving a room without meals might seem like a cost-cutting option"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_lunch",
+  "text": "many restaurants offer lunch-time specials, so consider eating big at lunch to save some money",
+  "claim": "Lunch specials",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "Many restaurants offer lunch-time specials, so consider eating big at lunch to save some money"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_deals",
+  "text": "at night you can look for places that offer all-you-can-eat or all-you-can-drink deals",
+  "claim": "Set deals",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "all-you-can-eat or all-you-can-drink deals"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_cook",
+  "text": "if the place you are staying in has a kitchen, cooking at home is a great way to save some money",
+  "claim": "Cooking at home",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "cooking at home is a great way to save some money"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_free",
+  "text": "many temples, shrines and parks are free of charge",
+  "claim": "Free attractions",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "Many temples, shrines and parks are free of charge"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "bt_taxfree",
+  "text": "you can take advantage of tax free shopping to save the consumption tax on a wide range of products, so carry your passport",
+  "claim": "Tax free shopping",
+  "source_name": "JNTO: Tips for Budget Travels",
+  "source_url": "https://www.japan.travel/en/plan/tips-for-budget-travels/",
+  "must_contain": [
+   "Take advantage of tax free shopping in Japan to save the consumption tax on a wide range of products",
+   "Make sure to carry your passport with you"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-budget-travel-tips"
+  ]
+ },
+ {
+  "id": "cm_smooth",
+  "text": "etiquette in public places is a serious business in Japan, and public-wide respect for these rules is probably the main reason a megalopolis like Tokyo can function so smoothly",
+  "claim": "Why etiquette matters",
+  "source_name": "JNTO: Custom & Manners",
+  "source_url": "https://www.japan.travel/en/plan/custom-manners/",
+  "must_contain": [
+   "Etiquette in public places is a serious business in Japan",
+   "can function so smoothly"
+  ],
+  "verified_on": "2026-10-25",
+  "topics": [
+   "japan-etiquette-for-first-timers"
+  ]
  }
 ]

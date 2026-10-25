@@ -29,3 +29,6 @@ Added japan-visa-and-entry-basics, japan-local-laws-for-visitors, japan-weather-
 
 ## 2026-10-25 daily articles
 Added japan-licensed-tour-guides, japan-halal-travel-guide, which-airport-to-fly-into-japan (43 new facts, all verified on JNTO pages; 6 photos). 20 articles. Two photos needed a different subject because Wikimedia returned 429 on download.
+
+## 2026-10-26 daily articles
+Added japan-opening-hours-and-holidays, japan-etiquette-for-first-timers, japan-budget-travel-tips (47 new facts, all verified on JNTO pages; 6 photos). 23 articles. One photo subject was changed after repeated "no licensed photo" results. Travel topics in topics.json are used up; new topics come from JNTO plan pages (still unused: plug-and-electricity, traveling-with-disability, emergencies).

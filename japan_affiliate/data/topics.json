@@ -337,5 +337,41 @@
    "booking",
    "esim"
   ]
+ },
+ {
+  "slug": "japan-opening-hours-and-holidays",
+  "keyword": "japan opening hours holidays golden week obon",
+  "title": "Japan Opening Hours and Holidays: What Is Open and When",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
+ },
+ {
+  "slug": "japan-etiquette-for-first-timers",
+  "keyword": "japan etiquette tips first time visitors",
+  "title": "Japan Etiquette for First-Timers: Manners That Matter",
+  "cluster": "culture",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
+ },
+ {
+  "slug": "japan-budget-travel-tips",
+  "keyword": "japan budget travel tips",
+  "title": "Japan on a Budget: Transport, Hotels, Food and Shopping Tips",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "railpass",
+   "booking"
+  ]
  }
 ]
