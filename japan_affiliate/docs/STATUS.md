@@ -28,4 +28,4 @@ Re-sourced 7 facts from gotokyo.org (unreachable from CI since 2026-10-22) to JN
 Added japan-visa-and-entry-basics, japan-local-laws-for-visitors, japan-weather-by-season (36 new facts, 6 photos). 17 articles. Wikimedia download 429s: retry or change the subject.
 
 ## 2026-10-25 daily articles
-Added japan-licensed-tour-guides (8+1 facts, 2 photos). japan-halal-travel-guide and which-airport-to-fly-into-japan are written and fact-verified but held back until their second photo downloads (Wikimedia 429).
+Added japan-licensed-tour-guides, japan-halal-travel-guide, which-airport-to-fly-into-japan (43 new facts, all verified on JNTO pages; 6 photos). 20 articles. Two photos needed a different subject because Wikimedia returned 429 on download.

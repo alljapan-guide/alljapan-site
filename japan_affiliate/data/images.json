@@ -340,5 +340,23 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Streets_of_Gion,_Kyoto_-_Gion7709.jpg",
   "file": "japan-licensed-tour-guides-1.jpg",
   "query": "Gion Kyoto traditional street"
+ },
+ "japan-halal-travel-guide/2": {
+  "title": "File:Hiya-yakko 003.jpg",
+  "author": "Ocdp",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Hiya-yakko_003.jpg",
+  "file": "japan-halal-travel-guide-2.jpg",
+  "query": "Tofu hiyayakko Japanese dish"
+ },
+ "which-airport-to-fly-into-japan/1": {
+  "title": "File:Narita International Airport, Terminal 1, Departure Hall 6.JPG",
+  "author": "Terence Ong",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Narita_International_Airport,_Terminal_1,_Departure_Hall_6.JPG",
+  "file": "which-airport-to-fly-into-japan-1.jpg",
+  "query": "Narita Airport terminal 1 departure hall"
  }
 }
