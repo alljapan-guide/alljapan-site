@@ -26,3 +26,6 @@ DEPLOY BLOCKED (not caused by these articles): gotokyo.org returns 502 / is unre
 ## 2026-10-24 daily articles + deploy fix
 Re-sourced 7 facts from gotokyo.org (unreachable from CI since 2026-10-22) to JNTO pages (Shinjuku, Tokyo Station area, Tokyo itineraries page, Shinjuku Gyoen, Rikugien, hanami guide); cherry-blossom and where-to-stay-in-tokyo wording updated to match. CI deploy of the 2026-10-23 batch then succeeded.
 Added japan-visa-and-entry-basics, japan-local-laws-for-visitors, japan-weather-by-season (36 new facts, 6 photos). 17 articles. Wikimedia download 429s: retry or change the subject.
+
+## 2026-10-25 daily articles
+Added japan-licensed-tour-guides (8+1 facts, 2 photos). japan-halal-travel-guide and which-airport-to-fly-into-japan are written and fact-verified but held back until their second photo downloads (Wikimedia 429).

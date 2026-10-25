@@ -300,5 +300,42 @@
    "booking",
    "klook"
   ]
+ },
+ {
+  "slug": "japan-licensed-tour-guides",
+  "keyword": "licensed tour guide japan how to hire",
+  "title": "How to Hire a Licensed Tour Guide in Japan",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "klook",
+   "viator",
+   "gyg"
+  ]
+ },
+ {
+  "slug": "japan-halal-travel-guide",
+  "keyword": "halal travel japan muslim travelers",
+  "title": "Halal Travel in Japan: Food, Hotels and Prayer Spaces",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "klook"
+  ]
+ },
+ {
+  "slug": "which-airport-to-fly-into-japan",
+  "keyword": "which airport to fly into japan narita haneda kansai",
+  "title": "Which Airport to Fly Into: Narita, Haneda or Kansai",
+  "cluster": "planning",
+  "intent": "informational",
+  "priority": 8,
+  "affiliates": [
+   "booking",
+   "esim"
+  ]
  }
 ]
