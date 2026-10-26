@@ -1,4 +1,5 @@
 """Expand {{aff:program|anchor text}} shortcodes into sponsored links."""
+import html
 import re
 
 from .common import load_json
@@ -14,7 +15,7 @@ def expand(body, programs=None):
         link = programs.get(key, {}).get("link", "")
         if not link:  # unknown program or not yet approved: plain text, never a dead link
             return text
-        return f'<a href="{link}" rel="sponsored nofollow noopener" target="_blank">{text}</a>'
+        return f'<a href="{html.escape(link, quote=True)}" rel="sponsored nofollow noopener" target="_blank">{text}</a>'
 
     return SHORTCODE.sub(repl, body)
 
