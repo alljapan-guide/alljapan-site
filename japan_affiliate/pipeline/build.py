@@ -84,6 +84,24 @@ def faq_jsonld(body):
     return json.dumps({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": qa}) if qa else ""
 
 
+def clean_url(base, name):
+    """Cloudflare Pages redirects /x.html to /x, so canonical and sitemap URLs must be the extensionless form."""
+    if name == "index.html":
+        return f"{base}/"
+    return f"{base}/{name[:-5] if name.endswith('.html') else name}"
+
+
+_INTERNAL_HTML = re.compile(r"""(href|action)=(["'])(?![a-z][a-z0-9+.-]*:|//|/)([^"'#?]*?)\.html((?:[#?][^"']*)?)\2""")
+
+
+def clean_links(page_html):
+    """Point internal links at the extensionless URL so visitors and crawlers are not sent through a redirect."""
+    def repl(m):
+        attr, q, path, tail = m.groups()
+        return f'{attr}={q}{"/" if path == "index" else path}{tail}{q}'
+    return _INTERNAL_HTML.sub(repl, page_html)
+
+
 def build(strict=True):
     site = load_json("config/site.json")
     base = site["base_url"].rstrip("/")
@@ -105,8 +123,8 @@ def build(strict=True):
         kw.setdefault("body_class", "")
         kw.setdefault("main_class", "article-main")
         kw.update(site=site, root=kw.get("root", ""), logo=T.logo_svg())
-        kw["canonical"] = f"{base}/{name}" if name != "index.html" else f"{base}/"
-        (DIST / name).write_text(page.render(**kw), encoding="utf-8")
+        kw["canonical"] = clean_url(base, name)
+        (DIST / name).write_text(clean_links(page.render(**kw)), encoding="utf-8")
 
     slugs = {m["slug"] for m, _ in articles}
     for meta, body in articles:
@@ -121,7 +139,7 @@ def build(strict=True):
     for meta, body in articles:
         content = render_body(body, meta, facts, images, strict)
         name = f"{meta['slug']}.html"
-        urls.append(f"{base}/{name}")
+        urls.append(clean_url(base, name))
         related = [r for r in by_cluster[meta["cluster"]] if r["slug"] != meta["slug"]][:3]
         rel_html = ("<h2>Related guides</h2><ul>" + "".join(
             f"<li><a href='{r['slug']}.html'>{html.escape(r['title'])}</a></li>" for r in related) + "</ul>") if related else ""
@@ -148,7 +166,7 @@ def build(strict=True):
           body_class="home", main_class="", content=T.home_html(site, cards, counts, fresh, latest))
     for cl, ms in by_cluster.items():
         lst = "".join(f"<li><a href='{m['slug']}.html'>{html.escape(m['title'])}</a></li>" for m in ms)
-        urls.append(f"{base}/c-{cl}.html")
+        urls.append(clean_url(base, f"c-{cl}.html"))
         write(f"c-{cl}.html", title=f"{T.topic(cl)[0]} guides | {site['name']}", description=f"{T.topic(cl)[0]} guides for Japan",
               content=f"<h1>{html.escape(T.topic(cl)[0])}</h1><ul class='posts'>{lst}</ul>")
     if strict and not site.get("contact_email"):

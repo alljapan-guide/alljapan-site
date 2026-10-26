@@ -35,3 +35,6 @@ Added japan-opening-hours-and-holidays, japan-etiquette-for-first-timers, japan-
 
 ## 2026-10-26 owner direction
 Owner asked for more articles on famous souvenirs and famous shrine pilgrimages. 12 topics added to data/topics.json (priority 9) with source pages listed in docs/TOPIC_BACKLOG.md. The daily routine should take these first.
+
+## 2026-10-26 Search Console "page has redirect"
+Cause: Cloudflare Pages redirects /x.html to /x, but canonical, sitemap and internal links used the .html form. Fix: build.py now emits extensionless canonical/sitemap URLs and rewrites internal links (clean_url / clean_links). Re-submit the sitemap and use "Validate fix" in Search Console.
