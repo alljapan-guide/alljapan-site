@@ -32,3 +32,6 @@ Added japan-licensed-tour-guides, japan-halal-travel-guide, which-airport-to-fly
 
 ## 2026-10-26 daily articles
 Added japan-opening-hours-and-holidays, japan-etiquette-for-first-timers, japan-budget-travel-tips (47 new facts, all verified on JNTO pages; 6 photos). 23 articles. One photo subject was changed after repeated "no licensed photo" results. Travel topics in topics.json are used up; new topics come from JNTO plan pages (still unused: plug-and-electricity, traveling-with-disability, emergencies).
+
+## 2026-10-26 owner direction
+Owner asked for more articles on famous souvenirs and famous shrine pilgrimages. 12 topics added to data/topics.json (priority 9) with source pages listed in docs/TOPIC_BACKLOG.md. The daily routine should take these first.

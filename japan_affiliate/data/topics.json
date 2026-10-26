@@ -373,5 +373,144 @@
    "railpass",
    "booking"
   ]
+ },
+ {
+  "slug": "japan-souvenirs-guide",
+  "keyword": "what to buy in japan souvenirs omiyage",
+  "title": "Japan Souvenirs: What to Buy and Where",
+  "cluster": "shopping",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook",
+   "booking"
+  ]
+ },
+ {
+  "slug": "osaka-souvenir-sweets",
+  "keyword": "osaka souvenirs sweets",
+  "title": "Osaka Souvenir Sweets: What to Buy Before You Leave",
+  "cluster": "shopping",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook"
+  ]
+ },
+ {
+  "slug": "hiroshima-souvenirs-momiji-manju",
+  "keyword": "hiroshima souvenirs momiji manju",
+  "title": "Hiroshima Souvenirs: Momiji Manju and Local Sweets",
+  "cluster": "shopping",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook"
+  ]
+ },
+ {
+  "slug": "shotengai-souvenir-shopping",
+  "keyword": "shotengai shopping street souvenirs japan",
+  "title": "Shop Like a Local: Souvenirs on a Shotengai",
+  "cluster": "shopping",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook"
+  ]
+ },
+ {
+  "slug": "tohoku-souvenirs",
+  "keyword": "tohoku souvenirs",
+  "title": "Tohoku Souvenirs: Popular Gifts from Northern Japan",
+  "cluster": "shopping",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook"
+  ]
+ },
+ {
+  "slug": "japan-ekiben-guide",
+  "keyword": "ekiben japan train bento",
+  "title": "Ekiben: How to Enjoy Japan's Train Station Bento",
+  "cluster": "food",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "railpass",
+   "klook"
+  ]
+ },
+ {
+  "slug": "shinto-shrine-etiquette",
+  "keyword": "shinto shrine etiquette how to pray japan",
+  "title": "Shinto Shrine Etiquette: Bows, Claps and Purification",
+  "cluster": "culture",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook"
+  ]
+ },
+ {
+  "slug": "meiji-jingu-guide",
+  "keyword": "meiji jingu shrine tokyo guide",
+  "title": "Meiji Jingu: Tokyo's Forest Shrine and How to Visit",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook",
+   "viator"
+  ]
+ },
+ {
+  "slug": "ise-jingu-guide",
+  "keyword": "ise jingu how to pray visit",
+  "title": "Ise Jingu: How to Visit and Pray at Japan's Most Sacred Shrine",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook",
+   "booking"
+  ]
+ },
+ {
+  "slug": "izumo-taisha-guide",
+  "keyword": "izumo taisha shrine visit guide",
+  "title": "Izumo Taisha: Visiting the Shrine of Marriage and the Gods",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook",
+   "booking"
+  ]
+ },
+ {
+  "slug": "itsukushima-miyajima-guide",
+  "keyword": "itsukushima shrine miyajima floating torii visit",
+  "title": "Itsukushima Shrine and Miyajima: Visiting the Floating Torii",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook",
+   "booking"
+  ]
+ },
+ {
+  "slug": "famous-shrines-in-japan",
+  "keyword": "famous shrines in japan pilgrimage first time",
+  "title": "Famous Shrines in Japan: A First-Timer's Pilgrimage Route",
+  "cluster": "itineraries",
+  "intent": "informational",
+  "priority": 9,
+  "affiliates": [
+   "klook",
+   "booking"
+  ]
  }
 ]
