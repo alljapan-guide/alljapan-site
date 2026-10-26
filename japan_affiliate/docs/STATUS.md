@@ -38,3 +38,6 @@ Owner asked for more articles on famous souvenirs and famous shrine pilgrimages.
 
 ## 2026-10-26 Search Console "page has redirect"
 Cause: Cloudflare Pages redirects /x.html to /x, but canonical, sitemap and internal links used the .html form. Fix: build.py now emits extensionless canonical/sitemap URLs and rewrites internal links (clean_url / clean_links). Re-submit the sitemap and use "Validate fix" in Search Console.
+
+## 2026-10-27 daily articles
+Added japan-souvenirs-guide, shinto-shrine-etiquette, meiji-jingu-guide from the owner-requested backlog (docs/TOPIC_BACKLOG.md; 57 new facts, all verified on JNTO pages; 6 photos). 26 articles. Remaining backlog: osaka-souvenir-sweets, hiroshima-souvenirs-momiji-manju, shotengai-souvenir-shopping, tohoku-souvenirs, japan-ekiben-guide, ise-jingu-guide, izumo-taisha-guide, itsukushima-miyajima-guide, famous-shrines-in-japan.

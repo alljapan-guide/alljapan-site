@@ -3708,5 +3708,798 @@
   "topics": [
    "japan-etiquette-for-first-timers"
   ]
+ },
+ {
+  "id": "so_airport",
+  "text": "the airport is an ideal place to buy souvenirs for friends and family without having to carry them around for the rest of your trip",
+  "claim": "Airport souvenirs",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "The airport is an ideal place to purchase souvenirs for friends and family without having to carry them around for the rest of your trip"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_options",
+  "text": "Japan major international airports offer numerous options for those in search of suitable souvenirs, luxury gifts and general goods",
+  "claim": "Airport choice",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "numerous options for those in search of suitable souvenirs, luxury gifts and general goods"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_narita",
+  "text": "at Narita, terminal one has shops specializing in Japanese fabrics, confectioneries, tea, lacquerware and more",
+  "claim": "Narita souvenirs",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "Head to terminal one to find shops specializing in Japanese fabrics, confectioneries, tea, lacquerware and more"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_narita_pop",
+  "text": "Narita also has shops specializing in Japanese pop culture, including a Hello Kitty store and a toy store",
+  "claim": "Narita pop culture",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "a Hello Kitty store and a toy store"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_haneda_pop",
+  "text": "at Haneda you can shop for souvenirs before the security gate at the Tokyo Pop Town shopping area on the fifth floor of the passenger terminal",
+  "claim": "Haneda souvenirs",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "Tokyo Pop Town shopping area located on the fifth floor of the passenger terminal"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_haneda_anime",
+  "text": "the Tokyo Pop Town stores cater to fans of contemporary Japanese pop culture, with numerous anime character goods and toys on sale",
+  "claim": "Haneda anime goods",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "numerous anime character goods and toys on sale"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_haneda_dist",
+  "text": "Haneda is a quick 20-minute train ride from Shinagawa Station",
+  "claim": "Haneda distance",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "Shinagawa Station a quick 20-minute train ride away"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_kansai_ume",
+  "text": "at Kansai International Airport you can buy a box of umeboshi (pickled plums), a popular export from nearby Wakayama",
+  "claim": "Kansai umeboshi",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "popular export from nearby Wakayama"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_kansai_snacks",
+  "text": "many treats at Kansai International Airport are themed around Osaka takoyaki (grilled octopus balls) and okonomiyaki (savory pancakes)",
+  "claim": "Kansai snacks",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "takoyaki (grilled octopus balls)",
+   "okonomiyaki (savory pancakes)"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_compact",
+  "text": "many Japanese souvenirs are perfect for the restricted conditions of carry-on luggage and crowded overhead bins",
+  "claim": "Compact souvenirs",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "Many Japanese souvenirs are perfect for such restricted conditions"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_wrapped",
+  "text": "Japan has a regimented gift-giving culture, so you will find rows of perfectly designed gift-wrapped boxes full of sweets, crackers and jellies",
+  "claim": "Gift wrapping",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "rows of perfectly designed gift-wrapped boxes full of sweets, crackers and jellies"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_other",
+  "text": "other stress-free gifts include tea, small plastic figurines and Japanese stationery",
+  "claim": "Other gifts",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "Other stress-free gifts include tea, small plastic figurines and Japanese stationery"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "so_check",
+  "text": "the latest information may differ, so JNTO asks you to check the official website",
+  "claim": "Check the official site",
+  "source_name": "JNTO: Guide to the Essential Japanese Souvenirs",
+  "source_url": "https://www.japan.travel/en/guide/last-minute-souvenirs/",
+  "must_contain": [
+   "The latest information may differ, so please check the official website"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "japan-souvenirs-guide"
+  ]
+ },
+ {
+  "id": "se_80000",
+  "text": "it is estimated that there are around 80,000 shrines across Japan",
+  "claim": "Number of shrines",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "it is estimated that there are around 80,000 shrines"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_big",
+  "text": "some of the biggest attractions in Japan, such as Meiji Jingu, Itsukushima Shrine and Fushimi Inari Taisha, are all shrines",
+  "claim": "Famous shrines",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "Meiji Jingu, Itsukushima Shrine, and Fushimi Inari Taisha are all shrines"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_torii",
+  "text": "on your approach to a shrine you pass under a torii, a large gate that is usually red",
+  "claim": "Torii",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "or a large gate, that are usually red coloured"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_komainu",
+  "text": "statues of dogs called komainu are placed in order to ward off evil",
+  "claim": "Komainu",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "placed in order to ward off evil"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_shimenawa",
+  "text": "a shimenawa rope is tied around something to signify that it is sacred, and the one at Izumo Taisha in Shimane Prefecture is 13.5 metres long",
+  "claim": "Shimenawa",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "is tied around something to signify that it is sacred",
+   "is 13.5 metres long"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_honden",
+  "text": "the honden is the building in a shrine where the deity is enshrined, and the haiden in front of it acts as a place of worship",
+  "claim": "Honden and haiden",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "is where the deity is enshrined",
+   "acting as a place of worship"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_bow_torii",
+  "text": "you begin your visit by performing a small bow in front of the torii gate",
+  "claim": "First bow",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "performing a small bow in front of its torii gate"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_path",
+  "text": "walk on either the left or the right of the path, as the centre is reserved for the kami",
+  "claim": "Walking the path",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "walk on either the left or the right of the path"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_temizuya",
+  "text": "before the worship hall, stop at a small area that may look like a fountain, where you purify yourself",
+  "claim": "Temizuya",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "stop at a small area that may look like a fountain"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_ladle1",
+  "text": "for purification, take the ladle with your right hand and pour water over your left",
+  "claim": "Purification step one",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "take the ladle with your right hand and pour water over your left"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_ladle2",
+  "text": "next, take the ladle with your left hand and pour water over your right hand, though most people do not drink the water",
+  "claim": "Purification step two",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "Then you take the ladle with your left hand and pour water over your right hand",
+   "most people do not drink the water"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_ladle3",
+  "text": "finally, hold the ladle vertical so the remaining water pours over the ladle",
+  "claim": "Purification step three",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "hold the hishaku vertical so the remaining water pours over the ladle"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_coin",
+  "text": "at the offering box you toss in a 5-yen coin if you have one, though other denominations work as offerings",
+  "claim": "Offering",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "toss in a 5-yen coin if you have one",
+   "Other denominations work as offerings"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_bell",
+  "text": "after the coin, gently ring the bell that is hanging near the box",
+  "claim": "Bell",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "gently ring the bell that is hanging near the box"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_bows",
+  "text": "after the bell, bow twice, followed by two claps, then make your wish and perform one more bow",
+  "claim": "Bows and claps",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "bow twice, followed by two claps",
+   "perform one more bow after making your wish"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_exit",
+  "text": "on your way out, once you have crossed through the torii gate again, look back toward the shrine and give one more bow",
+  "claim": "Leaving",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "look back toward the shrine and give one more bow"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_omikuji",
+  "text": "omikuji, or fortune slips, are some of the most popular goods you can get at a shrine",
+  "claim": "Omikuji",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "Omikuji, or fortune slips, are some of the most popular goods that you can get at a shrine"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_omikuji_bad",
+  "text": "if you receive an omikuji with bad luck, it is suggested to tie the fortune up on a dedicated board",
+  "claim": "Bad fortune",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "it is suggested to tie the fortune up on a dedicated board"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_ema",
+  "text": "ema are votive tablets that you can write a wish on and leave hanging at a board at the shrine",
+  "claim": "Ema",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "They are votive tablets that you can write a wish on and leave hanging at a board at the shrine"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_omamori",
+  "text": "omamori are small handheld good luck charms that you usually attach to your backpack or purse, or put in your wallet",
+  "claim": "Omamori",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "small handheld good luck charms that you usually attach to your backpack, purse, or put in your wallet"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_omamori_types",
+  "text": "common omamori include ones for passing exams (gokaku), good health (kenko), good luck (kaiun), happiness (shiawase) and traffic safety (kotsu anzen)",
+  "claim": "Omamori types",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "passing exams (gokaku), good health (kenko), good luck (kaiun), happiness (shiawase), and traffic safety (kotsu anzen)"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_goshuin",
+  "text": "goshuin are red seals that you receive from a shrine office to signify a visit, and they are unique to each shrine",
+  "claim": "Goshuin",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "red seals that you receive from a shrine office to signify a visit",
+   "unique to each shrine"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "se_goshuin_hand",
+  "text": "goshuin are usually hand written, giving you the opportunity to watch shrine workers write beautiful calligraphy right in front of you",
+  "claim": "Goshuin calligraphy",
+  "source_name": "JNTO: Two Bows and Two Claps, Shinto Shrines",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/two-bows-and-two-claps-the-ins-and-outs-of-shinto-shrines/",
+  "must_contain": [
+   "Usually they are hand written, giving you the opportunity to watch shrine workers write beautiful calligraphy right in front of you"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "shinto-shrine-etiquette"
+  ]
+ },
+ {
+  "id": "mj_dedicated",
+  "text": "Meiji Jingu is a Shinto shrine dedicated to Emperor Meiji (1852-1912) and Empress Shoken",
+  "claim": "Who the shrine honours",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "dedicated to Emperor Meiji (1852-1912) and Empress Shoken"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_forest",
+  "text": "the shrine is surrounded by a lush green forest right in the heart of Tokyo",
+  "claim": "Forest setting",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Surrounded by a lush green forest right in the heart of"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_station",
+  "text": "Meiji Jingu is located next to Harajuku Station and Meiji-jingumae station",
+  "claim": "Stations",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Meiji-jingu is located next to Harajuku Station and Meiji-jingumae station"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_jr",
+  "text": "by JR, take the Yamanote Line to Harajuku Station",
+  "claim": "JR access",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "take the Yamanote Line to Harajuku Station"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_metro",
+  "text": "by Metro, take the Chiyoda or Fukutoshin lines to Meiji-jingumae",
+  "claim": "Metro access",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "catch the Chiyoda or Fukutoshin lines to Meiji-jingumae"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_walk",
+  "text": "the shrine is a 10-minute walk from either location",
+  "claim": "Walking time",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "The shrine is a 10-minute walk from either location"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_trees",
+  "text": "over 100,000 trees were donated from all over Japan and planted by young volunteers to create the forest",
+  "claim": "Trees",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Over 100,000 trees were donated from all over Japan and planted by young volunteers"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_built",
+  "text": "the shrine was built in 1920 to commemorate the virtues of Emperor Meiji and Empress Shoken",
+  "claim": "Built in 1920",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "The shrine was built in 1920 to commemorate the virtues of Emperor Meiji and Empress Shoken"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_ww2",
+  "text": "like many other major sites in Tokyo, the shrine buildings were destroyed during World War II but rebuilt following a public fundraising effort",
+  "claim": "Rebuilt",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "destroyed during World War II but rebuilt following a public fundraising effort"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_signage",
+  "text": "there is plenty of English signage to help you partake in traditional Shinto rituals",
+  "claim": "English signage",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "plenty of English signage to help you partake in traditional Shinto rituals"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_rituals",
+  "text": "you can make offerings and pray at the main shrine, write your wishes on an ema tablet, and buy a fortune or amulet",
+  "claim": "Rituals",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "making offerings and praying at the main shrine, writing your wishes on an ema tablet, and purchasing a fortune or amulet"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_first_visit",
+  "text": "JNTO calls Meiji Jingu a great destination for your first shrine visit if you have just arrived in Tokyo",
+  "claim": "First shrine visit",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "it's a great destination for your first shrine visit"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_inner",
+  "text": "the Inner Garden at the southern end of the grounds requires an entrance fee and features iris flower beds and a classic Japanese tea house",
+  "claim": "Inner Garden",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Although it requires an entrance fee",
+   "traditional iris flower beds and features a classic Japanese tea house"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_well",
+  "text": "the well in the Inner Garden was dug by a famous lord 400 years ago and is considered a power spot",
+  "claim": "Power spot",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "named after the famous lord who dug it 400 years ago"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_museum",
+  "text": "the Meiji Jingu Museum is full of articles used by or associated with Emperor Meiji and Empress Shoken",
+  "claim": "Museum",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Meiji Jingu Museum, full of articles used by or associated with Emperor Meiji and Empress Shoken"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_festival",
+  "text": "the shrine Spring Grand Festival is held from late April to early May, with performances of ceremonial music and dances",
+  "claim": "Spring festival",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Spring Grand Festival held from late April to early May",
+   "performances of ceremonial music and dances"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_newyear",
+  "text": "on New Year Day nearly three million visitors swarm the area in the hope of a year of good fortune",
+  "claim": "New Year crowds",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "nearly three million visitors swarm the area"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_wedding",
+  "text": "if there is no ritual or festival, a traditional Shinto wedding may be happening at Meiji Jingu",
+  "claim": "Weddings",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "a traditional Shinto wedding is happening at Meiji Jingu"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_yoyogi",
+  "text": "Yoyogi Park, next to Meiji Jingu, hosts modern festivals, food fairs and performances throughout the year",
+  "claim": "Yoyogi Park",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "Yoyogi Park (next to Meiji Jingu)"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
+ },
+ {
+  "id": "mj_pairs",
+  "text": "any trip to bustling Shibuya or Harajuku pairs well with a quiet walk to the main sanctuary",
+  "claim": "Pairing with Harajuku",
+  "source_name": "JNTO: Meiji-jingu Shrine",
+  "source_url": "https://www.japan.travel/en/spot/1666/",
+  "must_contain": [
+   "any trip to bustling Shibuya or Harajuku pairs well with a quiet walk"
+  ],
+  "verified_on": "2026-10-26",
+  "topics": [
+   "meiji-jingu-guide"
+  ]
  }
 ]

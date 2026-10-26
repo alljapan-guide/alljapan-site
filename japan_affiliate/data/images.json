@@ -412,5 +412,59 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Shrines_-_Sensoji_Temple,_Asakusa,_Tokyo,_Japan_-_DSC02054.JPG",
   "file": "japan-opening-hours-and-holidays-2.jpg",
   "query": "Sensoji Temple Asakusa Tokyo"
+ },
+ "japan-souvenirs-guide/1": {
+  "title": "File:お土産 (15720093953).jpg",
+  "author": "Cheng-en Cheng",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%E3%81%8A%E5%9C%9F%E7%94%A3_(15720093953).jpg",
+  "file": "japan-souvenirs-guide-1.jpg",
+  "query": "Narita Airport shops souvenir"
+ },
+ "japan-souvenirs-guide/2": {
+  "title": "File:Ume suisho Japanese appetizer.jpg",
+  "author": "Hanabishi",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Ume_suisho_Japanese_appetizer.jpg",
+  "file": "japan-souvenirs-guide-2.jpg",
+  "query": "Umeboshi pickled plums"
+ },
+ "meiji-jingu-guide/1": {
+  "title": "File:Torii Gate at Meiji Jingu Shrine, Tokyo (50125273602).jpg",
+  "author": "Ray in Manila",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Torii_Gate_at_Meiji_Jingu_Shrine,_Tokyo_(50125273602).jpg",
+  "file": "meiji-jingu-guide-1.jpg",
+  "query": "Meiji Jingu torii gate Tokyo"
+ },
+ "shinto-shrine-etiquette/2": {
+  "title": "File:Sukunahikona-Shrine-Prayer-tablet.jpg",
+  "author": "WolfgangMichel",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sukunahikona-Shrine-Prayer-tablet.jpg",
+  "file": "shinto-shrine-etiquette-2.jpg",
+  "query": "Ema votive tablets shrine"
+ },
+ "meiji-jingu-guide/2": {
+  "title": "File:Meiji-jingu Haupthalle 3.jpg",
+  "author": "Zairon",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Meiji-jingu_Haupthalle_3.jpg",
+  "file": "meiji-jingu-guide-2.jpg",
+  "query": "Meiji Jingu main hall Tokyo"
+ },
+ "shinto-shrine-etiquette/1": {
+  "title": "File:Itsukushima-jinja torii at sunset, Miyajima, Japan, 20240816 1812 4144.jpg",
+  "author": "Jakub Hałun",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Itsukushima-jinja_torii_at_sunset,_Miyajima,_Japan,_20240816_1812_4144.jpg",
+  "file": "shinto-shrine-etiquette-1.jpg",
+  "query": "Shinto shrine torii Japan"
  }
 }
