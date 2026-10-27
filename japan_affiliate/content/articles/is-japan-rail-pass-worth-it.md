@@ -7,7 +7,7 @@ updated: 2026-10-18
 cluster: transport
 affiliates: railpass | klook
 references: jrc_booking
-image_queries: Shinkansen N700 Tokyo Station platform | Kyoto Station building
+image_queries: Shinkansen N700 Tokyo Station platform | Kyoto Station building | Tokaido Shinkansen Mount Fuji | Shinkansen Kyoto Station platform
 ---
 The Japan Rail Pass is worth it only when the individual fares for your own itinerary add up to more than the pass price. The only reliable way to know is to do that sum, which takes about ten minutes, and this guide shows exactly how, using the operators' own numbers.
 
@@ -26,6 +26,8 @@ Because prices and conditions have been revised before, treat any number in this
 ## What the pass covers, and what it does not
 
 On the official coverage page the operator explains that {{fact:jrp_coverage}}. In practice that means you will still use an IC card for city subways and private lines; our [IC card guide](japan-ic-card-guide.html) explains how.
+
+{{photo:3|A Shinkansen passing Mount Fuji}}
 
 The rule that surprises most first-timers is about the fastest bullet trains. According to the official site, {{fact:nozomi_not_covered}}. For the Tokyo to Kyoto leg the supplement ticket is {{fact:nozomi_supplement}}, and the operator describes where it can be bought and when it is valid. Read the official page, because the details are specific.
 
@@ -50,6 +52,8 @@ steps: List every long-distance leg you plan, with dates | Look up each one-way 
 ## Itineraries where the pass can win
 
 We cannot quote fares here without a source, so think in shapes rather than numbers:
+
+{{photo:4|A Hikari Shinkansen train}}
 
 - **A big loop across several regions in one week.** Many long legs add up quickly.
 - **Trips that include distant cities.** Each far destination adds a long, expensive leg.

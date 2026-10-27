@@ -6,7 +6,7 @@ date: 2026-10-22
 updated: 2026-10-22
 cluster: seasonal
 affiliates: booking | klook
-image_queries: Nakameguro cherry blossoms | Cherry blossoms Ueno Park hanami
+image_queries: Nakameguro cherry blossoms | Cherry blossoms Ueno Park hanami | Chidorigafuchi cherry blossoms Tokyo | Himeji Castle sakura
 ---
 The cherry blossom season is not a single date. It is a wave that starts in the south and moves north, so the best plan is a flexible one: pick a window, choose a base that lets you shift by a few days, and check the official forecast shortly before you travel.
 
@@ -34,6 +34,8 @@ Our view: this is why trips that cover several regions can see more than one sta
 
 The JNTO page on Shinjuku Gyoen says that {{fact:tokyo_sakura_window}}. A JNTO hanami guide adds that {{fact:tokyo_hanami}}.
 
+{{photo:3|Cherry blossoms at Chidorigafuchi, Tokyo}}
+
 On timing within a single place, the Shinjuku Gyoen page notes that {{fact:tokyo_full_bloom}}. That matters for your plan: a bloom is not a day, it is a short period, and weather can shorten it.
 
 For evening viewing, the JNTO Rikugien page describes one example: {{fact:tokyo_rikugien}}. Our view: if you are in Tokyo, check whether an evening opening is running during your dates, since these events are scheduled by the park each year.
@@ -57,6 +59,8 @@ The national tourism organisation says that {{fact:sakura_somei}}. Knowing the t
 ## Beyond the big cities
 
 For a different feel, the national tourism organisation suggests {{fact:sakura_himeji}}. For travellers whose dates fall later in the season, it also lists that {{fact:sakura_late_spots}}.
+
+{{photo:4|Cherry blossoms at Himeji Castle}}
 
 Our view: these are good ideas for a second trip, or for travellers who find the main cities too busy during blossom time. The further you are from the big cities, the more you need to check transport and accommodation in advance.
 

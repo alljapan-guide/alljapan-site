@@ -6,7 +6,7 @@ date: 2026-10-22
 updated: 2026-10-22
 cluster: food
 affiliates: klook | viator
-image_queries: Takoyaki street food Osaka | Dotonbori Osaka night
+image_queries: Takoyaki street food Osaka | Dotonbori Osaka night | Okonomiyaki Osaka | Kushikatsu Shinsekai Osaka
 ---
 If you only have a day or two in Osaka, eat these four things: takoyaki, okonomiyaki, kushikatsu and yakiniku. They are the dishes the national tourism organisation highlights, they are easy to find, and each comes with a small set of etiquette tips that make ordering less stressful.
 
@@ -38,6 +38,8 @@ On its history, it says that {{fact:takoyaki_1930s}}. Our view: takoyaki are bes
 
 For the second classic, the tourism organisation says that {{fact:okonomi_def}}. It also explains the name: {{fact:okonomi_name}}.
 
+{{photo:3|Okonomiyaki in Osaka}}
+
 At many restaurants you can take part in the cooking. The official page notes that {{fact:okonomi_table}}. Our view: if you are unsure, tell the staff you are a first-timer and ask them to cook it for you.
 
 {{photo:2|Dotonbori, the main food and entertainment district of Osaka}}
@@ -45,6 +47,8 @@ At many restaurants you can take part in the cooking. The official page notes th
 ## Kushikatsu: skewers with a rule
 
 The street food page describes the dish this way: {{fact:kushikatsu_def}}. On where to find it, it says that {{fact:kushikatsu_shinsekai}}.
+
+{{photo:4|Kushikatsu in Shinsekai, Osaka}}
 
 {{note|Restaurants that serve kushikatsu often provide a shared dipping sauce. The etiquette of not dipping a skewer twice is widely observed in the city, so follow the staff's instructions at each restaurant.}}
 

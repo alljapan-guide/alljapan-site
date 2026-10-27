@@ -7,7 +7,7 @@ updated: 2026-10-18
 cluster: transport
 affiliates: railpass | klook | esim
 references: apple_express_mode | pasmo_tourist
-image_queries: Suica card ticket gate Japan | Tokyo train station platform commuters
+image_queries: Suica card ticket gate Japan | Tokyo train station platform commuters | ICOCA card | Yamanote Line train Tokyo
 ---
 You should use a rechargeable IC card in Japan, and which one you pick matters far less than most travel articles suggest. According to the operators, {{fact:ic_ten_cards}}, so a Suica bought in Tokyo and an ICOCA bought in Osaka do the same job for trains, subways and buses in the areas they cover.
 
@@ -35,6 +35,8 @@ Beyond trains, the same page says {{fact:pasmo_shopping}}. That is a real reason
 
 Our view: for a visitor the three names mean the same thing, so choose by what you can get easily. Which cards are sold to visitors, and where, is decided by the operators and changes over time; for example, the PASMO site {{fact:pasmo_tourist}}.
 
+{{photo:3|An ICOCA transit card}}
+
 Always read the issuing operator's own page for the current rules, price and validity of the card you buy, because the terms are set by the operator and can change.
 
 ## Adding Suica to your iPhone
@@ -52,6 +54,8 @@ For Android, PASMO's own page says {{fact:pasmo_android}}. Android users should 
 ## How to use it on day one
 
 At a ticket gate, hold the card flat against the reader until it beeps and the gate opens. On exit the gate takes the fare. On buses, tap at the reader by the door; the boarding and exit rules differ by bus type, so watch what the locals do the first time. At a convenience store, tell the cashier you will pay by IC card, then tap on the reader. Top-up methods differ by card and by phone, so follow the issuing operator's or Apple's instructions.
+
+{{photo:4|A Yamanote Line train in Tokyo}}
 
 A sensible habit is to top up whenever the balance falls below the cost of a couple of rides, so you never meet a blocked gate during rush hour.
 

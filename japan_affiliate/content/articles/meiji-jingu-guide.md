@@ -6,7 +6,7 @@ date: 2026-10-27
 updated: 2026-10-27
 cluster: itineraries
 affiliates: klook | viator
-image_queries: Meiji Jingu torii gate Tokyo | Meiji Jingu main hall Tokyo
+image_queries: Meiji Jingu torii gate Tokyo | Meiji Jingu main hall Tokyo | Meiji Jingu sake barrels | Meiji Jingu Inner Garden iris
 ---
 Meiji Jingu is one of the easiest ways to step out of Tokyo's crowds without leaving the city. The Japan National Tourism Organization (JNTO) describes it as a forest shrine in the heart of Tokyo, and gives clear access advice. This guide follows the JNTO page and adds our own view, labelled "Our view".
 
@@ -42,6 +42,8 @@ Our view: knowing that the forest is man-made changes how you look at it. The tr
 
 JNTO describes Meiji Jingu as a good place to learn the routine: {{fact:mj_first_visit}}. It says that {{fact:mj_signage}}, and that {{fact:mj_rituals}}.
 
+{{photo:3|Sake barrels at Meiji Jingu}}
+
 {{tip|Read our [shrine etiquette guide](shinto-shrine-etiquette.html) before you go. It lists the steps in order: bow at the torii, purify your hands, make an offering, bow twice and clap twice, and bow once more.}}
 
 ## The Inner Garden and the museum
@@ -51,6 +53,8 @@ Beyond the main sanctuary there are two extra stops. JNTO says that {{fact:mj_in
 {{photo:2|The main hall at Meiji Jingu}}
 
 Our view: the Inner Garden and museum suit a second visit or a slower morning. If you have only an hour, spend it on the forest walk and the main shrine.
+
+{{photo:4|The Inner Garden at Meiji Jingu}}
 
 ## A simple plan for a morning visit
 

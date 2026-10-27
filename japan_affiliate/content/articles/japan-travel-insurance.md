@@ -6,7 +6,7 @@ date: 2026-10-23
 updated: 2026-10-23
 cluster: planning
 affiliates: insurance
-image_queries: Japan hospital building sign | Tokyo ambulance
+image_queries: Japan hospital building sign | Tokyo ambulance | Japan police box koban | Matsumoto Kiyoshi drugstore
 ---
 Short answer: yes, get it. The Japan National Tourism Organization (JNTO) states that {{fact:ins_recommended}}. JNTO also notes that {{fact:ins_safe}}, but a single hospital visit without cover can still be a problem, and the official guidance says why.
 
@@ -25,6 +25,8 @@ Our view: the third point is the easiest to overlook. Even if you would rather a
 ## What to check in a policy
 
 JNTO gives a short checklist. Use it as a comparison tool when you look at policies.
+
+{{photo:4|A drugstore in Tokyo}}
 
 ```diagram
 type: flow
@@ -57,6 +59,8 @@ JNTO's page gives the basic facts. {{fact:ins_ambulance}}. The hotline page also
 {{photo:2|An ambulance interior on display at a fire museum in Japan}}
 
 For language help, JNTO notes that {{fact:ins_language}}. It adds that {{fact:ins_amda}}, and that your insurer may also offer emergency translation.
+
+{{photo:3|A police box in Japan}}
 
 ```diagram
 type: cards

@@ -41,3 +41,6 @@ Cause: Cloudflare Pages redirects /x.html to /x, but canonical, sitemap and inte
 
 ## 2026-10-27 daily articles
 Added japan-souvenirs-guide, shinto-shrine-etiquette, meiji-jingu-guide from the owner-requested backlog (docs/TOPIC_BACKLOG.md; 57 new facts, all verified on JNTO pages; 6 photos). 26 articles. Remaining backlog: osaka-souvenir-sweets, hiroshima-souvenirs-momiji-manju, shotengai-souvenir-shopping, tohoku-souvenirs, japan-ekiben-guide, ise-jingu-guide, izumo-taisha-guide, itsukushima-miyajima-guide, famous-shrines-in-japan.
+
+## 2026-10-27 more photos per article (owner request)
+Added 2 photos to every article (most pages now have 4, three have 3: japan-etiquette-for-first-timers, japan-halal-travel-guide, tokyo-kyoto-osaka-7-day-itinerary because no suitable licensed photo was found). All credited, licence-checked Commons files. Search results were reviewed by title: unrelated hits (games, museum items, paintings, people) were dropped and re-queried. fetch_images now saves data/images.json after every photo, so an interrupted run keeps its progress.

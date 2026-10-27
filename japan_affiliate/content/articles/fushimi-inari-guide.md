@@ -6,7 +6,7 @@ date: 2026-10-23
 updated: 2026-10-23
 cluster: itineraries
 affiliates: klook | viator | gyg
-image_queries: Fushimi Inari Taisha torii gates | Fushimi Inari Taisha main gate Kyoto
+image_queries: Fushimi Inari Taisha torii gates | Fushimi Inari Taisha main gate Kyoto | Senbon torii Fushimi Inari path | Fushimi Kyoto sake
 ---
 Fushimi Inari Taisha is the Kyoto shrine famous for its path of vermilion torii gates, and it is one of the easiest major sights to reach by train. The official Kyoto tourism association gives clear access advice, including one bus route it tells visitors to avoid.
 
@@ -48,6 +48,8 @@ The tourism association describes the path behind the main buildings: {{fact:fi_
 
 Our view: the full path is a hike, so wear comfortable shoes and decide before you start how far you want to walk. You do not have to complete the whole path to see the gates. Turning back partway is a perfectly good choice.
 
+{{photo:3|The path of torii gates at Fushimi Inari}}
+
 ### Fox statues
 
 You will see stone foxes around the shrine. The official page explains that {{fact:fi_fox}}. Our view: knowing this makes the statues much more interesting than treating them as decoration.
@@ -67,6 +69,8 @@ Guided experiences are also sold on {{aff:gyg|GetYourGuide}}, {{aff:klook|Klook}
 ## Beyond the shrine: sake in Fushimi
 
 The area around the shrine has more to offer than the gates. The tourism association says {{fact:fi_sake}}. Our view: if you like sake, a stop in the Fushimi town centre is a good way to turn a short visit into half a day, and you can reach it with the Kintetsu or Keihan lines.
+
+{{photo:4|A sake brewery in Fushimi, Kyoto}}
 
 ```diagram
 type: cards

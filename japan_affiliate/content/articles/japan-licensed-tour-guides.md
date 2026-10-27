@@ -6,7 +6,7 @@ date: 2026-10-25
 updated: 2026-10-25
 cluster: planning
 affiliates: klook | viator | gyg
-image_queries: Gion Kyoto traditional street | Sensoji Kaminarimon Asakusa Tokyo
+image_queries: Gion Kyoto traditional street | Sensoji Kaminarimon Asakusa Tokyo | Kinkaku-ji Kyoto Golden Pavilion | Tsukiji Outer Market Tokyo
 ---
 A licensed guide can turn a list of famous places into a trip you understand. The Japan National Tourism Organization (JNTO) explains how licensed guides work in Japan, how to hire one and what to double-check before you pay. This guide summarises that page.
 
@@ -35,6 +35,8 @@ JNTO says that {{fact:g_how}}. It adds that {{fact:g_independent}}, and that you
 ## What kinds of tours exist
 
 Not every guided tour is a temple walk. JNTO notes that {{fact:g_niche}}. Our view: a themed tour can be a better first choice than a general one if you already know what you care about, for example food, pop culture or nature.
+
+{{photo:3|Kinkaku-ji in Kyoto}}
 
 ### When a guide is worth the cost
 
@@ -70,6 +72,8 @@ Platforms list tours of many kinds, so use the JNTO checklist above as a filter.
 ## Planning around a guide
 
 A guide works best inside a plan. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a first-timer route where a half-day guide in Kyoto or Tokyo could fit. Our [IC card guide](japan-ic-card-guide.html) covers paying for the trains between sights, and our [travel insurance guide](japan-travel-insurance.html) covers what to carry in case something goes wrong on a tour.
+
+{{photo:4|Tsukiji Outer Market in Tokyo}}
 
 {{pick|If you want to try one guided experience on a first trip, choose one in a place full of history, such as Kyoto or Asakusa, and confirm the guide is licensed. This is our editorial pick, based on the JNTO page.}}
 

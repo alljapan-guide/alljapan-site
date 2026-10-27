@@ -6,7 +6,7 @@ date: 2026-10-24
 updated: 2026-10-24
 cluster: seasonal
 affiliates: booking | klook
-image_queries: Kyoto autumn leaves temple | Shirakawa-go winter snow
+image_queries: Kyoto autumn leaves temple | Shirakawa-go winter snow | Hydrangea Hasedera Kamakura | Japan summer fireworks festival
 ---
 There is no single "Japan weather". The country is long, mountainous and spread across several climates, so the right time to visit depends on where you are going and what you want to do. This guide follows the Japan National Tourism Organization (JNTO) weather page season by season, and adds practical advice that we label "Our view".
 
@@ -30,11 +30,15 @@ items: Spring=Cherry blossoms between March and May depending on location, then 
 
 JNTO says that {{fact:w_spring}}. After that, {{fact:w_rainy}}.
 
+{{photo:3|Hydrangeas in the rainy season}}
+
 JNTO adds that {{fact:w_spring_comfort}}. Our view: spring suits first-time visitors who want comfortable walking weather, but blossom timing moves from year to year. Our [cherry blossom guide](japan-cherry-blossom-guide.html) explains how to plan around an uncertain bloom without relying on a prediction.
 
 ## Summer: heat and typhoons
 
 The JNTO page is direct: {{fact:w_summer}}. It also warns that {{fact:w_typhoon}}.
+
+{{photo:4|A summer fireworks festival in Japan}}
 
 {{warn|{{fact:w_heat}}. Plan indoor breaks, carry water and read the official guidance if you travel in summer.}}
 

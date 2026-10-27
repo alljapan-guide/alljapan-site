@@ -6,7 +6,7 @@ date: 2026-10-24
 updated: 2026-10-24
 cluster: culture
 affiliates: booking | klook
-image_queries: Shinjuku Tokyo street night | Hanami picnic Ueno Park
+image_queries: Shinjuku Tokyo street night | Hanami picnic Ueno Park | Izakaya Tokyo | Sento public bath Japan
 ---
 Japan is easy to visit, but a few local rules catch first-time visitors out: where you may smoke, what outdoor drinking looks like, how tattoos are treated at baths and pools, and how seriously drug laws are enforced. The Japan National Tourism Organization (JNTO) has a page on exactly these points, and this guide walks through it.
 
@@ -36,6 +36,8 @@ items: Smoking=Only in designated areas in most restaurants and bars, and fines 
 
 The JNTO page explains that {{fact:law_drinking}}. It also asks you to remember that {{fact:law_litter}}.
 
+{{photo:3|An izakaya in Tokyo}}
+
 Our view: the practical rule is to follow the lead of the people around you. In a park under cherry blossoms you will see picnics, and our [cherry blossom guide](japan-cherry-blossom-guide.html) explains when and where that happens. A quiet group with its rubbish bagged up is exactly what JNTO is describing.
 
 ## Tattoos
@@ -45,6 +47,8 @@ Tattoos are the rule visitors worry about most. JNTO says {{fact:law_tattoo}}. I
 {{photo:2|Picnic under cherry blossoms in a Tokyo park}}
 
 Our view: if you want to use an onsen or public bath, check the venue's own rules before you go, and ask whether covering is accepted. Our [onsen etiquette guide](japan-onsen-etiquette.html) explains the bathing steps and what the official tourism pages say about tattoos.
+
+{{photo:4|A public bath in Japan}}
 
 {{tip|Email or message the venue before you travel. A short question such as "Do you allow guests with small tattoos if they are covered?" saves a wasted trip, and the answer is the venue's, not ours.}}
 

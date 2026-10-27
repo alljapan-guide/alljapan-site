@@ -6,7 +6,7 @@ date: 2026-10-20
 updated: 2026-10-20
 cluster: culture
 affiliates: booking | klook
-image_queries: Japanese onsen outdoor bath | Kurokawa Onsen Kumamoto
+image_queries: Japanese onsen outdoor bath | Kurokawa Onsen Kumamoto | Ryokan kaiseki dinner | Yukata onsen town Japan
 ---
 Using an onsen is simple once you know four things: wash thoroughly before you get in, keep your washcloth out of the water, expect full nudity, and check the tattoo policy before you go. Most of the stress for first-timers comes from not knowing these rules in advance.
 
@@ -42,6 +42,8 @@ Our view: treat the wash as the part of the visit that matters most to other bat
 
 The guide says that {{fact:onsen_washcloth}}. On what to do with it in the bath, it says that {{fact:onsen_towel}}. It also advises that once you are done, you pat yourself dry and do not leave your towel by the showers.
 
+{{photo:4|A yukata-clad visitor in an onsen town}}
+
 {{tip|Bring your own larger towel or check that your accommodation provides one, so that you have something to dry with in the changing area. Ask at the front desk if you are unsure.}}
 
 ## Private baths, and what they cost
@@ -67,6 +69,8 @@ The guide notes that onsen are traditionally built to be shared, and that many a
 ## Staying at an onsen accommodation
 
 An accommodation with its own bath is the easiest way to try an onsen, because the rules and the cost are explained when you book. You can compare options and cancellation terms on {{aff:booking|Booking.com}}. If you would rather join an organised experience, you can look at guided options on {{aff:klook|Klook}}. Check what is included in each booking.
+
+{{photo:3|A kaiseki dinner at a ryokan}}
 
 If you are planning a wider trip, our [guide to where to stay in Kyoto](where-to-stay-in-kyoto.html) mentions ryokan and areas with hot spring lodging, and our [day trips guide](best-day-trips-from-tokyo.html) covers Hakone, where the tourism organisation's itinerary lists highlights such as {{fact:hakone_highlights}}.
 

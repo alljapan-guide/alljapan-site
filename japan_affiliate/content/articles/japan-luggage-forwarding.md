@@ -6,7 +6,7 @@ date: 2026-10-22
 updated: 2026-10-22
 cluster: planning
 affiliates: klook
-image_queries: Haneda Airport arrivals lobby | Japan train station coin lockers
+image_queries: Haneda Airport arrivals lobby | Japan train station coin lockers | Yamato Transport truck | FamilyMart Japan convenience store
 ---
 You do not need to carry a large suitcase through Japan's busy stations. The country has a luggage forwarding network, called Hands-Free Travel by the national tourism organisation, that lets you send bags between an airport, your hotels and your next city, so that you travel with only a day bag.
 
@@ -17,6 +17,8 @@ This guide uses the Japan National Tourism Organization's pages on luggage, link
 ## What Hands-Free Travel is
 
 The tourism organisation says that {{fact:hf_def}}. It adds that you can find the services at airports, stations and hotels.
+
+{{photo:4|A suitcase at a Japanese train station}}
 
 For airports, the official page says that {{fact:hf_airports}}. Our view: this is the most useful way to start a trip, especially if your hotel check-in is later in the day or you want to go straight to sightseeing.
 
@@ -53,6 +55,8 @@ On the risk side, it adds that {{fact:hf_comp}}. Our view: read the provider's t
 ## Who provides the service
 
 The JNTO guide names several providers: {{fact:hf_carriers}}. The first JNTO page lists Yamato and JAL ABC among the carriers for Hands-Free Travel, and tells you to ask about counter locations on the logo's official list.
+
+{{photo:3|A delivery truck in Japan}}
 
 On cost, the official page explains that {{fact:hf_fee}}. A second page gives an example range: {{fact:hf_price_range}}. Because that page is dated, treat it as a rough guide and ask the provider for a current quote.
 

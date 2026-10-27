@@ -6,7 +6,7 @@ date: 2026-10-20
 updated: 2026-10-20
 cluster: itineraries
 affiliates: klook | viator | gyg
-image_queries: file:Kamakura Daibutsu - 01.jpg | Nikko Toshogu shrine
+image_queries: file:Kamakura Daibutsu - 01.jpg | Nikko Toshogu shrine | Hakone Lake Ashi Mount Fuji | Nikko Shinkyo Bridge
 ---
 If you only have one free day, choose by travel time and interest. Kamakura is the shortest trip and has a famous Great Buddha, Hakone is built around an easy rail route and a pass system, and Nikko is the longest but is described by the tourism organisation as an outing for one or two days.
 
@@ -36,6 +36,8 @@ Our view: Kamakura is the easiest first day trip because the journey is short an
 
 The tourism organisation describes two routes from Tokyo. One is that {{fact:hakone_romancecar}}. The other is that {{fact:hakone_shinkansen}}.
 
+{{photo:3|Lake Ashi in Hakone with Mount Fuji}}
+
 It also says that {{fact:hakone_freepass}}. Read the pass details on the operator's page before you buy, since the combinations and prices are set by the operator and can change.
 
 The tourism organisation's Hakone itinerary lists highlights such as {{fact:hakone_highlights}}. Our view: Hakone suits travellers who like the journey itself and the scenery, and it can feel more planned than Kamakura, so decide your route before you leave the hotel.
@@ -45,6 +47,8 @@ The tourism organisation's Hakone itinerary lists highlights such as {{fact:hako
 ## Nikko: the longest day trip
 
 The tourism organisation says that {{fact:nikko_distance}}. It gives two main ways to reach it from Tokyo. First, {{fact:nikko_shinjuku}}. Second, {{fact:nikko_shinkansen}}.
+
+{{photo:4|Yomeimon Gate at Nikko Toshogu}}
 
 Our view: Nikko is a long day if you return the same evening, so it suits travellers who start early and are comfortable with a full day on trains. If you want a slower pace, the official page's description of one- and two-day outings is a reason to consider staying overnight.
 

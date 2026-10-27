@@ -7,7 +7,7 @@ updated: 2026-10-18
 cluster: hotels
 affiliates: booking | agoda
 references: tokyo_station_area
-image_queries: Shinjuku Tokyo skyline | Senso-ji Asakusa Kaminarimon
+image_queries: Shinjuku Tokyo skyline | Senso-ji Asakusa Kaminarimon | Shibuya Scramble crossing night | Tokyo Station Marunouchi building
 ---
 For most first-time visitors, Shinjuku is the easiest Tokyo base because of the sheer number of rail lines that meet there. If you would rather stay in an older, calmer part of the city, Asakusa is the classic alternative. If your trip is built around bullet trains, the Tokyo Station area keeps early departures simple.
 
@@ -41,9 +41,13 @@ JNTO describes Sensoji as {{fact:sensoji_oldest}}, and the area around it is org
 
 The official area guide for {{fact:tokyo_station_area}} covers this part of central Tokyo. Our view: staying near Tokyo Station is convenient if you leave early for another city by bullet train, because you avoid a transfer with luggage. Check the guide for what is nearby, and compare room prices, which can differ from the busier entertainment areas.
 
+{{photo:4|Tokyo Station, Marunouchi side}}
+
 ## Shibuya and other options
 
 Shibuya is the area most visitors know for its famous crossing and shopping. We do not cite a source for any claim about it here, so treat the following as our editorial view only: it suits people who want a busy, youthful atmosphere and do not mind noise. Other areas such as Ueno or Ginza can also work well. Use the same checklist: station access, your route, atmosphere and budget.
+
+{{photo:3|Shibuya Crossing at night}}
 
 ```diagram
 type: cards

@@ -6,7 +6,7 @@ date: 2026-10-18
 updated: 2026-10-18
 cluster: connectivity
 affiliates: esim | wifi
-image_queries: SIM card smartphone | Wi-Fi router device
+image_queries: SIM card smartphone | Wi-Fi router device | Smartphone SIM card tray | Wi-Fi router
 ---
 If your phone supports eSIM and is unlocked, an eSIM is usually the simplest choice for one traveller. A rented pocket WiFi router makes more sense when your phone cannot use an eSIM, or when several people or devices share one connection.
 
@@ -34,6 +34,8 @@ steps: Is your phone eSIM-capable and unlocked by its carrier? | Yes: buy an eSI
 - **You do not want extra gear.** There is nothing to charge or return.
 
 Your phone must support eSIM. For iPhone, Apple states the requirement as {{fact:iphone_esim}}. For other phones, read the maker's own compatibility page. The phone must also be unlocked by its carrier, which only your carrier can confirm.
+
+{{photo:3|A smartphone with an eSIM}}
 
 {{tip|Install the eSIM before you leave home and read the provider's activation steps. Some plans start counting days when you first connect, others when you install, so check which applies to yours.}}
 
@@ -73,6 +75,8 @@ See {{aff:wifi|pocket WiFi rental options}} and compare the terms yourself, incl
 ## Staying connected is one part of the plan
 
 If you are using a phone for tickets and navigation, our [IC card guide](japan-ic-card-guide.html) explains the transit card options, including the iPhone route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how connectivity fits into a full trip, and our [hotel area guide](where-to-stay-in-tokyo.html) covers where to base yourself.
+
+{{photo:4|A portable WiFi router}}
 
 {{note|Hotels and cafes often offer WiFi, but coverage varies and it is not a replacement for mobile data while you are out. The tourism organisation's page linked in the Sources box has the official overview.}}
 

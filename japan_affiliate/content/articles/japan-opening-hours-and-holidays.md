@@ -6,7 +6,7 @@ date: 2026-10-26
 updated: 2026-10-26
 cluster: planning
 affiliates: booking | klook
-image_queries: Lawson convenience store Japan night | Sensoji Temple Asakusa Tokyo
+image_queries: Lawson convenience store Japan night | Sensoji Temple Asakusa Tokyo | Tokyo commuters train rush hour | Bon Odori dance Japan
 ---
 Knowing when things are open saves more time in Japan than almost any other piece of planning. The Japan National Tourism Organization (JNTO) publishes typical hours for shops, offices, trains and shrines, and lists the three holiday seasons that can change your trip. This guide summarises that page.
 
@@ -36,6 +36,8 @@ items: Shops=10:00am to 8:00pm every day in urban areas, earlier in rural areas 
 
 JNTO says that {{fact:bh_trains}}. To check, {{fact:bh_apps}}.
 
+{{photo:3|Commuters at Shinjuku Station}}
+
 Rush hour matters if you carry bags. JNTO says that {{fact:bh_rush}}. It adds that {{fact:bh_rush_luggage}}.
 
 {{warn|Do not plan to arrive at a station with large suitcases at the weekday rush hours JNTO lists. Our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to send bags ahead and travel hands-free.}}
@@ -53,6 +55,8 @@ To avoid crowds, JNTO says that {{fact:bh_shrine_crowds}}. Our view: the early-m
 ## The three big holiday periods
 
 JNTO states that {{fact:bh_three}}. It lists them:
+
+{{photo:4|A Bon Odori dance in Japan}}
 
 - **New Year.** JNTO says {{fact:bh_newyear}}.
 - **Golden Week.** JNTO says {{fact:bh_golden}}.

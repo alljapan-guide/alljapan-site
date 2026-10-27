@@ -6,7 +6,7 @@ date: 2026-10-26
 updated: 2026-10-26
 cluster: planning
 affiliates: railpass | booking
-image_queries: Capsule hotel Japan interior | Japanese lunch set teishoku
+image_queries: Capsule hotel Japan interior | Japanese lunch set teishoku | Japan hotel room bed | Don Quijote Tokyo store
 ---
 Japan has a reputation for being expensive, but the Japan National Tourism Organization (JNTO) publishes a page of practical ways to spend less on transport, accommodation, food, culture and shopping. This guide summarises that page and adds our own view, labelled "Our view", so you can tell sourced tips from opinion.
 
@@ -36,6 +36,8 @@ items: Transport=Regional passes, budget airlines and overnight buses | Accommod
 
 JNTO notes that {{fact:bt_hotels}}. It adds that {{fact:bt_hostels}}. For traditional stays, {{fact:bt_ryokan}}.
 
+{{photo:3|A business hotel room in Japan}}
+
 {{warn|JNTO flags one trap: {{fact:bt_meals}}. Check what is near your accommodation before you drop the meal option.}}
 
 Our view: for a first trip, a business hotel near a station is a practical way to keep costs down without losing convenience. Our [Tokyo area guide](where-to-stay-in-tokyo.html) and [Kyoto area guide](where-to-stay-in-kyoto.html) compare where to stay, and you can compare rates and cancellation terms on {{aff:booking|Booking.com}}.
@@ -57,6 +59,8 @@ Our [Fushimi Inari guide](fushimi-inari-guide.html) and [Nara day trip guide](na
 ## Shopping
 
 JNTO says that {{fact:bt_taxfree}}. Our view: if you plan to use tax-free shopping, check the current conditions on the official pages first. Our [visa and entry guide](japan-visa-and-entry-basics.html) mentions the Visit Japan Website, which JNTO says can make tax-free shopping more convenient.
+
+{{photo:4|A discount store in Japan}}
 
 {{tip|Keep a small note on your phone with the tax-free rules and carry your passport on shopping days, as JNTO advises. It prevents a wasted trip back to the hotel.}}
 

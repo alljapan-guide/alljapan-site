@@ -6,7 +6,7 @@ date: 2026-10-27
 updated: 2026-10-27
 cluster: shopping
 affiliates: klook | booking
-image_queries: Narita Airport shops souvenir | Umeboshi pickled plums
+image_queries: Narita Airport shops souvenir | Umeboshi pickled plums | Wagashi Japanese sweets | Haneda Airport Tokyo terminal
 ---
 Buying souvenirs on the last day is a good plan if you know where to look. The Japan National Tourism Organization (JNTO) has a guide to souvenir shopping at Japan's three major international airports, and it also explains why Japanese gifts are easy to pack. This article summarises that guide and adds our own view, labelled "Our view", so you can tell sourced information from opinion.
 
@@ -34,6 +34,8 @@ At Narita, JNTO says that {{fact:so_narita}}. It also notes that {{fact:so_narit
 
 JNTO explains that {{fact:so_haneda_pop}}. It also says that {{fact:so_haneda_anime}}. For location, it notes that {{fact:so_haneda_dist}}.
 
+{{photo:4|A terminal at Haneda Airport}}
+
 Our view: Haneda is the airport for pop culture gifts, and the shops sit before the security gate, so shop before you check in your bags and clear security. Our [airport guide](which-airport-to-fly-into-japan.html) compares the main gateways if you are still deciding where to arrive.
 
 ## Kansai International
@@ -47,6 +49,8 @@ Our view: the takoyaki and okonomiyaki themes make these gifts a fun reminder of
 ## What makes a good souvenir
 
 JNTO is clear about packing: {{fact:so_compact}}. It also notes that {{fact:so_wrapped}}. For easy gifts, it says that {{fact:so_other}}.
+
+{{photo:3|Wagashi, Japanese sweets}}
 
 {{tip|Choose gifts that are flat, sealed and wrapped. They fit into a carry-on bag and survive a trip home. If a gift is food, check the rules of your own country on bringing it in before you buy.}}
 

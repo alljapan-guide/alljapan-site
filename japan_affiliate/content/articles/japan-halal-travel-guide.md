@@ -6,7 +6,7 @@ date: 2026-10-25
 updated: 2026-10-25
 cluster: planning
 affiliates: booking | klook
-image_queries: Tokyo Camii mosque | Tofu hiyayakko Japanese dish
+image_queries: Tokyo Camii mosque | Tofu hiyayakko Japanese dish | Tempura donburi
 ---
 Japan is easy to enjoy as a Muslim traveller, but it takes more planning than many destinations, especially around food. The Japan National Tourism Organization (JNTO) has a page for Muslim travellers, and this guide summarises what it says and turns it into a planning checklist.
 
@@ -59,6 +59,8 @@ JNTO describes a low-stress option: {{fact:h_tours}}. Our view: a tour can solve
 ## How to research a restaurant before you go
 
 Because of the hidden ingredients above, a simple routine helps. Our view: work from the resource list to a shortlist, then confirm each place yourself.
+
+{{photo:3|A vegetable tempura rice bowl}}
 
 1. Find candidates in the Muslim-friendly guides that JNTO lists, near each hotel and each major sight on your route.
 2. Check the most recent information on the listing, since restaurants change menus and sometimes close.

@@ -6,7 +6,7 @@ date: 2026-10-25
 updated: 2026-10-25
 cluster: planning
 affiliates: booking | esim
-image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport terminal building
+image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport terminal building | Narita Express train | Tokyo Monorail Haneda Airport
 ---
 Where you land shapes the first day of your trip. The Japan National Tourism Organization (JNTO) describes the main international airports and what each is close to. This guide uses those pages to help you choose, and adds our own view, labelled "Our view", so you can tell sourced information from opinion.
 
@@ -24,11 +24,15 @@ JNTO also reminds readers that {{fact:a_check}}. Check flight times, transfers a
 
 On Narita, JNTO says that {{fact:a_narita}}. JNTO adds that {{fact:a_narita_gateway}}.
 
+{{photo:3|A Narita Express train}}
+
 Our view: Narita suits travellers who find a good fare, or who do not mind a longer journey into the city. Plan your first night with the transfer time in mind, and remember that a late arrival leaves little margin.
 
 ## Haneda
 
 For Haneda, JNTO explains that {{fact:a_haneda}}. Our view: if the fare is similar, Haneda is the easy choice for a first Tokyo stay, since the shorter transfer matters most on the day you arrive and the day you leave. Our [Tokyo area guide](where-to-stay-in-tokyo.html) compares where to stay once you are in the city.
+
+{{photo:4|The Tokyo Monorail at Haneda Airport}}
 
 ```diagram
 type: cards

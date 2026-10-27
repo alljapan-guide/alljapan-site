@@ -323,15 +323,6 @@
   "file": "which-airport-to-fly-into-japan-2.jpg",
   "query": "Kansai International Airport terminal building"
  },
- "japan-halal-travel-guide/1": {
-  "title": "File:Tokyo Camii 05.JPG",
-  "author": "Abasaa",
-  "license": "Public domain",
-  "license_url": "",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_Camii_05.JPG",
-  "file": "japan-halal-travel-guide-1.jpg",
-  "query": "Tokyo Camii mosque"
- },
  "japan-licensed-tour-guides/1": {
   "title": "File:Streets of Gion, Kyoto - Gion7709.jpg",
   "author": "lumoplank",
@@ -340,15 +331,6 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Streets_of_Gion,_Kyoto_-_Gion7709.jpg",
   "file": "japan-licensed-tour-guides-1.jpg",
   "query": "Gion Kyoto traditional street"
- },
- "japan-halal-travel-guide/2": {
-  "title": "File:Hiya-yakko 003.jpg",
-  "author": "Ocdp",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Hiya-yakko_003.jpg",
-  "file": "japan-halal-travel-guide-2.jpg",
-  "query": "Tofu hiyayakko Japanese dish"
  },
  "which-airport-to-fly-into-japan/1": {
   "title": "File:Narita International Airport, Terminal 1, Departure Hall 6.JPG",
@@ -367,24 +349,6 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:First_Cabin_Ichigaya_Capsule.jpg",
   "file": "japan-budget-travel-tips-1.jpg",
   "query": "Capsule hotel Japan interior"
- },
- "japan-etiquette-for-first-timers/1": {
-  "title": "File:Tsukemen (Dipping Ramen) - Goemon Ramen Bar 2023-07-16.jpg",
-  "author": "Andy Li",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Tsukemen_(Dipping_Ramen)_-_Goemon_Ramen_Bar_2023-07-16.jpg",
-  "file": "japan-etiquette-for-first-timers-1.jpg",
-  "query": "Ramen Japanese noodle bowl"
- },
- "japan-etiquette-for-first-timers/2": {
-  "title": "File:Ryokan Matsumae in Nara.jpg",
-  "author": "Mx. Granger",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ryokan_Matsumae_in_Nara.jpg",
-  "file": "japan-etiquette-for-first-timers-2.jpg",
-  "query": "Ryokan Japan room tatami futon"
  },
  "japan-budget-travel-tips/2": {
   "title": "File:Nirareba itame, rice, soup and kimchi of Gyouza no Ohsho.jpg",
@@ -466,5 +430,482 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Itsukushima-jinja_torii_at_sunset,_Miyajima,_Japan,_20240816_1812_4144.jpg",
   "file": "shinto-shrine-etiquette-1.jpg",
   "query": "Shinto shrine torii Japan"
+ },
+ "best-day-trips-from-tokyo/3": {
+  "title": "File:View of Mount Fuji from Lake Ashi.jpg",
+  "author": "Quercus acuta",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_Lake_Ashi.jpg",
+  "file": "best-day-trips-from-tokyo-3.jpg",
+  "query": "Hakone Lake Ashi Mount Fuji"
+ },
+ "fushimi-inari-guide/3": {
+  "title": "File:Fushimi-Inari-Shrine-Senbon-Torii-2018-Luka-Peternel.jpg",
+  "author": "Luka Peternel",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Fushimi-Inari-Shrine-Senbon-Torii-2018-Luka-Peternel.jpg",
+  "file": "fushimi-inari-guide-3.jpg",
+  "query": "Senbon torii Fushimi Inari path"
+ },
+ "is-japan-rail-pass-worth-it/3": {
+  "title": "File:View of Mount Fuji from Tokaido Shinkansen 2018-04-10.jpg",
+  "author": "jessedyck",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_Tokaido_Shinkansen_2018-04-10.jpg",
+  "file": "is-japan-rail-pass-worth-it-3.jpg",
+  "query": "Tokaido Shinkansen Mount Fuji"
+ },
+ "japan-cherry-blossom-guide/3": {
+  "title": "File:Cherry blossoms tokyo 3.JPG",
+  "author": "nattou",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Cherry_blossoms_tokyo_3.JPG",
+  "file": "japan-cherry-blossom-guide-3.jpg",
+  "query": "Chidorigafuchi cherry blossoms Tokyo"
+ },
+ "japan-ic-card-guide/4": {
+  "title": "File:Yamanote Line train passing under Ikebukuro Ohashi 2026-08-09.jpg",
+  "author": "Asanagi",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yamanote_Line_train_passing_under_Ikebukuro_Ohashi_2026-08-09.jpg",
+  "file": "japan-ic-card-guide-4.jpg",
+  "query": "Yamanote Line train Tokyo"
+ },
+ "japan-licensed-tour-guides/3": {
+  "title": "File:Water reflection of Kinkaku-ji Temple a sunny day, Kyoto, Japan.jpg",
+  "author": "Basile Morin",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg",
+  "file": "japan-licensed-tour-guides-3.jpg",
+  "query": "Kinkaku-ji Kyoto Golden Pavilion"
+ },
+ "japan-luggage-forwarding/3": {
+  "title": "File:Yamato delivery electrick truck, Hino.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yamato_delivery_electrick_truck,_Hino.jpg",
+  "file": "japan-luggage-forwarding-3.jpg",
+  "query": "Yamato Transport truck"
+ },
+ "japan-onsen-etiquette/4": {
+  "title": "File:Sanpou Nishimuraya, Kinosaki Onsen JAPAN (49108378111).jpg",
+  "author": "Nishimuraya Kinosaki Onsen",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sanpou_Nishimuraya,_Kinosaki_Onsen_JAPAN_(49108378111).jpg",
+  "file": "japan-onsen-etiquette-4.jpg",
+  "query": "Yukata onsen town Japan"
+ },
+ "japan-souvenirs-guide/3": {
+  "title": "File:Summer wagashi 10.jpg",
+  "author": "Douglas Perkins",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Summer_wagashi_10.jpg",
+  "file": "japan-souvenirs-guide-3.jpg",
+  "query": "Wagashi Japanese sweets"
+ },
+ "japan-souvenirs-guide/4": {
+  "title": "File:Views of Haneda airport near Terminal 3.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Views_of_Haneda_airport_near_Terminal_3.jpg",
+  "file": "japan-souvenirs-guide-4.jpg",
+  "query": "Haneda Airport Tokyo terminal"
+ },
+ "japan-travel-insurance/3": {
+  "title": "File:Police box in Ebisu 2.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Police_box_in_Ebisu_2.jpg",
+  "file": "japan-travel-insurance-3.jpg",
+  "query": "Japan police box koban"
+ },
+ "japan-weather-by-season/4": {
+  "title": "File:Summer Fireworks Festival in Fukuoka, Japan, July 2025.jpg",
+  "author": "Leeeunju1020",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Summer_Fireworks_Festival_in_Fukuoka,_Japan,_July_2025.jpg",
+  "file": "japan-weather-by-season-4.jpg",
+  "query": "Japan summer fireworks festival"
+ },
+ "meiji-jingu-guide/3": {
+  "title": "File:Meiji Jingu Shrine. Saki Barrels. (27915377617).jpg",
+  "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Shrine._Saki_Barrels._(27915377617).jpg",
+  "file": "meiji-jingu-guide-3.jpg",
+  "query": "Meiji Jingu sake barrels"
+ },
+ "meiji-jingu-guide/4": {
+  "title": "File:Meiji-Shrine-Innergarden-01.jpg",
+  "author": "Rs1421",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Meiji-Shrine-Innergarden-01.jpg",
+  "file": "meiji-jingu-guide-4.jpg",
+  "query": "Meiji Jingu Inner Garden iris"
+ },
+ "nara-day-trip-from-kyoto-osaka/3": {
+  "title": "File:Nara Kasuga-taisha Lanterns & Deer 05.jpg",
+  "author": "Zairon",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Nara_Kasuga-taisha_Lanterns_%26_Deer_05.jpg",
+  "file": "nara-day-trip-from-kyoto-osaka-3.jpg",
+  "query": "Kasuga Taisha lanterns Nara"
+ },
+ "osaka-food-guide/3": {
+  "title": "File:Okonomiyaki cooking on teppan Osaka.jpg",
+  "author": "Lianguanlun",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Okonomiyaki_cooking_on_teppan_Osaka.jpg",
+  "file": "osaka-food-guide-3.jpg",
+  "query": "Okonomiyaki Osaka"
+ },
+ "osaka-food-guide/4": {
+  "title": "File:Osaka 20221209141547 (52653637922).jpg",
+  "author": "inunami",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Osaka_20221209141547_(52653637922).jpg",
+  "file": "osaka-food-guide-4.jpg",
+  "query": "Kushikatsu Shinsekai Osaka"
+ },
+ "tokyo-kyoto-osaka-7-day-itinerary/3": {
+  "title": "File:Shibuya scramble av night from Stream.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shibuya_scramble_av_night_from_Stream.jpg",
+  "file": "tokyo-kyoto-osaka-7-day-itinerary-3.jpg",
+  "query": "Shibuya scramble crossing Tokyo"
+ },
+ "where-to-stay-in-kyoto/4": {
+  "title": "File:Tsukemono shop by collinox in Nishiki Ichiba, Kyoto.jpg",
+  "author": "collinox",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tsukemono_shop_by_collinox_in_Nishiki_Ichiba,_Kyoto.jpg",
+  "file": "where-to-stay-in-kyoto-4.jpg",
+  "query": "Nishiki Market Kyoto"
+ },
+ "where-to-stay-in-tokyo/3": {
+  "title": "File:Shibuya Scramble crossing.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shibuya_Scramble_crossing.jpg",
+  "file": "where-to-stay-in-tokyo-3.jpg",
+  "query": "Shibuya Scramble crossing night"
+ },
+ "which-airport-to-fly-into-japan/4": {
+  "title": "File:Tokyo-Monorail Haneda-Airport-Terminal-3-STA Platforms.jpg",
+  "author": "MaedaAkihiko",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo-Monorail_Haneda-Airport-Terminal-3-STA_Platforms.jpg",
+  "file": "which-airport-to-fly-into-japan-4.jpg",
+  "query": "Tokyo Monorail Haneda Airport"
+ },
+ "japan-ic-card-guide/3": {
+  "title": "File:Kips ICOCA 裏.jpg",
+  "author": "マッツー",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kips_ICOCA_%E8%A3%8F.jpg",
+  "file": "japan-ic-card-guide-3.jpg",
+  "query": "ICOCA card"
+ },
+ "japan-licensed-tour-guides/4": {
+  "title": "File:Sashimi at the Tsukiji Markets - Tokyo Japan (Unsplash).jpg",
+  "author": "Jonathan Forage jonathanforage",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sashimi_at_the_Tsukiji_Markets_-_Tokyo_Japan_(Unsplash).jpg",
+  "file": "japan-licensed-tour-guides-4.jpg",
+  "query": "Tsukiji Outer Market Tokyo"
+ },
+ "japan-local-laws-for-visitors/3": {
+  "title": "File:Quality izakaya in Ebisu.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Quality_izakaya_in_Ebisu.jpg",
+  "file": "japan-local-laws-for-visitors-3.jpg",
+  "query": "Izakaya Tokyo"
+ },
+ "japan-onsen-etiquette/3": {
+  "title": "File:Ikaho dinner 01.jpg",
+  "author": "Tomo",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Ikaho_dinner_01.jpg",
+  "file": "japan-onsen-etiquette-3.jpg",
+  "query": "Ryokan kaiseki dinner"
+ },
+ "shinto-shrine-etiquette/4": {
+  "title": "File:Bad fortune omikuji.jpg",
+  "author": "Chris Gladis (MShades) from Kyoto, Japan",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bad_fortune_omikuji.jpg",
+  "file": "shinto-shrine-etiquette-4.jpg",
+  "query": "Omikuji tied shrine Japan"
+ },
+ "where-to-stay-in-tokyo/4": {
+  "title": "File:Views of the Tokyo Station Marunouchi Building from the Marunouchi Building 2016-06-08.jpg",
+  "author": "Dick Thomas Johnson",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Views_of_the_Tokyo_Station_Marunouchi_Building_from_the_Marunouchi_Building_2016-06-08.jpg",
+  "file": "where-to-stay-in-tokyo-4.jpg",
+  "query": "Tokyo Station Marunouchi building"
+ },
+ "japan-local-laws-for-visitors/4": {
+  "title": "File:Tatsuno-yu Sento Tokyo 4.jpg",
+  "author": "Kurihaya",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tatsuno-yu_Sento_Tokyo_4.jpg",
+  "file": "japan-local-laws-for-visitors-4.jpg",
+  "query": "Sento public bath Japan"
+ },
+ "japan-opening-hours-and-holidays/4": {
+  "title": "File:2024 Umekita Bon Odori Dance Fes22.jpg",
+  "author": "Mr.ちゅらさん",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:2024_Umekita_Bon_Odori_Dance_Fes22.jpg",
+  "file": "japan-opening-hours-and-holidays-4.jpg",
+  "query": "Bon Odori dance Japan"
+ },
+ "where-to-stay-in-kyoto/3": {
+  "title": "File:Kyoto Station November 2016 -02.jpg",
+  "author": "Martin Falbisoner",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kyoto_Station_November_2016_-02.jpg",
+  "file": "where-to-stay-in-kyoto-3.jpg",
+  "query": "Kyoto Station building"
+ },
+ "which-airport-to-fly-into-japan/3": {
+  "title": "File:Narita Express nearing Shibuya station.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Narita_Express_nearing_Shibuya_station.jpg",
+  "file": "which-airport-to-fly-into-japan-3.jpg",
+  "query": "Narita Express train"
+ },
+ "nara-day-trip-from-kyoto-osaka/4": {
+  "title": "File:Shika Senbei 1 (6694066527).jpg",
+  "author": "Travis from Sydney, NSW, Australia",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shika_Senbei_1_(6694066527).jpg",
+  "file": "nara-day-trip-from-kyoto-osaka-4.jpg",
+  "query": "Deer Nara Park"
+ },
+ "shinto-shrine-etiquette/3": {
+  "title": "File:Guardian lions and stairs of Atago Shrine in Yobuko, Karatsu.JPG",
+  "author": "そらみみ",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Guardian_lions_and_stairs_of_Atago_Shrine_in_Yobuko,_Karatsu.JPG",
+  "file": "shinto-shrine-etiquette-3.jpg",
+  "query": "Komainu guardian statue shrine"
+ },
+ "japan-budget-travel-tips/3": {
+  "title": "File:Japanese & Western-style Room (21720066938).jpg",
+  "author": "Nishimuraya Kinosaki Onsen",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Japanese_%26_Western-style_Room_(21720066938).jpg",
+  "file": "japan-budget-travel-tips-3.jpg",
+  "query": "Japan hotel room bed"
+ },
+ "fushimi-inari-guide/4": {
+  "title": "File:Gekkeikan Okura Sake Museum01nt3200.jpg",
+  "author": "663highland",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Gekkeikan_Okura_Sake_Museum01nt3200.jpg",
+  "file": "fushimi-inari-guide-4.jpg",
+  "query": "Fushimi Kyoto sake"
+ },
+ "japan-cherry-blossom-guide/4": {
+  "title": "File:Throngs of people walking towards Himeji Castle, Himeji, 2016.jpg",
+  "author": "DimiTalen",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Throngs_of_people_walking_towards_Himeji_Castle,_Himeji,_2016.jpg",
+  "file": "japan-cherry-blossom-guide-4.jpg",
+  "query": "Himeji Castle sakura"
+ },
+ "japan-esim-vs-pocket-wifi/4": {
+  "title": "File:ELECOM WRC-300FEBK WPS WiFi router 2.jpg",
+  "author": "Syced",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:ELECOM_WRC-300FEBK_WPS_WiFi_router_2.jpg",
+  "file": "japan-esim-vs-pocket-wifi-4.jpg",
+  "query": "Wi-Fi router"
+ },
+ "best-day-trips-from-tokyo/4": {
+  "title": "File:Shinkyo (Nikko) -2.JPG",
+  "author": "Saigen Jiro",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shinkyo_(Nikko)_-2.JPG",
+  "file": "best-day-trips-from-tokyo-4.jpg",
+  "query": "Nikko Shinkyo Bridge"
+ },
+ "is-japan-rail-pass-worth-it/4": {
+  "title": "File:Shinkansen N700 set Z8 Kyoto Station 161 (21161849181).jpg",
+  "author": "sodai gomi",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shinkansen_N700_set_Z8_Kyoto_Station_161_(21161849181).jpg",
+  "file": "is-japan-rail-pass-worth-it-4.jpg",
+  "query": "Shinkansen Kyoto Station platform"
+ },
+ "japan-travel-insurance/4": {
+  "title": "File:Matsumoto KiYoshi Himeji-Ekimae 02.jpg",
+  "author": "Corpse Reviver",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Matsumoto_KiYoshi_Himeji-Ekimae_02.jpg",
+  "file": "japan-travel-insurance-4.jpg",
+  "query": "Matsumoto Kiyoshi drugstore"
+ },
+ "japan-weather-by-season/3": {
+  "title": "File:Entrance to Hydrangea Path at Hasedera (Kamakura).jpg",
+  "author": "Yoshi Canopus",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Entrance_to_Hydrangea_Path_at_Hasedera_(Kamakura).jpg",
+  "file": "japan-weather-by-season-3.jpg",
+  "query": "Hydrangea Hasedera Kamakura"
+ },
+ "japan-esim-vs-pocket-wifi/3": {
+  "title": "File:Galaxy S7 clone dual-SIM tray.jpg",
+  "author": "Blakegripling ph",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Galaxy_S7_clone_dual-SIM_tray.jpg",
+  "file": "japan-esim-vs-pocket-wifi-3.jpg",
+  "query": "Smartphone SIM card tray"
+ },
+ "japan-visa-and-entry-basics/3": {
+  "title": "File:Haneda International Airport International Terminal no5.JPG",
+  "author": "toshinori baba",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Haneda_International_Airport_International_Terminal_no5.JPG",
+  "file": "japan-visa-and-entry-basics-3.jpg",
+  "query": "Haneda Airport international arrivals"
+ },
+ "japan-visa-and-entry-basics/4": {
+  "title": "File:Narita Airport Terminal 2 Arrival Hall 2018.jpg",
+  "author": "Wpcpey",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Narita_Airport_Terminal_2_Arrival_Hall_2018.jpg",
+  "file": "japan-visa-and-entry-basics-4.jpg",
+  "query": "Narita Airport arrivals hall"
+ },
+ "japan-opening-hours-and-holidays/3": {
+  "title": "File:Shibuya Toyoko Line.jpg",
+  "author": "Joi Ito",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shibuya_Toyoko_Line.jpg",
+  "file": "japan-opening-hours-and-holidays-3.jpg",
+  "query": "Tokyo commuters train rush hour"
+ },
+ "japan-luggage-forwarding/4": {
+  "title": "File:K-FamilyMart platform of Kintetsu Tomio station store (1).JPG",
+  "author": "Tokumeigakarinoaoshima",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:K-FamilyMart_platform_of_Kintetsu_Tomio_station_store_(1).JPG",
+  "file": "japan-luggage-forwarding-4.jpg",
+  "query": "FamilyMart Japan convenience store"
+ },
+ "japan-etiquette-for-first-timers/1": {
+  "title": "File:Tsukemen (Dipping Ramen) - Goemon Ramen Bar 2023-07-16.jpg",
+  "author": "Andy Li",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tsukemen_(Dipping_Ramen)_-_Goemon_Ramen_Bar_2023-07-16.jpg",
+  "file": "japan-etiquette-for-first-timers-1.jpg",
+  "query": "Ramen Japanese noodle bowl"
+ },
+ "japan-etiquette-for-first-timers/2": {
+  "title": "File:Ryokan Matsumae in Nara.jpg",
+  "author": "Mx. Granger",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Ryokan_Matsumae_in_Nara.jpg",
+  "file": "japan-etiquette-for-first-timers-2.jpg",
+  "query": "Ryokan Japan room tatami futon"
+ },
+ "japan-etiquette-for-first-timers/3": {
+  "title": "File:Tourists dinner in Japan.jpg",
+  "author": "Kinobiel",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tourists_dinner_in_Japan.jpg",
+  "file": "japan-etiquette-for-first-timers-4.jpg",
+  "query": "Yukata ryokan Japan"
+ },
+ "japan-halal-travel-guide/1": {
+  "title": "File:Tokyo Camii 05.JPG",
+  "author": "Abasaa",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tokyo_Camii_05.JPG",
+  "file": "japan-halal-travel-guide-1.jpg",
+  "query": "Tokyo Camii mosque"
+ },
+ "japan-halal-travel-guide/2": {
+  "title": "File:Hiya-yakko 003.jpg",
+  "author": "Ocdp",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Hiya-yakko_003.jpg",
+  "file": "japan-halal-travel-guide-2.jpg",
+  "query": "Tofu hiyayakko Japanese dish"
+ },
+ "japan-halal-travel-guide/3": {
+  "title": "File:Shrimp tempura bowl of Japanese National Diet Library.jpg",
+  "author": "毒島みるく",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shrimp_tempura_bowl_of_Japanese_National_Diet_Library.jpg",
+  "file": "japan-halal-travel-guide-4.jpg",
+  "query": "Tempura donburi"
+ },
+ "japan-budget-travel-tips/4": {
+  "title": "File:Don Quijote Higashiguchi Honten (21404786568).jpg",
+  "author": "Dick Thomas Johnson from Tokyo, Japan",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Don_Quijote_Higashiguchi_Honten_(21404786568).jpg",
+  "file": "japan-budget-travel-tips-4.jpg",
+  "query": "Don Quijote Tokyo store"
  }
 }

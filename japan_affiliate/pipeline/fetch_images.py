@@ -118,7 +118,8 @@ def run(get=http_json, download=http_bytes, pause=3):
                 print(f"download failed for {key}: {e}")
                 continue
             images[key] = {**rec, "file": fn, "query": q}
-            print(f"fetched {key}: {rec['title']} ({rec['license']})")
+            IMAGES.write_text(json.dumps(images, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")  # keep progress if the run is cut off
+            print(f"fetched {key}: {rec['title']} ({rec['license']})", flush=True)
     IMAGES.write_text(json.dumps(images, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
 

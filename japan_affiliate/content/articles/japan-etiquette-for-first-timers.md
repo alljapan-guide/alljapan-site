@@ -6,7 +6,7 @@ date: 2026-10-26
 updated: 2026-10-26
 cluster: culture
 affiliates: booking | klook
-image_queries: Ramen Japanese noodle bowl | Ryokan Japan room tatami futon
+image_queries: Ramen Japanese noodle bowl | Ryokan Japan room tatami futon | Yukata ryokan Japan
 ---
 Most visitors worry about etiquette more than they need to. The Japan National Tourism Organization (JNTO) takes a relaxed view: politeness and common sense go a long way, and when you are unsure, you can ask. This guide summarises the JNTO page on customs and manners and turns it into a short checklist.
 
@@ -59,6 +59,8 @@ JNTO says that {{fact:cm_tipping}}. Our view: this is one habit you can simply l
 ## Ryokan etiquette
 
 Traditional inns have their own rules. JNTO says that {{fact:cm_ryokan}}. It adds that {{fact:cm_yukata}}, and that {{fact:cm_dinner}}.
+
+{{photo:3|A guest in a yukata at a ryokan}}
 
 Our view: ask at check-in about the yukata, the slippers and the dinner time. JNTO says to {{fact:cm_simply_ask}}.
 

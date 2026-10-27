@@ -6,7 +6,7 @@ date: 2026-10-24
 updated: 2026-10-24
 cluster: planning
 affiliates: insurance | esim
-image_queries: Narita International Airport terminal | Kansai International Airport terminal building
+image_queries: Narita International Airport terminal | Kansai International Airport terminal building | Haneda Airport international arrivals | Narita Airport arrivals hall
 ---
 Whether you need a visa for Japan depends on your passport, and the answer can change. This guide summarises what the Japan National Tourism Organization (JNTO) publishes for tourists, shows you what to check, and points you to the government pages that decide the question.
 
@@ -23,6 +23,8 @@ Our view: check the validity of your passport before you do anything else, inclu
 ## Do you need a visa?
 
 JNTO explains that {{fact:visa_exempt}}. It does not list the countries on its own page. Instead, {{fact:visa_list}}, and JNTO links to it.
+
+{{photo:3|An immigration counter at a Japanese airport}}
 
 ```diagram
 type: flow
@@ -51,6 +53,8 @@ JNTO is direct about the limits: {{fact:visa_no_work}}. Our view: if your plans 
 ## The Visit Japan Website
 
 On advance registration, JNTO says {{fact:visa_vjw}}. Our view: if you plan to shop tax-free, registering ahead is worth the few minutes it takes, because it reduces the paperwork you handle at the counter. Check the official site for what you can register and when.
+
+{{photo:4|Haneda Airport Terminal 3}}
 
 {{tip|Make one folder on your phone with a photo of your passport page, your accommodation booking and your flight details. JNTO's list of documents for a visa includes accommodation and itinerary, and having them together makes any form easier.}}
 

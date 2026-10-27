@@ -7,7 +7,7 @@ updated: 2026-10-18
 cluster: itineraries
 affiliates: booking | klook | railpass | esim
 references: nara_park_guide
-image_queries: Fushimi Inari Taisha torii gates | Nara Park deer Todai-ji
+image_queries: Fushimi Inari Taisha torii gates | Nara Park deer Todai-ji | Shibuya scramble crossing Tokyo
 ---
 One week is enough for the classic route if you keep it simple: three nights in Tokyo, three in Kyoto with a day trip to Nara, and a final day in Osaka before you fly out. This plan favours fewer, better days over a long list of sights.
 
@@ -38,6 +38,8 @@ Choose your base carefully, because you return to it every evening. Our guide to
 ## Day 2: Old and new Tokyo
 
 Start in Asakusa. The official tourism guide describes Sensoji as {{fact:sensoji_oldest}}, and the temple is the heart of the area. Visit early if you prefer fewer people. Then cross the city to Shibuya for the famous crossing and an afternoon of browsing, and finish with dinner nearby. If you enjoy guided experiences, a food walk or evening tour on {{aff:klook|Klook}} can add structure.
+
+{{photo:3|Shibuya Crossing in Tokyo}}
 
 {{note|Do not try to see everything. Pick two or three areas a day and leave gaps for wandering; that is our editorial advice for a first trip.}}
 

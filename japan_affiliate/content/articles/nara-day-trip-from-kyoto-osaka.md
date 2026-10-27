@@ -6,7 +6,7 @@ date: 2026-10-23
 updated: 2026-10-23
 cluster: itineraries
 affiliates: klook | viator | gyg
-image_queries: Nara Park deer Todai-ji | Todai-ji Daibutsuden Nara
+image_queries: Nara Park deer Todai-ji | Todai-ji Daibutsuden Nara | Kasuga Taisha lanterns Nara | Deer Nara Park
 ---
 Nara is an easy day trip from both Kyoto and Osaka, and the official Nara tourism guide treats it that way: it says {{fact:nara_just30}}. The two things to sort out in advance are which station you use and how you will walk between the sights in Nara Park.
 
@@ -56,9 +56,13 @@ The guide adds that {{fact:nara_nigatsudo}}. Our view: if you only have time for
 
 The guide says {{fact:nara_kasuga_path}}. It adds that {{fact:nara_kasuga}}. Our view: this is a natural second stop on the walk back, and the route through the park is part of the experience.
 
+{{photo:3|Lanterns at Kasugataisha Shrine}}
+
 ## The deer: what to know before you go
 
 The deer are the reason many visitors come to Nara. The official guide notes that {{fact:nara_deer_crackers}}. It also says {{fact:nara_deer_protected}}.
+
+{{photo:4|Feeding the deer in Nara Park}}
 
 {{warn|The official park guide advises you to {{fact:nara_deer_tip}}. The deer are used to being fed and will nudge you when they are hungry.}}
 

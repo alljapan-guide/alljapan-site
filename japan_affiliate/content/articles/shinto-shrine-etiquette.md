@@ -6,7 +6,7 @@ date: 2026-10-27
 updated: 2026-10-27
 cluster: culture
 affiliates: klook | viator
-image_queries: Shinto shrine torii Japan | Ema votive tablets shrine
+image_queries: Shinto shrine torii Japan | Ema votive tablets shrine | Komainu guardian statue shrine | Omikuji tied shrine Japan
 ---
 You will probably visit a shrine on any trip to Japan, and a few simple steps make the visit smoother. The Japan National Tourism Organization (JNTO) has a guide to shrine visits, and this article turns it into a checklist. Where we add advice, we label it "Our view", so you can tell JNTO's steps from our opinion.
 
@@ -17,6 +17,8 @@ JNTO notes that {{fact:se_80000}}, and that {{fact:se_big}}. So the habit is wor
 ## What you will see at a shrine
 
 JNTO describes the common sights. First, {{fact:se_torii}}. Next, {{fact:se_komainu}}. Around the grounds, {{fact:se_shimenawa}}.
+
+{{photo:3|A komainu guardian statue}}
 
 Further in, {{fact:se_honden}}. Our view: you do not need to learn every term. If you can spot the torii, the water basin and the offering box, you can follow the whole routine.
 
@@ -61,6 +63,8 @@ Our view: a shrine is a place of worship, so treat it as one even if you are a t
 ## Shrine goods
 
 After the visit, shrines sell goods that make good, small souvenirs. JNTO describes four.
+
+{{photo:4|Omikuji fortunes tied at a shrine}}
 
 - **Omikuji.** JNTO says {{fact:se_omikuji}}. It adds that {{fact:se_omikuji_bad}}.
 - **Ema.** JNTO says {{fact:se_ema}}.
