@@ -47,3 +47,6 @@ Added 2 photos to every article (most pages now have 4, three have 3: japan-etiq
 
 ## 2026-10-28 daily articles
 Added ise-jingu-guide, izumo-taisha-guide, itsukushima-miyajima-guide from the owner-requested backlog (62 new facts, all verified on JNTO pages; 4 photos each = 12 new). 29 articles. data/images.json may now carry an optional "caption" per photo (used instead of the Commons-title caption when the title is unreadable; set only after checking the photo by eye). Note: two JNTO pages give slightly different Izumo shimenawa lengths (13.5 vs 13.6 m); the Izumo article says so. Remaining backlog: osaka-souvenir-sweets, hiroshima-souvenirs-momiji-manju, shotengai-souvenir-shopping, tohoku-souvenirs, japan-ekiben-guide, famous-shrines-in-japan.
+
+## 2026-10-28 new article banners (owner chose option A)
+Article hero images are now original Japanese-style illustrations per cluster (pipeline/hero_art.py): itineraries = Fuji, sun and sakura petals; culture = torii at dusk; transport = bullet train and Fuji; hotels = ryokan roof and pine; food = noodle bowl; shopping = paper lanterns; seasonal = sakura branch over Fuji; connectivity = radio arcs; planning = folding fan. Unknown clusters fall back to the Fuji scene. The old generic banner is kept as _legacy_hero_svg in visuals.py (unused).

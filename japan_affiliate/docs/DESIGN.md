@@ -12,6 +12,7 @@ Honest note: this is not the opinion of a hired designer. It applies published, 
 | Seigaiha (wave) pattern on hero and footer, ichimatsu (checker) stripe under the top edge, vermilion disc motif | Traditional Japanese patterns; drawn as original SVG, no licensing | (own artwork) |
 | Serif headings with Japanese Mincho fallbacks, system sans for body | Editorial tone; no external font requests (privacy page says the site loads nothing third-party) | (own decision) |
 | Reduced-motion and dark-mode support | Accessibility and comfort | W3C WCAG / browser media queries |
+| Article banner = original Japanese-style flat illustration per cluster (Fuji and sun, torii at dusk, bullet train, ryokan roof, noodle bowl, paper lanterns, sakura branch, radio arcs, folding fan) on a seigaiha wave band, drawn as SVG in `pipeline/hero_art.py` | The previous banner was one generic mountain-and-sun picture for every article; owner asked for a more Japanese look (option A of the 2026-10 proposals) | (own artwork, no licensing) |
 | Card thumbnails are 640px copies (about 5-10x smaller than the originals) with photographer and license shown | Page weight; licence attribution must stay near the image | Wikimedia licences |
 
 What the owner can adjust: colours (`PALETTE` and `CSS_TEMPLATE` in `pipeline/theme.py`), topic labels and kanji (`TOPICS`), hero text (`home_html`).

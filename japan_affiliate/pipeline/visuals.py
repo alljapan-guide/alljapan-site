@@ -21,6 +21,11 @@ def esc(s):
 
 
 def hero_svg(cluster, seed):
+    from .hero_art import hero  # Japanese-style scene per cluster (see hero_art.py)
+    return hero(cluster, seed)
+
+
+def _legacy_hero_svg(cluster, seed):
     top, bottom, sun, far, near = THEMES.get(cluster, DEFAULT_THEME)
     h = sum(ord(c) for c in seed)
     sx = 180 + (h * 37) % 840
