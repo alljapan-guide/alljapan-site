@@ -4501,5 +4501,885 @@
   "topics": [
    "meiji-jingu-guide"
   ]
+ },
+ {
+  "id": "is_must",
+  "text": "Ise Grand Shrine, or Ise Jingu, is undoubtedly a must go when travelling in Japan",
+  "claim": "Ise Jingu overview",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "is undoubtedly a must go when travelling in Japan"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_heart",
+  "text": "Ise Grand Shrine is believed to be the heart of all 80,000 shrines in Japan",
+  "claim": "Heart of the shrines",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "Ise Grand Shrine is believed to be the heart of all 80,000 shrines in Japan"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_125",
+  "text": "the name Jingu refers to all 125 shrines at Ise, including 14 smaller betsugu, 43 Sessha, 24 Massha and 42 Shokansha",
+  "claim": "125 shrines",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "refers to all 125 shrines at Ise",
+   "14 smaller betsugu, 43 Sessha, 24 Massha, and 42 Shokansha"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_newyear",
+  "text": "an important annual event of the grand shrine is in the New Year time, when the Prime Minister and cabinet come to pray",
+  "claim": "New Year",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "An important annual event of the grand shrine is in the New Year time"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_6km",
+  "text": "the inner shrine and outer shrine are 6 km apart from each other, so you need to plan your route in advance",
+  "claim": "Distance between shrines",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "The inner shrine and outer shrine are 6 km apart from each other, so you need to plan your route in advance"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_order",
+  "text": "the correct sequence is to visit the outer shrine first, then the inner one",
+  "claim": "Order of visit",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "visit the outer shrine first, then the inner one"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_imperial",
+  "text": "the imperial family follows this sequence in their prayer as well",
+  "claim": "Imperial family",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "The imperial family follows this sequence in their prayer as well"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_both",
+  "text": "bad luck is believed to come if you pray only at either one of the two shrines",
+  "claim": "Visit both",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "pray only at either one of the two shrines"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_hall",
+  "text": "at both the outer and inner shrines, visit the main hall first and then the first betsugu, Takanomiya in the outer shrine and Aramatsurinomiya in the inner",
+  "claim": "Main hall then betsugu",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "visit the main hall first, then the first betsugu",
+   "Takanomiya in the outer shrine"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_sides",
+  "text": "keep to the left at the outer shrine (geku), and to the right at the inner shrine",
+  "claim": "Which side to walk",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "keep to the left at the outer shrine (geku), and to the right at the inner shrine"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_torii",
+  "text": "stop at the first torii gate along the approach and bow",
+  "claim": "Torii bow",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "Stop at the first Torii gate along the approach and bow"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_manners",
+  "text": "smoking is prohibited in the shrine area, and visitors should speak softly and switch their mobile phone to silent mode",
+  "claim": "Basic manners",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "smoking is prohibited in the shrine area, to speak softly, and to switch your mobile phone to silent mode"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_dress",
+  "text": "you should not expose too much of your skin, and you should take off your hat when in front of the god",
+  "claim": "Dress",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "Please do not expose too much of your skin, and take off your hats when in front of the god"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_chozu",
+  "text": "at the chozuya you slightly wash your hands and mouth as a symbol to purify your mind before entering the shrine",
+  "claim": "Chozuya",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "Slightly wash your hands and mouth as a symbol to purify your mind before entering the shrine"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_ladle",
+  "text": "first hold the water ladle with your right hand to wash your left hand before switching",
+  "claim": "Washing hands",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "first hold the water ladle with your right hand to wash your left hand before switching"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_pray",
+  "text": "at the torii gate bow deeply at a 90 degree angle with your hands by your sides, then clap twice and pray, followed by another bow",
+  "claim": "Praying",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "bow deeply at a 90 degree angle with your hands by your sides",
+   "clap twice and pray, which is followed by another bow"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_futami",
+  "text": "Futamiokitama Jinja is the spot where believers of Ise Grand Shrine first purify their mind, a practice called Hamasangu",
+  "claim": "Futamiokitama",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "Futamiokitama Jinja"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_meoto",
+  "text": "the Meoto Iwa consists of a 9m high male rock and a 4m high female rock connected by a sacred rope",
+  "claim": "Meoto Iwa",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "a 9m high male rock and 4m high female rock"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_betsugu",
+  "text": "there are 4 betsugu at the outer shrine and 10 in the inner shrine",
+  "claim": "Betsugu count",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "There are 4 betsugus at the outer shrine, and 10 in the inner shrine"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_tsukiyomi",
+  "text": "Tsukiyominomiya, a famous betsugu at the inner shrine, has many ancient divine trees surrounding it",
+  "claim": "Tsukiyominomiya",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "many ancient divine trees surrounding it"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_rituals",
+  "text": "there are as many as 1,500 rituals at Ise Grand Shrine in a single year",
+  "claim": "Rituals",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "as many as 1,500 rituals at Ise Grand Shrine in a single year"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "is_shinme",
+  "text": "on certain days each month a service called Shinmekenzan involves a shinme, a horse dressed sacredly, and visitors can line up along the approach to watch",
+  "claim": "Shinmekenzan",
+  "source_name": "JNTO: How to Pray at Ise Grand Shrine",
+  "source_url": "https://www.japan.travel/en/sg/guide/must-go-mie-how-pray-ise-grand-shrine/",
+  "must_contain": [
+   "Shinmekenzan",
+   "a shinme (a horse dressed sacredly)"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "ise-jingu-guide"
+  ]
+ },
+ {
+  "id": "iz_gather",
+  "text": "Izumo Oyashiro is a traditional shrine believed to be a gathering place for all Japanese deities",
+  "claim": "Gathering of the gods",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "a traditional shrine believed to be a gathering place for all Japanese deities"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_marriage",
+  "text": "Izumo Oyashiro is said to house the deity of marriage, Okuninushi-no-Ookami",
+  "claim": "Deity of marriage",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "said to house the deity of marriage"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_bonds",
+  "text": "this deity creates bonds not just between people, but between all living creatures",
+  "claim": "Bonds",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "This deity creates bonds not just between people, but all living creatures"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_rope",
+  "text": "the shimenawa rope at Kagura Hall is 13.6 meters long and weighs 5.2 tons",
+  "claim": "Shimenawa",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "The shimenawa rope at Kagura Hall is 13.6 meters long and weighs 5.2 tons"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_height",
+  "text": "the main shrine building stands 24 meters tall, but was previously 48 meters",
+  "claim": "Height",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "main shrine building stands 24 meters tall"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_treasure",
+  "text": "the main shrine building is a national treasure",
+  "claim": "National treasure",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "main shrine building is a national treasure"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_november",
+  "text": "Japanese deities are said to come together at Izumo Oyashiro in the month of November",
+  "claim": "November gathering",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "Japanese deities are said to come together at Izumo Oyashiro in the month of November"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_kojiki",
+  "text": "mentions of Izumo Oyashiro date as far back as the Kojiki, which was created in 712",
+  "claim": "Kojiki",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "date as far back as the Kojiki",
+   "created in 712"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_kamiarizuki",
+  "text": "in the Izumo region this is known as Kamiarizuki, a Month of the Gods, while the rest of Japan observes Kannazuki, a Month without Gods",
+  "claim": "Month of the Gods",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "Kamiarizuki, a Month of the Gods",
+   "Kannazuki, a Month without Gods"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_rabbits",
+  "text": "visitors are likely to find cute, little white statues of rabbits on the grounds",
+  "claim": "White rabbits",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "cute, little white statues of rabbits"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_bows",
+  "text": "visitors to Izumo Oyashiro bow twice and then clap four times before the final bow",
+  "claim": "Four claps",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "visitors to Izumo Oyashiro bow twice and then clap four times before the final bow"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_approach",
+  "text": "the approach is roughly 700 meters long from Ichi-no-torii to Ni-no-torii and is lined with souvenir shops and cafes",
+  "claim": "Approach",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "The approach to the shrine is roughly 700 meters long from Ichi-no-torii to Ni-no-torii",
+   "souvenir shops and cafes"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_soba",
+  "text": "Izumo soba is often served in three-tiered containers and is darker in color than other soba",
+  "claim": "Izumo soba",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "Often served in three-tiered containers",
+   "Izumo soba noodles"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_pines",
+  "text": "the shrine approach is lined with magnificent pine trees",
+  "claim": "Pine trees",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "lined with magnificent pine trees"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_bus",
+  "text": "from JR Izumoshi Station, transfer onto the Ichibata bus bound for Izumo Taisha and get off at Seimon-mae",
+  "claim": "Bus",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "transfer onto the Ichibata bus bound for Izumo Taisha and get off at Seimon-mae"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_airport",
+  "text": "it takes 30 minutes to reach Izumo Oyashiro from Izumo Airport by car or direct bus",
+  "claim": "From the airport",
+  "source_name": "JNTO: Izumo Oyashiro (Izumo Taisha)",
+  "source_url": "https://www.japan.travel/en/spot/937/",
+  "must_contain": [
+   "30 minutes to reach Izumo Oyashiro from the airport by car or direct bus"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_osaka",
+  "text": "from Shin-Osaka Station you take the Sanyo Shinkansen to Okayama, then change to the JR Limited Express Yakumo to Izumoshi Station",
+  "claim": "From Osaka",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "change to the JR Limited Express Yakumo, and get off at Izumoshi Station"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_tokyo",
+  "text": "the journey from Tokyo takes 6 hours 45 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "From Tokyo: 6 hours 45 minutes"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_days",
+  "text": "the recommended length of a trip to Izumo is 2 days",
+  "claim": "Trip length",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_marriage_pray",
+  "text": "many people travel to Izumo Taisha from far and wide to pray for success in marriage",
+  "claim": "Praying for marriage",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "Many people travel here from far and wide to pray for success in marriage"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_museum",
+  "text": "the Shimane Museum of Ancient Izumo introduces Japanese mythology and history through the lens of Izumo Taisha",
+  "claim": "Museum",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "introduces Japanese mythology and history through the lens of Izumo Taisha"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_inasa",
+  "text": "Inasa Beach and Bentenjima are 15 minutes away on foot from Izumo Taisha",
+  "claim": "Inasa Beach",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "Inasa Beach and Bentenjima are 15 minutes away on foot"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "iz_gulls",
+  "text": "at Fumishima thousands of black-tailed gulls gather",
+  "claim": "Gulls",
+  "source_name": "JNTO: Izumo, Land of the Gods",
+  "source_url": "https://www.japan.travel/en/itineraries/izumo-land-of-the-gods/",
+  "must_contain": [
+   "Fumishima, where thousands of black-tailed gulls gather"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "izumo-taisha-guide"
+  ]
+ },
+ {
+  "id": "mj2_float",
+  "text": "Itsukushima-jinja appears to float on the water when the tide is in",
+  "claim": "Floating shrine",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "which appears to float on the water when the tide is in"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_photo",
+  "text": "the shrine is one of the most photographed places in Japan",
+  "claim": "Photographed",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "The shrine is one of the most photographed places in Japan"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_sacred",
+  "text": "the island was once considered so sacred that it was separated from the shrine so no one would spoil the sacred ground",
+  "claim": "Sacred island",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "so sacred that it was separated from the shrine so no one would spoil the sacred ground"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_gate",
+  "text": "the entrance to the shrine, a huge red wooden gate, is also constructed offshore",
+  "claim": "Offshore gate",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "a huge red wooden gate, is also constructed offshore"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_lowtide",
+  "text": "you can walk out to the large torii gate at low tide",
+  "claim": "Low tide",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "Walking out to the large torii gate at low tide"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_ferry",
+  "text": "you take a ferry from Miyajimaguchi Port on the mainland, and the ride takes around 10 minutes, depending on the weather",
+  "claim": "Ferry",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "you need to take a ferry from Miyajimaguchi Port on the mainland",
+   "The ferry ride takes around 10 minutes, depending on the weather"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_station",
+  "text": "you can reach Miyajimaguchi Station from Hiroshima Station in around 30 minutes on the Sanyo Line",
+  "claim": "From Hiroshima",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "from Hiroshima Station in around 30 minutes on the Sanyo Line"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_tax",
+  "text": "a small visitor tax of 100 yen is included in ferry tickets to the island, with exemptions for local residents, commuters and young children",
+  "claim": "Visitor tax",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "a small 100 yen visitor tax is included in ferry tickets to the island",
+   "Exemptions apply for local residents, commuters, and young children"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_pop",
+  "text": "Miyajima only has a population of around 2,000 people, plus some free-roaming deer",
+  "claim": "Population and deer",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "Miyajima only has a population of around 2,000 people, plus some free-roaming deer"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_unesco",
+  "text": "Itsukushima-jinja and the floating gate are listed by UNESCO as World Heritage sites",
+  "claim": "World Heritage",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "Itsukushima-jinja and the floating gate are listed by UNESCO as World Heritage sites"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_ropeway",
+  "text": "a ropeway takes you up Mt. Misen for stunning views over the island and the bay",
+  "claim": "Ropeway",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "A ropeway takes you up Mt. Misen for stunning views over the island and the bay"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_daishoin",
+  "text": "Daishoin Temple, the oldest temple on Miyajima, is surrounded by maple trees that turn a stunning red in the fall",
+  "claim": "Daishoin",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "Daishoin Temple, the oldest temple on Miyajima, is surrounded by maple trees that turn a stunning red in the fall"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_daiganji",
+  "text": "Daiganji Temple is next to Itsukushima-jinja and is dedicated to Benzaiten, goddess of music, art, and water",
+  "claim": "Daiganji",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "dedicated to Benzaiten, goddess of music, art, and water"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_senjokaku",
+  "text": "Senjokaku, the largest structure on the island, can be translated as hall with 1,000 mats, and Toyotomi Hideyoshi died in 1598 before its completion",
+  "claim": "Senjokaku",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "The largest structure on the island is Senjokaku",
+   "Toyotomi Hideyoshi was overseeing the construction but died in 1598 before its completion"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_pagoda",
+  "text": "Gojunoto is a beautiful five-story red pagoda, originally built in 1407",
+  "claim": "Pagoda",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "a beautiful five-story red pagoda, originally built in 1407"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_hiroshige",
+  "text": "the woodblock artist Hiroshige made several iconic prints of the area, capturing the shrine and the gate at both low and high tide",
+  "claim": "Hiroshige",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "Hiroshige made several iconic prints of the area"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
+ },
+ {
+  "id": "mj2_bori",
+  "text": "Miyajima is now famous for wood carving, and Miyajima bori makes a good souvenir",
+  "claim": "Miyajima bori",
+  "source_name": "JNTO: Miyajima",
+  "source_url": "https://www.japan.travel/en/spot/ma_179/",
+  "must_contain": [
+   "it is now famous for wood carving",
+   "Miyajima bori makes a good souvenir"
+  ],
+  "verified_on": "2026-10-27",
+  "topics": [
+   "itsukushima-miyajima-guide"
+  ]
  }
 ]

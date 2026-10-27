@@ -44,3 +44,6 @@ Added japan-souvenirs-guide, shinto-shrine-etiquette, meiji-jingu-guide from the
 
 ## 2026-10-27 more photos per article (owner request)
 Added 2 photos to every article (most pages now have 4, three have 3: japan-etiquette-for-first-timers, japan-halal-travel-guide, tokyo-kyoto-osaka-7-day-itinerary because no suitable licensed photo was found). All credited, licence-checked Commons files. Search results were reviewed by title: unrelated hits (games, museum items, paintings, people) were dropped and re-queried. fetch_images now saves data/images.json after every photo, so an interrupted run keeps its progress.
+
+## 2026-10-28 daily articles
+Added ise-jingu-guide, izumo-taisha-guide, itsukushima-miyajima-guide from the owner-requested backlog (62 new facts, all verified on JNTO pages; 4 photos each = 12 new). 29 articles. data/images.json may now carry an optional "caption" per photo (used instead of the Commons-title caption when the title is unreadable; set only after checking the photo by eye). Note: two JNTO pages give slightly different Izumo shimenawa lengths (13.5 vs 13.6 m); the Izumo article says so. Remaining backlog: osaka-souvenir-sweets, hiroshima-souvenirs-momiji-manju, shotengai-souvenir-shopping, tohoku-souvenirs, japan-ekiben-guide, famous-shrines-in-japan.

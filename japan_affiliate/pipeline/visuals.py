@@ -117,7 +117,8 @@ def commons_caption(title):
 
 def photo_html(rec, caption, root=""):
     if rec:
-        caption = commons_caption(rec.get("title", "")) or caption
+        # an explicit "caption" in data/images.json (set only after the photo was checked by eye) beats the Commons title
+        caption = rec.get("caption") or commons_caption(rec.get("title", "")) or caption
     if not rec:
         return f'<figure class="photo pending"><div>Photo pending: {esc(caption)}</div></figure>'
     lic = f'<a href="{esc(rec["license_url"])}" rel="noopener">{esc(rec["license"])}</a>' if rec.get("license_url") else esc(rec["license"])
