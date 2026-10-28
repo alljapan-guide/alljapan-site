@@ -5,7 +5,7 @@ description: What to eat in Osaka: street food such as takoyaki, okonomiyaki and
 date: 2026-10-22
 updated: 2026-10-22
 cluster: food
-affiliates: klook | viator | trip_things | trip_osaka_hotels
+affiliates: klook | viator | trip_things | trip_osaka_hotels | trip_trains_osaka
 image_queries: Takoyaki street food Osaka | Dotonbori Osaka night | Okonomiyaki Osaka | Kushikatsu Shinsekai Osaka
 ---
 If you only have a day or two in Osaka, eat these four things: takoyaki, okonomiyaki, kushikatsu and yakiniku. They are the dishes the national tourism organisation highlights, they are easy to find, and each comes with a small set of etiquette tips that make ordering less stressful.
@@ -76,7 +76,7 @@ If you prefer a guided food experience with local help, you can look at food tou
 
 ## How this fits in your trip
 
-Osaka is usually part of a wider route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how to fit it between Tokyo and Kyoto, our [Kyoto area guide](where-to-stay-in-kyoto.html) covers the other half of the route, and our [IC card guide](japan-ic-card-guide.html) explains how to pay for local trains. If you are choosing a rail ticket for the journey, see our [rail pass guide](is-japan-rail-pass-worth-it.html).
+Osaka is usually part of a wider route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how to fit it between Tokyo and Kyoto, our [Kyoto area guide](where-to-stay-in-kyoto.html) covers the other half of the route, and our [IC card guide](japan-ic-card-guide.html) explains how to pay for local trains. If you are choosing a rail ticket for the journey, see our [rail pass guide](is-japan-rail-pass-worth-it.html), or look at Tokyo to Osaka train options on {{aff:trip_trains_osaka|Trip.com}}.
 
 ## FAQ
 

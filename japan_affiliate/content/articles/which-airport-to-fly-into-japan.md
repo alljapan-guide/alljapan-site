@@ -5,7 +5,7 @@ description: How to choose between Narita, Haneda and Kansai International for y
 date: 2026-10-25
 updated: 2026-10-25
 cluster: planning
-affiliates: booking | esim
+affiliates: booking | esim | trip_trains | trip_trains_osaka
 image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport terminal building | Narita Express train | Tokyo Monorail Haneda Airport
 ---
 Where you land shapes the first day of your trip. The Japan National Tourism Organization (JNTO) describes the main international airports and what each is close to. This guide uses those pages to help you choose, and adds our own view, labelled "Our view", so you can tell sourced information from opinion.
@@ -58,7 +58,7 @@ JNTO adds that {{fact:a_boat}}. Our view: this is a niche option, but it can sui
 
 ## Open-jaw trips: land in one place, leave from another
 
-Our view: if you plan to travel between Tokyo and Kyoto or Osaka, consider flying into one airport and out of another so you do not have to return to your starting point. The train between Tokyo and Kyoto takes {{fact:tokyo_kyoto_130}} on the bullet train, according to JR Central, which makes a one-way route workable. Our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to compare ticket options.
+Our view: if you plan to travel between Tokyo and Kyoto or Osaka, consider flying into one airport and out of another so you do not have to return to your starting point. The train between Tokyo and Kyoto takes {{fact:tokyo_kyoto_130}} on the bullet train, according to JR Central, which makes a one-way route workable. Our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to compare ticket options, and you can also look at train options from Tokyo to {{aff:trip_trains|Kyoto}} or {{aff:trip_trains_osaka|Osaka}} on Trip.com, a third-party booking site.
 
 {{tip|Compare total cost, not just the fare. An open-jaw ticket may be priced differently from a return to the same airport, and your hotel nights and transfers can change the answer.}}
 

@@ -108,6 +108,12 @@
       "category": "tours-tickets",
       "link": "https://www.trip.com/things-to-do/?Allianceid=11163258&SID=334618698&trip_sub1=alljapan-asobi&trip_sub3=D20699919",
       "network": "Trip.com Affiliate"
+    },
+    "trip_trains_osaka": {
+      "name": "Trip.com (Tokyo to Osaka trains)",
+      "category": "transport",
+      "link": "https://www.trip.com/trains/tt-common/ttlist?departurecitycode=JP03271&arrivalcitycode=JP03869&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-tokyo-osaka-train&trip_sub3=D20699919",
+      "network": "Trip.com Affiliate"
     }
   }
 }
