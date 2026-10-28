@@ -5,7 +5,7 @@ description: How to choose a Tokyo base for your first trip: Shinjuku, Asakusa, 
 date: 2026-10-18
 updated: 2026-10-18
 cluster: hotels
-affiliates: booking | agoda
+affiliates: booking | agoda | trip_hotels
 references: tokyo_station_area
 image_queries: Shinjuku Tokyo skyline | Senso-ji Asakusa Kaminarimon | Shibuya Scramble crossing night | Tokyo Station Marunouchi building
 ---
@@ -78,7 +78,7 @@ If you stay several nights, some travellers split their time between two areas f
 - **Compare cancellation rules.** A flexible rate protects you if plans change.
 - **Book early for busy dates.** The best-located hotels tend to go first; check availability as soon as your dates are fixed.
 
-When you are ready to compare real options, you can filter by area, price and cancellation terms on {{aff:booking|Booking.com}} or compare prices on {{aff:agoda|Agoda}}. It is worth checking both, since the same room can have different terms.
+When you are ready to compare real options, you can filter by area, price and cancellation terms on {{aff:booking|Booking.com}}, compare prices on {{aff:agoda|Agoda}}, or browse Tokyo hotels on {{aff:trip_hotels|Trip.com}}. It is worth checking more than one, since the same room can have different terms.
 
 {{warn|We link to booking sites as affiliates. We earn a commission if you book, at no extra cost to you, and that does not change which areas we suggest.}}
 
