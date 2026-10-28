@@ -5,7 +5,7 @@ description: Kamakura, Hakone or Nikko as a day trip from Tokyo: how to get ther
 date: 2026-10-20
 updated: 2026-10-20
 cluster: itineraries
-affiliates: klook | viator | gyg | trip_things
+affiliates: klook | viator | gyg | trip_tokyo_things
 image_queries: file:Kamakura Daibutsu - 01.jpg | Nikko Toshogu shrine | Hakone Lake Ashi Mount Fuji | Nikko Shinkyo Bridge
 ---
 If you only have one free day, choose by travel time and interest. Kamakura is the shortest trip and has a famous Great Buddha, Hakone is built around an easy rail route and a pass system, and Nikko is the longest but is described by the tourism organisation as an outing for one or two days.
@@ -69,7 +69,7 @@ Our view: Nikko is a long day if you return the same evening, so it suits travel
 - **Plan luggage.** Travel light on a day trip. If you are moving hotels, consider leaving your bags at your Tokyo hotel.
 - **Pick one place per day.** Our view is that trying to combine two of these in one day leaves little time to enjoy either.
 
-If you prefer a guided day with transport arranged, you can compare tours on {{aff:klook|Klook}}, {{aff:viator|Viator}}, {{aff:gyg|GetYourGuide}} or {{aff:trip_things|Trip.com}}. Check what is included and the cancellation terms before you book.
+If you prefer a guided day with transport arranged, you can compare tours on {{aff:klook|Klook}}, {{aff:viator|Viator}}, {{aff:gyg|GetYourGuide}} or {{aff:trip_tokyo_things|Trip.com}}. Check what is included and the cancellation terms before you book.
 
 ## Where this fits in your trip
 

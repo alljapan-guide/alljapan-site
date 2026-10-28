@@ -5,7 +5,7 @@ description: A relaxed 7-day Japan itinerary for first-timers: three nights in T
 date: 2026-10-18
 updated: 2026-10-18
 cluster: itineraries
-affiliates: booking | klook | railpass | esim | trip_trains | trip_hotels
+affiliates: booking | klook | railpass | esim | trip_trains | trip_hotels | trip_tokyo_things
 references: nara_park_guide
 image_queries: Fushimi Inari Taisha torii gates | Nara Park deer Todai-ji | Shibuya scramble crossing Tokyo
 ---
@@ -37,7 +37,7 @@ Choose your base carefully, because you return to it every evening. Our guide to
 
 ## Day 2: Old and new Tokyo
 
-Start in Asakusa. The official tourism guide describes Sensoji as {{fact:sensoji_oldest}}, and the temple is the heart of the area. Visit early if you prefer fewer people. Then cross the city to Shibuya for the famous crossing and an afternoon of browsing, and finish with dinner nearby. If you enjoy guided experiences, a food walk or evening tour on {{aff:klook|Klook}} can add structure.
+Start in Asakusa. The official tourism guide describes Sensoji as {{fact:sensoji_oldest}}, and the temple is the heart of the area. Visit early if you prefer fewer people. Then cross the city to Shibuya for the famous crossing and an afternoon of browsing, and finish with dinner nearby. If you enjoy guided experiences, a food walk or evening tour on {{aff:klook|Klook}} or {{aff:trip_tokyo_things|Trip.com}} can add structure.
 
 {{photo:3|Shibuya Crossing in Tokyo}}
 

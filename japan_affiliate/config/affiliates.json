@@ -114,6 +114,12 @@
       "category": "transport",
       "link": "https://www.trip.com/trains/tt-common/ttlist?departurecitycode=JP03271&arrivalcitycode=JP03869&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-tokyo-osaka-train&trip_sub3=D20699919",
       "network": "Trip.com Affiliate"
+    },
+    "trip_tokyo_things": {
+      "name": "Trip.com (Tokyo things to do)",
+      "category": "tours-tickets",
+      "link": "https://www.trip.com/things-to-do/list?searchkey=228&searchtype=1&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-tokyo-asobi&trip_sub3=D20699919",
+      "network": "Trip.com Affiliate"
     }
   }
 }

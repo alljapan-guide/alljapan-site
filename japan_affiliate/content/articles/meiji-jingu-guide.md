@@ -5,7 +5,7 @@ description: How to reach Meiji Jingu from Harajuku, what the forest shrine hono
 date: 2026-10-27
 updated: 2026-10-27
 cluster: itineraries
-affiliates: klook | viator
+affiliates: klook | viator | trip_tokyo_things
 image_queries: Meiji Jingu torii gate Tokyo | Meiji Jingu main hall Tokyo | Meiji Jingu sake barrels | Meiji Jingu Inner Garden iris
 ---
 Meiji Jingu is one of the easiest ways to step out of Tokyo's crowds without leaving the city. The Japan National Tourism Organization (JNTO) describes it as a forest shrine in the heart of Tokyo, and gives clear access advice. This guide follows the JNTO page and adds our own view, labelled "Our view".
@@ -80,7 +80,7 @@ Our view: for a quieter visit, avoid the festival days and New Year, and go on a
 
 JNTO adds that {{fact:mj_yoyogi}}. Our view: a shrine walk, then lunch in Harajuku and an afternoon in the park is an easy half day. For a longer route, our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how Tokyo fits into a first trip.
 
-You can look at guided walking tours of Tokyo on {{aff:klook|Klook}} and {{aff:viator|Viator}}. Confirm what is included and the cancellation terms, and see our [licensed guide guide](japan-licensed-tour-guides.html) if you want a licensed guide.
+You can look at guided walking tours of Tokyo on {{aff:klook|Klook}}, {{aff:viator|Viator}} and {{aff:trip_tokyo_things|Trip.com}}. Confirm what is included and the cancellation terms, and see our [licensed guide guide](japan-licensed-tour-guides.html) if you want a licensed guide.
 
 {{pick|If you have one morning in Tokyo, our editorial pick is Meiji Jingu first, then Harajuku. This follows the JNTO advice to make it one of your first Tokyo stops. It is our view, not a ranking.}}
 
