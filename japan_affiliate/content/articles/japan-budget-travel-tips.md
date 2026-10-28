@@ -5,7 +5,7 @@ description: JNTO's money-saving tips for Japan: regional passes, overnight buse
 date: 2026-10-26
 updated: 2026-10-26
 cluster: planning
-affiliates: railpass | booking
+affiliates: railpass | booking | trip_hotels
 image_queries: Capsule hotel Japan interior | Japanese lunch set teishoku | Japan hotel room bed | Don Quijote Tokyo store
 ---
 Japan has a reputation for being expensive, but the Japan National Tourism Organization (JNTO) publishes a page of practical ways to spend less on transport, accommodation, food, culture and shopping. This guide summarises that page and adds our own view, labelled "Our view", so you can tell sourced tips from opinion.
@@ -40,7 +40,7 @@ JNTO notes that {{fact:bt_hotels}}. It adds that {{fact:bt_hostels}}. For tradit
 
 {{warn|JNTO flags one trap: {{fact:bt_meals}}. Check what is near your accommodation before you drop the meal option.}}
 
-Our view: for a first trip, a business hotel near a station is a practical way to keep costs down without losing convenience. Our [Tokyo area guide](where-to-stay-in-tokyo.html) and [Kyoto area guide](where-to-stay-in-kyoto.html) compare where to stay, and you can compare rates and cancellation terms on {{aff:booking|Booking.com}}.
+Our view: for a first trip, a business hotel near a station is a practical way to keep costs down without losing convenience. Our [Tokyo area guide](where-to-stay-in-tokyo.html) and [Kyoto area guide](where-to-stay-in-kyoto.html) compare where to stay, and you can compare rates and cancellation terms on {{aff:booking|Booking.com}}, and look at Tokyo hotels on {{aff:trip_hotels|Trip.com}}.
 
 ## Eating out
 

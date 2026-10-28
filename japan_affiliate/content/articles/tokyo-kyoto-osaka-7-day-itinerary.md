@@ -5,7 +5,7 @@ description: A relaxed 7-day Japan itinerary for first-timers: three nights in T
 date: 2026-10-18
 updated: 2026-10-18
 cluster: itineraries
-affiliates: booking | klook | railpass | esim | trip_trains
+affiliates: booking | klook | railpass | esim | trip_trains | trip_hotels
 references: nara_park_guide
 image_queries: Fushimi Inari Taisha torii gates | Nara Park deer Todai-ji | Shibuya scramble crossing Tokyo
 ---
@@ -33,7 +33,7 @@ Two decisions help before you start. First, set up a transit card so you can tap
 
 Aim for a gentle first day. After you land, travel to your hotel, drop your bags and take a short walk. Have an early dinner and sleep on local time. If you have not arranged mobile data, read our [eSIM vs pocket WiFi comparison](japan-esim-vs-pocket-wifi.html) and install a plan before you leave home.
 
-Choose your base carefully, because you return to it every evening. Our guide to [where to stay in Tokyo](where-to-stay-in-tokyo.html) compares the main areas. You can compare hotels and cancellation terms on {{aff:booking|Booking.com}}.
+Choose your base carefully, because you return to it every evening. Our guide to [where to stay in Tokyo](where-to-stay-in-tokyo.html) compares the main areas. You can compare hotels and cancellation terms on {{aff:booking|Booking.com}}, and Tokyo hotels are also listed on {{aff:trip_hotels|Trip.com}}.
 
 ## Day 2: Old and new Tokyo
 
