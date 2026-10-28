@@ -1,7 +1,7 @@
 ---
 title: What to Eat in Osaka: A Street Food and Restaurant Guide
 slug: osaka-food-guide
-description: What to eat in Osaka: takoyaki, okonomiyaki, kushikatsu and yakiniku, where each is traditionally found, and how to order, using official tourism sources.
+description: What to eat in Osaka: street food such as takoyaki, okonomiyaki and kushikatsu, plus yakiniku, and how to order, using official tourism sources.
 date: 2026-10-22
 updated: 2026-10-22
 cluster: food

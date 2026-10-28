@@ -1,7 +1,7 @@
 ---
-title: Suica, Pasmo & ICOCA: The Easy Guide to Japan's Transit Cards
+title: Japan IC Card Guide: Suica, Pasmo & ICOCA Explained
 slug: japan-ic-card-guide
-description: Which Japan IC card to use, how to add one to your iPhone, and when a card is not enough. A practical guide for first-time visitors.
+description: Which Japan IC card (train card) to use, how to add one to your iPhone, and when a card is not enough. A practical guide for first-time visitors.
 date: 2026-10-18
 updated: 2026-10-18
 cluster: transport
@@ -15,7 +15,7 @@ This guide explains how the cards work, the two realistic ways to get one, how t
 
 {{photo:1|A Suica-style IC card tapped on a ticket gate reader}}
 
-## What an IC card actually is
+## What a Japan IC card (train card) actually is
 
 An IC card is a contactless prepaid card. You tap it on the reader at the gate, the fare is taken automatically when you exit, and you top it up with cash at a machine. It removes the hardest part of the first day in a Japanese station: working out the fare from a route map before you can buy a paper ticket.
 

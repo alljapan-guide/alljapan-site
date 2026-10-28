@@ -50,3 +50,6 @@ Added ise-jingu-guide, izumo-taisha-guide, itsukushima-miyajima-guide from the o
 
 ## 2026-10-28 new article banners (owner chose option A)
 Article hero images are now original Japanese-style illustrations per cluster (pipeline/hero_art.py): itineraries = Fuji, sun and sakura petals; culture = torii at dusk; transport = bullet train and Fuji; hotels = ryokan roof and pine; food = noodle bowl; shopping = paper lanterns; seasonal = sakura branch over Fuji; connectivity = radio arcs; planning = folding fan. Unknown clusters fall back to the Fuji scene. The old generic banner is kept as _legacy_hero_svg in visuals.py (unused).
+
+## 2026-10-28 Search Console review
+First impressions appeared (70 impressions, 0 clicks, avg position 45.1 over 10/20-10/25). Titles/descriptions/H2 of where-to-stay-in-kyoto, japan-ic-card-guide and osaka-food-guide were adjusted toward the queries already seen (text only; no facts changed). Recheck Performance (Pages/Queries) in 1-2 weeks.
