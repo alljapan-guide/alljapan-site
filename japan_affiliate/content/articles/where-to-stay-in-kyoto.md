@@ -5,7 +5,7 @@ description: The best area to stay in Kyoto: Kyoto Station, Shijo-Kawaramachi, G
 date: 2026-10-20
 updated: 2026-10-20
 cluster: hotels
-affiliates: booking | agoda | klook
+affiliates: booking | agoda | klook | trip_kyoto_hotels
 references: kyoto_central_size
 image_queries: Gion Kyoto traditional street | Arashiyama bamboo grove Kyoto | Kyoto Station building | Nishiki Market Kyoto
 ---
@@ -90,7 +90,7 @@ The guide describes the Ohara, Kurama and Kibune area as one where {{fact:kyoto_
 - **Read the room details.** Room sizes and what is included differ by property, and the listing is the reliable source.
 - **Check availability as soon as your dates are fixed.** The official guide says the Kyoto Station area makes it relatively easy to find vacancies even in peak seasons; for other areas it gives no such statement, so do not assume.
 
-You can compare options and cancellation terms on {{aff:booking|Booking.com}} or {{aff:agoda|Agoda}}. If you would rather have guided experiences handled in one booking, tours on {{aff:klook|Klook}} are an option.
+You can compare options and cancellation terms on {{aff:booking|Booking.com}}, {{aff:agoda|Agoda}} or {{aff:trip_kyoto_hotels|Trip.com}}. If you would rather have guided experiences handled in one booking, tours on {{aff:klook|Klook}} are an option.
 
 ## How this fits in your trip
 

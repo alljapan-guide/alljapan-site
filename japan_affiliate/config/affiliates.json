@@ -90,6 +90,24 @@
       "category": "transport",
       "link": "https://www.trip.com/trains/tt-common/ttlist?departurecitycode=JP03271&arrivalcitycode=JP00531&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-trains&trip_sub3=D20699919",
       "network": "Trip.com Affiliate"
+    },
+    "trip_kyoto_hotels": {
+      "name": "Trip.com (Kyoto hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=734&display=Kyoto&optionId=734&optionType=City&optionName=Kyoto&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-kyoto-hotels&trip_sub3=D20699919",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_osaka_hotels": {
+      "name": "Trip.com (Osaka hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=219&display=Osaka&optionId=219&optionType=City&optionName=Osaka&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-osaka-hotels&trip_sub3=D20699919",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_things": {
+      "name": "Trip.com (things to do)",
+      "category": "tours-tickets",
+      "link": "https://www.trip.com/things-to-do/?Allianceid=11163258&SID=334618698&trip_sub1=alljapan-asobi&trip_sub3=D20699919",
+      "network": "Trip.com Affiliate"
     }
   }
 }

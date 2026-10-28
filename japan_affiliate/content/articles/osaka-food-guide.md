@@ -5,7 +5,7 @@ description: What to eat in Osaka: street food such as takoyaki, okonomiyaki and
 date: 2026-10-22
 updated: 2026-10-22
 cluster: food
-affiliates: klook | viator
+affiliates: klook | viator | trip_things | trip_osaka_hotels
 image_queries: Takoyaki street food Osaka | Dotonbori Osaka night | Okonomiyaki Osaka | Kushikatsu Shinsekai Osaka
 ---
 If you only have a day or two in Osaka, eat these four things: takoyaki, okonomiyaki, kushikatsu and yakiniku. They are the dishes the national tourism organisation highlights, they are easy to find, and each comes with a small set of etiquette tips that make ordering less stressful.
@@ -72,7 +72,7 @@ If you want a sit-down meal, the street food page points to a barbecue district:
 - **Expect queues at popular places.** Our view is that a late lunch or early dinner is calmer.
 - **Carry some cash.** Small stalls may not take cards, so check before you order.
 
-If you prefer a guided food experience with local help, you can look at food tours on {{aff:klook|Klook}} or {{aff:viator|Viator}}. Read what is included, the group size and the cancellation terms before booking.
+If you prefer a guided food experience with local help, you can look at food tours on {{aff:klook|Klook}}, {{aff:viator|Viator}} or {{aff:trip_things|Trip.com}}. Read what is included, the group size and the cancellation terms before booking. If you plan to stay overnight in Osaka, you can also browse Osaka hotels on {{aff:trip_osaka_hotels|Trip.com}}.
 
 ## How this fits in your trip
 
