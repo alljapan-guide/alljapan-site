@@ -53,3 +53,6 @@ Article hero images are now original Japanese-style illustrations per cluster (p
 
 ## 2026-10-28 Search Console review
 First impressions appeared (70 impressions, 0 clicks, avg position 45.1 over 10/20-10/25). Titles/descriptions/H2 of where-to-stay-in-kyoto, japan-ic-card-guide and osaka-food-guide were adjusted toward the queries already seen (text only; no facts changed). Recheck Performance (Pages/Queries) in 1-2 weeks.
+
+## 2026-10-29 daily articles
+Added osaka-souvenir-sweets, hiroshima-souvenirs-momiji-manju, shotengai-souvenir-shopping from the owner-requested backlog (46 new facts, all verified on JNTO pages; 10 photos: Osaka 4, Hiroshima 3, shotengai 3 because no suitable licensed photo was found for the other slots). 32 articles. Remaining backlog: tohoku-souvenirs, japan-ekiben-guide, famous-shrines-in-japan.

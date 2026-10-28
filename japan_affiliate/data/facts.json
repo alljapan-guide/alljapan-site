@@ -5381,5 +5381,659 @@
   "topics": [
    "itsukushima-miyajima-guide"
   ]
+ },
+ {
+  "id": "os_nick",
+  "text": "as the food capital of Japan, Osaka has acquired a delightful nickname that literally means eat yourself into ruin",
+  "claim": "Osaka nickname",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "has acquired a delightful nickname",
+   "Eat yourself into ruin"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_mitarashi",
+  "text": "you can find mochi (sticky rice cake) with mitarashi, a sweet soy sauce, almost everywhere in Osaka",
+  "claim": "Mitarashi mochi",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "You can find mochi (sticky rice cake)",
+   "almost everywhere in Osaka"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_messy",
+  "text": "the sticky sauce can leak out of the box, which means mitarashi mochi is not the ideal souvenir to pack in your luggage",
+  "claim": "Packing problem",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "not the ideal souvenir to pack in your luggage"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_chidoriya",
+  "text": "the wagashi maker Chidoriya Souke was established in 1630",
+  "claim": "Chidoriya Souke",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "Chidoriya Souke was established in 1630"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_expiry",
+  "text": "the expiry date for mitarashi komochi is about three days, so JNTO recommends buying it on the day you leave Osaka",
+  "claim": "Expiry",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "the expiry date for mitarashi komochi is about three days",
+   "wait to buy it on the day you are leaving Osaka"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_senbei",
+  "text": "okonomiyaki senbei is the closest alternative to the flavour of the real thing, a rice cracker sprinkled with freeze-dried okonomiyaki ingredients",
+  "claim": "Okonomiyaki senbei",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "closest alternative that you can get to the flavour of the real thing",
+   "rice cracker sprinkled with freeze-dried okonomiyaki ingredients"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_ebiten",
+  "text": "Osaka Okonomiyaki Ebi-ten is an okonomiyaki-flavoured prawn cracker, and the only place to buy it is at Shin-Osaka Station",
+  "claim": "Ebi-ten",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "okonomiyaki-flavoured prawn cracker",
+   "is at Shin-Osaka Station"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_keishindo",
+  "text": "the shop that makes Ebi-ten, Keishindo, was founded in 1866 at Ohno Port",
+  "claim": "Keishindo",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "was founded in 1866 at Ohno Port"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_konpeito",
+  "text": "konpeito was originally brought to Japan by Portuguese traders visiting Nagasaki in the early 16th century",
+  "claim": "Konpeito history",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "brought to Japan by Portuguese traders visiting Nagasaki in the early 16th century"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_konpeito_noble",
+  "text": "sugar was very rare and expensive, so konpeito was only enjoyed by nobles and high-ranking samurai families",
+  "claim": "Konpeito and nobles",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "konpeito was only enjoyed by nobles and high-ranking samurai families"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_konpeito_gift",
+  "text": "konpeito is also known as the traditional gift of the Imperial Family",
+  "claim": "Konpeito gift",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "Konpeito is also known as the traditional gift of"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_konpeito_tins",
+  "text": "Ujien Seikaan konpeito are beautifully packaged in fashionable tins that make you want to collect all of them",
+  "claim": "Konpeito tins",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "beautifully packaged in fashionable tins"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_konpeito_time",
+  "text": "the entire process of making konpeito takes around 10 to 14 days in total",
+  "claim": "Konpeito process",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "The entire process of konpeito takes around 10 to 14 days in total"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "os_konpeito_flav",
+  "text": "besides the traditional ones, konpeito also come in flavours such as soda, apple, lemon and matcha",
+  "claim": "Konpeito flavours",
+  "source_name": "JNTO: Kuidaore Osaka, 3 Must-buy Souvenir Sweets",
+  "source_url": "https://www.japan.travel/en/sg/story/kuidaore-osaka-3-must-buy-souvenir-sweets/",
+  "must_contain": [
+   "soda, apple, lemon and matcha"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "osaka-souvenir-sweets"
+  ]
+ },
+ {
+  "id": "hs_range",
+  "text": "Hiroshima souvenirs range from savory senbei (rice crackers) to sweet red bean cakes",
+  "claim": "Hiroshima souvenirs",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "These range from savory senbei (rice crackers) to sweet red bean cakes"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_momiji",
+  "text": "momiji manju is baked in the shape of maple leaves and was created in Miyajima in the early 1900s",
+  "claim": "Momiji manju",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "Baked in the shape of maple leaves, momiji manju is a famous dessert created in Miyajima in the early 1900s"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_momijidani",
+  "text": "momiji manju was created as a local specialty to represent Momijidani, a famous maple leaf-viewing spot",
+  "claim": "Momijidani",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "a local specialty to represent Momijidani, its famous maple leaf-viewing spot"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_fillings",
+  "text": "traditionally momiji manju have a sweet red bean paste filling, although these days you can find matcha, cheese, custard or chocolate",
+  "claim": "Fillings",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "a sweet red bean paste filling, although these days you can find matcha, cheese, custard or chocolate"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_production",
+  "text": "momiji manju are popular in Miyajima, where you can see the production process, and they are available across the prefecture",
+  "claim": "Where to buy",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "where you can see the production process, they are available across the prefecture"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_shakushi",
+  "text": "the shakushi, a rice ladle, is a good luck charm from Miyajima with a history dating back to 1700",
+  "claim": "Shakushi",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "a good luck charm from Miyajima with a history dating back to 1700"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_shakushi_senbei",
+  "text": "Shakushi Senbei are rice crackers in the shape of ladles, imprinted with well wishes for safety, happiness and more",
+  "claim": "Shakushi senbei",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "rice crackers in the shape of ladles",
+   "well wishes for safety, happiness and more"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_monaka",
+  "text": "monaka consists of a wafer shell filled with sweet bean paste",
+  "claim": "Monaka",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "Monaka consists of a wafer shell filled with sweet bean paste"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_oyster",
+  "text": "Hiroshima is famous for its oysters, and Marugoto Oyster Crackers, produced in Akitsu-cho, are baked with whole oysters",
+  "claim": "Oyster crackers",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "Hiroshima is famous for its oysters",
+   "baked with whole oysters"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_calbee",
+  "text": "Calbee prawn crackers originated from Hiroshima",
+  "claim": "Calbee",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "Calbee prawn crackers originated from Hiroshima"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_lemon",
+  "text": "Hiroshima produces more than half of the lemons in Japan in the Setoda area, so there are plenty of lemon-flavored souvenirs",
+  "claim": "Lemons",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "produces more than half of",
+   "in the Setoda area"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_lemon_cake",
+  "text": "the most popular lemon souvenir is a madeleine lemon cake baked in the shape of a lemon, with juice kneaded into the dough",
+  "claim": "Lemon cake",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "madeleine lemon cake which contains juice that is kneaded into the dough baked in the shape of a lemon"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_sake",
+  "text": "Saijo is a mecca for Japanese sake connoisseurs, and the breweries also make sweets containing sake",
+  "claim": "Saijo sake",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "Saijo is a mecca for Japanese sake connoisseurs"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "hs_sake_sweets",
+  "text": "sake sweets include sake manju (sake-infused dough with red bean filling), sake fruit cake and sake karinto",
+  "claim": "Sake sweets",
+  "source_name": "JNTO: Famous Hiroshima Confectionery Souvenirs",
+  "source_url": "https://www.japan.travel/en/sg/story/famous-hiroshima-confectionery-souvenirs/",
+  "must_contain": [
+   "sake manju (sake-infused dough with red bean filling)",
+   "sake karinto"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "hiroshima-souvenirs-momiji-manju"
+  ]
+ },
+ {
+  "id": "sh_def",
+  "text": "shotengai refers to a covered shopping arcade or shopping street in Japan",
+  "claim": "Shotengai",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "refers to a covered shopping arcade or shopping street in Japan"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_ped",
+  "text": "a shotengai is typically reserved for pedestrians, and occasionally cyclists",
+  "claim": "Pedestrians",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "Typically reserved for pedestrians, and occasionally cyclists"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_locals",
+  "text": "a shotengai usually caters primarily to local residents, with a mix of small sundry shops",
+  "claim": "Local residents",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "usually caters primarily to local residents"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_array",
+  "text": "shops range from fresh produce, books and stationery to services like hairdressing and tailoring",
+  "claim": "Range of shops",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "everything from fresh produce, books, and stationery to services like hairdressing and tailoring"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_unique",
+  "text": "because of the hyper-local nature of each shopping street, no two shotengai are the same",
+  "claim": "Each is different",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "no two shotengai are the same"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_souvenir",
+  "text": "you can find souvenirs specific to each shotengai",
+  "claim": "Shotengai souvenirs",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "you can find souvenirs specific to each shotengai"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_togoshi",
+  "text": "the Togoshi-Ginza Shotengai in Shinagawa Ward is 1.3km long and is the longest shopping street in Tokyo",
+  "claim": "Togoshi-Ginza",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "the 1.3km-long Togoshi-Ginza Shotengai"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_gin",
+  "text": "Gin-chan is the local mascot of Togoshi-Ginza, and souvenirs include a bright yellow towel or a keyring",
+  "claim": "Gin-chan",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "bright yellow towel or a keyring"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_gin_excl",
+  "text": "the Gin-chan souvenirs are exclusive to the shopping street",
+  "claim": "Exclusive items",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "exclusive to the shopping street"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_atami_manju",
+  "text": "onsen manju are sweet buns, usually filled with bean paste, traditionally cooked in hot spring steam",
+  "claim": "Onsen manju",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "onsen manju",
+   "traditionally cooked in hot spring steam"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_atami_snacks",
+  "text": "Heiwa-dori in Atami is a great street for snacking on kamaboko, satsuma-age and senbei",
+  "claim": "Atami snacks",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "kamaboko (a type of fishcake), satsuma-age (fried fishcakes), and senbei (rice crackers)"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_nishiki",
+  "text": "Nishiki Market is a narrow 400m-long shopping arcade with over 100 shops selling a tremendous variety of food",
+  "claim": "Nishiki Market",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "this narrow 400m-long shopping arcade is home to over 100 shops selling a tremendous variety of food"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_nishiki_edible",
+  "text": "for an edible souvenir that is shelf-stable and travel-friendly, Ochanokosaisai chili oils and furikake are hard to beat",
+  "claim": "Nishiki souvenirs",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "chili oils and furikake is hard to beat"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_nishiki_sample",
+  "text": "at Ochanokosaisai you can sample everything before purchasing",
+  "claim": "Sampling",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "you can sample everything before purchasing"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_furikake",
+  "text": "furikake is a savory dry seasoning for rice",
+  "claim": "Furikake",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "furikake (a savory dry seasoning for rice)"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_tenjin",
+  "text": "Tenjinbashisuji Shopping Street in Osaka is a covered arcade with over 600 specialty shops and restaurants",
+  "claim": "Tenjinbashisuji",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "With over 600 specialty shops and restaurants to explore along this covered shopping arcade"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_maido",
+  "text": "Tenma Tenjin MAIDO Ya stocks high-quality local souvenirs, all made and/or designed in Osaka",
+  "claim": "MAIDO Ya",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "all made and/or designed in Osaka"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
+ },
+ {
+  "id": "sh_tenugui",
+  "text": "JNTO suggests a tenugui, a hand towel, as a stylish and lightweight option",
+  "claim": "Tenugui",
+  "source_name": "JNTO: Shop for Souvenirs Like a Local at a Shotengai",
+  "source_url": "https://www.japan.travel/en/my/story/where-to-buy-souvenir-japan-shopping-street-shotengai/",
+  "must_contain": [
+   "consider a tenugui (hand towel)"
+  ],
+  "verified_on": "2026-10-28",
+  "topics": [
+   "shotengai-souvenir-shopping"
+  ]
  }
 ]

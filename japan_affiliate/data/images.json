@@ -1017,5 +1017,95 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Ise_Shrine_Geku_Sengyo-no-gi_1953.jpg",
   "file": "ise-jingu-guide-4.jpg",
   "query": "Ise Jingu Geku outer shrine"
+ },
+ "osaka-souvenir-sweets/1": {
+  "title": "File:Konpeito Candy.jpg",
+  "author": "Islandsislands",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Konpeito_Candy.jpg",
+  "file": "osaka-souvenir-sweets-1.jpg",
+  "query": "Konpeito sugar candy"
+ },
+ "osaka-souvenir-sweets/2": {
+  "title": "File:Mitarashi dango 003.jpg",
+  "author": "Ocdp",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mitarashi_dango_003.jpg",
+  "file": "osaka-souvenir-sweets-2.jpg",
+  "query": "Mitarashi dango"
+ },
+ "osaka-souvenir-sweets/4": {
+  "title": "File:Shin-Ōsaka Station.jpg",
+  "author": "EXECUTOR",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shin-%C5%8Csaka_Station.jpg",
+  "file": "osaka-souvenir-sweets-4.jpg",
+  "query": "Shin-Osaka Station"
+ },
+ "osaka-souvenir-sweets/3": {
+  "title": "File:Shrimp senbei.jpg",
+  "author": "Pvcba",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shrimp_senbei.jpg",
+  "file": "osaka-souvenir-sweets-3.jpg",
+  "query": "Shrimp senbei"
+ },
+ "hiroshima-souvenirs-momiji-manju/1": {
+  "title": "File:Momiji manjū 001.jpg",
+  "author": "Ocdp",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Momiji_manj%C5%AB_001.jpg",
+  "file": "hiroshima-souvenirs-momiji-manju-1.jpg",
+  "query": "Momiji manju"
+ },
+ "hiroshima-souvenirs-momiji-manju/2": {
+  "title": "File:Kaki-no-dotenabe, at The Meshiya (2014-10-18) 1.JPG",
+  "author": "Lombroso",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kaki-no-dotenabe,_at_The_Meshiya_(2014-10-18)_1.JPG",
+  "file": "hiroshima-souvenirs-momiji-manju-2.jpg",
+  "query": "Oyster Hiroshima kaki"
+ },
+ "hiroshima-souvenirs-momiji-manju/3": {
+  "title": "File:Saijo sakagura okadasyuhan.jpg",
+  "author": "Lumi iori",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Saijo_sakagura_okadasyuhan.jpg",
+  "file": "hiroshima-souvenirs-momiji-manju-4.jpg",
+  "query": "Saijo sake brewery"
+ },
+ "shotengai-souvenir-shopping/1": {
+  "title": "File:Togoshi ginza 2005 aug.jpg",
+  "author": "Unknown",
+  "license": "CC BY-SA 3.0",
+  "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Togoshi_ginza_2005_aug.jpg",
+  "file": "shotengai-souvenir-shopping-1.jpg",
+  "query": "Togoshi Ginza shopping street"
+ },
+ "shotengai-souvenir-shopping/2": {
+  "title": "File:Tenjinbashisuji Shopping Street - Jul 14, 2011.jpg",
+  "author": "Bytemarks",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tenjinbashisuji_Shopping_Street_-_Jul_14,_2011.jpg",
+  "file": "shotengai-souvenir-shopping-2.jpg",
+  "query": "Tenjinbashisuji shopping street Osaka"
+ },
+ "shotengai-souvenir-shopping/3": {
+  "title": "File:Atami Nakamise-dori.jpg",
+  "author": "Drivephotographer",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Atami_Nakamise-dori.jpg",
+  "file": "shotengai-souvenir-shopping-3.jpg",
+  "query": "Atami Nakamise street"
  }
 }
