@@ -5,7 +5,7 @@ description: A relaxed 7-day Japan itinerary for first-timers: three nights in T
 date: 2026-10-18
 updated: 2026-10-18
 cluster: itineraries
-affiliates: booking | klook | railpass | esim
+affiliates: booking | klook | railpass | esim | trip_trains
 references: nara_park_guide
 image_queries: Fushimi Inari Taisha torii gates | Nara Park deer Todai-ji | Shibuya scramble crossing Tokyo
 ---
@@ -49,7 +49,7 @@ Spend the morning at Meiji Shrine, set in a large wooded park beside Harajuku. W
 
 ## Day 4: Bullet train to Kyoto
 
-Check out in the morning and take the Tokaido Shinkansen from Tokyo Station to Kyoto. JR Central gives the trip as {{fact:tokyo_kyoto_130}}. You can check fares and book on {{fact:jrc_booking}}. If you hold a pass, remember the pass rule: {{fact:nozomi_not_covered}}.
+Check out in the morning and take the Tokaido Shinkansen from Tokyo Station to Kyoto. JR Central gives the trip as {{fact:tokyo_kyoto_130}}. You can check fares and book on {{fact:jrc_booking}}. You can also look at Tokyo to Kyoto train options on {{aff:trip_trains|Trip.com}}, which is a third-party booking site. If you hold a pass, remember the pass rule: {{fact:nozomi_not_covered}}.
 
 Drop your luggage at the hotel, or look into luggage forwarding so you do not carry bags through the station. Spend the afternoon in the Higashiyama area, then walk to Gion for dinner. If you want to hold a pass for the whole week, you can compare seller options through {{aff:railpass|an authorised Japan Rail Pass seller}}.
 

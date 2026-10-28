@@ -84,6 +84,12 @@
       "category": "hotels",
       "link": "https://www.trip.com/hotels/list?city=228&display=Tokyo&optionId=228&optionType=City&optionName=Tokyo&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-hotels&trip_sub3=D20699919",
       "network": "Trip.com Affiliate"
+    },
+    "trip_trains": {
+      "name": "Trip.com (Tokyo to Kyoto trains)",
+      "category": "transport",
+      "link": "https://www.trip.com/trains/tt-common/ttlist?departurecitycode=JP03271&arrivalcitycode=JP00531&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-trains&trip_sub3=D20699919",
+      "network": "Trip.com Affiliate"
     }
   }
 }

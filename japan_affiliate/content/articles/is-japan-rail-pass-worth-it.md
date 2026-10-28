@@ -5,7 +5,7 @@ description: How to work out whether the Japan Rail Pass pays off for your itine
 date: 2026-10-18
 updated: 2026-10-18
 cluster: transport
-affiliates: railpass | klook
+affiliates: railpass | klook | trip_trains
 references: jrc_booking
 image_queries: Shinkansen N700 Tokyo Station platform | Kyoto Station building | Tokaido Shinkansen Mount Fuji | Shinkansen Kyoto Station platform
 ---
@@ -59,7 +59,7 @@ We cannot quote fares here without a source, so think in shapes rather than numb
 - **Trips that include distant cities.** Each far destination adds a long, expensive leg.
 - **Plans that change often.** Covered trains let you hop on without buying a ticket first, which is convenient, though the Nozomi rule above still applies.
 
-If you decide to buy, you can check availability and prices through {{aff:railpass|an authorised Japan Rail Pass seller}} and compare with the official site shown in the Sources box.
+If you decide to buy, you can check availability and prices through {{aff:railpass|an authorised Japan Rail Pass seller}} and compare with the official site shown in the Sources box. If you only plan one long ride, such as Tokyo to Kyoto, you can also look at single tickets on {{aff:trip_trains|Trip.com}} and compare.
 
 ## Alternatives to the nationwide pass
 
