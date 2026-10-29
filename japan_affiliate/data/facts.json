@@ -6035,5 +6035,854 @@
   "topics": [
    "shotengai-souvenir-shopping"
   ]
+ },
+ {
+  "id": "tb_route",
+  "text": "from Tokyo, you take the Tokaido-Sanyo Shinkansen to Shin-Osaka Station",
+  "claim": "Route",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "From Tokyo, take the Tokaido-Sanyo Shinkansen to Shin-Osaka Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_time",
+  "text": "the trip takes approximately two and a half hours",
+  "claim": "Journey time",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "The trip takes approximately two and a half hours"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_transfer",
+  "text": "from Shin-Osaka Station you transfer to the JR local line and ride to Osaka Station",
+  "claim": "Transfer",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "From Shin-Osaka Station, transfer to the JR local line and ride to Osaka Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_stations",
+  "text": "Shin-Osaka is the station where the shinkansen stops, and Osaka Station is the main hub for all local commuter trains and subways",
+  "claim": "Two stations",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "Shin-Osaka is the station where the shinkansen stops",
+   "Osaka Station is the main hub for all local commuter trains and subways"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_confusing",
+  "text": "it is confusing for locals and tourists alike to tell Shin-Osaka, Osaka Station and Umeda Station apart",
+  "claim": "Confusing names",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "to distinguish Shin-Osaka, Osaka Station and Umeda Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_4km",
+  "text": "Shin-Osaka and Osaka Station are four kilometers apart",
+  "claim": "Distance",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "These two stations are four kilometers apart"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_exit",
+  "text": "if arriving by shinkansen, you exit the shinkansen turnstile and head for the JR train bound for Osaka Station on the Tokaido Line",
+  "claim": "Exit",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "exit the shinkansen turnstile and head for the JR train bound for Osaka Station (on the Tokaido Line)"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_umeda",
+  "text": "Umeda Station is right next door to Osaka Station and is where all the other train companies trains stop",
+  "claim": "Umeda Station",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "Umeda Station is right next door to Osaka Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_record",
+  "text": "the Shinkansen journey between Tokyo and Osaka was cut down to just 2 hours and 21 minutes in 2020",
+  "claim": "Fastest time",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "cut down to just 2 hours and 21 minutes"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_first",
+  "text": "when the shinkansen first began service it took four hours to make the 341 mile journey from Tokyo to Osaka",
+  "claim": "First service",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "it took four hours to make the 341 mile journey from Tokyo to Osaka"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_freq",
+  "text": "the Shinkansen operates at a frequency of a maximum 18 trains per hour",
+  "claim": "Frequency",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "a maximum 18 trains, per hour"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_delay",
+  "text": "the average Shinkansen delay was an astonishing 1.4 minutes in 2024",
+  "claim": "Punctuality",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "the average Shinkansen delay was an astonishing 1.4 minutes"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_crossings",
+  "text": "there are no road crossings along all of the shinkansen routes",
+  "claim": "No crossings",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "no road crossings along all of its routes"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_book",
+  "text": "you can book from one year before departure, both inside and outside of Japan, for up to 6 people at once",
+  "claim": "Online booking",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "Beginning one year prior to departure",
+   "Both inside and outside of Japan",
+   "For up to 6 people at once"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_card",
+  "text": "a compatible credit card is required for initial registration",
+  "claim": "Card needed",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "A compatible credit card is required for initial registration"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_fee",
+  "text": "the registration needs no annual fee or service fee",
+  "claim": "No fee",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "No annual fee or service fee required"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_qr",
+  "text": "with a QR-Ticket you simply display it and go directly to the ticket gate, with no need to stop at the station counter",
+  "claim": "QR ticket",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "simply display your QR-Ticket and go directly to the ticket gate"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_change",
+  "text": "you can change reservations as many times as you like, up to 4 minutes before departure, although the free changes are subject to conditions",
+  "claim": "Changes",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "Up to 4 minutes before departure",
+   "Free reservation changes are subject to conditions"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_foreign",
+  "text": "a foreign transaction fee set by your credit card company may be charged",
+  "claim": "Foreign fee",
+  "source_name": "JR Central: Shinkansen",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/shinkansen/",
+  "must_contain": [
+   "Foreign transaction fee prescribed by the credit card company may be charged"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "tb_definitely",
+  "text": "JR Central says travel between Tokyo and Osaka should definitely be by Shinkansen",
+  "claim": "JR Central view",
+  "source_name": "JR Central: Osaka Travel Tips",
+  "source_url": "https://global.jr-central.co.jp/en/onlinebooking/contents/hello_osaka/",
+  "must_contain": [
+   "Travel between Tokyo and Osaka should definitely be by Shinkansen"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-to-osaka-bullet-train"
+  ]
+ },
+ {
+  "id": "ws_charm",
+  "text": "Osaka is a charming, relaxed city best known for its food, fun and nightlife",
+  "claim": "Osaka overview",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "Osaka is a charming, relaxed city best known for its food, fun and nightlife"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_short",
+  "text": "Osaka is only a short shinkansen ride from Tokyo, but has a very different personality",
+  "claim": "Osaka vs Tokyo",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "Osaka is only a short shinkansen ride from Tokyo"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_castle",
+  "text": "Osaka also has a historical side, the highlight of which is Osaka Castle",
+  "claim": "Osaka Castle",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "the highlight of which is Osaka Castle"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_kix",
+  "text": "from Kansai International Airport (KIX) you take the Nankai or JR lines to Tennoji or Namba stations",
+  "claim": "From KIX",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "take the Nankai or JR lines to Tennoji or Namba stations"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_base",
+  "text": "Osaka is an excellent base for exploring the greater Kansai region, which includes Kyoto, Nara, Kobe and Wakayama",
+  "claim": "Base for Kansai",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "Osaka is an excellent base for exploring the greater Kansai region, which includes Kyoto, Nara, Kobe and Wakayama"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_hour",
+  "text": "each of those areas is a one-hour train ride from the central transportation hubs of Osaka",
+  "claim": "One hour",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "Each of these areas is a one-hour train ride from"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_hubs",
+  "text": "the central hubs are Osaka Station in the north, and Namba Station and Tennoji Station in the south",
+  "claim": "Hubs",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "Osaka Station in the north, and Namba Station and Tennoji Station in the south"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_areas",
+  "text": "JNTO divides Osaka into areas including the Osaka Bay Area, Dotonbori and Shinsaibashi, Namba, Tennoji and Northern Osaka City",
+  "claim": "Areas",
+  "source_name": "JNTO: Osaka",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/",
+  "must_contain": [
+   "Explore Osaka by Area Osaka Bay Area",
+   "Northern Osaka City"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_north",
+  "text": "the north of Osaka is a sprawl of massive stations packed alongside one another with all the amenities and entertainment needed",
+  "claim": "Northern Osaka",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "a sprawl of massive stations packed alongside one another"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_tenma",
+  "text": "Tenma is the pinnacle of the obsessive dining culture of Osaka",
+  "claim": "Tenma",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "Tenma is the pinnacle of this obsessive dining culture"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_nakanoshima",
+  "text": "a leisurely walk along the river in Nakanoshima is one of the things not to miss in northern Osaka",
+  "claim": "Nakanoshima",
+  "source_name": "JNTO: Northern Osaka City",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/shin-osaka-station-and-umeda/",
+  "must_contain": [
+   "A leisurely walk along the river in Nakanoshima"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_db",
+  "text": "Dotonbori and Shinsaibashi are described as the liveliest and most colorful area of Osaka",
+  "claim": "Dotonbori",
+  "source_name": "JNTO: Dotonbori & Shinsaibashi",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/dotonbori-and-shinsaibashi/",
+  "must_contain": [
+   "Come and experience the liveliest and most colorful area of Osaka"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_arcade",
+  "text": "Shinsaibashi-suji Shopping Street is eight blocks of retail heaven",
+  "claim": "Shinsaibashi-suji",
+  "source_name": "JNTO: Dotonbori & Shinsaibashi",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/dotonbori-and-shinsaibashi/",
+  "must_contain": [
+   "Shinsaibashi-suji Shopping Street, eight blocks of retail heaven"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_db_access",
+  "text": "from Osaka or Umeda Station you take the Midosuji Line to Shinsaibashi Station, or continue on the Midosuji Line to Namba Station to reach Dotonbori directly",
+  "claim": "Access to Dotonbori",
+  "source_name": "JNTO: Dotonbori & Shinsaibashi",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/dotonbori-and-shinsaibashi/",
+  "must_contain": [
+   "take the Midosuji Line to Shinsaibashi Station",
+   "continue on the Midosuji Line train to Namba Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_canal",
+  "text": "the Dotonbori district sits beside a 400-year-old canal",
+  "claim": "Canal",
+  "source_name": "JNTO: Dotonbori & Shinsaibashi",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/dotonbori-and-shinsaibashi/",
+  "must_contain": [
+   "The Dotonbori district sits beside a 400-year-old canal"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_namba",
+  "text": "Namba is a transportation hub surrounded by endless shopping, eateries and entertainment",
+  "claim": "Namba",
+  "source_name": "JNTO: Namba",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/nanba/",
+  "must_contain": [
+   "present-day Namba is a transportation hub surrounded by endless shopping, eateries and entertainment"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_namba_access",
+  "text": "from Osaka Station you take the Midosuji Subway line to Namba Station, and from Kansai International Airport the Nankai line",
+  "claim": "Access to Namba",
+  "source_name": "JNTO: Namba",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/nanba/",
+  "must_contain": [
+   "take the Midosuji Subway line to Namba Station",
+   "From Kansai International Airport, take the Nankai line to Namba Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_denden",
+  "text": "hobbyists and anime fans flock to Denden Town",
+  "claim": "Denden Town",
+  "source_name": "JNTO: Namba",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/nanba/",
+  "must_contain": [
+   "Hobbyists and anime fans flock to Denden Town"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_ura",
+  "text": "Ura Namba is where you can eat with the locals",
+  "claim": "Ura Namba",
+  "source_name": "JNTO: Namba",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/nanba/",
+  "must_contain": [
+   "Eating with the locals in Ura Namba"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_tennoji",
+  "text": "Tennoji and the surrounding Shinsekai area are a must-see district of Osaka",
+  "claim": "Tennoji",
+  "source_name": "JNTO: Tennoji",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/tennoji/",
+  "must_contain": [
+   "Tennoji and the surrounding Shinsekai area are a must-see district of Osaka"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_harukas",
+  "text": "at 300 meters, Abeno Harukas offers a comprehensive view of the entire metropolitan area",
+  "claim": "Abeno Harukas",
+  "source_name": "JNTO: Tennoji",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/tennoji/",
+  "must_contain": [
+   "At 300 meters, Abeno Harukas offers a comprehensive view of the entire metropolitan area"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_harukas_hotel",
+  "text": "Abeno Harukas has restaurants, cafes, an art museum and a hotel on the premises",
+  "claim": "Harukas hotel",
+  "source_name": "JNTO: Tennoji",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/tennoji/",
+  "must_contain": [
+   "There are restaurants, cafes, an art museum and a hotel located on the premises"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_tennoji_kix",
+  "text": "from Kansai International Airport you take the express train on the JR Line to Tennoji Station",
+  "claim": "KIX to Tennoji",
+  "source_name": "JNTO: Tennoji",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/tennoji/",
+  "must_contain": [
+   "take the express train on the JR Line to Tennoji Station"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_bay",
+  "text": "the bay area has a world-class amusement park, Universal Studios Japan, an aquarium, outdoor shopping promenades and refreshing sea breezes",
+  "claim": "Bay area",
+  "source_name": "JNTO: Osaka Bay Area",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/osaka-bay-area/",
+  "must_contain": [
+   "a world-class amusement park, Universal Studios Japan"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_bay_access",
+  "text": "the bay area is easily accessible from Osaka or Umeda Station via the JR Loop Line and the Chuo Subway Line",
+  "claim": "Bay access",
+  "source_name": "JNTO: Osaka Bay Area",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/osaka-bay-area/",
+  "must_contain": [
+   "The bay area is easily accessible from Osaka/Umeda Station via the JR Loop Line and the Chuo Subway Line"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_usj",
+  "text": "Universal Studios Japan opened in 2001 and is home to the Wizarding World of Harry Potter",
+  "claim": "USJ",
+  "source_name": "JNTO: Osaka Bay Area",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/osaka-bay-area/",
+  "must_contain": [
+   "Universal Studios Japan opened in 2001",
+   "home to the Wizarding World of Harry Potter"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "ws_bay_day",
+  "text": "JNTO lists a day trip to Universal Studios Japan, a visit to Osaka Aquarium Kaiyukan and shopping on the Tempozan promenade as things not to miss in the bay area",
+  "claim": "Bay day trip",
+  "source_name": "JNTO: Osaka Bay Area",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/osaka/osaka-bay-area/",
+  "must_contain": [
+   "A day trip to Universal Studios Japan",
+   "Shopping on the Tempozan promenade"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "where-to-stay-in-osaka"
+  ]
+ },
+ {
+  "id": "tk_airports",
+  "text": "Tokyo is served by two international airports, Haneda and Narita",
+  "claim": "Tokyo airports",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "by two international airports, Haneda and Narita"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_nex",
+  "text": "the Narita Express and Keisei Skyliner are JR and privately-run trains that connect Tokyo and Narita International Airport",
+  "claim": "Narita trains",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Keisei Skyliner are JR and privately-run trains that connect Tokyo and Narita International Airport"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_dining",
+  "text": "Tokyo has a dizzying array of restaurant and dining options, from theme cafes to haute cuisine",
+  "claim": "Dining",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "dizzying array of restaurant and dining options, from theme cafes to haute cuisine"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_akiba",
+  "text": "Akihabara is the home of technology and anime culture, with the latest electronics, games and gadgets",
+  "claim": "Akihabara",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Checking out the latest electronics, games and gadgets at Akihabara, the home of technology and anime culture"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_harajuku",
+  "text": "Harajuku and Shibuya are the trend capitals of Tokyo, with vibrant youth culture",
+  "claim": "Harajuku and Shibuya",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Experiencing vibrant youth culture in Harajuku and Shibuya, the trend capitals of Tokyo"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_sumida",
+  "text": "you can visit Sensoji and then ferry down the Sumida River",
+  "claim": "Sensoji and the Sumida River",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "before ferrying down the Sumida River"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_areas",
+  "text": "JNTO lists Tokyo areas including Imperial Palace and Tokyo Station, Ginza, Asakusa, Shinjuku, Harajuku, Shibuya, Odaiba and Nakameguro",
+  "claim": "Tokyo areas",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Odaiba Nakameguro"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_trending",
+  "text": "trending attractions in Tokyo include the Imperial Palace, Tokyo Station, Kabukiza and Tsukiji Outer Market",
+  "claim": "Trending",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Kabukiza Tsukiji Outer Market"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_spring",
+  "text": "in spring you can stretch out on a mat, drink sake and eat Japanese dumplings under the blooms at Shinjuku Gyoen, Yoyogi, Ueno or Inokashira parks",
+  "claim": "Spring in Tokyo",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Stretch out on a mat, drink sake and eat Japanese dumplings under the blooms at Shinjuku Gyoen, Yoyogi, Ueno or Inokashira parks"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_parks",
+  "text": "parks have different rules and regulations, so make sure to check before visiting",
+  "claim": "Park rules",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Parks have different rules and regulations so make sure to check before visiting"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_summer",
+  "text": "in summer you can enjoy one of the largest fireworks displays at the Sumida River",
+  "claim": "Summer",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "largest fireworks displays at the Sumida River"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_autumn",
+  "text": "in autumn you can visit gardens such as Koishikawa Korakuen, or hike the Okutama mountains for fall foliage",
+  "claim": "Autumn",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Visit gardens such as Koishikawa Korakuen, or hike the Okutama mountains for fantastic fall foliage"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "tk_winter",
+  "text": "in winter, illuminations appear throughout the city, ice-skating rinks open and crowds visit Sensoji and Meiji Jingu for New Year",
+  "claim": "Winter",
+  "source_name": "JNTO: Tokyo",
+  "source_url": "https://www.japan.travel/en/destinations/kanto/tokyo/",
+  "must_contain": [
+   "Winter illuminations appear throughout the city, ice-skating rinks open"
+  ],
+  "verified_on": "2026-10-29",
+  "topics": [
+   "tokyo-things-to-do-first-time"
+  ]
  }
 ]

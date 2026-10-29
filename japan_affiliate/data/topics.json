@@ -512,5 +512,41 @@
    "klook",
    "booking"
   ]
+ },
+ {
+  "slug": "tokyo-to-osaka-bullet-train",
+  "keyword": "tokyo to osaka bullet train shinkansen",
+  "title": "Tokyo to Osaka by Bullet Train: Stations, Booking and Tips",
+  "cluster": "transport",
+  "intent": "commercial",
+  "priority": 9,
+  "affiliates": [
+   "trip_trains_osaka",
+   "railpass"
+  ]
+ },
+ {
+  "slug": "where-to-stay-in-osaka",
+  "keyword": "where to stay in osaka first time",
+  "title": "Where to Stay in Osaka: Best Areas for First-Time Visitors",
+  "cluster": "hotels",
+  "intent": "commercial",
+  "priority": 9,
+  "affiliates": [
+   "trip_osaka_hotels",
+   "booking"
+  ]
+ },
+ {
+  "slug": "tokyo-things-to-do-first-time",
+  "keyword": "things to do in tokyo first time",
+  "title": "Things to Do in Tokyo: A First-Timer's Guide by Area and Season",
+  "cluster": "itineraries",
+  "intent": "commercial",
+  "priority": 9,
+  "affiliates": [
+   "trip_tokyo_things",
+   "klook"
+  ]
  }
 ]
