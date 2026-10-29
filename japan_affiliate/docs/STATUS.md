@@ -59,3 +59,6 @@ Added osaka-souvenir-sweets, hiroshima-souvenirs-momiji-manju, shotengai-souveni
 
 ## 2026-10-30 affiliate-oriented articles (owner request)
 Added tokyo-to-osaka-bullet-train (Trip.com Tokyo-Osaka trains + rail pass), where-to-stay-in-osaka (Trip.com Osaka hotels + Booking.com), tokyo-things-to-do-first-time (Trip.com Tokyo things to do + Klook + Viator). 60 new facts from JNTO (Osaka and Tokyo pages, five Osaka area pages) and JR Central (Shinkansen page); all verified; 12 photos. 35 articles. Singapore question: JNTO statistics pages (jnto.go.jp) are not reachable from this environment, so no visitor-profile figures are used in articles.
+
+## 2026-10-29 daily articles (second batch)
+Added famous-shrines-in-japan (reuses 31 existing shrine facts, tagged for the new topic), tohoku-souvenirs and japan-ekiben-guide (52 new facts, all verified on JNTO pages; 12 photos). 38 articles. Tohoku source story is dated 24 December 2019, so the article tells readers to check shops and hours. Wikimedia returned 429 repeatedly; the Daruma Bento photo slot was replaced with a generic bento photo and captions were checked by eye. Remaining backlog: none in docs/TOPIC_BACKLOG.md; unused travel ideas from JNTO plan pages (plug-and-electricity, traveling-with-disability, emergencies).
