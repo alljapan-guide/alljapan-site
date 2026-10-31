@@ -1404,5 +1404,23 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Nidec_Kyoto_Tower_2024-08.jpg",
   "file": "tokyo-to-kyoto-bullet-train-4.jpg",
   "query": "Kyoto Tower"
+ },
+ "tokyo-to-kyoto-bullet-train/2": {
+  "title": "File:Shinkansen E8 Green Car seat.jpg",
+  "author": "Indiana jo",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shinkansen_E8_Green_Car_seat.jpg",
+  "file": "tokyo-to-kyoto-bullet-train-2.jpg",
+  "query": "Shinkansen Green Car seats"
+ },
+ "tokyo-to-kyoto-bullet-train/3": {
+  "title": "File:Kyoto Station November 2016 -02.jpg",
+  "author": "Martin Falbisoner",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kyoto_Station_November_2016_-02.jpg",
+  "file": "tokyo-to-kyoto-bullet-train-3.jpg",
+  "query": "Kyoto Station building"
  }
 }
