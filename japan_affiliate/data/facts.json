@@ -5258,7 +5258,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5273,7 +5274,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5288,7 +5290,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5303,7 +5306,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5318,7 +5322,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5334,7 +5339,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5349,7 +5355,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5365,7 +5372,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5380,7 +5388,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5395,7 +5404,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5410,7 +5420,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5425,7 +5436,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5440,7 +5452,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5456,7 +5469,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5471,7 +5485,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5486,7 +5501,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -5502,7 +5518,8 @@
   "verified_on": "2026-11-01",
   "topics": [
    "itsukushima-miyajima-guide",
-   "famous-shrines-in-japan"
+   "famous-shrines-in-japan",
+   "hiroshima-things-to-do-first-time"
   ]
  },
  {
@@ -8846,6 +8863,1156 @@
   "verified_on": "2026-11-01",
   "topics": [
    "tokyo-to-kyoto-bullet-train"
+  ]
+ },
+ {
+  "id": "hr_nature",
+  "text": "the city of Hiroshima is a great place for trekking through dense forests and enjoying natural hot springs",
+  "claim": "Nature",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "The city of Hiroshima is a great place for trekking through dense forests and enjoying natural hot springs"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_dome",
+  "text": "the Atomic Bomb Dome and its surrounding memorial park are monuments to peace",
+  "claim": "Peace monuments",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "the Atomic Bomb Dome, and its surrounding memorial park are monuments to peace"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_food",
+  "text": "Hiroshima is famous for savory okonomiyaki pancakes, anago or saltwater eel, and other culinary delights",
+  "claim": "Food",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "Hiroshima is also famous for savory okonomiyaki pancakes, anago or saltwater eel"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_access",
+  "text": "Hiroshima is easily accessible via the JR Tokaido-Sanyo Shinkansen from Tokyo, Osaka, Nagoya, Kyoto and Fukuoka",
+  "claim": "Access",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "Hiroshima is easily accessible via the JR Tokaido-Sanyo Shinkansen from Tokyo, Osaka, Nagoya, Kyoto, and Fukuoka"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_limo",
+  "text": "a limousine bus from Hiroshima Airport takes less than an hour to reach the city center",
+  "claim": "Airport bus",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "A limousine bus from the airport takes less than an hour to reach the city center"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_dontmiss",
+  "text": "the Peace Park is home to countless memorials and the Atomic Bomb Dome",
+  "claim": "Peace Park",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "The memorial Peace Park is home to countless memorials and the iconic Atomic Bomb Dome"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_takehara",
+  "text": "Takehara has historic buildings, interesting museums and great sake",
+  "claim": "Takehara",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "with its historic buildings, interesting museums and great sake"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_okonomi",
+  "text": "Hiroshima okonomiyaki layers its ingredients rather than mixing them together, and is served on a bed of griddle-cooked noodles",
+  "claim": "Hiroshima okonomiyaki",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "layers its ingredients rather than mixing them together",
+   "served on a bed of griddle-cooked noodles"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_oyster",
+  "text": "Hiroshima serves some of the biggest oysters in Japan, raw or grilled",
+  "claim": "Oysters",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "biggest oysters, rich and briny and served raw or grilled"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_momiji",
+  "text": "momiji manju is sweet bean jam in a castella dough baked in a maple leaf-shaped mold",
+  "claim": "Momiji manju",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "baking it in a maple leaf-shaped mold"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_spring",
+  "text": "spring brings cherry blossoms and hundreds of thousands of tulips and roses to Hiroshima",
+  "claim": "Spring",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "hundreds of thousands of tulips and roses"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_aug6",
+  "text": "the annual memorial event at the Peace Park occurs on August 6",
+  "claim": "Memorial event",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "The annual memorial event at the Peace Park occurs August 6"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_autumn",
+  "text": "the gorges of Sandankyo and Taishakukyo are known for their fiery autumn colors",
+  "claim": "Autumn",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "the gorges of Sandankyo and Taishakukyo are known for their fiery autumn colors"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hr_winter",
+  "text": "in winter, Hiroshima Dreamination is a decorative illumination event set up along Peace Boulevard",
+  "claim": "Winter",
+  "source_name": "JNTO: Hiroshima",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/",
+  "must_contain": [
+   "Hiroshima Dreamination",
+   "Peace Boulevard"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_lantern",
+  "text": "every year on August 6 a memorial service commemorates the victims of the atomic bomb in 1945, and thousands write messages of peace on paper lanterns",
+  "claim": "Memorial service",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "Every year on August 6, a memorial service is held to commemorate the victims of the atomic bomb in 1945"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_join",
+  "text": "anyone can join the lantern ceremony",
+  "claim": "Lantern ceremony",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "Anyone can join the lantern ceremony"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_shinkansen",
+  "text": "you can reach Hiroshima City from Tokyo by shinkansen in around four hours, or about 90 minutes from Osaka",
+  "claim": "Shinkansen time",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "You can reach the city from Tokyo by shinkansen in around four hours, or about 90 minutes from Osaka"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_flight",
+  "text": "the flight from Haneda Airport to Hiroshima Airport takes around 90 minutes",
+  "claim": "Flight",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "Haneda Airport to Hiroshima Airport takes around 90 minutes"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_trams",
+  "text": "Hiroshima has around 300 trams in service, more than any other city in Japan, on the Hiroden tram service",
+  "claim": "Trams",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "With around 300 trams in service, more than any other city in Japan",
+   "the modern tram service called Hiroden"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_tram1912",
+  "text": "the streetcars have been a mainstay in Hiroshima since 1912",
+  "claim": "Tram history",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "The streetcars have been a mainstay in Hiroshima since 1912"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_okonomi",
+  "text": "Hiroshima okonomiyaki is cooked on a base of noodles layered with pork and cabbage",
+  "claim": "Okonomiyaki",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "cooked on a base of noodles layered with pork and cabbage"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_carp",
+  "text": "baseball fans can catch a home game of the Hiroshima Toyo Carp at Mazda Stadium",
+  "claim": "Baseball",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "Baseball fans should try to catch a home game of the Hiroshima Toyo Carp at Mazda Stadium"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_ebisucho",
+  "text": "the bright lights of Ebisucho mark the best area for a lively drink",
+  "claim": "Nightlife",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "The bright lights of Ebisucho mark the best area for a lively drink or three"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_ebisu_fest",
+  "text": "the Ebisu Festival is held between November 18 and 20",
+  "claim": "Ebisu Festival",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "Between November 18 and 20, the Ebisu Festival is held"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "hc_miyajima",
+  "text": "an excursion to nearby Miyajima for the deer and the floating shrine is one of the JNTO don't-miss items",
+  "claim": "Miyajima excursion",
+  "source_name": "JNTO: Hiroshima City",
+  "source_url": "https://www.japan.travel/en/destinations/chugoku/hiroshima/hiroshima-city/",
+  "must_contain": [
+   "An excursion to nearby Miyajima for the deer and much-photographed floating shrine"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "hiroshima-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_dazaifu",
+  "text": "Dazaifu Tenmangu is a shrine dedicated to the scholar and politician Michizane Sugawara, with over 6,000 plum trees",
+  "claim": "Dazaifu Tenmangu",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "a shrine dedicated to the historical scholar and politician Michizane Sugawara and home to over 6,000 plum trees"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_food",
+  "text": "Fukuoka specialties include sushi and seafood, yakitori, motsunabe hot pot in winter and tonkotsu ramen",
+  "claim": "Food",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "sushi and other seafood dishes, yakitori or grilled skewers, motsunabe hot pot in the winter, and tonkotsu or pork broth ramen"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_yatai",
+  "text": "tonkotsu ramen is best enjoyed at a local yatai or food stall",
+  "claim": "Yatai",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "best enjoyed at a local yatai or food stall"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_rail",
+  "text": "the prefecture has multiple stops on both the JR Kyushu Shinkansen and the JR Sanyo Shinkansen",
+  "claim": "Rail",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "multiple stops on both the JR Kyushu Shinkansen and the JR Sanyo Shinkansen"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_airport",
+  "text": "Fukuoka Airport is extremely close to the city center",
+  "claim": "Airport",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Fukuoka Airport is extremely close to the city center"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_termini",
+  "text": "Hakata Station is a terminus of both the Sanyo and Kyushu shinkansen lines",
+  "claim": "Hakata Station",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "a terminus of both the Sanyo and Kyushu shinkansen lines"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_times",
+  "text": "it takes one hour by shinkansen from Hiroshima to Fukuoka City, and five hours by shinkansen from Tokyo",
+  "claim": "Travel times",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "It takes one hour by shinkansen from Hiroshima to Fukuoka City",
+   "five hours by shinkansen from Tokyo"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_yanagawa",
+  "text": "you can take boat rides through the canals of Yanagawa and eat fresh local eel",
+  "claim": "Yanagawa",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Luxurious boat rides through the canals of Yanagawa, and a meal of fresh local eel"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_itoshima",
+  "text": "the Itoshima Peninsula has sandy beaches, music festivals and an active surf scene",
+  "claim": "Itoshima",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "sandy beaches, music festivals and an active surf scene"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_motsu",
+  "text": "motsu nabe is a hot pot of tripe in a soup made from soy sauce and garlic",
+  "claim": "Motsu nabe",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Motsu nabe is a hot pot dish of tripe in a delicious soup made from soy sauce and garlic"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_mizutaki",
+  "text": "mizutaki is a hot pot made by simmering chicken chunks with seasonal vegetables in a chicken stock broth, served with ponzu",
+  "claim": "Mizutaki",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Mizutaki is a hot pot dish made by simmering chicken chunks with seasonal vegetables in a chicken stock broth"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_birthplace",
+  "text": "Fukuoka is the birthplace of tonkotsu ramen",
+  "claim": "Tonkotsu",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "In Fukuoka, the birthplace of tonkotsu"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_gyoza",
+  "text": "Hakata bite-sized gyoza are filled with minced pork and garlic, fried crispy on the outside and tender inside",
+  "claim": "Gyoza",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Filled with minced pork and garlic, fried crispy on the outside and tender inside"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_curry",
+  "text": "baked curry layers rice, beefy Japanese curry, cheese and a raw egg in a baking dish and is baked",
+  "claim": "Baked curry",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Rice, beefy Japanese curry, cheese and a raw egg are layered in a baking dish and baked"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_spring",
+  "text": "in spring Dazaifu Tenmangu has an enormous display of 6,000 plum trees in flower, followed by cherry blossoms and tulips",
+  "claim": "Spring",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "an enormous display of 6,000 trees in flower"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_summer",
+  "text": "in summer locals leave the city for barbecues and beaches on the Itoshima Peninsula",
+  "claim": "Summer",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "Locals leave the city for barbecues and beaches on Itoshima Peninsula"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_autumn",
+  "text": "in autumn the weather is at its most enjoyable and the leaves on Mt. Hiko take on autumn hues",
+  "claim": "Autumn",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "The weather is at its most enjoyable as Fukuoka takes on autumn hues"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "ff_winter",
+  "text": "in winter you can cruise through Yanagawa canals under a heated kotatsu blanket",
+  "claim": "Winter",
+  "source_name": "JNTO: Fukuoka",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/",
+  "must_contain": [
+   "under a heated kotatsu blanket"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_two",
+  "text": "the city is loosely divided into two halves, Hakata and Tenjin, with the island of Nakasu in the middle",
+  "claim": "Layout",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "The city is loosely divided into two halves",
+   "with the island of Nakasu in the middle"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_merged",
+  "text": "the cities of Hakata and Fukuoka merged in 1889 to create the modern city of Fukuoka",
+  "claim": "History",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "The cities merged in 1889 to create the modern city of Fukuoka"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_hakata",
+  "text": "Hakata is the business hub and the terminus for the bullet train line that runs from Tokyo",
+  "claim": "Hakata",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "business hub and is the terminus for the bullet train line that runs from Tokyo"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_subway",
+  "text": "the airport is only six minutes away from Hakata Station by subway",
+  "claim": "Airport by subway",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "the airport is only six minutes away by subway"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_tenjin",
+  "text": "the Tenjin area has a million and one boutique shops, restaurants and bars",
+  "claim": "Tenjin",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "with a million and one boutique shops, restaurants and bars"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_nakasu",
+  "text": "Nakasu is a glitzy part of the city that truly comes to life after dark",
+  "claim": "Nakasu",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "a glitzy part of the city that truly comes to life after dark"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_ramen_price",
+  "text": "a bowl of tonkotsu ramen can cost as little as 280 yen in some restaurants",
+  "claim": "Ramen price",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "A bowl of tonkotsu ramen here will set you back as little as 280 yen in some restaurants"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_goma",
+  "text": "JNTO says sushi and sashimi fans must try goma saba (mackerel), a Fukuoka specialty",
+  "claim": "Goma saba",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "you must try goma saba (mackerel), a Fukuoka specialty"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_dontaku",
+  "text": "the Hakata Dontaku Festival is held every year in May during Golden Week, drawing 2 to 3 million people",
+  "claim": "Dontaku",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "is held every year in May during Golden Week",
+   "2 to 3 million people attending the festival every year"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_yamakasa",
+  "text": "the Hakata Gion Yamakasa, held each July, sees one-ton floats raced through the streets of Hakata",
+  "claim": "Yamakasa",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "The Hakata Gion Yamakasa, held each July, sees one-ton floats being raced through the streets of Hakata"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_tokyo",
+  "text": "the train journey from Tokyo Station to Hakata Station on the JR Tokaido-Sanyo Shinkansen Line is about five hours, and the flight from Haneda is about one hour and 45 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "to Hakata Station via the JR Tokaido-Sanyo Shinkansen Line is about five hours",
+   "it is about one hour and 45 minutes from Haneda Airport to Fukuoka Airport"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_osaka",
+  "text": "the shinkansen from Shin-Osaka to Hakata Station takes around two hours and 20 minutes",
+  "claim": "From Osaka",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "The shinkansen ride from Shin-Osaka to Hakata Station is around two hours and 20 minutes"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_busan",
+  "text": "a regular ferry service to Busan in South Korea takes as little as two hours",
+  "claim": "Ferry to Busan",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "regular ferry service to the Korean City of Busan that takes as little as two hours"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_gateway",
+  "text": "many people use Fukuoka City as the gateway city to see all of Kyushu",
+  "claim": "Gateway to Kyushu",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "use it as the gateway city to see all Kyushu"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_itoshima",
+  "text": "in summer locals flock to the nearby Itoshima Peninsula for BBQs, swimming and water sports",
+  "claim": "Beaches",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "locals flock to the nearby Itoshima Peninsula for BBQs, swimming and water sports"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_dazaifu",
+  "text": "Tenmangu in Dazaifu is the top shrine dedicated to scholars, where students facing exams come to pray for success",
+  "claim": "Dazaifu",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "Tenmangu is the top shrine dedicated to scholars and scholarship",
+   "This is where students facing exams come to pray for success"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "fc_closer",
+  "text": "Fukuoka is closer to Seoul and Shanghai than it is to Tokyo",
+  "claim": "Location",
+  "source_name": "JNTO: Fukuoka City",
+  "source_url": "https://www.japan.travel/en/destinations/kyushu/fukuoka/fukuoka-city/",
+  "must_contain": [
+   "The city is actually closer to Seoul and Shanghai than it is to Tokyo"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "fukuoka-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_views",
+  "text": "Ishikawa offers sublime ocean views and stunning mountain vistas",
+  "claim": "Scenery",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Ishikawa offers sublime ocean views and stunning mountain vistas"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_arts",
+  "text": "the area became a thriving center for Japanese fine arts, including ceramics and lacquerware, in the 17th century",
+  "claim": "Arts",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "the area became a thriving center for Japanese fine arts, including ceramics and lacquerware in the 17th century"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_museum",
+  "text": "the 21st Century Museum of Contemporary Art sits alongside traditional culture in Kanazawa",
+  "claim": "Modern art",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "21st Century Museum of Contemporary Art"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_stroll",
+  "text": "you can stroll through the historical center of Kanazawa or relax in the hot springs of Kaga Onsen",
+  "claim": "Kanazawa and Kaga",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "stroll through the historical center of",
+   "relax in the hot springs of"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_tokyo",
+  "text": "from Tokyo it takes about 2 hours 30 minutes to Kanazawa on the Hokuriku Shinkansen",
+  "claim": "From Tokyo",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "About 2 hours 30 minutes to",
+   "on the Hokuriku Shinkansen"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_kansai",
+  "text": "from Kyoto or Osaka, take the JR Limited Express (Thunderbird) to Tsuruga, then transfer to the Hokuriku Shinkansen, a total of about 2 hours",
+  "claim": "From Kyoto and Osaka",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Take the JR Limited Express (Thunderbird) to",
+   "Total travel time is about 2 hours"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_air",
+  "text": "Ishikawa is also reached by domestic flights via Komatsu and Noto airports and long-distance buses",
+  "claim": "Air and bus",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "domestic flights via Komatsu and Noto airports"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_dontmiss",
+  "text": "the JNTO don't-miss list includes strolling the well-preserved historical center of Kanazawa and refined crafts such as gold leaf and lacquerware",
+  "claim": "Don't miss",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Strolling around the well-preserved historical center of Kanazawa",
+   "Highly refined traditional Japanese crafts, including gold leaf and lacquerware"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_noto",
+  "text": "the Noto Peninsula has beautiful, rugged coastal scenery and fresh seafood",
+  "claim": "Noto Peninsula",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "rugged coastal scenery and fresh seafood of the Noto Peninsula"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_trending",
+  "text": "JNTO lists Kenrokuen Garden, Higashi Chaya District, Omicho Market, Kanazawa Castle Park and Yamanaka Onsen as trending attractions",
+  "claim": "Trending",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Kenrokuen Garden",
+   "Higashi Chaya District",
+   "Omicho Market",
+   "Kanazawa Castle Park"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_kutani",
+  "text": "Kutani yaki porcelain dates back to the 17th century, when porcelain clay was discovered locally",
+  "claim": "Kutani",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Kutani yaki dates back to the 17th century"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_wajima",
+  "text": "Wajima lacquerware has a unique undercoating produced only in Wajima, which gives it strength and durability",
+  "claim": "Wajima",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "The unique undercoating produced only in Wajima gives this lacquerware its strength and durability"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_yuzen",
+  "text": "Kaga yuzen uses silk-dyeing techniques that date back to the mid-15th century",
+  "claim": "Kaga yuzen",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Kaga yuzen uses dyeing techniques that date back to the mid-15th century"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_yasai",
+  "text": "there are 15 kaga vegetables, local vegetables cultivated in a traditional manner",
+  "claim": "Kaga yasai",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "There are 15 kaga vegetables"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_jibuni",
+  "text": "jibu-ni is a stewed dish of thin slices of duck or chicken tossed in starch and cooked in a traditional Japanese soup",
+  "claim": "Jibu-ni",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Thin slices of duck (or chicken) are tossed in starch"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_kabura",
+  "text": "kabura sushi is a preserved winter sushi made from salted amberjack and turnips pickled in koji",
+  "claim": "Kabura sushi",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "A preserved winter sushi, made from salted amberjack and turnips"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_spring",
+  "text": "in spring you can view over 400 blossoming cherry trees in Kenrokuen Garden in Kanazawa",
+  "claim": "Spring",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "View over 400 blossoming cherry trees"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_summer",
+  "text": "the Hyakumangoku Festival in Kanazawa spans three days every June",
+  "claim": "Summer",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "The vibrant Hyakumangoku Festival in Kanazawa spans three days every June"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_autumn",
+  "text": "changing foliage is everywhere in Ishikawa, and Kenrokuen Garden and Kakusenkei Gorge are particularly picturesque",
+  "claim": "Autumn",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Changing foliage is everywhere in Ishikawa"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_winter",
+  "text": "in winter you can enjoy local delicacies like sake and snow crab, and see illuminations at Kenrokuen and the Senmaida rice paddies in Wajima",
+  "claim": "Winter",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "enjoy local winter delicacies like sake and snow crab",
+   "Colorful illuminations can be seen at the terraced rice paddies of Senmaida in Wajima, and at Kenrokuen"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kz_katatofu",
+  "text": "Hakusan katatofu is rich in soybean flavor and firmer than most tofu because it contains less water",
+  "claim": "Katatofu",
+  "source_name": "JNTO: Ishikawa",
+  "source_url": "https://www.japan.travel/en/destinations/hokuriku-shinetsu/ishikawa/",
+  "must_contain": [
+   "Hakusan katatofu is rich in soybean flavor"
+  ],
+  "verified_on": "2026-11-01",
+  "topics": [
+   "kanazawa-things-to-do-first-time"
   ]
  }
 ]
