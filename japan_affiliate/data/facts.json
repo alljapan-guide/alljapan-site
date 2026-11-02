@@ -8358,7 +8358,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -8472,7 +8473,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -8486,7 +8488,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -8556,7 +8559,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -8600,7 +8604,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -8614,7 +8619,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -8629,7 +8635,8 @@
   ],
   "verified_on": "2026-11-02",
   "topics": [
-   "osaka-things-to-do-first-time"
+   "osaka-things-to-do-first-time",
+   "osaka-3-day-itinerary"
   ]
  },
  {
@@ -10013,6 +10020,1202 @@
   "verified_on": "2026-11-02",
   "topics": [
    "kanazawa-things-to-do-first-time"
+  ]
+ },
+ {
+  "id": "kg_len",
+  "text": "the JNTO Kansai Trio itinerary has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kg_intro",
+  "text": "the itinerary visits historic sites in Kyoto, one of the largest bronze Buddha statues in Nara, and the shopping districts and food of Osaka",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "visit historic sites in the former capital of Japan, Kyoto, with hundreds of ancient shrines and temples"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_tokyo",
+  "text": "from Tokyo, take the Tokaido Shinkansen to Kyoto Station, a journey of 2 hours 20 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Take the Tokaido Shinkansen to Kyoto Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kg_nijo",
+  "text": "Nijo Castle was built as a family residence in 1603 by Tokugawa Ieyasu, and its garden has over 300 cherry trees",
+  "claim": "Nijo Castle",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Built as a family residence in 1603 by Tokugawa Ieyasu",
+   "over 300 cherry trees"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_kinkaku",
+  "text": "Kinkakuji Temple is a World Heritage site flanked by gardens, where the Golden Pavilion reflects in the surrounding pond",
+  "claim": "Kinkakuji",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "The sight of the Golden Pavilion reflecting in the pond that surrounds it is lovely"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_yasaka",
+  "text": "Yasaka-jinja is referred to as Gion-san by locals and becomes especially lively during the Gion Festival",
+  "claim": "Yasaka-jinja",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "referred to as",
+   "Gion Festival"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_chionin",
+  "text": "Chionin Temple is the head temple of the Jodo Sect, and its bell requires a team of 17 to ring",
+  "claim": "Chionin",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "is the head temple of the Jodo Sect of Japanese Buddhism",
+   "requires a team of 17 to ring"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_slopes",
+  "text": "after Chionin you can walk up the Ninenzaka and Sannenzaka slopes toward Yasaka-no-to Pagoda",
+  "claim": "Ninenzaka and Sannenzaka",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "walk up the Ninenzaka and Sannenzaka slopes"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_kiyo",
+  "text": "at Kiyomizudera you can drink from the Otowa Waterfall streams to pray for longevity and good fortune, but not from all three",
+  "claim": "Otowa Waterfall",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Head down to the Otowa Waterfall",
+   "Just don"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_shijo",
+  "text": "Shijo Kawaramachi is described as Kyoto high street and the most popular entertainment district",
+  "claim": "Shijo Kawaramachi",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "the most popular entertainment district"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_nishiki",
+  "text": "Nishiki Market started as a fish market in the 14th century, and the 390-meter street has over 100 shops and restaurants",
+  "claim": "Nishiki Market",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Starting as a fish market in the 14th century",
+   "The 390-meter shopping street is lined with over 100 shops and restaurants"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_day2_transit",
+  "text": "on day 2 you walk to Shijo Station, take the Karasuma Line to Kyoto Station, and change to the JR Miyakoji Rapid Service for Nara",
+  "claim": "Kyoto to Nara",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "take the Karasuma Line to Kyoto Station. Change to the JR Miyakoji Rapid Service"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kg_kofukuji",
+  "text": "Kofukuji Temple has Japan's second tallest pagoda and a National Treasure Museum with a 1,300-year-old three-faced, six-armed Ashura statue",
+  "claim": "Kofukuji",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "second tallest pagoda",
+   "1,300-year-old, three-faced, six-armed Ashura statue"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_deer",
+  "text": "at Nara Park wild deer are unafraid of people and will go through bags looking for shika senbei",
+  "claim": "Nara deer",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "are unafraid of people and will gladly go through your bags looking for"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_kasuga",
+  "text": "Kasuga Taisha has hundreds of bronze and stone lanterns donated by worshipers, and the Manyo Botanical Gardens",
+  "claim": "Kasuga Taisha",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "hundreds of bronze and stone lanterns that have been donated by worshipers"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_todaiji",
+  "text": "Todaiji Temple holds the Great Buddha, one of the largest in Japan, and a pillar with a hole the size of the Buddha nostril",
+  "claim": "Todaiji",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "coming face-to-face with the Great Buddha, one of the largest in Japan",
+   "the size of the Great Buddha"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_museum",
+  "text": "the Nara National Museum was established in 1895 and exhibits Buddhist art masterpieces",
+  "claim": "Nara National Museum",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "established in 1895"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_gangoji",
+  "text": "Gangoji Temple in Naramachi houses three National Treasures",
+  "claim": "Gangoji",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "houses three National Treasures"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_day3_transit",
+  "text": "on day 3 you walk 15 minutes to Nara Station and take the JR Yamatoji Line to Osaka Castle Station",
+  "claim": "Nara to Osaka",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Walk 15 minutes to Nara Station and take the JR Yamatoji Line to Osaka Castle Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kg_osaka_castle",
+  "text": "inside the Osaka Castle keep is a museum with a corner to try on a warlord costume, and an eighth-floor observation deck",
+  "claim": "Osaka Castle",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "there is even a corner where you can try on a warlord costume",
+   "eighth-floor observation deck"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_cruise",
+  "text": "from Osaka Castle Harbor you can take an hour-long Aqua Liner cruise along the Ogawa River",
+  "claim": "Cruise",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Aqua Liner",
+   "cruise"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_nippon",
+  "text": "Nipponbashi Electric Town, known as Denden Town, is lined with electronics stores and is similar to Tokyo's Akihabara",
+  "claim": "Nipponbashi",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Nipponbashi Electric Town is similar to Tokyo"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_dotonbori",
+  "text": "at Dotonbori you can stop for grilled crab, photograph the Glico sign and buy takoyaki, and follow the kuidaore motto",
+  "claim": "Dotonbori",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "stop for some grilled crab",
+   "kuidaore"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kg_apt",
+  "text": "the Asia Pacific Trade Center has showrooms and outlet malls, with oceanfront views",
+  "claim": "Asia Pacific Trade Center",
+  "source_name": "JNTO itinerary: The Kansai Trio",
+  "source_url": "https://www.japan.travel/en/itineraries/the-kansai-trio-kyoto-nara-and-osaka/",
+  "must_contain": [
+   "Outlet malls, showrooms and international trade"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kansai-3-day-itinerary-kyoto-nara-osaka"
+  ]
+ },
+ {
+  "id": "kb_len",
+  "text": "the JNTO Kobe itinerary has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_intro",
+  "text": "Kobe is one of Japan's most culturally eclectic cities, easily accessible from Osaka and Kyoto by train",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "easily accessible from Osaka and Kyoto by train"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_osaka",
+  "text": "from Osaka it takes 25 minutes on the JR Kobe Line from Osaka Station to Sannomiya Station",
+  "claim": "From Osaka",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "Take the JR Kobe Line from Osaka Station to Sannomiya Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kb_tokyo",
+  "text": "from Tokyo it takes 2 hours 45 minutes on the Tokaido-Sanyo Shinkansen from Tokyo Station to Shin-Kobe Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "Take the Tokaido-Sanyo Shinkansen from Tokyo Station to Shin-Kobe Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_ropeway",
+  "text": "the Kobe Nunobiki ropeway goes up to the Herb Gardens, home to herbs and flowers spanning 200 species",
+  "claim": "Nunobiki ropeway",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "spanning 200 species"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_kitano",
+  "text": "Kitano-cho is a historic district once home to the city foreign merchants, and many former mansions called Ijinkan are now museums open to the public",
+  "claim": "Kitano-cho",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "Many of these former mansions, known as Ijinkan, have been repurposed into museums"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_ikuta",
+  "text": "Ikuta-jinja Shrine was founded in the year 201 A.D. and hosts many major festivals",
+  "claim": "Ikuta-jinja",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "Founded in the year 201"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_meriken",
+  "text": "Kobe Port Tower is 108 meters tall, and Meriken Park is the harborside place to be at dusk",
+  "claim": "Meriken Park",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "108-meter-tall"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_cruise",
+  "text": "the Luminous Kobe 2 is one of Japan's largest restaurant cruise ships",
+  "claim": "Luminous Kobe 2",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "one of Japan"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kb_animal",
+  "text": "Kobe Animal Kingdom is a flower and animal park on Port Island with a hands-on petting zoo and a giant greenhouse, good for rainy days",
+  "claim": "Kobe Animal Kingdom",
+  "source_name": "JNTO itinerary: Kobe in 1 Day",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-kobe-a-city-where-the-tradition-and-modernity-meet/",
+  "must_contain": [
+   "hands-on petting zoo"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_shinkansen",
+  "text": "the journey between Tokyo and Shin-Kobe Station takes between 160 and 195 minutes depending on the train",
+  "claim": "Shinkansen time",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "between 160 and 195 minutes depending on the train"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_hikari",
+  "text": "the journey from Tokyo to Shin-Kobe is covered by the Japan Rail Pass if taking a Hikari train",
+  "claim": "Rail pass",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "covered by the",
+   "if taking a Hikari train"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_beef",
+  "text": "Kobe beef comes from locally bred and raised Tajima cattle and must meet a strict set of standards to carry the Kobe stamp",
+  "claim": "Kobe beef",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "locally bred and raised Tajima cattle",
+   "strict set of standards"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kd_beef_ways",
+  "text": "the classic way to enjoy Kobe beef is steak, and you can also try shabu shabu or sukiyaki",
+  "claim": "Kobe beef dishes",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "shabu shabu",
+   "sukiyaki"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_tower",
+  "text": "Kobe Port Tower is a 108-meter-high observation tower on the waterfront between Kobe Harborland and Meriken Park",
+  "claim": "Port Tower",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "a 108-meter-high observation tower located on the city"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_ropeway_night",
+  "text": "the Kobe-Nunobiki Ropeway climbs the Rokko mountain chain to a panorama of the city lights at night",
+  "claim": "Night view",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "breathtaking panorama of the city lights at night"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_sorakuen",
+  "text": "Sorakuen Garden is a traditional Japanese landscape garden in the middle of the city",
+  "claim": "Sorakuen",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "a traditional Japanese landscape garden in the middle of the city"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_hike",
+  "text": "there is a 40-minute hike from Shin-Kobe Station up to the Kobe Nunobiki Herb Garden, passing Nunobiki Falls",
+  "claim": "Hike",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "a 40-minute hike from Shin-Kobe Station up to the Kobe Nunobiki Herb Garden"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_chinatown",
+  "text": "Nankinmachi is one of Japan's three main Chinatown districts, about a 5-minute walk from JR Motomachi Station",
+  "claim": "Chinatown",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "one of Japan",
+   "about a 5-minute walk from JR Motomachi Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_rokko",
+  "text": "Mt. Rokko is 931 meters tall and gives a panorama of both Kobe and Osaka",
+  "claim": "Mt. Rokko",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "931-meter-tall peak"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_arima",
+  "text": "Arima Onsen is one of Japan's oldest hot spring towns",
+  "claim": "Arima Onsen",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "Arima Onsen",
+   "oldest hot spring towns"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "kd_quake",
+  "text": "the 1995 Great Hanshin Earthquake devastated the city, and the Kobe Earthquake Memorial Museum opened in 2002",
+  "claim": "Earthquake memorial",
+  "source_name": "JNTO: Kobe and around",
+  "source_url": "https://www.japan.travel/en/destinations/kansai/hyogo/kobe-and-around/",
+  "must_contain": [
+   "Great Hanshin Earthquake",
+   "In 2002, the"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "kobe-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_best",
+  "text": "Himeji Castle is the best-preserved castle in Japan, also known as the White Heron Castle",
+  "claim": "Best preserved",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "The best-preserved castle in Japan",
+   "White Heron Castle"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hj_status",
+  "text": "Himeji Castle is both a Japanese National Treasure and a World Heritage site, and one of Japan's 12 remaining original castles",
+  "claim": "Status",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "both a Japanese National Treasure and a World Heritage site",
+   "12 remaining original castles"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_dontmiss",
+  "text": "over 1,000 cherry trees bloom in the castle grounds each spring, and the keep is 400 years old",
+  "claim": "Don't miss",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "More than 1,000 cherry trees in the castle",
+   "400-year-old"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_access",
+  "text": "Himeji Castle is one kilometer down Otemae-dori street from the north exit of Himeji Station, a 15-to-20-minute walk or five-minute bus ride",
+  "claim": "Access",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "one kilometer down Otemae-dori street from the north exit of Himeji Station",
+   "15-to-20-minute walk or a five-minute bus ride"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hj_history",
+  "text": "the present castle complex was completed in 1609 and is made up of over 80 buildings connected by labyrinth-like winding paths",
+  "claim": "History",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "completed in 1609",
+   "over 80 buildings"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_free",
+  "text": "Otemon Gate is the main gate and allows access to the admission-free San-no-maru outer bailey, popular for spring picnics",
+  "claim": "Free area",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "admission-free part of the castle",
+   "San-no-maru"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_paid",
+  "text": "through the Hishi Gate is the paid portion of the castle, with a ticket booth near the gate",
+  "claim": "Paid area",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "Through the Hishi Gate is the paid portion of the castle"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_climb",
+  "text": "it is possible to climb the keep to the top floor, where the floors get progressively smaller and are sparsely furnished",
+  "claim": "Climbing the keep",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "It is possible to climb the keep to the top floor",
+   "The floors get progressively smaller as you ascend"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hj_top",
+  "text": "the top floor has a small shrine and viewpoints over the castle and the city",
+  "claim": "Top floor",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "small shrine and viewpoints"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_nishi",
+  "text": "the west bailey, Nishi-no-maru, in the paid area has great views of the main keep",
+  "claim": "West bailey",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "Nishi-no-maru",
+   "great views of the main keep"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_crowds",
+  "text": "the castle is at its best and at its most crowded during cherry blossom season, and tickets to enter the main keep may be limited",
+  "claim": "Crowds",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "it is also at its most crowded",
+   "may also be limited during this period"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_moat",
+  "text": "boat rides on the inner moat run on Saturdays, Sundays and public holidays, with usually 10 rides per day",
+  "claim": "Boat rides",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "Saturdays, Sundays or public holidays",
+   "10 rides per day"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hj_restored",
+  "text": "after a five-year project that started in 2010, Himeji Castle fully reopened on March 27, 2015",
+  "claim": "Restoration",
+  "source_name": "JNTO: Himeji Castle",
+  "source_url": "https://www.japan.travel/en/spot/1030/",
+  "must_contain": [
+   "fully reopened to the public on March 27, 2015"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hk_nine",
+  "text": "Kokoen is next to Himeji Castle and has nine separate walled gardens in Edo-period styles, opened in 1992 to commemorate the centenary of Himeji City",
+  "claim": "Kokoen",
+  "source_name": "JNTO: Kokoen Garden",
+  "source_url": "https://www.japan.travel/en/spot/1029/",
+  "must_contain": [
+   "nine separate walled gardens designed in various styles",
+   "opened in 1992"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hk_access",
+  "text": "Kokoen is a 20-minute walk or five-minute bus ride from Himeji Station",
+  "claim": "Access",
+  "source_name": "JNTO: Kokoen Garden",
+  "source_url": "https://www.japan.travel/en/spot/1029/",
+  "must_contain": [
+   "20-minute walk or five-minute bus ride from Himeji Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hk_gardens",
+  "text": "Kokoen includes the Garden with a Hill and Pond, the Tea Ceremony Garden, the Garden of Pine Trees, the Garden of Bamboo and the Garden of Flowers",
+  "claim": "Gardens in Kokoen",
+  "source_name": "JNTO: Kokoen Garden",
+  "source_url": "https://www.japan.travel/en/spot/1029/",
+  "must_contain": [
+   "Garden with a Hill and Pond, Tea Ceremony Garden, Garden of Pine Trees, Garden of Bamboo, and Garden of Flowers"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "hk_site",
+  "text": "Kokoen is built on the former site of the west residence of the daimyo lord of Himeji Castle",
+  "claim": "Site",
+  "source_name": "JNTO: Kokoen Garden",
+  "source_url": "https://www.japan.travel/en/spot/1029/",
+  "must_contain": [
+   "former site of the west residence of Himeji Castle"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "himeji-castle-day-trip-from-osaka"
+  ]
+ },
+ {
+  "id": "on_len",
+  "text": "the JNTO itinerary Osaka from North to South has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_split",
+  "text": "Osaka is divided into the two major urban hubs of the north, Kita, and the south, Minami",
+  "claim": "Kita and Minami",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "Divided into the two major urban hubs of the north (Kita) and south (Minami)"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_highlights",
+  "text": "the highlights are Umeda Sky Building views, kushikatsu in Shinsekai and the Glico Man sign",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "Viewing Osaka from up high at the Umeda Sky Building",
+   "Eating kushikatsu deep-fried skewers in Shinsekai"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_tokyo",
+  "text": "from Tokyo it takes around 3 hours, taking the Tokaido Shinkansen to Shin-Osaka Station then the JR Kyoto Line for Osaka Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "around 3 hours",
+   "transfer to the JR Kyoto Line for Osaka Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_kix",
+  "text": "from Kansai International Airport it takes 65 minutes on the Kansai Airport Express to Osaka Station",
+  "claim": "From KIX",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "65 minutes",
+   "Take the Kansai Airport Express from Kansai Airport Station to Osaka Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_station",
+  "text": "Osaka Station City is a shopping and entertainment complex flanking the north and south sides of Osaka Station, with a terrace area",
+  "claim": "Osaka Station City",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "shopping and entertainment complex"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_sky",
+  "text": "the Umeda Sky Building is a 40-story skyscraper standing 173 meters tall, with a Floating Garden for views",
+  "claim": "Umeda Sky Building",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "40-story skyscraper",
+   "173 meters-tall"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_takimi",
+  "text": "Takimi Lane of Restaurants on the first basement floor is a replica of the Osaka cityscape in the Showa era",
+  "claim": "Takimi Lane",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "replica of the Osaka cityscape in the Showa era"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_underground",
+  "text": "the Umeda underground district is billed as the largest underground labyrinth in Japan, with Whity Umeda, Diamor Osaka and Hankyu Sanbangai",
+  "claim": "Underground",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "Whity Umeda, Diamor Osaka, and Hankyu Sanbangai"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_midosuji",
+  "text": "Midosuji is over four kilometers long, runs from Umeda to Namba, is lined with ginkgo trees and has street sculptures including works by Henry Moore and Auguste Rodin",
+  "claim": "Midosuji",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "Over four kilometers long",
+   "Henry Moore and Auguste Rodin"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_train",
+  "text": "take the Midosuji Line from Midosuji Boulevard to Shinsaibashi Station, about 4 minutes",
+  "claim": "Midosuji Line",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "Take the Midosuji Line from Midosuji Boulevard to Shinsaibashi Station"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_shinsai",
+  "text": "Shinsaibashi-suji has been a thriving retail district since the Edo period",
+  "claim": "Shinsaibashi-suji",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "A thriving retail district since the Edo period"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_doton",
+  "text": "the Dotonbori bridge is best visited from dusk to see the neon-lit buildings along the river, including the Glico sign",
+  "claim": "Dotonbori",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "best visited from dusk to see the neon-lit buildings along the river"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_hozenji",
+  "text": "Hozenji Yokocho is a narrow, stone-paved and cobbled road hinting at the tranquil Osaka of many years ago",
+  "claim": "Hozenji Yokocho",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "narrow, stone-paved and cobbled road"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_shinsekai",
+  "text": "Shinsekai is an old-school entertainment district famous for kushikatsu, with Tsutenkaku tower",
+  "claim": "Shinsekai",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "famous for Kushikatsu, or deep-fried skewered meat and vegetables"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_shinsekai_time",
+  "text": "Tsutenkaku and Shinsekai can easily fill a couple of hours of your schedule",
+  "claim": "Time in Shinsekai",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "can easily fill a couple of hours of your schedule"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_harukas",
+  "text": "Abeno Harukas stands 300 meters tall, the tallest skyscraper in Japan, with an observatory deck open until 10 p.m.",
+  "claim": "Abeno Harukas",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "open until 10 p.m.",
+   "tallest skyscraper in Japan"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary",
+   "osaka-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_harukas_day",
+  "text": "Abeno Harukas also has a department store, art museum, garden terrace and restaurants to explore in daylight",
+  "claim": "Harukas daytime",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "department store, art museum, garden terrace and restaurants"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "on_nakanoshima",
+  "text": "Nakanoshima is a river island in central Osaka with museums, architecture and dining, about 15 minutes south of Osaka Station, and you can spend a couple of hours there",
+  "claim": "Nakanoshima",
+  "source_name": "JNTO itinerary: Osaka from North to South",
+  "source_url": "https://www.japan.travel/en/itineraries/osaka-from-north-to-south/",
+  "must_contain": [
+   "A river island in central Osaka",
+   "You can easily spend a couple of hours here"
+  ],
+  "verified_on": "2026-11-02",
+  "topics": [
+   "osaka-one-day-itinerary"
   ]
  }
 ]

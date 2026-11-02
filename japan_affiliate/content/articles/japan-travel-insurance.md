@@ -1,9 +1,9 @@
 ---
-title: Do You Need Travel Insurance for Japan?
+title: Do You Need Travel Insurance for Japan? Is It Mandatory?
 slug: japan-travel-insurance
-description: What JNTO says about travel insurance for Japan: why it is recommended, what to check in a policy, emergency numbers and the visitor hotline.
+description: Is travel insurance mandatory for Japan? What JNTO says visitors should do: why it is recommended, what to check in a policy, emergency numbers and the hotline.
 date: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-03
 cluster: planning
 affiliates: insurance
 image_queries: Japan hospital building sign | Tokyo ambulance | Japan police box koban | Matsumoto Kiyoshi drugstore
@@ -14,7 +14,11 @@ This guide summarises JNTO's insurance and hotline pages. Where we give opinion,
 
 {{photo:1|A hospital in Japan}}
 
-## Why the official guide recommends it
+## Is travel insurance mandatory for Japan?
+
+JNTO's page says that {{fact:ins_recommended}}. It does not describe insurance as an entry requirement, so the answer to "is it mandatory?" is no, but the guidance is clear that visitors should have it. If you are asking whether you need travel insurance for Japan, the sections below explain why the official guide recommends it.
+
+## Why the official guide recommends it for visitors
 
 JNTO points to three reasons. First, it says {{fact:ins_medical}}. Second, it cites a Japan Tourism Agency survey: {{fact:ins_survey}}. Third, it warns that {{fact:ins_unpaid}}.
 
@@ -22,7 +26,7 @@ Our view: the third point is the easiest to overlook. Even if you would rather a
 
 {{warn|JNTO's page says that {{fact:ins_unpaid}}. Keep receipts, and contact your insurer promptly after any treatment.}}
 
-## What to check in a policy
+## What a Japan travel insurance policy should cover
 
 JNTO gives a short checklist. Use it as a comparison tool when you look at policies.
 
@@ -44,7 +48,7 @@ Each point comes from the JNTO page:
 
 Our view: the cashless question is the one worth asking first. A policy that reimburses you later is still useful, but you need enough funds or credit available to pay at the time of treatment.
 
-## Credit card cover and buying after arrival
+## Credit card cover and buying insurance after arrival
 
 JNTO says {{fact:ins_card}}. Our view: cover through a card can be a good starting point, but confirm the details with your card provider, as the page itself asks, and compare them against the checklist above.
 
