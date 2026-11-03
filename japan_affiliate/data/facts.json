@@ -11217,5 +11217,1187 @@
   "topics": [
    "osaka-one-day-itinerary"
   ]
+ },
+ {
+  "id": "hkn_len",
+  "text": "the JNTO Hakone itinerary has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_intro",
+  "text": "for hundreds of years Hakone served as a relaxing checkpoint between Tokyo and Kyoto, with hot springs and nature",
+  "claim": "Why Hakone",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "a relaxing checkpoint between the cities of Tokyo and Kyoto"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_ryokan",
+  "text": "booking a night or two in a ryokan and unwinding in a bath offers rejuvenation for your journey",
+  "claim": "Ryokan",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Booking a night or two in a comfortable ryokan inn"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_tokyo",
+  "text": "from Tokyo Station, take the JR Tokaido Sanyo Shinkansen to JR Odawara Station (35 minutes), then the Odakyu Romance Car to Hakone-Yumoto Station (15 minutes)",
+  "claim": "From Tokyo Station",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "take the JR Tokaido Sanyo Shinkansen to JR Odawara Station from JR Tokyo Station (35 minutes)",
+   "Odakyu Romance Car to Hakone-Yumoto Station (15 minutes)"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_shinjuku",
+  "text": "from Shinjuku Station, the Hakone Free Pass and the Odakyu Romance Car lead to Hakone-Yumoto Station",
+  "claim": "From Shinjuku",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "From Shinjuku Station, use the Hakone Free Pass to Hakone-Yumoto Station"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_freepass",
+  "text": "the discounted Hakone Free Pass gives unlimited rides on trains, buses, ropeways and boats operated by Odakyu, with two- and three-day passes and discounts on some attractions",
+  "claim": "Hakone Free Pass",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "unlimited rides on any of the trains, buses, ropeways, or boats operated by Odakyu",
+   "Two-and three-day passes are available"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_romancecar",
+  "text": "the Romance Car is an upgraded limited express train, discounted for those with the Hakone Free Pass",
+  "claim": "Romance Car",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "upgraded limited express train"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_tozan",
+  "text": "the Hakone Tozan line is one of Japan most scenic rides, along steep slopes and lush green river valleys",
+  "claim": "Hakone Tozan line",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "scenic rides, and takes you along steep slopes and lush green river valleys"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_odawara",
+  "text": "Odawara Castle has an impressive collection of samurai-era artifacts and marks the start of the Hakone area",
+  "claim": "Odawara Castle",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "an impressive collection of samurai-era artifacts"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_enoura",
+  "text": "the Enoura Observatory is an art complex with seaside views that opened in October 2017, and reservations are required",
+  "claim": "Enoura Observatory",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "opened to the public in October 2017",
+   "Reservations are required to visit the observatory"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_yunessun",
+  "text": "Hakone Kowakien Yunessun is a hot spring theme park with green tea, red wine and coffee baths, and a waterslide",
+  "claim": "Yunessun",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "one-of-a-kind green tea, red wine, and coffee baths",
+   "waterslide"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_openair",
+  "text": "the Hakone Open-Air Museum features statues and outdoor installations and an exhibition hall dedicated to Pablo Picasso",
+  "claim": "Open-Air Museum",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Hakone Open-Air Museum",
+   "Pablo Picasso"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_openair_time",
+  "text": "seeing everything at the Open-Air Museum takes a large part of the day",
+  "claim": "Time needed",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "it takes a large part of the day to see everything the museum has on display"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_lalique",
+  "text": "the Lalique Museum shows more than 1,500 pieces of glasswork and jewelry, and the Hakone Botanical Garden of Wetlands has over 1,700 varieties of plants",
+  "claim": "Sengokuhara",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "more than 1,500 pieces",
+   "over 1,700 varieties of plant life"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_ropeway",
+  "text": "the Hakone Ropeway crosses the sulfuric Owakudani valley, where Hakone famous black eggs are sold",
+  "claim": "Owakudani",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "the Hakone Ropeway takes you through the mountains and over the sulfuric Owakudani valley",
+   "black eggs"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_respiratory",
+  "text": "people with respiratory issues may want to avoid Owakudani, as the sulfuric gases can be irritating on certain days",
+  "claim": "Owakudani warning",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Those with respiratory issues may want to avoid Owakudani"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_cruise",
+  "text": "at Lake Ashinoko you can take a sightseeing cruise aboard a pirate ship with views of Mt. Fuji",
+  "claim": "Lake cruise",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "sightseeing cruise",
+   "pirate ship"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_checkpoint",
+  "text": "the Hakone Checkpoint Museum shows the remains of the station where travelers entered or left the old Edo domain, and you can walk along the old Tokaido Road",
+  "claim": "Checkpoint",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Hakone Checkpoint Museum",
+   "walk along some of the old Tokaido Road"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_narukawa",
+  "text": "the Narukawa Art Museum focuses on nihonga painting and its cafe has views of the lake, the floating torii gate and Mt. Fuji",
+  "claim": "Narukawa",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Narukawa Art Museum",
+   "nihonga"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "hkn_fuji",
+  "text": "Hakone is a good stop before or after climbing Mt. Fuji and offers easy hikes",
+  "claim": "Mt. Fuji",
+  "source_name": "JNTO itinerary: Hakone",
+  "source_url": "https://www.japan.travel/en/itineraries/outdoor-art-hot-spring-resorts-and-fuji-views-in-hakone/",
+  "must_contain": [
+   "Hakone also makes for a good stop before or after climbing Mt. Fuji"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "hakone-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_len",
+  "text": "the JNTO Kamakura itinerary has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_intro",
+  "text": "Kamakura was the base of Japan very first feudal government and combines rich history with a laid-back seaside vibe",
+  "claim": "Kamakura",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "combines rich history with a laid-back seaside vibe"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_tokyo",
+  "text": "from Tokyo it takes about 1 hour: take the JR Yokosuka Line from Tokyo Station to Kita-Kamakura Station (55 minutes), then walk to Engakuji Temple (1 minute)",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Take the JR Yokosuka Line from Tokyo Station to Kita-Kamakura Station (55 minutes)",
+   "Walk to Engakuji Temple (1 minute)"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_engakuji",
+  "text": "Engakuji Temple is a Zen temple and national historic site, with a Sanmon Gate featured in Japanese literature",
+  "claim": "Engakuji",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "a Zen temple and national historic site"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_kencho",
+  "text": "Kencho-ji Temple is the first Zen dojo, and its garden shows wabi and sabi",
+  "claim": "Kencho-ji",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "first Zen dojo"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_shojin",
+  "text": "shojin-ryori is a traditional Buddhist cuisine that is vegetarian, served at famous restaurants such as Hachinoki",
+  "claim": "Shojin-ryori",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Shojin-ryori is a traditional Buddhist cuisine that is vegetarian"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_next",
+  "text": "from Kita Kamakura Station, Kamakura is one train stop away, and the JR Yokosuka Line takes about 3 minutes",
+  "claim": "Kamakura Station",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Take JR Yokosuka Line to Kamakura Station"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_wakamiya",
+  "text": "the town was created around Wakamiya-oji Street, stretching about 2 kilometers, and in spring the Dankazura is lined with cherry trees and azaleas",
+  "claim": "Wakamiya-oji",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "stretching about 2 kilometers",
+   "Dankazura"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_tsurugaoka",
+  "text": "Tsurugaoka Hachimangu Shrine is a vermilion shrine with views of the city",
+  "claim": "Tsurugaoka Hachimangu",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Tsurugaoka Hachimangu Shrine"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_komachi",
+  "text": "Komachi-dori Street is a shopping street with cafes and souvenir shops, selling Kamakura-bori carving items and bamboo ware",
+  "claim": "Komachi-dori",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Komachi-dori Street",
+   "Kamakura-bori Carving items to bamboo ware"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_daibutsu",
+  "text": "the Great Buddha of Kotoku-in Temple is a 13 meter-tall statue",
+  "claim": "Daibutsu",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "13 meter-tall statue"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_beach",
+  "text": "Yuigahama Beach has beautiful sunsets, with Mt. Fuji visible on a clear day, and you take the Enoshima Line to Yui-ga-hama Station",
+  "claim": "Yuigahama Beach",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Mt. Fuji visible on a clear day",
+   "Take Enoshima Line to Yui-ga-hama Station"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_fireworks",
+  "text": "in summer there may be a fireworks display at Yuigahama Beach",
+  "claim": "Fireworks",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "fireworks display at the Yuigahama Beach"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kam_enoshima",
+  "text": "Enoshima is a small island a few stations away with Ejima Shrine and the Iwaya Caves",
+  "claim": "Enoshima",
+  "source_name": "JNTO itinerary: Kamakura",
+  "source_url": "https://www.japan.travel/en/itineraries/culture-on-the-coast-in-kamakura/",
+  "must_contain": [
+   "Ejima Shrine and the Iwaya Caves"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kamakura-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_len",
+  "text": "the JNTO Nikko itinerary has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_saying",
+  "text": "there is a Japanese saying: never say kekko (magnificent) until you have seen Nikko",
+  "claim": "Saying",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Never say",
+   "until you have seen Nikko"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_options",
+  "text": "from Tokyo it takes around 2 hours, by shinkansen to Utsunomiya then the Nikko Line, or by Limited Express from Tobu Asakusa Station to Tobu Nikko Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "around 2 hours",
+   "Limited Express train from Tobu Asakusa Station to Tobu Nikko Station"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_pass",
+  "text": "you can use the Nikko pass for the Tobu train and the Tobu bus network, and a bus in front of JR Nikko Station goes to the World Heritage Sites and Lake Chuzenji",
+  "claim": "Nikko pass",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "You can use the Nikko pass for this train as well as the Tobu bus network"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_bus1",
+  "text": "take a bus from the terminal in front of JR Nikko Station to Shodoshoninzomae Bus Stop, 10 minutes",
+  "claim": "First bus",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Take a bus from the bus terminal in front of JR Nikko Station to Shodoshoninzomae Bus Stop"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_rinnoji",
+  "text": "Nikkosan Rinnoji Temple is a UNESCO World Heritage site with two sets of three large Buddha statues in the San-butsudo Hall",
+  "claim": "Rinnoji",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "registered as a UNESCO World Heritage site",
+   "Two sets of three large statues of Buddha"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_toshogu",
+  "text": "Nikko Toshogu Shrine is dedicated to Ieyasu Tokugawa, and its Yomei-mon Gate is covered in over 500 ornate carvings",
+  "claim": "Toshogu",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "dedicated to Ieyasu Tokugawa",
+   "over 500 ornate carvings"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_monkeys",
+  "text": "the Shinkyusha Stable at Toshogu has a famous carving of the three monkeys",
+  "claim": "Three monkeys",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "famous carving of three monkeys"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_futarasan",
+  "text": "Futarasan Shrine is known for huge trees and garden lanterns, and its grounds cover approximately 3,400 hectares",
+  "claim": "Futarasan",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "approximately 3,400 hectares"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_akechidaira",
+  "text": "from Nishisando Iriguchi the Tobu Bus goes to Akechidaira Bus Stop, about 50 minutes, and the ropeway takes about 3 minutes to the observatory",
+  "claim": "Akechidaira",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Take the Tobu Bus from Nishisando Iriguchi to Akechidaira Bus Stop",
+   "for about 3 minutes to the observatory"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_iroha",
+  "text": "the bus climbs a steep winding road known as the Iroha-zaka slope with views of mountains and valleys",
+  "claim": "Iroha-zaka",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Iroha-zaka slope"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_views",
+  "text": "from the Akechidaira observatory you can see Lake Chuzenji, Mt. Nantai and Kegon-no-taki Falls",
+  "claim": "Views",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Lake Chuzenji-ko, Mt. Nantai, and Kegon-no-taki Falls"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_lake",
+  "text": "Lake Chuzenji was formed when Mt. Nantai erupted 20,000 years ago, and has the highest altitude above sea level in Japan",
+  "claim": "Lake Chuzenji",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "erupted 20,000 years ago",
+   "highest altitude above sea level in Japan"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_fall",
+  "text": "Lake Chuzenji is perhaps most lovely in fall when the surrounding mountains are lit up in fiery autumn colors",
+  "claim": "Autumn",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "fiery autumn colors"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_kegon",
+  "text": "Kegon-no-taki Falls is Nikko most famous waterfall, with an elevator 100 meters down to the base of the falls, and in winter it freezes into nearly solid ice",
+  "claim": "Kegon Falls",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Kegon-no-taki Falls",
+   "take an elevator 100 meters down to the base of the falls"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_yuba",
+  "text": "yuba is bean curd skin, made by collecting the skin that forms on boiled soy milk, a local specialty of Chuzenji",
+  "claim": "Yuba",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "bean curd skin"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_okunikko",
+  "text": "in Okunikko, boardwalks cross the Senjogahara Marshland between Lake Chuzenji and Yumoto Onsen",
+  "claim": "Okunikko",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "Senjogahara Marshland"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_yumoto",
+  "text": "Yumoto onsen has a hot spring within a Buddhist temple open to the public, a rarity in Japan",
+  "claim": "Yumoto onsen",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "open to the public"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "nik_yudaki",
+  "text": "Yudaki Falls is a 25-meter wide waterfall crashing down a sheer rock 70 meters tall",
+  "claim": "Yudaki",
+  "source_name": "JNTO itinerary: Nikko",
+  "source_url": "https://www.japan.travel/en/itineraries/national-treasures-and-nature-in-nikko/",
+  "must_contain": [
+   "25-meter wide waterfall"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "nikko-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tcd_len",
+  "text": "the JNTO A Cultural Day in Tokyo itinerary has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_idea",
+  "text": "the itinerary explores historic shrines, museums and gardens and parks in central Tokyo",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "Explore historic shrines, wander the halls of fascinating museums, and relax in Tokyo"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_highlights",
+  "text": "highlights are the path to Meiji-jingu Shrine, a boat on Shinobazunoike Pond and the Tokyo National Museum",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "Walking the path that leads to Meiji-jingu Shrine",
+   "Taking a boat out on Shinobazunoike Pond"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_access",
+  "text": "from Tokyo Station take the Yamanote Line to Harajuku Station (30 minutes) and walk one minute to the Meiji-jingu Shrine entrance",
+  "claim": "Access",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "Take the Yamanote Line to Harajuku Station (30 minutes)",
+   "Walk one minute to the Meiji-jingu Shrine entrance"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_meiji",
+  "text": "Meiji-jingu is dedicated to Emperor Meiji and Empress Shoken, reached by a long path through a forest planted over 90 years",
+  "claim": "Meiji-jingu",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "planted over a period of 90 years"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_iris",
+  "text": "Meiji-jingu is particularly beautiful in June when the irises and hydrangeas reach full bloom",
+  "claim": "June",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "particularly beautiful in June when the irises and hydrangeas reach full bloom"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_ueno_train",
+  "text": "take the Yamanote Line from Harajuku Station to Ueno Station, about 30 minutes",
+  "claim": "To Ueno",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "Take Yamanote Line from Harajuku Station to Ueno Station"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_pond",
+  "text": "Shinobazunoike Pond in the middle of Ueno Park is beautiful in spring, and rowboat rentals are available",
+  "claim": "Shinobazu Pond",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "Rowboat rentals are available"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_tnm",
+  "text": "the Tokyo National Museum has one of the largest collections of archaeological artifacts and art from Japan and other Asian countries",
+  "claim": "Tokyo National Museum",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "One of the largest collections of archaeological artifacts and works of art from Japan and other Asian countries"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_shitamachi",
+  "text": "Shitamachi Fuzoku Shiryokan shows a nostalgic display of Japanese life from the late Meiji era to the early Showa era",
+  "claim": "Shitamachi museum",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "nostalgic display of Japanese life"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_shrines",
+  "text": "in Ueno Park look for Ueno Toshogu Shrine, the octagonal Bentendo on an island in Shinobazu Pond, and Kiyomizu Kannon Temple",
+  "claim": "Shrines in Ueno",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "octagonal-shaped temple hall of Bentendo",
+   "Kiyomizu Kannon Temple"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_iwasaki",
+  "text": "Kyu-Iwasaki-tei Garden is the former residence of the Iwasaki family, founders of the Mitsubishi Group, designed by Josiah Condor in 1896",
+  "claim": "Kyu-Iwasaki-tei",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "founders of the Mitsubishi Group",
+   "1896"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_nezu",
+  "text": "Nezu-jinja Shrine is believed to have been founded about 1,900 years ago, with azaleas in April",
+  "claim": "Nezu-jinja",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "founded about 1,900 years ago"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_yanesen",
+  "text": "Yanesen is a collection of three neighborhoods with market stalls, retro buildings and quaint eateries",
+  "claim": "Yanesen",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "a collection of three neighborhoods"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "tcd_rikugien",
+  "text": "Rikugien Garden was created in 1702, with a pond, walking trails and three teahouses",
+  "claim": "Rikugien",
+  "source_name": "JNTO itinerary: A Cultural Day in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/shrines-museums-and-parks-in-tokyo/",
+  "must_contain": [
+   "created in 1702",
+   "three teahouses"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "tokyo-one-day-cultural-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_date",
+  "text": "the JNTO blog 24 Hours in Kyoto was published on Feb. 6, 2020",
+  "claim": "Date",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Feb. 6, 2020"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_intro",
+  "text": "Kyoto is home to some 1,000 temples and shrines, and 24 hours is an inadequate amount of time, but the walking itinerary shows highlights",
+  "claim": "Overview",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "some 1,000 temples and shrines",
+   "24 hours in Kyoto is an inadequate amount of time"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_ginkaku",
+  "text": "the 8:30 am stop is Ginkaku-ji, the Silver Temple, dating back to 1490 and one of the most important monuments to Zen architecture in the city",
+  "claim": "Ginkaku-ji",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "8:30 am",
+   "Ginkaku-ji dates back to 1490"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_early",
+  "text": "early-morning starts pay off in Kyoto, especially during the peak seasons of spring and autumn",
+  "claim": "Early start",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Early-morning starts pay off in"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_yatsuhashi",
+  "text": "souvenir boutiques line the hill path up to Ginkaku-ji, including a kiosk selling Shogoin Yatsuhashi sweets",
+  "claim": "Yatsuhashi",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Shogoin Yatsuhashi"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_philo",
+  "text": "the 9:30 am stop is the Philosopher Path, with some 300 cherry trees, crowded during the first week of April",
+  "claim": "Philosopher Path",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "9:30 am",
+   "some 300 cherry trees"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_philo_time",
+  "text": "it takes roughly another 30 minutes to reach the end of the path",
+  "claim": "Path time",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "roughly another 30 minutes to reach the end of the path"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_nanzen",
+  "text": "at 10:30 am Nanzen-ji has a 22-meter-high Sanmon Gate built in 1620",
+  "claim": "Nanzen-ji",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "22-meter-high Sanmon Gate",
+   "built in 1620"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_heian",
+  "text": "at 11:30 am Heian-jingu Shrine is a 1895 replica of the original imperial palace with gardens, ponds, herons and egrets",
+  "claim": "Heian-jingu",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "11.30 am",
+   "1895 replica"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_noh",
+  "text": "Noh performances by firelight take place in the shrine courtyard in the summer",
+  "claim": "Noh",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Noh performances by firelight"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_okazaki",
+  "text": "at 12:30 pm the Okazaki area has museums and food and antique market events between spring and autumn, and you can picnic",
+  "claim": "Okazaki",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Okazaki area",
+   "food and antique market events between the spring and autumn"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_shirakawa",
+  "text": "at 2 pm follow the willow-lined Shirakawa canal for about 30 minutes to Gion",
+  "claim": "Shirakawa",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Shirakawa",
+   "for about 30 minutes"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_shinbashi",
+  "text": "Shinbashi Street in Gion has beautifully preserved teahouses that host exclusive geisha receptions",
+  "claim": "Shinbashi Street",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "beautifully-preserved teahouses that host the exclusive geisha receptions"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
+ },
+ {
+  "id": "ky1_shijo",
+  "text": "at 3 pm Shijo Street is a popular shopping destination, with department stores and underground food courts across the Kamo River",
+  "claim": "Shijo Street",
+  "source_name": "JNTO blog: 24 Hours in Kyoto",
+  "source_url": "https://www.japan.travel/en/blog/24-hours-in-kyoto/",
+  "must_contain": [
+   "Shijo Street",
+   "underground food courts"
+  ],
+  "verified_on": "2026-11-03",
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ]
  }
 ]
