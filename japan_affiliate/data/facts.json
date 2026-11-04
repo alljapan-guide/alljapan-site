@@ -12399,5 +12399,1311 @@
   "topics": [
    "kyoto-one-day-itinerary"
   ]
+ },
+ {
+  "id": "kwg_len",
+  "text": "the JNTO Kawagoe itinerary has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_intro",
+  "text": "Kawagoe is just 30 minutes from central Tokyo, a scenic town filled with nostalgic charm",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Kawagoe is just 30 minutes from central Tokyo"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_nick",
+  "text": "Kawagoe is a historic town known as Little Edo, with traditional warehouse-lined streets, the remains of Kawagoe Castle and old-fashioned candy at Kashiya Yokocho",
+  "claim": "Little Edo",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "warehouse-lined streets",
+   "old-fashioned candy from Kashiya Yokocho"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_highlights",
+  "text": "highlights are sampling candy along Kashiya Yokocho, Kawagoe Daishi Kitain Temple and the Kawagoe Festival in October",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Sampling the candy along Kashiya Yokocho",
+   "Admiring the vibrant floats of the Kawagoe Festival in October"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_train",
+  "text": "from Tokyo it takes 35 minutes on the TJ Liner on the Tobu Tojo line from Ikebukuro Station to Kawagoe Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Take the TJ Liner on the Tobu Tojo line from Ikebukuro Station to Kawagoe Station"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_bus",
+  "text": "from the station, take a Tobu Bus to Nakamachi (10 minutes) or walk 25 minutes",
+  "claim": "From the station",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "take a Tobu Bus to Nakamachi (10 minutes) or walk 25 minutes"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_kura",
+  "text": "Kurazukuri Street has merchant storehouses built during the Edo period of wood and clay, many now housing shops and restaurants",
+  "claim": "Kurazukuri Street",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "merchant storehouses built during the Edo period of wood and clay"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_bell",
+  "text": "the tallest of the buildings is the Toki-no-Kane Bell Tower, a functioning clock tower that rings four times daily",
+  "claim": "Bell tower",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "rings four times daily"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_museum",
+  "text": "the Kawagoe City Kurazukuri Museum, in an old tobacco store, exhibits tools and machines used by local tradesmen",
+  "claim": "Museum",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Kawagoe City Kurazukuri Museum",
+   "tools and machines used by local tradesmen"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_candy",
+  "text": "Kashiya Yokocho is next to the warehouse district and lined with stores selling traditional sweets",
+  "claim": "Candy alley",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "lined with stores selling traditional sweets"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_festival",
+  "text": "the Kawagoe Festival is held on the third weekend of October, a float-filled celebration of Hikawa Shrine, with a Festival Museum to see floats up close",
+  "claim": "Festival",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "third weekend of October",
+   "Kawagoe Festival Museum"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_kitain",
+  "text": "Kitain Temple contains the last remaining palace buildings of the former Edo Castle and the Gohyaku Rakan stone statues",
+  "claim": "Kitain Temple",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "the last remaining palace buildings of the former Edo Castle",
+   "Gohyaku Rakan stone statues"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_honmaru",
+  "text": "Honmaru Goten is the last surviving building of Kawagoe Castle, recently renovated and open to the public",
+  "claim": "Honmaru Goten",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "the last surviving building of Kawagoe Castle"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_taisho",
+  "text": "Taisho Roman Street is a historic shopping strip between Hon-Kawagoe Station and the warehouse district",
+  "claim": "Taisho Roman Street",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Taisho Roman Street",
+   "between Hon-Kawagoe Station and the Warehouse District"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "kwg_honey",
+  "text": "the Kasumi Flower honey store on Taisho Roman Street has been featured in countless magazines and TV programs",
+  "claim": "Honey store",
+  "source_name": "JNTO itinerary: Kawagoe",
+  "source_url": "https://www.japan.travel/en/itineraries/kawagoe-an-edo-period-town-frozen-in-time/",
+  "must_contain": [
+   "Kasumi Flower honey store"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "kawagoe-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_len",
+  "text": "the JNTO Mt. Takao itinerary has a recommended length of 1 day, a short day trip from Tokyo",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_intro",
+  "text": "Mt. Takao offers a day of hiking, monkeys, panoramic views and hot springs, away from the busy center of Tokyo",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "a day of hiking, monkeys, panoramic views and hot springs"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_trails",
+  "text": "along the trails to the summit you encounter monkeys, Buddhist temples, food stalls and gorgeous foliage, particularly in autumn and spring",
+  "claim": "Trails",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "monkeys, Buddhist temples, food stalls and gorgeous foliage",
+   "particularly in autumn and spring"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_fuji",
+  "text": "a spectacular view of Mt. Fuji awaits you at the summit",
+  "claim": "Summit view",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "A spectacular view of Mt. Fuji awaits you at the summit"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_highlights",
+  "text": "highlights are Japan steepest cable car, a Buddhist mountain temple, views of Mt. Fuji and Japanese monkeys",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "steepest cable car",
+   "Visit a Buddhist mountain temple"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_train",
+  "text": "from Tokyo it takes 1 hour 10 minutes, with direct Keio trains to Takaosanguchi Station departing from Shinjuku Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "Direct Keio trains to Takaosanguchi Station depart from Shinjuku Station"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_six",
+  "text": "Mt. Takao has six trails to the summit for beginners and intermediates",
+  "claim": "Six trails",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "Six hiking trails for beginners and intermediates"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_no1",
+  "text": "the itinerary follows trail No. 1, which takes about 100 minutes to the top",
+  "claim": "Trail No. 1",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "trail No. 1 which takes about 100 minutes to the top"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_lift",
+  "text": "a cable car and chairlift take less ambitious hikers halfway up the mountain",
+  "claim": "Cable car and chairlift",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "there are a cable car and chairlift that will take you halfway up the mountain"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_monkey",
+  "text": "the Mt. Takao Monkey Park is home to over 90 monkeys",
+  "claim": "Monkey Park",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "over 90 monkeys"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_garden",
+  "text": "the Wild Plant Garden showcases the varieties of plants and flowers found around Mt. Takao",
+  "claim": "Wild Plant Garden",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "Wild Plant Garden"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_sugi",
+  "text": "Tako-sugi, the octopus cedar, is a giant tree whose roots shoot out above the ground like an octopus",
+  "claim": "Tako-sugi",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "octopus cedar"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_yakuoin",
+  "text": "Yakuoin is a Buddhist temple founded in 744, and the summit with clear views of Mt. Fuji is a short walk from it",
+  "claim": "Yakuoin",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "a Buddhist temple founded in 744"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_tengu",
+  "text": "the Tengu of Yakuoin are guardian deities who bring good luck and ward off evil",
+  "claim": "Tengu",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "bring good luck and ward off evil"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_599",
+  "text": "Takao 599 Museum at the bottom of the mountain explains the history and culture of Mt. Takao and its native plants and animals",
+  "claim": "Takao 599",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "Takao 599"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "tak_onsen",
+  "text": "Keio Takaosan Onsen Gokurakuyu next to Takaosanguchi Station has indoor and outdoor baths, massage services and a restaurant",
+  "claim": "Onsen",
+  "source_name": "JNTO itinerary: Mt. Takao",
+  "source_url": "https://www.japan.travel/en/itineraries/mt-takao-a-mountain-filled-with-surprises/",
+  "must_contain": [
+   "indoor and outdoor baths, massage services and a restaurant"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "ttc_len",
+  "text": "the JNTO itinerary Tokyo Traditional and Contemporary has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_intro",
+  "text": "the itinerary covers the stark contrasts of Tokyo, where traditions and structures are preserved among pop culture and high-tech advances",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "stark contrasts of Tokyo"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_highlights",
+  "text": "highlights are freshly caught seafood at market stalls, views from the top of SkyTree, and souvenir shopping in Akihabara",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "Savoring freshly caught seafood amid the bustling market stalls",
+   "Shopping for that perfect Japanese souvenir in Akihabara"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_tsukiji_access",
+  "text": "from Tokyo Station take the JR Keiyo line for two minutes to Hatchobori Station, then the Hibiya Line to Tsukiji Station for two minutes, and the outer market is 1 minute on foot",
+  "claim": "To Tsukiji",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "take the JR Keiyo line for two minutes to Hatchobori Station",
+   "Tsukiji outer market is 1 minute on foot"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_shinjuku",
+  "text": "from Shinjuku Station take the Oedo subway line to Tsukijishijo Station for 21 minutes, then walk 1 minute",
+  "claim": "From Shinjuku",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "take the Oedo subway line to Tsukijishijo Station for 21 minutes"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_tsukiji",
+  "text": "the Tsukiji Fish Market moved to Toyosu on October 11, 2018, but the outer market remains a lively business district with food and kitchen equipment shops",
+  "claim": "Tsukiji outer market",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "moved to Toyosu on October 11, 2018",
+   "outer market remains a lively business district"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_snacks",
+  "text": "at the outer market you can try street snacks such as omelets and rice balls",
+  "claim": "Street snacks",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "street snacks such as omelets and rice balls"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_museum",
+  "text": "the Edo Tokyo Museum explores daily life in Edo with recreations and dioramas, and JNTO asks visitors to check the official website because the latest information may differ",
+  "claim": "Edo Tokyo Museum",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "recreations and dioramas",
+   "The latest information may differ, so please check the official website"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_sumo",
+  "text": "Ryogoku Kokugikan hosts the Grand Sumo Tournament in January, May and September, and the Sumo Museum on the 1st floor is open year-round except on Saturdays, Sundays, national holidays and year-end and New Year holidays",
+  "claim": "Sumo",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "January, May and September",
+   "open year-round except on Saturdays, Sundays, national holidays"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_sensoji",
+  "text": "Sensoji has over 30 million annual visitors, and you start at the Kaminari Gate and stroll the old shopping street to the temple grounds",
+  "claim": "Sensoji",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "over 30 million annual visitors",
+   "Kaminari Gate"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_sensoji_do",
+  "text": "at the temple you can light incense, make an offering and get a fortune or a protection charm",
+  "claim": "Sensoji rituals",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "light some incense, make an offering, and get your fortune or a protection charm"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_skytree",
+  "text": "from the Skytree observation deck, 450 meters off the ground, you can gaze over the entire city, sometimes all the way to Mt. Fuji",
+  "claim": "Skytree",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "450 meters off the ground",
+   "sometimes all the way to Mt. Fuji"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_skytree_base",
+  "text": "at the base of the Skytree is a shopping mall complex with a planetarium and aquarium",
+  "claim": "Skytree base",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "a planetarium and aquarium"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_akiba",
+  "text": "Akihabara has transformed from a radio and electronics area into a center for anime, video games and J-pop",
+  "claim": "Akihabara",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "a center for anime, video games, J-pop"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_akiba_shops",
+  "text": "in Akihabara there are Don Quixote for weird snacks and souvenirs, Super Potato for retro video games and a multi-story arcade",
+  "claim": "Akihabara shops",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "Don Quixote",
+   "Super Potato"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_shibuya",
+  "text": "the Shibuya pedestrian scramble is busiest any time of day, but best when all the signs and screens are lit up",
+  "claim": "Shibuya scramble",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "the scenery is best when all the signs and screens are lit up"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_karaoke",
+  "text": "Shibuya has hundreds of dining options, bars and multi-level nightclubs, and you can finish with karaoke in a private room",
+  "claim": "Shibuya nightlife",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "hundreds of dining options",
+   "karaoke in a private room"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "ttc_yokohama",
+  "text": "Yokohama, easily accessible from downtown Tokyo, has Chinatown shops and restaurants and seaside views from Minato Mirai 21",
+  "claim": "Yokohama",
+  "source_name": "JNTO itinerary: Tokyo Traditional and Contemporary",
+  "source_url": "https://www.japan.travel/en/itineraries/traditional-and-contemporary-tokyo/",
+  "must_contain": [
+   "Minato Mirai 21"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "tokyo-traditional-and-contemporary-itinerary"
+  ]
+ },
+ {
+  "id": "amh_len",
+  "text": "the JNTO Amanohashidate itinerary has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_intro",
+  "text": "Amanohashidate is considered one of the three most scenic spots in Japan, a natural land bridge in a protected bay on the coast of northern Kyoto Prefecture",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "one of the three most scenic spots in Japan",
+   "northern Kyoto Prefecture"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_bridge",
+  "text": "the sandbar is known as the bridge to heaven",
+  "claim": "Bridge to heaven",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "bridge to heaven"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_tokyo",
+  "text": "from Tokyo it takes 4 hours 30 minutes: Tokaido Shinkansen to Kyoto Station (2 hours 20 minutes) then the Hashidate Limited Express to Amanohashidate Station (2 hrs 10 min)",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Take the Tokaido Shinkansen to Kyoto Station (2 hours 20 minutes)",
+   "Hashidate Limited Express from Kyoto Station to Amanohashidate Station (2 hrs 10 min)"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_kyoto",
+  "text": "from Kyoto Station the Hashidate Limited Express to Amanohashidate Station takes about 2 hours, and the sandbar is a 5-minute walk from the station",
+  "claim": "From Kyoto",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "The ride takes about 2 hours",
+   "5-minute walk from the station"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_sandbar",
+  "text": "Amanohashidate is a pine-covered sandbar along Miyazu Bay, formed after river sand and pebbles were swept away by the ocean current, in an almost perfectly straight line",
+  "claim": "Sandbar",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "pine-covered sandbar",
+   "almost perfectly straight line"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_stroll",
+  "text": "you can stroll along the sandy side of the bay, and if time allows visit the Kaisen-kyo Bridge, a rotating bridge",
+  "claim": "Sandbar walk",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Kaisen-kyo Bridge, a rotating bridge"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_isoshimizu",
+  "text": "Isoshimizu is an ancient freshwater spring within walking distance of Amanohashidate Station",
+  "claim": "Isoshimizu",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "ancient freshwater spring"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_jinja",
+  "text": "Amanohashidate-jinja Shrine is a popular spot to pray for luck in romance",
+  "claim": "Amanohashidate-jinja",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "pray for luck in romance"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_motoise",
+  "text": "Motoise Kono-jinja Shrine on the northern coast of the bay shows classic Japanese architecture, and behind it Manai-jinja Shrine has a well that produces pristine water",
+  "claim": "Motoise",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Motoise Kono-jinja Shrine",
+   "a well that produces pristine water"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_chionji",
+  "text": "Chionji Temple has a two-story pagoda one of the oldest of its kind in Japan",
+  "claim": "Chionji",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "two-story pagoda"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_boat",
+  "text": "the Amanohashidate Sightseeing Boat runs from the southern end of the sandbar to the northern pier near Kasamatsu Park",
+  "claim": "Sightseeing boat",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Ride the boat from the southern end of the sandbar to the northern pier near Kasamatsu Park"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_cable",
+  "text": "Kasamatsu Park, reached by cable car or lift, offers sweeping views of the bay",
+  "claim": "Kasamatsu Park",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Accessible by cable car or lift"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_nariaiji",
+  "text": "Nariaiji Temple has an observatory and a five-story pagoda a little further into the mountains",
+  "claim": "Nariaiji",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "Nariaiji Temple, with its observatory and five-story pagoda"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "amh_miyazu",
+  "text": "Miyazu is a five-minute ride from Amanohashidate Station, and Shimasaki Park is perfect for a picnic by the bay",
+  "claim": "Miyazu",
+  "source_name": "JNTO itinerary: Amanohashidate",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-amanohashidate-a-bridge-formed-by-gods/",
+  "must_contain": [
+   "A five-minute ride from Amanohashidate Station",
+   "Shimasaki Park"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "amanohashidate-trip-from-kyoto"
+  ]
+ },
+ {
+  "id": "hdk_len",
+  "text": "the JNTO Hida Takayama to Kyoto itinerary has a recommended length of 5 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Recommended length: 5 days"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_intro",
+  "text": "the itinerary follows well-worn routes through the mountains, from Hida Takayama through to Kyoto, slowing down to absorb traditional villages and daily life",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "from Hida Takayama through to Kyoto"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_highlights",
+  "text": "highlights are Jinya Asaichi Morning Market, views over the thatched roofs of Shirakawa-go, old and new in Kanazawa, and the Philosopher Path in Kyoto",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Shopping at Jinya Asaichi Morning Market",
+   "Sweeping views over the traditional thatched roofs"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_tokyo",
+  "text": "from Tokyo it takes 4 hours 15 minutes: the JR Hokuriku Shinkansen to Nagoya Station (1 hour 45 minutes), then the Limited Express Wide View Hida to Takayama Station (2 hours 20 minutes)",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Limited Express Wide View Hida to Takayama Station (2 hours 20 minutes)"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_oldtown",
+  "text": "the old town district is 10 minutes on foot from Takayama Station",
+  "claim": "Old town",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "The old town district is 10 minutes on foot from Takayama Station"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_takayama",
+  "text": "Hida Takayama is a historic mountain town in the Japan Alps, famous for traditional crafts including carving, weaving, dyeing and quilting",
+  "claim": "Takayama",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "carving, weaving, dyeing and quilting"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_folk",
+  "text": "Hida Folk Village has around 30 preserved gassho-zukuri houses with steep thatched roofs around a pond, and is a 10-minute bus ride or about 30 minutes on foot from Takayama Station",
+  "claim": "Hida Folk Village",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Around 30 preserved houses with steep thatched roofs",
+   "a 10-minute bus ride from Takayama Station to Hida Folk Village or walk about 30 minutes"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_festa",
+  "text": "Festa Forest is a museum inside a mountain with the carved floats and marionettes used in the Takayama Festivals",
+  "claim": "Festa Forest",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "inside a mountain",
+   "carved floats and marionettes"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_market",
+  "text": "Jinya Asaichi Morning Market has been a mainstay of local life since the Edo period, open every morning from around 6 a.m. to noon",
+  "claim": "Morning market",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "since the Edo period",
+   "from around 6 a.m. to noon"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_bus",
+  "text": "the express bus Shirakawa-go Line runs from Takayama Station Nohi Bus terminal to Shirakawago bus terminal, 50 minutes",
+  "claim": "To Shirakawa-go",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Take the express bus Shirakawa-go Line from Takayama Station Nohi Bus terminal to Shirakawago bus terminal"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_shirakawa",
+  "text": "Shirakawa-go is a World Heritage village in remote mountains, with gassho-zukuri houses designed to protect dwellers from heavy snows, many over 250 years old",
+  "claim": "Shirakawa-go",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "World Heritage village",
+   "Many are over 250 years old"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_winter",
+  "text": "on winter nights when the houses are blanketed in snow, the village is illuminated",
+  "claim": "Winter illumination",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "the village is illuminated"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_kanazawa_bus",
+  "text": "take the reserved Hokuriku Highway Bus from Shirakawa-go to Kanazawa Station, 1 hour 15 minutes",
+  "claim": "To Kanazawa",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Take reserved the Hokuriku Highway Bus from Shirakawa-go to Kanazawa Station"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_kenrokuen",
+  "text": "Kenrokuen is one of the top three gardens in Japan, cultivated since the 17th century",
+  "claim": "Kenrokuen",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "cultivated since the 17th century"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_museum21",
+  "text": "the 21st Century Museum of Contemporary Art has permanent collections free to the public including James Turrell Blue Planet Sky and Leandro Erlich Swimming Pool",
+  "claim": "21st Century Museum",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "James Turrell",
+   "Leandro Erlich"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_castle",
+  "text": "Kanazawa Castle is a reconstruction of the original built in the latter half of the 16th century, and work is ongoing",
+  "claim": "Kanazawa Castle",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "latter half of the 16th century",
+   "work is ongoing"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_nagamachi",
+  "text": "the Nagamachi Samurai District has narrow lanes lined by walled compounds, and Nomura-ke is a restored home showing the daily life of a samurai family",
+  "claim": "Nagamachi",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "narrow lanes, lined by walled compounds",
+   "Nomura-ke"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_yuzen",
+  "text": "Nagamachi Yuzen Kan lets you watch artisans and take part in coloring kimono designs, and rent a kimono",
+  "claim": "Yuzen",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "rent a kimono"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_chaya",
+  "text": "the Higashi Chaya District was the center of Kanazawa geisha culture, with wooden machiya houses offering crafts and souvenirs",
+  "claim": "Higashi Chaya",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "center of Kanazawa"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_thunderbird",
+  "text": "take the JR Thunderbird Express from Kanazawa Station to Kyoto Station, 2 hours 20 minutes",
+  "claim": "To Kyoto",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Take JR Thunderbird Express train from Kanazawa Station to Kyoto Station"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_kyoto_museum",
+  "text": "the Museum of Kyoto is in a former bank built in 1906 on Sanjo Street, giving an overview of the history and culture of the area",
+  "claim": "Museum of Kyoto",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "a former bank built in 1906"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_gion",
+  "text": "Gion Corner hosts seasonal dances, tea ceremony, flower arrangement, koto, gagaku, bunraku and kyogen",
+  "claim": "Gion Corner",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "tea ceremony, flower arrangement, koto, gagaku court music, bunraku puppet plays and kyogen drama"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_kodaiji",
+  "text": "Kodaiji Temple is a Zen temple established in 1606 with gardens illuminated at night in spring, summer and autumn",
+  "claim": "Kodaiji",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "established in 1606"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_kiyomizu",
+  "text": "Kiyomizudera is a grand temple that tends to be crowded, reached by the Ninenzaka and Sannenzaka streets, with a main hall jutting out over a cliff",
+  "claim": "Kiyomizudera",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "tends to be crowded",
+   "juts out over a cliff"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_bus100",
+  "text": "on day 5 take bus no.100 from Kiyomizu-michi Bus Stop to Ginkakuji-mae Bus Stop, 36 minutes",
+  "claim": "Day 5 bus",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "Take bus no.100 from Kiyomizu-michi Bus Stop to Ginkakuji-mae Bus Stop"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_ginkaku",
+  "text": "Ginkakuji is the Silver Pavilion, a villa converted into a temple in 1490, with moss gardens and a gravel garden",
+  "claim": "Ginkakuji",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "converted into a temple in 1490"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
+ },
+ {
+  "id": "hdk_philo",
+  "text": "the Philosopher Path follows a small canal from Ginkakuji back toward the city, unmissable in spring when cherry petals turn the water pink",
+  "claim": "Philosopher Path",
+  "source_name": "JNTO itinerary: Hida Takayama to Kyoto",
+  "source_url": "https://www.japan.travel/en/itineraries/history-comes-alive-on-a-six-day-journey-from-hida-takayama-to-kyoto/",
+  "must_contain": [
+   "petals turn the water pink"
+  ],
+  "verified_on": "2026-11-04",
+  "topics": [
+   "hida-takayama-to-kyoto-5-day-itinerary"
+  ]
  }
 ]
