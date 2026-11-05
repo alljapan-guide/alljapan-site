@@ -2089,15 +2089,6 @@
   "file": "hokkaido-hot-springs-3-day-itinerary-1.jpg",
   "query": "Noboribetsu Hell Valley Hokkaido"
  },
- "hokkaido-hot-springs-3-day-itinerary/3": {
-  "title": "File:Hakodate Morning Market Square 01.JPG",
-  "author": "Abasaa",
-  "license": "Public domain",
-  "license_url": "",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Hakodate_Morning_Market_Square_01.JPG",
-  "file": "hokkaido-hot-springs-3-day-itinerary-3.jpg",
-  "query": "Hakodate morning market"
- },
  "kumamoto-to-kagoshima-by-rail-itinerary/1": {
   "title": "File:Exterior of a Kumamoto-themed train on the Hisatsu Orange Line.jpg",
   "author": "Insightwm",
@@ -2197,24 +2188,6 @@
   "file": "kyushu-culture-3-day-itinerary-2.jpg",
   "query": "Glover Garden Nagasaki"
  },
- "hokkaido-hot-springs-3-day-itinerary/2": {
-  "title": "File:Lake Tōya 3D 2012.jpg",
-  "author": "Batholith",
-  "license": "Public domain",
-  "license_url": "",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Lake_T%C5%8Dya_3D_2012.jpg",
-  "file": "hokkaido-hot-springs-3-day-itinerary-2.jpg",
-  "query": "Lake Toya Hokkaido"
- },
- "hokkaido-hot-springs-3-day-itinerary/4": {
-  "title": "File:Aerial view of Hakodate at night.jpg",
-  "author": "Fumikas Sagisavas",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hakodate_at_night.jpg",
-  "file": "hokkaido-hot-springs-3-day-itinerary-4.jpg",
-  "query": "Hakodate night view"
- },
  "tokyo-cultural-experiences-classes/1": {
   "title": "File:Yakiniku Nigiri - Shira Nui AUD4.50 each (4759206697).jpg",
   "author": "Alpha from Melbourne, Australia",
@@ -2241,5 +2214,23 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Wind-chime-M7547.jpg",
   "file": "tokyo-cultural-experiences-classes-2.jpg",
   "query": "Furin Japanese wind chime"
+ },
+ "hokkaido-hot-springs-3-day-itinerary/2": {
+  "title": "File:Hakodate Morning Market Square 01.JPG",
+  "author": "Abasaa",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Hakodate_Morning_Market_Square_01.JPG",
+  "file": "hokkaido-hot-springs-3-day-itinerary-2.jpg",
+  "query": "Hakodate morning market"
+ },
+ "hokkaido-hot-springs-3-day-itinerary/3": {
+  "title": "File:Aerial view of Hakodate at night.jpg",
+  "author": "Fumikas Sagisavas",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hakodate_at_night.jpg",
+  "file": "hokkaido-hot-springs-3-day-itinerary-3.jpg",
+  "query": "Hakodate night view"
  }
 }
