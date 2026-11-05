@@ -13705,5 +13705,1234 @@
   "topics": [
    "hida-takayama-to-kyoto-5-day-itinerary"
   ]
+ },
+ {
+  "id": "yok_len",
+  "text": "the JNTO Yokohama itinerary has a recommended length of 1-2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Recommended length: 1-2 days"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_intro",
+  "text": "Yokohama City is within an hour from central Tokyo, with many natural and human-made attractions",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "located within an hour from central Tokyo"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_route",
+  "text": "the itinerary begins at Minato Mirai, then the Yokohama Archives of History, Sankeien Garden and Chukagai Chinatown",
+  "claim": "Route",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Minato Mirai",
+   "Yokohama Archives of History",
+   "Sankeien Garden"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_highlights",
+  "text": "highlights are views from Landmark Tower, the grounds of Sankeien Garden and Chinatown food",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Panoramic views of the city from Landmark Tower",
+   "Sampling Chinatown"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_train",
+  "text": "from Tokyo it takes 40 minutes, for example the JR Tokaido Line from Tokyo Station, changing at Yokohama Station to the Minato Mirai Line for Minato Mirai Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "There are frequent trains to Yokohama from different train stations in Tokyo",
+   "Change at Yokohama Station to the Minato Mirai Line for Minato Mirai Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_mm21",
+  "text": "Minato Mirai 21 is the central business district of Yokohama with attractions, shopping outlets and a seaside park",
+  "claim": "Minato Mirai 21",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "central business district of Yokohama"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_yamashita",
+  "text": "Yamashita Park offers views of the bay, and Landmark Tower has a panoramic view from the Sky Garden",
+  "claim": "Park and tower",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Yamashita Park",
+   "Sky Garden"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_akarenga",
+  "text": "Akarenga the Red Brick Warehouse is a commercial complex with restaurants and shops selling souvenirs and artisanal crafts",
+  "claim": "Red Brick Warehouse",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Red Brick Warehouse",
+   "artisanal crafts"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_cosmo",
+  "text": "Cosmo World is a retro-style theme park a few minutes away on foot",
+  "claim": "Cosmo World",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "retro-style theme park"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_archives",
+  "text": "the Yokohama Archives of History was constructed in 1931 and once used as a British consulate",
+  "claim": "Archives",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "constructed in 1931",
+   "British consulate"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_bus",
+  "text": "take the Yokohama City Bus from Nihon-odori Station to Sankei-en Bus Stop, 20 minutes",
+  "claim": "To Sankeien",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Take Yokohama City Bus at Nihon-odori Station to Sankei-en Bus Stop"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_sankeien",
+  "text": "Sankeien Garden is a spacious Japanese-style garden that opened to the public in 1906, with clusters of historic buildings and teahouses",
+  "claim": "Sankeien",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "opened to the public in 1906",
+   "historic buildings and teahouses"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_cruise",
+  "text": "there are day and night cruises from the port, and an evening cruise shows Yokohama in daylight and at dusk",
+  "claim": "Bay cruise",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "day and night cruises",
+   "evening cruise"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_chinatown",
+  "text": "Yokohama Chinatown, known as Chukagai, is Japan biggest Chinatown, with restaurants, stores and food stands selling Chinese cuisine and sweets",
+  "claim": "Chinatown",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "Chukagai",
+   "authentic Chinese cuisine and incredible sweets"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "yok_cny",
+  "text": "Chinatown is particularly exciting during Chinese New Year, with parades, food stalls and firecrackers",
+  "claim": "Chinese New Year",
+  "source_name": "JNTO itinerary: Yokohama",
+  "source_url": "https://www.japan.travel/en/itineraries/discover-the-past-and-future-in-yokohama/",
+  "must_contain": [
+   "particularly exciting during Chinese New Year"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "yokohama-day-trip-from-tokyo"
+  ]
+ },
+ {
+  "id": "ksr_len",
+  "text": "the JNTO Southern Kyushu by Rail itinerary has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_intro",
+  "text": "the itinerary goes by train from Kumamoto to Kagoshima with routes to some of the best hot spring spas",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "from Kumamoto to Kagoshima with routes to some of the best hot spring spas"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_orange",
+  "text": "the Hisatsu Orange Railway runs through hot-spring resorts and beautiful seaside scenery, and its name comes from the citrus-producing region of Kumamoto",
+  "claim": "Hisatsu Orange Railway",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "runs through hot-spring resorts and beautiful seaside scenery"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_highlights",
+  "text": "highlights are a train along the sea, hot springs at Hinagu Onsen and Sendaitaki Onsen, and the Sakurajima volcano across the way in Kagoshima",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "Hinagu Onsen and Sendaitaki Onsen",
+   "Sakurajima volcano"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_tokyo",
+  "text": "from Tokyo it takes 5 hours 40 minutes: the Tokaido Sanyo Shinkansen to Hakata Station (5 hours), then the Kyushu Shinkansen to Kumamoto Station for 40 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "JR Tokaido Sanyo Shinkansen to Hakata Station (5 hours)",
+   "JR Kyushu Shinkansen bound for Kumamoto Station from Hakata Station for 40 minutes"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_flight",
+  "text": "there are flights from Tokyo to Kumamoto Airport taking 1 hour 45 minutes",
+  "claim": "Flights",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "Kumamoto Airport (1 hour 45 minutes)"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_castle",
+  "text": "Kumamoto Castle was severely damaged in a 2016 earthquake, and the castle towers were fully restored and renovated in 2021",
+  "claim": "Kumamoto Castle",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "severely damaged in a 2016 earthquake",
+   "fully restored and renovated in 2021"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_market",
+  "text": "Higo Yokamon Market is in front of the ticket gate of Kumamoto Station, with about 60 stores selling bento and local delicacies",
+  "claim": "Market",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "about 60 stores"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_yatsushiro",
+  "text": "of Yatsushiro Castle only the tower base, stonewalls and part of the moat remain, and the ruins are open to the public",
+  "claim": "Yatsushiro",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "only the castle tower base, stonewalls, and part of the moat remain"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_festival",
+  "text": "the Yatsushiro Myoken Festival is held every November 22-23 and was recognized by UNESCO as an intangible cultural heritage in 2016",
+  "claim": "Myoken Festival",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "November 22-23",
+   "intangible cultural heritage in 2016"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_stations",
+  "text": "the Hisatsu Orange Railway connects seven cities and towns from Yatsushiro in Kumamoto to Satsumasendai in Kagoshima, with 28 stations along the west coast",
+  "claim": "Route",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "connects seven cities and towns",
+   "28 stations along the route"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_restaurant",
+  "text": "on Saturdays, Sundays and some holidays the Orange Shokudo restaurant train runs, and tables can be reserved up to two months before the boarding date",
+  "claim": "Restaurant train",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "Orange Shokudo",
+   "reserved up to two months before your boarding date"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_kuma",
+  "text": "the Kuma River is the largest river in Kumamoto Prefecture and one of the fastest in Japan",
+  "claim": "Kuma River",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "largest river in Kumamoto Prefecture"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_hinagu",
+  "text": "Hinagu Onsen has more than 600 years of history",
+  "claim": "Hinagu Onsen",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "more than 600 years of history"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_otachi",
+  "text": "Otachimisaki Park, a 30-minute walk from Tanoura-Otachimisaki-Koen Station, has go-carts, fishing, barbecues and a sandy beach",
+  "claim": "Otachimisaki Park",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "A 30-minute walk from the station is Otachimisaki Park"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_tsunagi",
+  "text": "Tsunagi Onsen Shikisai offers daytime bathing, with an open-air bath reached by a retro monorail, 10 minutes on foot from Tsunagi Station",
+  "claim": "Tsunagi Onsen",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "a 10-minute walk from Tsunagi Station",
+   "retro monorail"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_akune",
+  "text": "Akune Station is a stylish station building renovated in 2014, with a cafeteria, library, cafe and store",
+  "claim": "Akune Station",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "renovated in 2014"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_sendaitaki",
+  "text": "Sendaitaki Onsen has several inns and public bathhouses side by side, 10 minutes by car from Nishikata Station",
+  "claim": "Sendaitaki",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "A 10-minute drive from Nishikata Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_beach",
+  "text": "the train window view from Nishikata Station to Satsumataki Station shows Nishikata Beach and the Ningyo Iwa rock",
+  "claim": "Beach view",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "Nishikata Beach",
+   "Ningyo Iwa"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_kagoshima",
+  "text": "at Sendai Station, the last stop, transfer to the JR Kagoshima Line to reach Kagoshima City",
+  "claim": "To Kagoshima",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "transfer to the JR Kagoshima Line to reach"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_temmonkan",
+  "text": "in Kagoshima you can take a tram to Temmonkan for Kurobuta pork and Shirokuma shaved ice, and a ferry to Sakurajima",
+  "claim": "Kagoshima food",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "Kurobuta pork and Shirokuma shaved ice",
+   "take a ferry to"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "ksr_miyazaki",
+  "text": "Miyazaki gets more sunshine than anywhere else in Japan",
+  "claim": "Miyazaki",
+  "source_name": "JNTO itinerary: Southern Kyushu by Rail",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushus-hot-springs-by-rail/",
+  "must_contain": [
+   "more sunshine than anywhere else in Japan"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kumamoto-to-kagoshima-by-rail-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_len",
+  "text": "the JNTO Cultural Journey of Kyushu itinerary has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_intro",
+  "text": "the itinerary explores Nagasaki, a Dutch-inspired theme park, Kumamoto Castle and a UNESCO World Heritage landscape garden",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Explore Nagasaki, a port town rich in history"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_highlights",
+  "text": "highlights are the Nagasaki Atomic Bomb Museum and Peace Park, Kumamoto Castle and Sengan-en",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Visiting the Nagasaki Atomic Bomb Museum and Peace Park",
+   "Relax in the tranquil beauty of Sengan-en"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_tokyo",
+  "text": "from Tokyo it takes 6 hours 35 minutes: the Tokaido-Sanyo Shinkansen to Hakata Station for 5 hours 5 minutes, then the Limited Express to Nagasaki Station for 1 hour 30 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Hakata Station for 5 hours 5 minutes",
+   "Nagasaki Station for 1 hour 30 minutes"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_flight",
+  "text": "there are regular flights from Haneda Airport to Nagasaki Airport",
+  "claim": "Flights",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "regular flights from Haneda Airport to Nagasaki Airport"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_fukuoka",
+  "text": "from Fukuoka it takes 1 hour 30 minutes from Hakata Station on the Nishi-Kyushu Shinkansen Kamome to Nagasaki Station",
+  "claim": "From Fukuoka",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Nishi-Kyushu Shinkansen"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_nagasaki",
+  "text": "Nagasaki has a long and rich history as a port city influenced by many cultures",
+  "claim": "Nagasaki",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "port city, influenced by many cultures"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_museum",
+  "text": "the Nagasaki Atomic Bomb Museum teaches about the day the city suffered a nuclear attack during WWII",
+  "claim": "Atomic Bomb Museum",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Nagasaki Atomic Bomb Museum"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_peace",
+  "text": "the Peace Park commemorates the bombing, with the epicenter marked by a black monolith, and the Peace Statue across the street",
+  "claim": "Peace Park",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "epicenter, marked by a black monolith"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_oura",
+  "text": "Oura Cathedral is Japan oldest Christian building built by Japanese, and Glover Garden is a park made of nine Western-style buildings that were once home to foreign residents",
+  "claim": "Oura and Glover",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Japan",
+   "nine Western-style buildings"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_huis",
+  "text": "on day 2 take the JR Seaside Liner bound for Sasebo from Nagasaki Station to Huis Ten Bosch Station, 1 hour 20 minutes",
+  "claim": "To Huis Ten Bosch",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Take the JR Seaside Liner bound for Sasebo from Nagasaki Station to Huis Ten Bosch Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_huis_park",
+  "text": "Huis Ten Bosch is a theme park that recreates old Europe with Dutch-style buildings and canals, best known for the springtime Tulip Festival and the Kingdom of Lights in winter",
+  "claim": "Huis Ten Bosch",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "recreates old Europe with Dutch-style buildings and canals",
+   "Tulip Festival",
+   "Kingdom of Lights"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_hotels",
+  "text": "you can stay in the park at one of five hotels",
+  "claim": "Hotels",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "five hotels"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_to_kumamoto",
+  "text": "from Huis Ten Bosch take the Midori to Shin-Tosu Station and change to the Kyushu Shinkansen to Kumamoto Station, 2 hours 45 minutes",
+  "claim": "To Kumamoto",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "change to the Kyushu Shinkansen to Kumamoto Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_tram",
+  "text": "on day 3 take a tram from Kumamoto Station to Hanabata Station, then walk about 10 minutes to Kumamoto Castle",
+  "claim": "To the castle",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "Take a tram from Kumamoto Station to Hanabata Station, then walk about 10 minutes"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_castle",
+  "text": "Kumamoto Castle was damaged in the 2016 earthquake but is a stately symbol of the city, surrounded by over 800 cherry blossom trees",
+  "claim": "Kumamoto Castle",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "damaged in the 2016 Kumamoto earthquake",
+   "over 800 cherry blossom trees"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_to_kagoshima",
+  "text": "take a tram back to Kumamoto Station and change to the Kyushu Shinkansen for Kagoshima-Chuo Station, 1 hour 20 minutes",
+  "claim": "To Kagoshima",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "change to the Kyushu Shinkansen for Kagoshima-Chuo Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_sengan",
+  "text": "Sengan-en is a former villa and garden, collectively a UNESCO World Heritage site, with cultural events such as archery ceremonies and poetry games",
+  "claim": "Sengan-en",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "collectively a UNESCO World Heritage site",
+   "archery ceremonies and poetry games"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "kcu_sakurajima",
+  "text": "Sakurajima is an active volcano that emits smoke constantly and has repeated eruptions",
+  "claim": "Sakurajima",
+  "source_name": "JNTO itinerary: A Cultural Journey of Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/kyushu-culture-by-train/",
+  "must_contain": [
+   "emits smoke constantly and has repeated eruptions"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "kyushu-culture-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_len",
+  "text": "the JNTO Hot Springs and Nature in Hokkaido itinerary has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_intro",
+  "text": "Southern Hokkaido is rich in nature and boasts some of Japan most famous hot springs and night views",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Southern Hokkaido is rich in nature"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_highlights",
+  "text": "highlights are Noboribetsu Onsen, an active volcano at Mt. Usu and views from high above Hakodate",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Relaxing in Noboribetsu Onsen",
+   "Getting close to an active volcano at Mt. Usu"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_flights",
+  "text": "there are multiple flights per day from Haneda Airport to New Chitose Airport (90 minutes), 2 hours 35 minutes in all",
+  "claim": "Flights",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "multiple flights from Haneda Airport to New Chitose Airport (90 minutes) per day"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_to_noboribetsu",
+  "text": "from New Chitose take a JR Rapid Airport train to Minami-Chitose Station, a limited express (45 minutes) to Noboribetsu Station, then a 20-minute bus ride to Noboribetsu Onsen",
+  "claim": "To Noboribetsu",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "transfer to a limited express train (45 minutes) to Noboribetsu Station",
+   "20-minute bus ride from the station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_hell",
+  "text": "at Noboribetsu Onsen hot water gushes out at Hell Valley, and you can hike the landscape then relax in a naturally heated bath",
+  "claim": "Hell Valley",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Hell Valley",
+   "naturally heated bath"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_date",
+  "text": "Noboribetsu Date Jidaimura is a historic theme park reproducing an Edo-period town, with oiran and ninja performances and kimono or ninja dress-up",
+  "claim": "Date Jidaimura",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "reproduction of an Edo-period",
+   "oiran and ninja"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_horse",
+  "text": "Northern Horse Park offers horse riding, cycling and flower strolls, with restaurants using locally produced ingredients",
+  "claim": "Northern Horse Park",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "ride horses, cycle, or stroll through the flowers"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_toya_train",
+  "text": "on day 2 take the JR Muroran Main Line 40 minutes from Noboribetsu Station to Toya Station",
+  "claim": "To Toya",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Take JR Muroran Main Line 40 minutes to Toya Station from Noboribetsu Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_toya",
+  "text": "Lake Toya is a caldera lake in Shikotsu-Toya National Park, with a hot spring town on its shores and four islands in the center",
+  "claim": "Lake Toya",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "a caldera lake in Shikotsu-Toya National Park",
+   "four beautiful islands"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_usu",
+  "text": "Mt. Usu is an active volcano that last erupted in 2000, with a walkway to the crater and a ropeway to the top",
+  "claim": "Mt. Usu",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "last erupted in 2000",
+   "ropeway to the top"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_hakodate_train",
+  "text": "on day 3 the JR Super Hokuto from Toya Station goes directly to Hakodate Station, 1 hour 55 minutes",
+  "claim": "To Hakodate",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "JR Super Hokuto from Toya Station goes directly to Hakodate Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_market",
+  "text": "the Hakodate morning market opens at 5 a.m. from May to December or 6 a.m. from January to April, with crab, squid and shellfish",
+  "claim": "Morning market",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "5 a.m. from May to December or 6 a.m. from January to April"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_donburi",
+  "text": "Donburi Yokocho Ichiba is one street over, where you can sample seafood",
+  "claim": "Donburi Yokocho",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Donburi Yokocho Ichiba"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_western",
+  "text": "Hakodate has many western-style buildings in the Motomachi district, including the Catholic Motomachi Church and the Hakodate Orthodox Church",
+  "claim": "Western buildings",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Catholic Motomachi Church",
+   "Hakodate Orthodox Church"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_goryokaku",
+  "text": "Goryokaku is a star-shaped fortress built as a defensive base, and you can climb Goryokaku Tower to see it from above",
+  "claim": "Goryokaku",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "star-shaped fortress",
+   "Goryokaku Tower"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_ropeway",
+  "text": "a ropeway goes to the top of Mt. Hakodate for city lights, with a meal at Restaurant Genova",
+  "claim": "Mt. Hakodate",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "ropeway to the top of Mt. Hakodate"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkd_aomori",
+  "text": "Aomori at the northern tip of Honshu has the Sannai-Maruyama Site and the Aomori Museum of Art, reached by shinkansen",
+  "claim": "Aomori",
+  "source_name": "JNTO itinerary: Hot Springs and Nature in Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/famous-hot-springs-and-untouched-nature-in-hokkaido/",
+  "must_contain": [
+   "Sannai-Maruyama Site",
+   "Aomori Museum of Art"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "hokkaido-hot-springs-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "tcx_len",
+  "text": "the JNTO Cultural Experiences in Tokyo itinerary has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_intro",
+  "text": "for a deeper level of appreciation of food, art and culture you can take a class and try a hands-on experience",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "take a class and try a hands-on experience"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_highlights",
+  "text": "highlights are making Edo-style nigiri-sushi, glass-blowing at a furin workshop and a calligraphy class",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Make delicious Edo-style nigiri-sushi",
+   "Master glass-blowing techniques at a traditional furin workshop"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_access",
+  "text": "from Tokyo Station take the JR Yamanote Line to Okachimachi Station (5 minutes) and walk 10 minutes to Shinohara Maruyoshi Furin",
+  "claim": "Access",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Take the JR Yamanote Line to Okachimachi Station (5 minutes)"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_sushi",
+  "text": "at the Institute for True Japan Tours in Minato, guests are taught Edo-styled nigiri-sushi and modern sushi rolls, suitable for all ages, and beginners are welcome",
+  "claim": "Sushi class",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Edo styled nigiri-sushi, to modern sushi rolls",
+   "beginners are welcome"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_furin",
+  "text": "furin are small bulb-shaped glass wind chimes, and at Shinohara Maruyoshi Furin guests can shape their own glass or paint a pre-made piece",
+  "claim": "Furin",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "small bulb-shaped glass wind chimes",
+   "simply paint a pre-made piece"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_origami",
+  "text": "Origami Kaikan offers a wide variety of classes on an irregular basis, so check the schedule online before applying, and classes are open to all origami levels",
+  "claim": "Origami",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "irregular basis",
+   "open to students of all origami levels"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_bonsai",
+  "text": "a bonsai class is available at Shunkaen Bonsai Museum, a craft built on patience and the appreciation of nature",
+  "claim": "Bonsai",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Shunkaen Bonsai Museum"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_bonsai_travel",
+  "text": "to Shunkaen take the JR Sobu Line to Koiwa Station and change to the Keisei Bus to Keiyo Guchi Bus Stop",
+  "claim": "Bonsai travel",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Take JR Sobu Line to Koiwa Station and change to Keisei Bus to Keiyo Guchi Bus Stop"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_calligraphy",
+  "text": "calligraphy, also called shuji, can be learned at Udoyoshi Calligraphy, where you can create your own pieces",
+  "claim": "Calligraphy",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Udoyoshi Calligraphy"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
+ },
+ {
+  "id": "tcx_okachimachi",
+  "text": "from Kamiyacho Station take the Tokyo Metro Hibiya Line to Naka Okachimachi Station",
+  "claim": "Between classes",
+  "source_name": "JNTO itinerary: Cultural Experiences in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/hands-on-experiences-in-the-city/",
+  "must_contain": [
+   "Take Tokyo Metro Hibiya Line to Naka Okachimachi Station"
+  ],
+  "verified_on": "2026-11-05",
+  "topics": [
+   "tokyo-cultural-experiences-classes"
+  ]
  }
 ]
