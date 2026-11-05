@@ -2080,6 +2080,15 @@
   "file": "yokohama-day-trip-from-tokyo-3.jpg",
   "query": "Sankeien Garden Yokohama"
  },
+ "hokkaido-hot-springs-3-day-itinerary/1": {
+  "title": "File:Jigokudani (Hell Valley), Noboribetsu Onsen, Hokkaido, April 2023 05.jpg",
+  "author": "Calistemon",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Jigokudani_(Hell_Valley),_Noboribetsu_Onsen,_Hokkaido,_April_2023_05.jpg",
+  "file": "hokkaido-hot-springs-3-day-itinerary-1.jpg",
+  "query": "Noboribetsu Hell Valley Hokkaido"
+ },
  "hokkaido-hot-springs-3-day-itinerary/3": {
   "title": "File:Hakodate Morning Market Square 01.JPG",
   "author": "Abasaa",
@@ -2187,5 +2196,50 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Nagasaki-Glover-Garden-5415.jpg",
   "file": "kyushu-culture-3-day-itinerary-2.jpg",
   "query": "Glover Garden Nagasaki"
+ },
+ "hokkaido-hot-springs-3-day-itinerary/2": {
+  "title": "File:Lake Tōya 3D 2012.jpg",
+  "author": "Batholith",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Lake_T%C5%8Dya_3D_2012.jpg",
+  "file": "hokkaido-hot-springs-3-day-itinerary-2.jpg",
+  "query": "Lake Toya Hokkaido"
+ },
+ "hokkaido-hot-springs-3-day-itinerary/4": {
+  "title": "File:Aerial view of Hakodate at night.jpg",
+  "author": "Fumikas Sagisavas",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Hakodate_at_night.jpg",
+  "file": "hokkaido-hot-springs-3-day-itinerary-4.jpg",
+  "query": "Hakodate night view"
+ },
+ "tokyo-cultural-experiences-classes/1": {
+  "title": "File:Yakiniku Nigiri - Shira Nui AUD4.50 each (4759206697).jpg",
+  "author": "Alpha from Melbourne, Australia",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yakiniku_Nigiri_-_Shira_Nui_AUD4.50_each_(4759206697).jpg",
+  "file": "tokyo-cultural-experiences-classes-1.jpg",
+  "query": "Nigiri sushi chef Japan"
+ },
+ "tokyo-cultural-experiences-classes/4": {
+  "title": "File:BonsaiTridentMaple.jpg",
+  "author": "Peggy Greb, USDA",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:BonsaiTridentMaple.jpg",
+  "file": "tokyo-cultural-experiences-classes-4.jpg",
+  "query": "Bonsai"
+ },
+ "tokyo-cultural-experiences-classes/2": {
+  "title": "File:Wind-chime-M7547.jpg",
+  "author": "Fg2",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Wind-chime-M7547.jpg",
+  "file": "tokyo-cultural-experiences-classes-2.jpg",
+  "query": "Furin Japanese wind chime"
  }
 }
