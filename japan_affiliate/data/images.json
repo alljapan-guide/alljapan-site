@@ -2269,6 +2269,42 @@
   "file": "golden-route-2-week-japan-itinerary-4.jpg",
   "query": "Hiroshima Itsukushima torii"
  },
+ "central-kyushu-aso-yufuin-3-day-itinerary/1": {
+  "title": "File:Mount Nakadake, Aso-san.jpg",
+  "author": "Lawsonstu",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Mount_Nakadake,_Aso-san.jpg",
+  "file": "central-kyushu-aso-yufuin-3-day-itinerary-1.jpg",
+  "query": "Mount Aso crater Nakadake"
+ },
+ "central-kyushu-aso-yufuin-3-day-itinerary/3": {
+  "title": "File:Yunotsubo-Yokocho in Yufuin Hot Spring.JPG",
+  "author": "そらみみ",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG",
+  "file": "central-kyushu-aso-yufuin-3-day-itinerary-3.jpg",
+  "query": "Yufuin Yunotsubo street"
+ },
+ "central-kyushu-aso-yufuin-3-day-itinerary/4": {
+  "title": "File:JRK Yufuin-no-Mori Kiha71 Kiha72.jpg",
+  "author": "MaedaAkihiko",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:JRK_Yufuin-no-Mori_Kiha71_Kiha72.jpg",
+  "file": "central-kyushu-aso-yufuin-3-day-itinerary-4.jpg",
+  "query": "Yufuin no Mori train"
+ },
+ "central-kyushu-aso-yufuin-3-day-itinerary/2": {
+  "title": "File:Yunotsubo-Yokocho in Yufuin Hot Spring.JPG",
+  "author": "そらみみ",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG",
+  "file": "central-kyushu-aso-yufuin-3-day-itinerary-2.jpg",
+  "query": "Yufuin Yunotsubo street"
+ },
  "shikoku-6-day-itinerary/1": {
   "title": "File:Awa Odori Tokushima Aug2009.jpg",
   "author": "Stemu2000 www.stefansblog.com",
@@ -2278,32 +2314,41 @@
   "file": "shikoku-6-day-itinerary-1.jpg",
   "query": "Awa Odori Tokushima"
  },
- "shikoku-6-day-itinerary/3": {
+ "shikoku-6-day-itinerary/2": {
   "title": "File:Kochi Castle, enkei.jpg",
   "author": "Saigen Jiro",
   "license": "CC0",
   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "source_url": "https://commons.wikimedia.org/wiki/File:Kochi_Castle,_enkei.jpg",
-  "file": "shikoku-6-day-itinerary-3.jpg",
+  "file": "shikoku-6-day-itinerary-2.jpg",
   "query": "Kochi Castle"
  },
- "shikoku-6-day-itinerary/4": {
+ "shikoku-6-day-itinerary/3": {
   "title": "File:Dougo Onsen Matsuyama.jpg",
   "author": "Urashimataro",
   "license": "Public domain",
   "license_url": "",
   "source_url": "https://commons.wikimedia.org/wiki/File:Dougo_Onsen_Matsuyama.jpg",
-  "file": "shikoku-6-day-itinerary-4.jpg",
+  "file": "shikoku-6-day-itinerary-3.jpg",
   "query": "Dogo Onsen Matsuyama"
  },
- "central-kyushu-aso-yufuin-3-day-itinerary/1": {
-  "title": "File:Mount Nakadake, Aso-san.jpg",
-  "author": "Lawsonstu",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Mount_Nakadake,_Aso-san.jpg",
-  "file": "central-kyushu-aso-yufuin-3-day-itinerary-1.jpg",
-  "query": "Mount Aso crater Nakadake"
+ "shirakami-juniko-tohoku-2-day-itinerary/1": {
+  "title": "File:JRE-Gono-line Yukiaizaki.jpg",
+  "author": "MaedaAkihiko",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:JRE-Gono-line_Yukiaizaki.jpg",
+  "file": "shirakami-juniko-tohoku-2-day-itinerary-1.jpg",
+  "query": "Gono Line Resort Shirakami train"
+ },
+ "shirakami-juniko-tohoku-2-day-itinerary/2": {
+  "title": "File:Senjoujiki Fukaura Aomori Japan 20170827 IMG 1704.jpg",
+  "author": "あおもりくま(Aomorikuma)",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Senjoujiki_Fukaura_Aomori_Japan_20170827_IMG_1704.jpg",
+  "file": "shirakami-juniko-tohoku-2-day-itinerary-2.jpg",
+  "query": "Aomori Fukaura coast Sea of Japan"
  },
  "hokkaido-winter-2-day-itinerary/1": {
   "title": "File:Aptenodytes patagonicus -Asahiyama Zoo (2008.9.13) 269.jpg",
@@ -2322,32 +2367,5 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Asahikawa_Winter_Festival_Snow_Statue_3.JPG",
   "file": "hokkaido-winter-2-day-itinerary-2.jpg",
   "query": "Asahikawa Winter Festival snow sculpture"
- },
- "shirakami-juniko-tohoku-2-day-itinerary/2": {
-  "title": "File:JRE-Gono-line Yukiaizaki.jpg",
-  "author": "MaedaAkihiko",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source_url": "https://commons.wikimedia.org/wiki/File:JRE-Gono-line_Yukiaizaki.jpg",
-  "file": "shirakami-juniko-tohoku-2-day-itinerary-2.jpg",
-  "query": "Gono Line Resort Shirakami train"
- },
- "central-kyushu-aso-yufuin-3-day-itinerary/2": {
-  "title": "File:Yunotsubo-Yokocho in Yufuin Hot Spring.JPG",
-  "author": "そらみみ",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG",
-  "file": "central-kyushu-aso-yufuin-3-day-itinerary-2.jpg",
-  "query": "Yufuin Yunotsubo street"
- },
- "central-kyushu-aso-yufuin-3-day-itinerary/3": {
-  "title": "File:JRK Yufuin-no-Mori Kiha71 Kiha72.jpg",
-  "author": "MaedaAkihiko",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:JRK_Yufuin-no-Mori_Kiha71_Kiha72.jpg",
-  "file": "central-kyushu-aso-yufuin-3-day-itinerary-3.jpg",
-  "query": "Yufuin no Mori train"
  }
 }
