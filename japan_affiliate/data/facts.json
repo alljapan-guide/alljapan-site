@@ -14934,5 +14934,1466 @@
   "topics": [
    "tokyo-cultural-experiences-classes"
   ]
+ },
+ {
+  "id": "gld_len",
+  "text": "the JNTO Golden Route is a classic two-week itinerary ideal for first-time visitors to Japan",
+  "claim": "Overview",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "A classic two-week itinerary ideal for first-time visitors to Japan"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_mix",
+  "text": "it travels through Tokyo, Hakone, Kyoto, Osaka and Hiroshima with a well-balanced mix of cities, history, hot springs and cuisine",
+  "claim": "Mix",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Travel through Tokyo, Hakone, Kyoto, Osaka, and Hiroshima",
+   "well-balanced mix of cities, history, hot springs, and cuisine"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_route",
+  "text": "the route is Tokyo, then Yokohama, Kamakura and Hakone, then Kyoto and Nara, then Kurashiki, Hiroshima, Himeji and Kobe, and finally Osaka",
+  "claim": "Route",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Tokyo",
+   "Yokohama, Kamakura, Hakone",
+   "Kurashiki"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_d1",
+  "text": "days 1 to 3 are Tokyo, 3 nights",
+  "claim": "Tokyo nights",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Days 1–3",
+   "3 nights"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_d1a",
+  "text": "day 1 in Tokyo includes arrival, hotel check-in, convenience stores and local izakaya, and Asakusa with Sensoji Temple and Kaminarimon Gate",
+  "claim": "Day 1",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Arrival and hotel check-in",
+   "Sensoji Temple and Kaminarimon Gate"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_d2",
+  "text": "day 2 in Tokyo includes Shibuya Crossing, Ginza for shopping and sushi, the teamLab digital art museum and Shinjuku Kabukicho",
+  "claim": "Day 2",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Shibuya Crossing",
+   "Ginza for shopping and sushi",
+   "teamLab digital art museum"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_d3",
+  "text": "day 3 is a day trip to Yokohama and Kamakura, with temples such as Engakuji and Meigetsuin",
+  "claim": "Day 3",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Day trip to Yokohama and Kamakura",
+   "Engakuji Temple and Meigetsuin Temple"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_hakone",
+  "text": "day 4 is Hakone for one night, travelling from Tokyo by Romancecar, with Hakone Shrine, a boat cruise on Lake Ashinoko with views of Mt. Fuji, and a traditional onsen ryokan with kaiseki dinner",
+  "claim": "Hakone",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Travel from Tokyo via Romancecar",
+   "Hakone Ashinoko Boat Cruise with views of Mt. Fuji",
+   "kaiseki dinner and an open-air bath"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_kyoto_d5",
+  "text": "days 5 and 6 are Kyoto for 2 nights, with a Shinkansen from Hakone and quieter sites such as Sanzenin Temple in Ohara, Nijo Castle and Kyoto Imperial Palace",
+  "claim": "Kyoto day 5",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Travel by Shinkansen to Kyoto",
+   "Sanzenin Temple in Ohara, Nijo Castle, and Kyoto Imperial Palace"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_kyoto_d6",
+  "text": "day 6 in Kyoto includes the Kyoto City KYOCERA Museum of Art and Keage Incline",
+  "claim": "Kyoto day 6",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Kyoto City KYOCERA Museum of Art",
+   "Keage Incline"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_nara",
+  "text": "day 7 is Nara for one night, with the Naramachi district, Nara Park with its famous deer and an optional visit to Horyuji Temple",
+  "claim": "Nara",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Walk through the historic Naramachi district",
+   "Optional visit to Horyuji Temple"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_kurashiki",
+  "text": "day 8 is Kurashiki for one night, with the Bikan Historical Quarter, Kojima Jeans Street and a seasonal fruit-picking experience",
+  "claim": "Kurashiki",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Kurashiki Bikan Historical Quarter",
+   "Kojima Jeans Street",
+   "Seasonal fruit-picking experience"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_hiro_d9",
+  "text": "days 9 and 10 are Hiroshima for 2 nights, with the Atomic Bomb Dome, the Peace Memorial Museum and Okonomimura",
+  "claim": "Hiroshima day 9",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Atomic Bomb Dome and Hiroshima Peace Memorial Museum",
+   "Okonomimura"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_hiro_d10",
+  "text": "day 10 in Hiroshima includes Miyajima with Itsukushima Shrine and the floating torii gate, kayaking and Shukkeien Garden",
+  "claim": "Hiroshima day 10",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Miyajima: Itsukushima Shrine and the floating torii gate",
+   "Shukkeien Garden"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_himeji",
+  "text": "day 11 is Himeji for one night, travelling by Shinkansen, with Himeji Castle and a Kobe beef experience",
+  "claim": "Himeji",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Himeji Castle",
+   "Kobe beef experience"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_osaka_d12",
+  "text": "days 12 and 13 are Osaka for 2 nights, and day 12 includes a sake brewery tour in Nada, night views from the Umeda Sky Building and bar hopping or a walking tour",
+  "claim": "Osaka day 12",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Sake brewery tour in Nada",
+   "Night views from Umeda Sky Building"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_osaka_d13",
+  "text": "day 13 in Osaka includes takoyaki at Dotonbori, Abeno Harukas, Tenjinbashisuji Shopping Street and a crab specialty dinner",
+  "claim": "Osaka day 13",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Dotonbori for takoyaki",
+   "Abeno Harukas",
+   "Tenjinbashisuji Shopping Street"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_depart",
+  "text": "day 14 is departure from Osaka",
+  "claim": "Departure",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "Departure from Osaka"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "gld_jrpass",
+  "text": "JNTO recommends a 14-day JR Pass for long-distance travel and IC cards such as Suica and ICOCA for city transport",
+  "claim": "Transport tips",
+  "source_name": "JNTO: Golden Route",
+  "source_url": "https://www.japan.travel/en/gc/itineraries/long-plan/",
+  "must_contain": [
+   "JR Pass (14-day) recommended for long-distance travel",
+   "IC cards such as Suica and ICOCA for city transport"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "golden-route-2-week-japan-itinerary"
+  ]
+ },
+ {
+  "id": "shk_len",
+  "text": "the JNTO Shikoku itinerary has a recommended length of 6 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Recommended length: 6 days"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_intro",
+  "text": "Shikoku is one of the main islands of Japan, nestled between the Seto Inland Sea and the Pacific Ocean",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "nestled between the Seto Inland Sea and the Pacific Ocean"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_highlights",
+  "text": "highlights are the Awa-Odori Matsuri, Kochi and Matsuyama Castles and Dogo Onsen",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Awa-Odori Matsuri",
+   "Dogo Onsen"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_castles",
+  "text": "Kochi and Matsuyama Castles are two of the 12 original castle keeps of Japan",
+  "claim": "Castles",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "two of the 12 original castle keeps of Japan"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_flight",
+  "text": "from Tokyo Haneda it takes 1 hour 10 minutes by flight to Tokushima Airport",
+  "claim": "Flight",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Take a flight from Haneda Airport to Tokushima Airport"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_bus",
+  "text": "from Osaka the Nankai Express Bus from Herbis Osaka Bus Stop takes 2 hours 20 minutes to Tokushima Station Bus Stop",
+  "claim": "Bus from Osaka",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Nankai Express Bus from Herbis Osaka Bus Stop"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_awa",
+  "text": "the Awa-Odori Matsuri is a four-day dance festival during Obon, from August 12 to 15 every year",
+  "claim": "Awa-Odori",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "From August 12 to 15 every year"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_kaikan",
+  "text": "you can learn about the 400-year old dance at Awa Odori Kaikan Hall, with performances daily all year-round",
+  "claim": "Awa Odori Kaikan",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "400-year old dance",
+   "all year-round"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_otsuka",
+  "text": "the Otsuka Museum of Art is Japan largest exhibition space with roughly 1,000 reproductions of paintings",
+  "claim": "Otsuka Museum",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "roughly 1,000 reproductions of ancient and modern paintings"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_bizan",
+  "text": "Mt. Bizan has a ropeway to the summit with the Pagoda Peace Monument and the Kaleidoscope Museum",
+  "claim": "Mt. Bizan",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Ride the ropeway to the summit"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_naruto",
+  "text": "the Naruto Strait has whirlpools that you can see from the observatory or by excursion boat",
+  "claim": "Naruto whirlpools",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Naruto Strait",
+   "excursion boat"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_takamatsu_train",
+  "text": "on day 2 take the JR Uzushio Line from Tokushima Station to Takamatsu Station, 1 hour 7 minutes",
+  "claim": "To Takamatsu",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Take the JR Uzushio Line from Tokushima Station to Takamatsu Station"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_mura",
+  "text": "Shikoku-mura is an open-air museum with 33 folk houses and warehouses from the Edo and Taisho periods",
+  "claim": "Shikoku-mura",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "33 folk houses and warehouses"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_konpira",
+  "text": "Konpiragu Shrine in Kotohira is known for the 1,380 steps that lead to it",
+  "claim": "Konpiragu",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "1,380 steps"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_kanamaruza",
+  "text": "Kanamaruza is the oldest existing playhouse in Japan, built in 1835, with Kabuki in April",
+  "claim": "Kanamaruza",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "oldest existing playhouse in Japan built in 1835"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_miyoshi",
+  "text": "on day 3 take the JR Yosan Line to Marugame Station and change to the JR Dosan Line Limited Express to Awa-Ikeda Station, 1 hour 22 minutes",
+  "claim": "To Miyoshi",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Take the JR Yosan Line to Marugame Station"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_oboke",
+  "text": "Oboke Gorge by the Yoshino River offers rafting at Koboke-kei",
+  "claim": "Oboke Gorge",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "rafting at Koboke-kei"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_kazura",
+  "text": "Kazura Bridge is a suspension bridge made of vine, best visited in October when the trees turn red",
+  "claim": "Kazura Bridge",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "suspension bridge made of shirakuchikazura vine",
+   "Visit in October"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_kochi_train",
+  "text": "on day 4 take the JR Dosan Line Limited Express from Awa-Ikeda Station to Kochi Station, 1 hour 7 minutes",
+  "claim": "To Kochi",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Take the JR Dosan Line-Limited Express from Awa-Ikeda Station to Kochi Station"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_kochi_castle",
+  "text": "Kochi Castle was built in 1753, one of 12 ancient castles in Japan to have survived, best in late March when the cherry blossoms are in bloom",
+  "claim": "Kochi Castle",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Built in 1753",
+   "late March"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_sunday",
+  "text": "the Nichiyo-ichi Sunday Market has 300 years of history and is open every day at 6 a.m.",
+  "claim": "Sunday Market",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "300 years of history",
+   "open every day at 6 a.m."
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_yosakoi",
+  "text": "the Yosakoi Festival is held August 9 to 12 every year",
+  "claim": "Yosakoi",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "August 9 to 12 every year"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_matsuyama_bus",
+  "text": "on day 5 take the JR Shikoku Bus from Kochi Station to Matsuyama Station, 2 hours 41 minutes",
+  "claim": "To Matsuyama",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Take the JR Shikoku Bus from Kochi Station to Matsuyama Station"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_matsuyama_castle",
+  "text": "Matsuyama Castle was built in 1602 and is one of the 12 castles in Japan to have survived",
+  "claim": "Matsuyama Castle",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Built in 1602"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_dogo",
+  "text": "Dogo Onsen is the oldest spa in Japan, less than 20 minutes by tram from the city",
+  "claim": "Dogo Onsen",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "oldest spa in Japan",
+   "Less than 20 minutes by tram"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_botchan",
+  "text": "the Botchan Train runs on weekends and holidays, named after the novel Botchan",
+  "claim": "Botchan Train",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Botchan Train",
+   "weekends and holidays"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "shk_shotengai",
+  "text": "Dogo Shotengai shopping street has small shops selling traditional crafts and confections",
+  "claim": "Dogo Shotengai",
+  "source_name": "JNTO itinerary: Shikoku Nature and Traditions",
+  "source_url": "https://www.japan.travel/en/itineraries/shikokus-fascinating-nature-and-longstanding-traditions/",
+  "must_contain": [
+   "Dogo Shotengai"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shikoku-6-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_len",
+  "text": "the JNTO Scenic World Heritage in Tohoku itinerary has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_intro",
+  "text": "the itinerary explores the Shirakami Sanchi mountain range between Akita and Aomori Prefectures, with vast beechwood forests around the Juniko Twelve Lakes",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Shirakami Sanchi mountain range, hedged between Akita and Aomori Prefectures",
+   "vast beechwood forests"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_highlights",
+  "text": "highlights are the Gono Line train, the Juniko Twelve Lakes and the outdoor Furofushi Onsen hot spring bath",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Juniko Twelve Lakes region",
+   "outdoor Furofushi Onsen hot spring bath"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_tokyo",
+  "text": "from Tokyo it takes 4 hours 45 minutes: the Akita Shinkansen Komachi to Akita Station (3 hours 50 minutes), the Limited Express Tsugaru to Higashi-Noshiro Station (45 minutes), then the Resort Shirakami train to Juniko Station (1 hour 15 minutes)",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Akita Shinkansen Komachi from JR Tokyo Station to Akita Station (3 hours 50 minutes)",
+   "Limited Express Tsugaru to Higashi-Noshiro Station (45 minutes)"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_gono",
+  "text": "the Gono Line has the Sea of Japan on one side and the Shirakami Mountains on the other, regarded as one of the most scenic lines in Japan",
+  "claim": "Gono Line",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Sea of Japan on one side",
+   "one of the most scenic lines in all of Japan"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_resort",
+  "text": "Resort Shirakami is a sightseeing train with events and music performances, including shamisen",
+  "claim": "Resort Shirakami",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Resort Shirakami",
+   "Shamisen"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_bus",
+  "text": "from Juniko Station take the Konan Bus 15 minutes to Oike Bus stop for Oku Juniko",
+  "claim": "Bus to the lakes",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "take Konan Bus for 15 minutes to Oike Bus stop"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_lakes",
+  "text": "the Juniko are pristine, azure-blue lakes and ponds surrounded by beechwood forests on the western part of the Shirakami mountain range",
+  "claim": "Juniko lakes",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "pristine, azure-blue lakes and ponds"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_33",
+  "text": "there are in fact 33 lakes, but the region is called Juniko because only 12 could be seen from the collapsed mountain",
+  "claim": "33 lakes",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "There are in fact 33 lakes",
+   "only 12 lakes could be seen"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_canyon",
+  "text": "Nihon Canyon is reminiscent of the Grand Canyon, with U-shaped valleys and cliffs and white tuff exposed",
+  "claim": "Nihon Canyon",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Nihon Canyon",
+   "white tuff"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_aoike",
+  "text": "Aoike Lake is a dazzling shade of clear blue, its name literally Blue Pond",
+  "claim": "Aoike",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Blue Pond"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_ochikuchi",
+  "text": "Ochikuchi-no-ike Lake is a well-known photo spot, especially scenic in autumn as the beechwood trees turn orange",
+  "claim": "Ochikuchi-no-ike",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "well-known photo spot"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_furofushi",
+  "text": "Furofushi Onsen is famous for an outdoor bath that protrudes into the Sea of Japan, with water from 200 meters underground",
+  "claim": "Furofushi Onsen",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "outdoor bath that protrudes into the Sea of Japan",
+   "200 meters underground"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_senjojiki",
+  "text": "at Senjojiki you can walk along the coast to view unusual rock formations formed after the ground rose in a major earthquake more than 200 years ago",
+  "claim": "Senjojiki",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "unusual rock formations",
+   "more than 200 years ago"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_day2",
+  "text": "on day 2 walk 10 minutes from Furofushi Onsen to Henashi Station and ride the Gono Line for 3 minutes, then take the Resort Shirakami 40 minutes to Senjojiki Station",
+  "claim": "Day 2 trains",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "Walk to Henashi Station for 10 minutes",
+   "take JR Gono Line Resort Shirakami for 40 minutes"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_kakunodate",
+  "text": "Kakunodate is a 17th century town steeped in samurai history, famed for its cherry blossoms, with a well-preserved samurai district",
+  "claim": "Kakunodate",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "well-preserved samurai district"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "tsh_hiraizumi",
+  "text": "JNTO suggests side trips to Iwate Prefecture and the World Heritage town of Hiraizumi",
+  "claim": "Side trips",
+  "source_name": "JNTO itinerary: Scenic World Heritage in Tohoku",
+  "source_url": "https://www.japan.travel/en/itineraries/scenic-world-heritage-in-tohoku/",
+  "must_contain": [
+   "World Heritage town of"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "shirakami-juniko-tohoku-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_len",
+  "text": "the JNTO Unwind in Central Kyushu itinerary has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_intro",
+  "text": "the itinerary goes from the volcanoes of Kumamoto to the hot springs of Oita",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "from the volcanoes of Kumamoto to the hot springs of Oita"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_highlights",
+  "text": "highlights are peering into Mt. Aso, a horse-drawn trolley with views of Mt. Yufu-dake, and the hot springs of Hita and Yufuin",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Peer down into the steaming volcano, Mt. Aso",
+   "horse-drawn trolley"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_tokyo",
+  "text": "from Tokyo it takes 2 hours 30 minutes: a flight from Haneda to Aso-Kumamoto Airport (1 hour 45 minutes), a bus to Higo Otsu Station, the Higo Main Line to Aso Station and the Aso Crater Line bus (35 minutes)",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Aso-Kumamoto Airport (1 hour 45 minutes)",
+   "Kyushu Sanko Aso Crater Line bus"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_fukuoka",
+  "text": "from Fukuoka it takes around 3 hours from Hakata Station by shinkansen and the Hohi Main Line to Aso Station (2 hours 30 minutes), then the Aso Crater Line bus",
+  "claim": "From Fukuoka",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Hohi Main Line to Aso Station (2 hours 30 minutes)"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_aso",
+  "text": "Mt. Aso has one of the world largest calderas, 18 kilometers from east to west and 25 kilometers from north to south, and you can peer into the steaming crater",
+  "claim": "Mt. Aso",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "18 kilometers from east to west",
+   "steaming crater"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_shuttle",
+  "text": "a 5-minute shuttle bus ride from the Aso Mountain Terminal takes you to the crater",
+  "claim": "Shuttle",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "5-minute shuttle bus ride"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_senri",
+  "text": "Kusa Senrigahama is a lush green meadow in a crater, where you can relax on the grass or take a horse ride",
+  "claim": "Kusa Senrigahama",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "lush, green meadow",
+   "take a horse ride"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_bus_yufuin",
+  "text": "on day 2 take a bus bound for Beppu from Aso Station to the Yufuin Station stop, 2 hours 30 minutes",
+  "claim": "To Yufuin",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Take a bus bound for Beppu to the Yufuin Station stop"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_yufuin",
+  "text": "Yufuin is a quaint hot springs town with four million visitors annually and numerous museums and galleries",
+  "claim": "Yufuin",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "four million visitors annually",
+   "museums and galleries"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_yunotsubo",
+  "text": "Yunotsubo Kaido is Yufuin main street, for local crafts like glassware and pottery, confectionaries and soy sauce",
+  "claim": "Yunotsubo",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "glassware and pottery, confectionaries and soy sauce"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_trolley",
+  "text": "you can spend the afternoon on a horse-drawn trolley along the country road around Mt. Yufu",
+  "claim": "Horse-drawn trolley",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "horse-drawn trolley exploring the surrounding country road"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_kinrin",
+  "text": "Lake Kinrin has a surreal mist from hot water welling up, particularly spectacular on winter mornings",
+  "claim": "Lake Kinrin",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "particularly spectacular on winter mornings"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_train",
+  "text": "the Yufuin no Mori limited express has wood interiors and buffet and salon cars, 55 minutes from Yufuin Station to Hita Station, and a regular train takes an extra 10 minutes",
+  "claim": "Yufuin no Mori",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "wood interiors and buffet and salon cars",
+   "extra 10 minutes"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_hita",
+  "text": "Hita flourished during the Edo period, with a thriving cedar industry producing geta sandals and lacquerware, and you can spend a night in the hot springs",
+  "claim": "Hita",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "thriving cedar industry",
+   "Spend a night in Hita relaxing at the hot springs"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_mameda",
+  "text": "Mameda is the central district of Hita that retains its Edo-period atmosphere, with old government buildings and traditional homes converted into cafes and museums",
+  "claim": "Mameda",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "retains much of its Edo-period atmosphere"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_hina",
+  "text": "Hirose Shiryokan, built within the warehouse of a former merchant, displays classic hina dolls for the Hina Matsuri Festival on March 3",
+  "claim": "Hina dolls",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Hirose Shiryokan",
+   "March 3"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_gion",
+  "text": "the Hita Gion Festival is held on the Saturday and Sunday after the third week of July, with ornately decorated floats",
+  "claim": "Hita Gion Festival",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Saturday and Sunday after the third week of July"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_ukai",
+  "text": "the season for ukai cormorant fishing lasts from May 20th to the end of October and is best viewed along the Mikuma River",
+  "claim": "Ukai",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "from May 20th to the end of October",
+   "Mikuma River"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "cky_beppu",
+  "text": "Beppu is a popular hot springs resort east of Yufuin",
+  "claim": "Beppu",
+  "source_name": "JNTO itinerary: Unwind in Central Kyushu",
+  "source_url": "https://www.japan.travel/en/itineraries/unwind-in-central-kyushu/",
+  "must_contain": [
+   "Venture east to Beppu, a popular hot springs resort"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "central-kyushu-aso-yufuin-3-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_len",
+  "text": "the JNTO A Winter Trip to Hokkaido itinerary has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_intro",
+  "text": "Hokkaido is Japan northernmost island, a mountainous region with an abundance of nature and ample snowfall",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "a mountainous region with an abundance of nature and ample snowfall"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_highlights",
+  "text": "highlights are Asahiyama Zoo, the Historical Village of Hokkaido and the Asahikawa and Sapporo Winter Festivals",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Asahiyama Zoo",
+   "Historical Village of Hokkaido"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_flight",
+  "text": "direct flights from Tokyo Haneda, Nagoya and Osaka go to Asahikawa Airport, about 15 kilometers southeast of the city, 1 hour 45 minutes from Tokyo",
+  "claim": "Flights",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Direct flights leave from Tokyo Haneda, Nagoya, and Osaka to Asahikawa Airport",
+   "about 15 kilometers southeast of the city"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_zoo",
+  "text": "Asahiyama Zoo has unique facilities that put you in the enclosures, so animals behave as in their natural habitats",
+  "claim": "Asahiyama Zoo",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "unique facilities that put you in the enclosures"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_penguin",
+  "text": "at the zoo you can watch penguins fly through water from a tunnel below and meet polar bears from a glass dome",
+  "claim": "Zoo exhibits",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Watch penguins fly through water from a tunnel below",
+   "glass dome"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_native",
+  "text": "exhibits include the Hokkaido Animal House, the Ezo Deer Forest and the Japanese Crane House",
+  "claim": "Native animals",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Ezo Deer Forest",
+   "Japanese Crane House"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_world",
+  "text": "the zoo also has the Arctic Fox House, the Wolves Forest and the Penguin House",
+  "claim": "Other animals",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Arctic Fox House",
+   "Penguin House"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_village",
+  "text": "Asahiyama Snow Village is a snow park next to the zoo with skiing and snowmobile rides, with gentle slopes for trying skiing",
+  "claim": "Snow Village",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Asahiyama Snow Village",
+   "gentle slopes"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_asahikawa_fest",
+  "text": "the Asahikawa Winter Festival is held every February, with some of the world largest snow sculptures, one in the Guinness Book of World Records",
+  "claim": "Asahikawa Winter Festival",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Held every February",
+   "Guinness Book of World Records"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_lilac",
+  "text": "on day 2 take the JR Lilac Line from Asahikawa Station to Sapporo Station, 1 hour 25 minutes",
+  "claim": "To Sapporo",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "Take JR Lilac Line from Asahikawa Station to Sapporo Station"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_hokkaido_village",
+  "text": "at the Historical Village of Hokkaido you can explore 52 historic structures showing the lifestyle of the former samurai, with sleigh rides in winter",
+  "claim": "Historical Village",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "52 historic structures",
+   "Sleigh rides"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_samurai",
+  "text": "at the end of the Edo shogunate many samurai retired to Hokkaido",
+  "claim": "Samurai",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "many samurai retired to Hokkaido"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_sapporo_fest",
+  "text": "the Sapporo Snow Festival is held in February every year, with the largest snow sculptures in Odori Park and food stalls",
+  "claim": "Sapporo Snow Festival",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "held in February every year",
+   "Odori Park"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_tsudome",
+  "text": "the Tsudome area has snow slides and snow rafts for kids during the festival, and Susukino has ice sculptures along the street",
+  "claim": "Tsudome and Susukino",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "snow slides or snow rafts",
+   "ice sculptures along the middle of the street"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_white",
+  "text": "Sapporo White Illumination begins in late November and lasts until late December to mid-March, with a German Christmas Market",
+  "claim": "White Illumination",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "begin in late November",
+   "Sapporo German Christmas Market"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
+ },
+ {
+  "id": "hkw_ski",
+  "text": "Hokkaido has world-class powder at famous resorts such as Niseko and Furano",
+  "claim": "Skiing",
+  "source_name": "JNTO itinerary: A Winter Trip to Hokkaido",
+  "source_url": "https://www.japan.travel/en/itineraries/hokkaidos-furry-friends-and-winter-festivals/",
+  "must_contain": [
+   "world-class powder",
+   "Niseko"
+  ],
+  "verified_on": "2026-11-06",
+  "topics": [
+   "hokkaido-winter-2-day-itinerary"
+  ]
  }
 ]
