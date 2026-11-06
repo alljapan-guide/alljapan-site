@@ -2305,24 +2305,6 @@
   "file": "central-kyushu-aso-yufuin-3-day-itinerary-1.jpg",
   "query": "Mount Aso crater Nakadake"
  },
- "central-kyushu-aso-yufuin-3-day-itinerary/3": {
-  "title": "File:Yunotsubo-Yokocho in Yufuin Hot Spring.JPG",
-  "author": "そらみみ",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG",
-  "file": "central-kyushu-aso-yufuin-3-day-itinerary-3.jpg",
-  "query": "Yufuin Yunotsubo street"
- },
- "central-kyushu-aso-yufuin-3-day-itinerary/4": {
-  "title": "File:JRK Yufuin-no-Mori Kiha71 Kiha72.jpg",
-  "author": "MaedaAkihiko",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:JRK_Yufuin-no-Mori_Kiha71_Kiha72.jpg",
-  "file": "central-kyushu-aso-yufuin-3-day-itinerary-4.jpg",
-  "query": "Yufuin no Mori train"
- },
  "hokkaido-winter-2-day-itinerary/1": {
   "title": "File:Aptenodytes patagonicus -Asahiyama Zoo (2008.9.13) 269.jpg",
   "author": "saname777",
@@ -2349,5 +2331,23 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:JRE-Gono-line_Yukiaizaki.jpg",
   "file": "shirakami-juniko-tohoku-2-day-itinerary-2.jpg",
   "query": "Gono Line Resort Shirakami train"
+ },
+ "central-kyushu-aso-yufuin-3-day-itinerary/2": {
+  "title": "File:Yunotsubo-Yokocho in Yufuin Hot Spring.JPG",
+  "author": "そらみみ",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yunotsubo-Yokocho_in_Yufuin_Hot_Spring.JPG",
+  "file": "central-kyushu-aso-yufuin-3-day-itinerary-2.jpg",
+  "query": "Yufuin Yunotsubo street"
+ },
+ "central-kyushu-aso-yufuin-3-day-itinerary/3": {
+  "title": "File:JRK Yufuin-no-Mori Kiha71 Kiha72.jpg",
+  "author": "MaedaAkihiko",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:JRK_Yufuin-no-Mori_Kiha71_Kiha72.jpg",
+  "file": "central-kyushu-aso-yufuin-3-day-itinerary-3.jpg",
+  "query": "Yufuin no Mori train"
  }
 }
