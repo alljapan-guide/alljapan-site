@@ -16395,5 +16395,1822 @@
   "topics": [
    "hokkaido-winter-2-day-itinerary"
   ]
+ },
+ {
+  "id": "ffl_len",
+  "text": "the JNTO itinerary Explore the Fuji Five Lakes has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_intro",
+  "text": "the Fuji Five Lakes lie at the northern base of Mt. Fuji, where there are hot springs, outdoor recreation and awe-inspiring views",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "at the northern base of Mt. Fuji",
+   "hot springs, outdoor recreation"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_reflect",
+  "text": "the clear waters of the five lakes reflect Mt. Fuji in vivid detail, particularly in the spring and autumn seasons",
+  "claim": "Photo opportunities",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "reflect Mt. Fuji in vivid detail",
+   "particularly in the spring and autumn seasons"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_highlights",
+  "text": "the highlights are the thatched roof cottages of Oshino Hakkai with Mt. Fuji behind them, day hikes from Lake Saiko to hidden caves and forests, and a day of rollercoasters at Fuji Q Highland",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "Oshino Hakkai",
+   "day hikes leading you to hidden caves and forests",
+   "Fuji Q Highland"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_bus",
+  "text": "express highway buses to Kawaguchiko Station leave from the Shinjuku south exit bus terminal, take approximately 1 hour 45 minutes and cost 2,000 yen",
+  "claim": "Bus from Tokyo",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "Express highway buses to Kawaguchiko Station depart from Shinjuku",
+   "2,000 yen",
+   "approximately 1 hour 45 minutes"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_train",
+  "text": "by train you take the Chuo Line Limited Express Super Azusa towards Matsumoto and change to the Fujikyuko Line at Otsuki Station, a total of 2 hours 5 minutes",
+  "claim": "Train from Tokyo",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "Super Azusa towards Matsumoto",
+   "Change to the Fujikyuko Line bound for Kawaguchiko at Otsuki Station",
+   "2 hours 5 minutes"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_morning",
+  "text": "the best views of Mt. Fuji come in the morning, because haze and clouds tend to obstruct the mountain as the day wears on",
+  "claim": "Morning views",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "The best views of Mt. Fuji can be had in the morning",
+   "haze and clouds tend to obstruct the mountain"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_north",
+  "text": "you should wake up early and head to the north side of the lake for some of the best views",
+  "claim": "Lake Kawaguchi north side",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "Wake up early and head to the north side of the lake for some of the best views"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_ropeway",
+  "text": "the Mt. Fuji Panoramic Ropeway is a 15-minute walk from Kawaguchiko Station and rises 1,000 meters to the top of Mt. Tenjo for panoramic views",
+  "claim": "Ropeway",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "The ropeway is a 15-minute walk from Kawaguchiko Station",
+   "Ride 1,000 meters to the top to enjoy panoramic views"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_tanuki",
+  "text": "along the ropeway mountainside are monuments and kid-friendly scenes of a local folktale in which a clever rabbit takes revenge on a scheming tanuki",
+  "claim": "Folktale scenes",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "kid-friendly scenes depicting a local folktale",
+   "clever rabbit takes revenge on a scheming tanuki"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_hydrangea",
+  "text": "the mountainside is particularly stunning in June and July when hydrangea bloom",
+  "claim": "Hydrangea season",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "particularly stunning in June and July when hydrangea bloom"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_oshino",
+  "text": "Oshino Hakkai is a collection of serene ponds surrounded by well-preserved dwellings from feudal Japan, with Mt. Fuji as a backdrop",
+  "claim": "Oshino Hakkai",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "a collection of serene ponds surrounded by well-preserved dwellings from feudal Japan"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_oshino_bus",
+  "text": "the bus from Kawaguchiko Station to Oshino Hakkai takes 35 minutes",
+  "claim": "Oshino Hakkai access",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "35 minutes Catch a bus from Kawaguchiko Station"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_oshino_lunch",
+  "text": "at Oshino Hakkai you can visit the open-air museum Hannoki Bayashi Shiryokan and have lunch at one of the pondside food stalls",
+  "claim": "Oshino Hakkai extras",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "open-air museum Hannoki Bayashi Shiryokan",
+   "pondside food stalls"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_yamanaka",
+  "text": "Lake Yamanaka is the largest of the Fuji Five Lakes and a good option for overnight accommodation, with hot springs on the western side of the lake",
+  "claim": "Lake Yamanaka",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "the largest of the Fuji Five Lakes",
+   "a good option for finding overnight accommodation",
+   "hot springs on the western side of the lake"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_saiko",
+  "text": "for camping, fishing or boating, JNTO points to Lake Saiko, a base for the numerous hiking trails through the mountains",
+  "claim": "Lake Saiko",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "interested in camping, fishing, or boating, head to Lake Saiko",
+   "numerous hiking trails that snake through the mountains"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_caves",
+  "text": "three caves next to Aokigahara Forest are accessible to tourists, and Lake Saiko Bat Cave is the largest",
+  "claim": "Caves",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "three caves accessible to tourists",
+   "Lake Saiko Bat Cave is the largest"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_nospecial",
+  "text": "the caves have pathways and stairs, so you can enter without special equipment or guides",
+  "claim": "Cave access",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "allowing you to enter without requiring special equipment or guides"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_iyashi",
+  "text": "Saiko Iyashi no Sato Nenba has around two dozen traditional thatched-roofed houses converted into restaurants, souvenir shops, museum exhibitions and gallery spaces",
+  "claim": "Iyashi no Sato",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "around two dozen traditional thatched-roofed houses",
+   "restaurants, souvenir shops, museum exhibitions, and gallery spaces"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_icecave",
+  "text": "from early winter to mid-spring, large pillars of ice freeze inside the Narusawa Ice Cave",
+  "claim": "Narusawa Ice Cave",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "From early winter to mid-spring, large pillars of ice freeze inside the Narusawa Ice Cave"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_windcave",
+  "text": "Fugaku Wind Cave was used centuries ago to store ice for the region",
+  "claim": "Fugaku Wind Cave",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "Fugaku Wind Cave was used to store ice for the region"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_aoki",
+  "text": "Aokigahara Forest grows on top of a lava plateau and is easy to get lost in, so visitors should stick to the trails",
+  "claim": "Aokigahara Forest",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "grows on top of a lava plateau",
+   "easy to get lost in, so be sure to stick to the trails"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_shoji",
+  "text": "Lake Shoji is the smallest of the lakes and has arguably the most gorgeous views of Mt. Fuji, from the northeastern bank",
+  "claim": "Lake Shoji",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "The smallest of the lakes, Lake Shoji",
+   "arguably the most gorgeous views of Mt. Fuji"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_shoji_stay",
+  "text": "Lake Shoji is largely natural with a few hotels on the north side, and offers camping, hiking, cottage rental or glamping in a tipi",
+  "claim": "Lake Shoji stays",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "largely natural, save for a few hotels on the north side",
+   "renting a cottage"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_motosu",
+  "text": "Lake Motosu is the westernmost of the lakes and is known for being featured on the 1,000-yen bill",
+  "claim": "Lake Motosu",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "westernmost Lake Motosu is known for being featured on",
+   "1,000-yen bill"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_motosu_act",
+  "text": "the crystal-clear water of Lake Motosu is perfect for outdoor recreation such as kayaking and swimming",
+  "claim": "Lake Motosu activities",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "perfect for outdoor recreation such as kayaking and swimming"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_spring",
+  "text": "from April through May, a colorful expanse of blooms adds a touch of pink and purple to views of Mt. Fuji at Lake Motosu",
+  "claim": "Spring at Lake Motosu",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "From April through May",
+   "add a touch of pink and purple to views of Mt. Fuji"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_fujiq",
+  "text": "Fuji-Q Highland has some of the fastest and steepest roller coasters in the world, anime-themed attractions and kid-friendly areas",
+  "claim": "Fuji-Q Highland",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "some of the fastest and steepest roller coasters in the world",
+   "anime-themed attractions"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_fujiq_busy",
+  "text": "Fuji-Q Highland tends to get busy on weekends and during holidays, and priority passes give speedier access to the rides",
+  "claim": "Fuji-Q crowds",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "tends to get busy on weekends and during holidays",
+   "priority passes for speedier access to the rides"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_omni",
+  "text": "from Kawaguchiko Station, the easiest way to Lake Saiko is the Omni Bus Green Line",
+  "claim": "Bus to Lake Saiko",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "the easiest way to get to Lake Saiko is via the Omni Bus Green Line"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ffl_buses",
+  "text": "regular buses and tourist buses connect Kawaguchiko Station to the Fuji Five Lakes",
+  "claim": "Local buses",
+  "source_name": "JNTO itinerary: Explore the Fuji Five Lakes",
+  "source_url": "https://www.japan.travel/en/itineraries/fuji-five-lakes-itinerary/",
+  "must_contain": [
+   "regular buses and tourist buses connecting Kawaguchiko Station to the Fuji Five Lakes"
+  ],
+  "topics": [
+   "fuji-five-lakes-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_len",
+  "text": "the JNTO itinerary Snow Monkeys and Hot Springs in Nagano has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_intro",
+  "text": "Nagano is the mountainous heart of the main island of Japan, easily accessible from Tokyo by bullet train",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "mountainous heart of Japan",
+   "easily accessible from Tokyo by bullet train"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_tokyo",
+  "text": "from Tokyo it takes 1 hour 45 minutes on the Hokuriku Shinkansen to Nagano Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "From Tokyo: 1 hour 45 minutes",
+   "Take the Hokuriku Shinkansen to Nagano Station"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_city",
+  "text": "Nagano is a major city and key transport hub in the Hokuriku region and the main access point for the snow monkeys",
+  "claim": "Nagano City",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "major city and key transport hub",
+   "main access point for visiting the snow monkeys"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_zenkoji",
+  "text": "the city has numerous attractions, including Zenkoji Temple",
+  "claim": "Nagano City sights",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "numerous attractions which include Zenkoji Temple"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_route",
+  "text": "from Nagano Station, a Nagano Dentetsu train goes to Yudanaka Station, then a bus bound for Shiga Kogen goes to the Snow Monkey Park stop, and the park is 25 minutes away on foot",
+  "claim": "Route to the monkey park",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "From Nagano Station, take a Nagano Dentetsu train to Yudanaka Station",
+   "bound for Shiga Kogen and get off at the Snow Monkey Park stop",
+   "The park is 25 minutes away on foot"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_route_time",
+  "text": "the journey from Nagano Station to the Snow Monkey Park stop is listed as 1 hour 10 minutes",
+  "claim": "Route time",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "1 hour 10 minutes From Nagano Station"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_monkeys",
+  "text": "Jigokudani Snow Monkey Park is covered with snow almost one-third of the year and is home to the hot-spring-bathing snow monkeys",
+  "claim": "Snow Monkey Park",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "covered with snow almost one-third of the year",
+   "hot-spring-bathing snow monkeys"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_winter",
+  "text": "you can watch the monkeys all year round, especially in winter, when they bathe in the hot springs and you can take pictures",
+  "claim": "Monkey seasons",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "enjoy watching the monkeys all year round",
+   "bathing in the hot springs"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_shibu",
+  "text": "Shibu Onsen is a picturesque hot spring resort on the banks of the Yokoyu river, about 15 minutes by car from the monkey park",
+  "claim": "Shibu Onsen",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "About 15 minutes by car from Jigokudani Monkey Park",
+   "picturesque Japanese hot spring resort on the banks of the Yokoyu river"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_shibu_baths",
+  "text": "the baths at Shibu Onsen are supplied by multiple sources, each with distinctive properties and mineral contents",
+  "claim": "Shibu Onsen baths",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "supplied by multiple sources, each with distinctive properties and mineral contents"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_kanaguya",
+  "text": "Kanaguya is one of the most famous ryokan at Shibu Onsen, with a history of over 200 years",
+  "claim": "Kanaguya",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "Kanaguya being one of the most famous",
+   "history of over 200 years"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_overnight",
+  "text": "an overnight stay at Shibu Onsen is recommended, but there are footbaths and day-use hot springs if your schedule is tight",
+  "claim": "Shibu Onsen stay",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "An overnight stay is recommended",
+   "footbaths and day-use hot springs"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_taxi",
+  "text": "a taxi is recommended between Shibu Onsen and Takayama Hot Springs as public transportation is limited",
+  "claim": "Taxi between hot spring areas",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "A taxi is recommended between Shibu Onsen and Takayama Hot Springs as public transportation is limited"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_takayama",
+  "text": "Takayama Onsen Village is a collection of eight small resorts, and Yamada Onsen is most centrally located with a pleasant public bath called Oyu",
+  "claim": "Takayama Onsen Village",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "a collection of eight small resorts",
+   "Yamada Onsen is most centrally located",
+   "pleasant public bath, Oyu"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_mixed",
+  "text": "Takinoyu in nearby Matsukawa Keikoku Onsen is an excellent choice for mixed-gender bathing",
+  "claim": "Mixed bathing",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "Takinoyu in nearby Matsukawa Keikoku Onsen",
+   "mixed-gender bathing"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_falls",
+  "text": "you can walk to the base of Kaminari Falls in most seasons, except winter when the trail is closed because of snow",
+  "claim": "Kaminari Falls",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "except winter when the trail is closed because of snow"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_ski",
+  "text": "northern Nagano receives a lot of snow in winter and has numerous ski resorts",
+  "claim": "Skiing",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "receives a lot of snow in winter",
+   "numerous ski resorts"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_yamaboku",
+  "text": "Yamaboku Wild Snow Park has some challenging runs yet remains ideal for families with its kids park",
+  "claim": "Yamaboku Wild Snow Park",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "some challenging runs yet remains ideal for families"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_shiga",
+  "text": "Shiga Kogen has 18 interconnected resorts",
+  "claim": "Shiga Kogen",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "18 interconnected resorts of Shiga Kogen"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_obuse",
+  "text": "the small town of Obuse is on the same train line as Nagano, Suzaka and Yudanaka stations and has the Hokusaikan, a museum dedicated to the ukiyo-e artist Hokusai, who spent some of his final years in the town",
+  "claim": "Obuse",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "small town of Obuse",
+   "a museum dedicated to the internationally-renowned ukiyo-e artist Hokusai",
+   "spent some of his final years in the town"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngn_obuse_town",
+  "text": "the Obuse town centre has craft shops, local eateries and a couple of sake breweries",
+  "claim": "Obuse town",
+  "source_name": "JNTO itinerary: Snow Monkeys and Hot Springs in Nagano",
+  "source_url": "https://www.japan.travel/en/itineraries/snow-monkeys-and-hot-springs-in-nagano/",
+  "must_contain": [
+   "craft shops, local eateries and a couple of sake breweries"
+  ],
+  "topics": [
+   "nagano-snow-monkeys-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_len",
+  "text": "the JNTO itinerary Discover Nagoya has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_intro",
+  "text": "Nagoya is the fourth most populated city in Japan, a castle town and the heart of the automobile industry",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "fourth most populated city, a castle town and the heart of the country"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_hub",
+  "text": "Nagoya is a major urban center between Tokyo and Kyoto and a gateway to Kanazawa, Takayama and other destinations in the Hokuriku region",
+  "claim": "Location",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "major urban center between Tokyo and Kyoto",
+   "gateway for accessing Kanazawa, Takayama and other destinations in the Hokuriku region"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_highlights",
+  "text": "the highlights are historic Nagoya Castle, tasting the soybean paste hatcho miso and visiting Meijo Park in May to see wisteria in bloom",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "Wandering through historic Nagoya Castle",
+   "soybean paste, a local speciality",
+   "Visiting Meijo Park in May to admire the wisteria in bloom"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_tokyo",
+  "text": "from Tokyo it takes 1 hour 40 minutes on the Tokaido-Sanyo Shinkansen from Tokyo or Shinagawa stations",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "From Tokyo: 1 hour 40 minutes",
+   "Take the Tokaido-Sanyo Shinkansen from Tokyo or Shinagawa stations"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_osaka",
+  "text": "from Osaka it takes 50 minutes on the Tokaido-Sanyo Shinkansen from Shin-Osaka Station",
+  "claim": "From Osaka",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "From Osaka: 50 minutes",
+   "Take the Tokaido-Sanyo Shinkansen from Shin-Osaka Station"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_castle",
+  "text": "Nagoya Castle is one of the largest castles in the country, and its construction was the catalyst for the city expansion in the early Edo period",
+  "claim": "Nagoya Castle",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "One of the largest castles in the country",
+   "catalyst for the city",
+   "early Edo period"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_keep",
+  "text": "inside the castle keep is a museum with exhibits covering the history of the castle",
+  "claim": "Castle museum",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "Inside the castle keep is a museum"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_park",
+  "text": "Meijo Park surrounds the castle, and early May is a particularly good time to visit when the wisterias are in full bloom",
+  "claim": "Meijo Park",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "Surrounding the castle is Meijo Park",
+   "Early May is a particularly good time to visit when the wisterias are in full bloom"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_sakura",
+  "text": "in spring the area around Nagoya Castle is a popular cherry blossom spot",
+  "claim": "Castle cherry blossoms",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "In spring the surrounding area is a popular cherry blossom spot"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_subway",
+  "text": "from City Hall Station next to Nagoya Castle, the Meijo Line subway takes 3 minutes, and the Tokugawa Art Museum is a 10-minute walk from the station",
+  "claim": "To the Tokugawa Art Museum",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "Take the Subway Meijo Line from City Hall Station next to Nagoya Castle for 3 minutes",
+   "The Tokugawa Art Museum is a 10-minute walk from the station"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_tokugawa",
+  "text": "the Tokugawa Art Museum shows headpieces, armor, tea ceremony utensils and tools used by the Tokugawas, a powerful political clan",
+  "claim": "Tokugawa Art Museum",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "headpieces, armor, tea ceremony utensils and tools used by the Tokugawas"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_white",
+  "text": "on the way to the museum you pass Nagoya white-walled area, where samurai warriors once lived",
+  "claim": "White-walled area",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "white-walled area",
+   "samurai warriors once lived"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_to_toyota",
+  "text": "from the museum, JNTO lists 42 minutes: a 15-minute walk to Ozone Station, 9 minutes on the JR Chuo Line with a change at Kanayama Station, then 7 minutes on the Meitetsu Line to Sako Station",
+  "claim": "To the Toyota museum",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "42 minutes Walk 15 minutes from the museum to Ozone Station",
+   "Take the JR Chuo Line for 9 minutes and change at Kanayama Station",
+   "Take the Meitetsu Line 7 minutes to Sako Station"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_toyota",
+  "text": "the Toyota Commemorative Museum of Industry and Technology is built inside an old red-brick textile factory and covers Toyota influence since its early days as a textile company",
+  "claim": "Toyota museum",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "built inside an old red-brick textile factory",
+   "early days as a textile company"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_toyota_cars",
+  "text": "the separate Toyota Museum shows classic cars from Japan and abroad and the history of the automobile from the end of the 19th century to the present day",
+  "claim": "Toyota Museum",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "classic cars from Japan and abroad",
+   "end of the 19th century to the present day"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_noritake",
+  "text": "Noritake Garden is the grounds of a former ceramics factory with listed red-brick warehouses, and a short 10-minute walk southeast from the museum",
+  "claim": "Noritake Garden",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "grounds of a former ceramics factory",
+   "a short 10-minute walk southeast from the museum"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_noritake_work",
+  "text": "at Noritake Garden a small workshop lets you watch master craftsmen at work or decorate a pre-fired piece",
+  "claim": "Noritake workshop",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "watch master craftsmen at work",
+   "decorating a pre-fired piece"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_midland",
+  "text": "Midland Square is directly opposite Nagoya Station and has the Sky Promenade, the best rooftop observatory in the city, JR Nagoya Takashimaya and a variety of restaurants",
+  "claim": "Midland Square",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "Sky Promenade",
+   "best rooftop observatory",
+   "directly opposite the station",
+   "a variety of restaurants"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_food",
+  "text": "on the dining floors JNTO suggests miso-katsu pork cutlets covered in red bean hatcho miso paste, kishimen flat noodles and ogura toast",
+  "claim": "Nagoya specialities",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "miso-katsu pork cutlets covered in red bean hatcho miso paste",
+   "kishimen flat noodles",
+   "ogura toast"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "ngy_takayama",
+  "text": "Hida Takayama is an easy one-day trip from Nagoya, or you can stay overnight and visit Shirakawa-go or Kanazawa",
+  "claim": "Side trip",
+  "source_name": "JNTO itinerary: Discover Nagoya",
+  "source_url": "https://www.japan.travel/en/itineraries/a-taste-of-nagoya/",
+  "must_contain": [
+   "easy one-day trip to the area from Nagoya",
+   "Shirakawa-go Gassho-zukuri Village"
+  ],
+  "topics": [
+   "nagoya-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_len",
+  "text": "the JNTO itinerary Tropical Adventure in Okinawa has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_intro",
+  "text": "the itinerary combines the sea life of Okinawa at Churaumi Aquarium with the subtropical forests of Yanbaru National Park",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "Churaumi Aquarium",
+   "subtropical forests of Yanbaru National Park"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_highlights",
+  "text": "the highlights are coming face to face with a whale shark, canoeing through a mangrove and encountering native Okinawan animals",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "Come face to face with a whale shark",
+   "Go canoeing through a mangrove",
+   "Encounter native Okinawan animals"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_access",
+  "text": "JNTO gives 4 hours 45 minutes from Tokyo, and from Naha Airport the Okinawa Airport Shuttle bus (rapid) to the Kinen Koen Mae (Okinawa Churaumi Aquarium) bus stop takes 2 hours",
+  "claim": "Getting there",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "From Tokyo: 4 hours 45 minutes",
+   "Take the Okinawa Airport Shuttle bus (rapid) from Naha Airport to Kinen Koen Mae (Okinawa Churaumi Aquarium) bus stop (2 hours)"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_aquarium",
+  "text": "Okinawa Churaumi Aquarium in Ocean Expo Park is home to around 10,000 fish of about 680 species",
+  "claim": "Churaumi Aquarium",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "around 10,000 fish, of about 680 species"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_tank",
+  "text": "the massive main tank holds whale sharks, manta rays and countless other fish",
+  "claim": "Main tank",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "whale sharks, manta rays, and countless other fish"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_hours",
+  "text": "the aquarium is open from 8:30 a.m. until 6.30 p.m., and JNTO says to set aside several hours",
+  "claim": "Aquarium hours",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "8:30 a.m. until 6.30 p.m.",
+   "set aside several hours"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_tropical",
+  "text": "the Tropical Dream Center shows local plants, fruits and flowers native to Okinawa, with greenhouses featuring over 2,000 orchids",
+  "claim": "Tropical Dream Center",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "local plants, fruits, and flowers native to Okinawa",
+   "over 2,000 orchids"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_tower",
+  "text": "a little tower in the grounds of the Tropical Dream Center offers views of the ocean",
+  "claim": "Tower",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "charming little tower offering views of the ocean"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_bise",
+  "text": "Bise Fukugi Tree Lane is just north of the aquarium, where Fukugi trees were planted to protect the homes from storms and line the road for about one kilometer",
+  "claim": "Bise Fukugi Tree Lane",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "just north of Churaumi Aquarium",
+   "planted to protect the homes from storms",
+   "about one kilometer"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_night",
+  "text": "local guides offer short night tours in Yanbaru, most between 7 p.m. and 9 p.m., and you can ask your hotel concierge to arrange one",
+  "claim": "Night hikes",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "Local guides offer a variety of short night tours",
+   "Most hikes run between 7 p.m. and 9 p.m.",
+   "hotel concierge"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_hiji",
+  "text": "Hiji Otaki Falls is at the end of a 1.5-kilometer hiking trail whose steep parts have well-maintained stairs",
+  "claim": "Hiji Otaki Falls",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "1.5-kilometer hiking trail",
+   "steep parts have well-maintained stairs"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_hiji_hours",
+  "text": "the Hiji trail is open from 9 a.m. to 6 p.m., admission is 500 yen and last entry is at 4 p.m.",
+  "claim": "Hiji trail hours",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "open from 9 a.m. to 6 p.m. and admission is 500 yen",
+   "Last entry is at 4 p.m."
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_hiji_bus",
+  "text": "the Naha-Airport Limousine Bus from Nago Bus Terminal to Hiji Waterfall takes 1 hour 40 minutes, followed by a 20-minute walk to the waterfall",
+  "claim": "Bus to Hiji",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "1 hour 40 minutes Take the Naha-Airport Limousine Bus from Nago Bus Terminal to Hiji Waterfall",
+   "walk 20 minutes to the waterfall"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_daiseki",
+  "text": "by rental car or taxi, Daiseki Rinzan Park is 45 minutes from Hiji Falls",
+  "claim": "Daisekirinzan access",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "Daiseki Rinzan Park is 45 minutes from Hiji Falls"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_daiseki_hours",
+  "text": "Daisekirinzan is open from 9:30 a.m. to 5:30 p.m. with last entrance at 4:30 p.m., and admission is 1,200 yen for adults",
+  "claim": "Daisekirinzan hours",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "9:30 a.m. to 5:30 p.m.",
+   "last entrance at 4:30 p.m.",
+   "1,200 yen for adults"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_endemic",
+  "text": "the diverse natural environment of the area holds a wide variety of endemic and rare plants and animals",
+  "claim": "Yanbaru nature",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "wide variety of endemic and rare plants and animals"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_mangrove",
+  "text": "Higashimura Fureai Hirugi Park has mangroves distinct to subtropical zones, which you can view from a promenade or from a canoe",
+  "claim": "Mangroves",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "mangroves which are distinct to subtropical zones",
+   "view them from a canoe"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_mangrove_bus",
+  "text": "the Ryukyu Bus from Nago Bus Terminal to Gesashi takes 1 hour",
+  "claim": "Bus to the mangroves",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "1 hour Take the Ryukyu Bus from Nago Bus Terminal to Gesashi"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_neo",
+  "text": "NEO Park Okinawa is a zoo of tropical and subtropical animals, a 30-minute drive from the mangrove park",
+  "claim": "NEO Park",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "a 30-minute drive from Higashimura Fureai Hirugi Park",
+   "a zoo featuring the animals of tropic and subtropic zones"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "okn_pine",
+  "text": "Nago Pineapple Park is a 10-minute drive from NEO Park Okinawa, and you can sample the smaller but very sweet Okinawan pineapples",
+  "claim": "Pineapple Park",
+  "source_name": "JNTO itinerary: Tropical Adventure in Okinawa",
+  "source_url": "https://www.japan.travel/en/itineraries/marine-life-and-tropical-forests-in-okinawa/",
+  "must_contain": [
+   "a 10-minute drive from NEO Park Okinawa",
+   "smaller but very sweet type of pineapple",
+   "sample some as well"
+  ],
+  "topics": [
+   "okinawa-churaumi-yanbaru-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_len",
+  "text": "the JNTO itinerary The Hot Springs of Oita has a recommended length of 4 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Recommended length: 4 days"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_intro",
+  "text": "Oita is aptly named Onsen Prefecture, because gallons of steaming-hot, mineral-rich water emerge from its springs every minute",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Onsen Prefecture",
+   "every minute, gallons and gallons of steaming-hot, mineral-rich water"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_flights",
+  "text": "27 flights fly in from the major cities of Honshu each day",
+  "claim": "Flights",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "27 flights fly in from the major cities of Honshu each day"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_tokyo",
+  "text": "JNTO gives 2 hours 40 minutes from Tokyo: a flight from Haneda to Oita Airport takes 1 hour 35 minutes, then the Oita Kotsu Kamenoi Express Bus takes 55 minutes to Yufuin Station Bus Center",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "From Tokyo: 2 hours 40 minutes",
+   "Flights connect Tokyo Haneda Airport to Oita Airport (1 hour 35 minutes)",
+   "for 55 minutes to Yufuin Station Bus Center"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_highlights",
+  "text": "the highlights are exploring Yufuin by horse-drawn carriage, rickshaw or vintage motorcar and trying local seafood steamed over piping hot springs",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "horse-drawn carriage, rickshaw or vintage motorcar",
+   "steamed over piping hot springs"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_yufuin",
+  "text": "Yufuin has benefited from careful urban planning to retain its character without becoming overly touristic",
+  "claim": "Yufuin",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "careful urban planning to retain its character without becoming overly touristic"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_art",
+  "text": "Yufuin has the galleries and workshops of painters, potters and craftspeople",
+  "claim": "Yufuin art",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "galleries and workshops of painters, potters, and craftspeople"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_yufu",
+  "text": "Mt. Yufu is described as a satisfying climb at 1,500 meters in one place and a hike to the top at 1,583 meters in another",
+  "claim": "Mt. Yufu",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "The 1,500-meter-high Mt. Yufu is a satisfying climb",
+   "Hike to the top at 1,583 meters"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_baths",
+  "text": "the outdoor baths at Sansuikan and Musouen are highly recommended, and both inns let non-staying guests use their facilities for a fee",
+  "claim": "Yufuin baths",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "outdoor baths at Sansuikan and Musouen are highly recommended",
+   "allow non-staying guests to use their facilities for a fee"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_swim",
+  "text": "Kua-ju Yufuin is swimsuit-only",
+  "claim": "Swimsuit bath",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Kua-ju Yufuin is swimsuit-only"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_foot",
+  "text": "Yufuin has several foot spas that anyone can use freely",
+  "claim": "Foot spas",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "several foot spas for anyone to use freely"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_kan",
+  "text": "Kan no Jigoku Onsen is an Edo-period bathhouse where the spring water is kept at only 13 to 14 degrees, with saunas to warm up in afterward",
+  "claim": "Kan no Jigoku Onsen",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Edo-period bathhouse where the spring water is kept at only 13 to 14 degrees",
+   "saunas available to warm up in afterward"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_kinrin",
+  "text": "Lake Kinrin is unusual because its waters bubble up from both hot and cold springs, and early morning after rain brings a misty spectacle",
+  "claim": "Lake Kinrin",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "bubble up from both from hot and cold springs",
+   "early morning after the rains while it is still cool"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_kaido",
+  "text": "the Yunotsubo Kaido is a scenic route connecting Yufuin town to Lake Kinrin, with craft shops and stalls selling local bites",
+  "claim": "Yunotsubo Kaido",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Yunotsubo Kaido is a scenic route that connects Yufuin town to Lake Kinrin",
+   "quirky craft shops and stalls"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_beppu",
+  "text": "Beppu has the largest number of hot springs in Japan, and you first notice dozens of rising plumes of steam",
+  "claim": "Beppu",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "The largest number of hot springs in Japan",
+   "dozens of rising plumes of steam"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_beppu_bus",
+  "text": "the Kamenoi Bus from Yufuin Station to Beppu is listed as 1 hour in the route and one and a half hours in the text",
+  "claim": "Bus to Beppu",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "1 hour Take the Kamenoi Bus from Yufuin Station to Beppu",
+   "one and a half hours from Yufuin by bus"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_mushi",
+  "text": "jigokumushi cuisine is seafood and vegetables cooked over hot springs in bamboo steamers, and line-caught mackerel is known as seki-aji and seki-saba",
+  "claim": "Jigokumushi",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "seafood and vegetables that are cooked over hot springs in bamboo steamers",
+   "seki-aji and seki-saba"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_hyotan",
+  "text": "Hyotan Onsen has many kinds of baths and a famous sand bath where yukata-clad visitors are buried up to the neck in warm sand, and JNTO suggests a taxi from Beppu Station",
+  "claim": "Hyotan Onsen",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "famous sand bath",
+   "buried up to the neck in warm sand",
+   "Take a taxi from Beppu Station to Hyotan Onsen"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_masters",
+  "text": "photos on the walls honor Onsen Masters who have visited all 88 of the springs of Beppu",
+  "claim": "Onsen Masters",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "visited all 88 of Beppu"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_hells",
+  "text": "the Hells of Beppu are hot springs spewing water of up to 150 degrees Celsius, with minerals turning them hues from cobalt blue to blood red, and you can stroll around eight of them",
+  "claim": "Hells of Beppu",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "up to 150 degrees Celsius",
+   "cobalt blue to blood red",
+   "eight such"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_kunisaki",
+  "text": "for the Kunisaki Peninsula a sightseeing bus starts from Beppu Bus Terminal, and JNTO recommends booking in advance on the website",
+  "claim": "Kunisaki bus",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "convenient sightseeing bus available",
+   "recommended to book the bus in advance on the website",
+   "Start from Beppu Bus Terminal"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_kunisaki_hist",
+  "text": "the mountainous terrain of the Kunisaki Peninsula drew religious ascetics looking to meditate and train, and holds key sites in the early history of Buddhism in Japan",
+  "claim": "Kunisaki history",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "drew religious ascetics looking to meditate and train",
+   "early history of Buddhism in Japan"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_usa",
+  "text": "Usa-jingu is the most important of all Hachiman shrines, construction began in 741, and you can spend about an hour wandering the complex",
+  "claim": "Usa-jingu",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "most important of all shrines dedicated to this deity",
+   "Construction of Usa-jingu began in 741",
+   "about an hour to wander the complex"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_fukiji",
+  "text": "Fukiji Temple was built over 800 years ago, is the oldest in Kyushu and a National Treasure, and holds an Amida Buddha made from a single nutmeg tree",
+  "claim": "Fukiji Temple",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Built over 800 years ago",
+   "oldest in Kyushu, and a National Treasure",
+   "constructed from a single nutmeg tree"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_makiodo",
+  "text": "Makiodo Temple has enormous cliffside carvings of Fudo Myoo and Dainichi Nyorai, the largest of their kind in Japan",
+  "claim": "Makiodo Temple",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Fudo Myoo",
+   "Dainichi Nyorai",
+   "largest of their kind in Japan"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_futagoji",
+  "text": "Futagoji Temple is on the slopes of Futagoyama, a dormant volcano and the highest point of the Kunisaki Peninsula, where couples pray to Kannon for a successful pregnancy",
+  "claim": "Futagoji Temple",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "Futagoyama, a dormant volcano and the highest point of the Kunisaki Peninsula",
+   "successful pregnancy"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
+ },
+ {
+  "id": "oit_dazaifu",
+  "text": "Dazaifu Tenmangu Shrine, on the outskirts of Fukuoka City, houses the oldest torii gate in Kyushu, is dedicated to the god of learning, and is known for plum blossoms in February and purple irises in June",
+  "claim": "Dazaifu Tenmangu Shrine",
+  "source_name": "JNTO itinerary: The Hot Springs of Oita",
+  "source_url": "https://www.japan.travel/en/itineraries/the-hot-springs-of-oita/",
+  "must_contain": [
+   "oldest torii gate in Kyushu",
+   "plum blossoms in February and purple irises in June",
+   "dedicated to the god of learning"
+  ],
+  "topics": [
+   "oita-hot-springs-beppu-yufuin-4-day-itinerary"
+  ],
+  "verified_on": "2026-11-07"
  }
 ]
