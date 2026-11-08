@@ -6,13 +6,13 @@ date: 2026-11-08
 updated: 2026-11-08
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
-image_queries: Lake Kawaguchi Mount Fuji | Oshino Hakkai | Narusawa Ice Cave | Lake Motosu Mount Fuji
+image_queries: Lake Motosu Mount Fuji | Oshino Hakkai | Narusawa Ice Cave
 ---
 Mt. Fuji is on almost every first-timer's list, and the Fuji Five Lakes are the easiest place to see it up close from Tokyo. The Japan National Tourism Organization (JNTO) has a three-day plan that visits all five lakes. This guide follows the JNTO itinerary "Explore the Fuji Five Lakes" and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO sets the scene: {{fact:ffl_intro}}. It also sets the length: {{fact:ffl_len}}.
 
-{{photo:1|Lake Kawaguchi with Mt. Fuji in the background}}
+{{photo:1|Mt. Fuji seen across Lake Motosu}}
 
 ## The route at a glance
 
@@ -68,7 +68,6 @@ To end the day, JNTO moves to the smallest lake. On the views, {{fact:ffl_shoji}
 
 JNTO's last lake is the westernmost. It says that {{fact:ffl_motosu}}. On activities, {{fact:ffl_motosu_act}}.
 
-{{photo:4|Lake Motosu with Mt. Fuji beyond the water}}
 
 For seasonal colour, JNTO adds that {{fact:ffl_spring}}.
 

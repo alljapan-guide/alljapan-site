@@ -6,13 +6,13 @@ date: 2026-11-08
 updated: 2026-11-08
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
-image_queries: Jigokudani snow monkey hot spring | Shibu Onsen street | Zenkoji Nagano temple | Obuse Hokusai museum
+image_queries: Jigokudani snow monkey hot spring | Shibu Onsen street
 ---
 Wild monkeys bathing in a hot spring is one of the images people associate with Japan, and it is closer to Tokyo than many visitors expect. The Japan National Tourism Organization (JNTO) has a two-day plan that links the monkeys with hot spring towns in northern Nagano. This guide follows the JNTO itinerary "Snow Monkeys and Hot Springs in Nagano" and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO describes the region: {{fact:ngn_intro}}. It sets the length: {{fact:ngn_len}}.
 
-{{photo:1|Japanese macaques at Jigokudani Snow Monkey Park}}
+{{photo:1|A snow monkey resting in a hot spring pool at Jigokudani}}
 
 ## The route at a glance
 
@@ -34,7 +34,7 @@ Our view: this is an easy day-and-a-half trip from the capital. If you travel wi
 
 JNTO describes the first stop: {{fact:ngn_city}}. On the sights, {{fact:ngn_zenkoji}}.
 
-{{photo:2|A street in the hot spring town of Shibu Onsen}}
+{{photo:2|A street in the hot spring town of Shibu Onsen at night}}
 
 From the city, JNTO gives the route to the monkeys: {{fact:ngn_route}}. And on timing, {{fact:ngn_route_time}}.
 
@@ -70,7 +70,6 @@ Our view: skiing is a different trip from the monkey and onsen route. If you wan
 
 If you have spare time, JNTO suggests a stop on the same line. It says that {{fact:ngn_obuse}}. And in the town, {{fact:ngn_obuse_town}}.
 
-{{photo:3|Zenkoji Temple in Nagano City}}
 
 Our view: Obuse suits a slow morning before you return to Nagano Station.
 
