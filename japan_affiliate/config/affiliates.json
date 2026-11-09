@@ -120,6 +120,30 @@
       "category": "tours-tickets",
       "link": "https://www.trip.com/things-to-do/list?searchkey=228&searchtype=1&Allianceid=11163258&SID=334618698&trip_sub1=alljapan-tokyo-asobi&trip_sub3=D20699919",
       "network": "Trip.com Affiliate"
+    },
+    "trip_kix_car": {
+      "name": "Trip.com (car rental at Kansai Airport)",
+      "category": "transport",
+      "link": "https://www.trip.com/carhire/online/list/?serverRoute=1&pcode=KIX&Allianceid=11163258&SID=334618698&trip_sub1=-rental-kix&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_osaka_hotels_2": {
+      "name": "Trip.com (Osaka hotels, alt link)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=219&display=%E5%A4%A7%E9%98%AA&optionId=219&optionType=City&optionName=%E5%A4%A7%E9%98%AA&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-osaka&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_nara_hotels": {
+      "name": "Trip.com (Nara hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=1175&display=%E5%A5%88%E8%89%AF%E5%B8%82&optionId=1175&optionType=City&optionName=%E5%A5%88%E8%89%AF%E5%B8%82&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-nara&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_airport_transfer": {
+      "name": "Trip.com (airport transfers)",
+      "category": "transport",
+      "link": "https://www.trip.com/airport-transfers/index/?Allianceid=11163258&SID=334618698&trip_sub1=-sougei-airport&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
     }
   }
 }
