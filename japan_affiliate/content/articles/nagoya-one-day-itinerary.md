@@ -6,13 +6,12 @@ date: 2026-11-08
 updated: 2026-11-08
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
-image_queries: Nagoya Castle keep | Tokugawa Art Museum Nagoya | Toyota Commemorative Museum of Industry and Technology | Midland Square Nagoya skyscraper
+image_queries: Tokugawa Art Museum Nagoya | Toyota Commemorative Museum of Industry and Technology | Midland Square Nagoya skyscraper
 ---
 Nagoya sits between Tokyo and Kyoto, so most bullet-train travellers pass through without getting off. The Japan National Tourism Organization (JNTO) has a one-day plan that shows what you would be skipping. This guide follows the JNTO itinerary "Discover Nagoya" and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO frames the city: {{fact:ngy_intro}}. It adds that {{fact:ngy_hub}}. And on length, {{fact:ngy_len}}.
 
-{{photo:1|Nagoya Castle and its main keep}}
 
 ## The route at a glance
 
@@ -44,7 +43,7 @@ On the grounds, JNTO adds that {{fact:ngy_park}}. And for spring, {{fact:ngy_sak
 
 For the second stop, JNTO says that {{fact:ngy_subway}}. On the exhibits, {{fact:ngy_tokugawa}}. On the walk, {{fact:ngy_white}}.
 
-{{photo:2|The grounds of the Tokugawa Art Museum in Nagoya}}
+{{photo:1|The grounds of the Tokugawa Art Museum in Nagoya}}
 
 Our view: if you have time for only one museum, this is the better choice for a first visit to Japan, because the samurai displays explain the history you see at the castle.
 
@@ -54,7 +53,7 @@ JNTO's third stop is industrial history. It gives the route: {{fact:ngy_to_toyot
 
 At the museum, {{fact:ngy_toyota}}. And if you want more, {{fact:ngy_toyota_cars}}.
 
-{{photo:3|The red-brick Toyota Commemorative Museum of Industry and Technology}}
+{{photo:2|The red-brick Toyota Commemorative Museum of Industry and Technology}}
 
 Next is the garden. JNTO says that {{fact:ngy_noritake}}. And on what to do, {{fact:ngy_noritake_work}}.
 
@@ -66,7 +65,7 @@ JNTO ends the day by the station. It says that {{fact:ngy_midland}}.
 
 For dinner, {{fact:ngy_food}}.
 
-{{photo:4|Midland Square towers beside Nagoya Station}}
+{{photo:3|High-rise towers in the Nagoya Station area, including Midland Square}}
 
 Our view: arrive at the observatory before sunset if you want to see the city lit up, and eat afterwards on the dining floors. Our [Japan etiquette guide](japan-etiquette-for-first-timers.html) covers the basic manners for a restaurant meal.
 
