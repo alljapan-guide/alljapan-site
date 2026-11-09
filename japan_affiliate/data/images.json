@@ -2529,5 +2529,23 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:20181111_Hiroshima_Castle_statue.jpg",
   "file": "hiroshima-autumn-2-day-itinerary-3.jpg",
   "query": "Hiroshima Castle"
+ },
+ "kumano-kodo-pilgrimage-itinerary/1": {
+  "title": "File:Tanabe Kumano Hongu-Taisha Honden Hongu 5.jpg",
+  "author": "Zairon",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tanabe_Kumano_Hongu-Taisha_Honden_Hongu_5.jpg",
+  "file": "kumano-kodo-pilgrimage-itinerary-1.jpg",
+  "query": "Kumano Hongu Taisha"
+ },
+ "kumano-kodo-pilgrimage-itinerary/2": {
+  "title": "File:Torii at Oyunohara 02.jpg",
+  "author": "Douglas Perkins",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Torii_at_Oyunohara_02.jpg",
+  "file": "kumano-kodo-pilgrimage-itinerary-2.jpg",
+  "query": "Oyunohara torii"
  }
 }
