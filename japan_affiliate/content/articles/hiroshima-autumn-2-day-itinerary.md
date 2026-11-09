@@ -77,7 +77,7 @@ JNTO ends the day with a famous dish. It says that {{fact:hra_okono}}.
 
 Our view: if you only have one day, choose Miyajima in the morning and the Peace Memorial Park in the late afternoon, and skip the garden and castle. If you want a relaxed autumn trip, add a night on the island so you can see the shrine after the day-trippers leave. If you travel in the peak foliage weeks, book accommodation first, then plan sights around it.
 
-Our [Hiroshima things to do guide](hiroshima-things-to-do-first-time.html) lists more sights. Our [Japan weather guide](japan-weather-by-season.html) explains the seasons.
+For a ride before or after, our [Shimanami Kaido guide](shimanami-kaido-cycling-itinerary.html) covers a cycling route from Onomichi, and our [Hiroshima things to do guide](hiroshima-things-to-do-first-time.html) lists more sights. Our [Japan weather guide](japan-weather-by-season.html) explains the seasons.
 
 ## Who this trip suits
 
