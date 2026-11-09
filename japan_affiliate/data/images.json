@@ -2412,5 +2412,32 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Motosu_20241026.jpg",
   "file": "fuji-five-lakes-3-day-itinerary-1.jpg",
   "query": "Lake Motosu Mount Fuji"
+ },
+ "nagoya-one-day-itinerary/1": {
+  "title": "File:Tokugawa Museum.JPG",
+  "author": "Gryffindor stitched by Marku1988 This image was created with Hugin.",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tokugawa_Museum.JPG",
+  "file": "nagoya-one-day-itinerary-1.jpg",
+  "query": "Tokugawa Art Museum Nagoya"
+ },
+ "nagoya-one-day-itinerary/2": {
+  "title": "File:Toyota tecno museum.jpg",
+  "author": "Bariston",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Toyota_tecno_museum.jpg",
+  "file": "nagoya-one-day-itinerary-2.jpg",
+  "query": "Toyota Commemorative Museum of Industry and Technology"
+ },
+ "nagoya-one-day-itinerary/3": {
+  "title": "File:Midland-Square-and-Nagoya-Building-1.jpg",
+  "author": "Evelyn-rose",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Midland-Square-and-Nagoya-Building-1.jpg",
+  "file": "nagoya-one-day-itinerary-3.jpg",
+  "query": "Midland Square Nagoya skyscraper"
  }
 }
