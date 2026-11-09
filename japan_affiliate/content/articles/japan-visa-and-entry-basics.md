@@ -5,7 +5,7 @@ description: What JNTO says about visas, passports, length of stay and the Visit
 date: 2026-10-24
 updated: 2026-10-24
 cluster: planning
-affiliates: insurance | esim
+affiliates: insurance | esim | trip_insurance
 image_queries: Narita International Airport terminal | Kansai International Airport terminal building | Haneda Airport international arrivals | Narita Airport arrivals hall
 ---
 Whether you need a visa for Japan depends on your passport, and the answer can change. This guide summarises what the Japan National Tourism Organization (JNTO) publishes for tourists, shows you what to check, and points you to the government pages that decide the question.
@@ -74,6 +74,8 @@ Entry rules are only the first step. Plan your connectivity and your cover at th
 You can compare travel insurance through {{aff:insurance|a travel insurance provider}}. Read the exclusions and the claim process before you buy.
 
 {{pick|Check your passport validity first, then look up your country in the official exemption list, and only then book flights and hotels. This is our editorial order, based on the structure of the JNTO page.}}
+
+Before you travel, you can compare travel insurance plans on {{aff:trip_insurance|Trip.com}}. Read what the plan covers and its exclusions before you pay.
 
 ## FAQ
 

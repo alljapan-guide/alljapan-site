@@ -5,7 +5,7 @@ description: A one-day Osaka itinerary from JNTO: Umeda Sky Building, Midosuji, 
 date: 2026-11-03
 updated: 2026-11-03
 cluster: itineraries
-affiliates: trip_things | klook | viator | trip_osaka_hotels
+affiliates: trip_things | klook | viator | trip_osaka_hotels | trip_train_osaka_kyoto
 image_queries: Umeda Sky Building | Midosuji Osaka ginkgo | Shinsekai Tsutenkaku Osaka | Abeno Harukas
 ---
 If you have a single day in Osaka, the best plan is to cross the city from north to south. The Japan National Tourism Organization (JNTO) has an itinerary built that way, from the business and transport hub of Kita to the entertainment districts of Minami. This guide follows that JNTO itinerary and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
@@ -89,6 +89,8 @@ Read the cancellation terms and the meeting point before you book anything.
 {{pick|If you only have one day, our editorial pick is JNTO's order: Umeda in the morning, Shinsaibashi and Dotonbori in the afternoon, and dinner in Shinsekai before the Harukas observatory. This is our view, based on the travel time between the hubs JNTO lists.}}
 
 If you have more time, our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html) and [Osaka 3-day plan](osaka-3-day-itinerary.html) show how to add Kyoto, Nara and Kobe.
+
+For the short ride between the two cities, you can compare Osaka to Kyoto train tickets on {{aff:trip_train_osaka_kyoto|Trip.com}}. Check the change and refund terms before you pay.
 
 ## FAQ
 

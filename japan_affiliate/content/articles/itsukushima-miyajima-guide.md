@@ -5,7 +5,7 @@ description: How to get to Miyajima from Hiroshima, when the floating torii look
 date: 2026-10-28
 updated: 2026-10-28
 cluster: itineraries
-affiliates: klook | booking
+affiliates: klook | booking | trip_hiroshima_hotels
 image_queries: Itsukushima Shrine floating torii Miyajima | Gojunoto Miyajima pagoda | Senjokaku Miyajima | Miyajima Mount Misen ropeway
 ---
 Itsukushima Shrine is one of the most recognisable sights in Japan, and Miyajima is an easy island trip from Hiroshima. The Japan National Tourism Organization (JNTO) describes how to get there and what to see. This guide follows that page and adds our own view, labelled "Our view", so you can tell sourced information from opinion.
@@ -89,6 +89,8 @@ Our view: a small carved item is a better souvenir from Miyajima than a mass-pro
 For how to behave at the shrine, our [shrine etiquette guide](shinto-shrine-etiquette.html) lists the steps. If you are planning a longer route, our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a first trip, and our [opening hours guide](japan-opening-hours-and-holidays.html) explains the busy holiday periods. You can compare hotels in Hiroshima on {{aff:booking|Booking.com}} and look at guided tours on {{aff:klook|Klook}}. Read the terms before you book.
 
 {{pick|If you can, plan the visit around the tide and arrive early, so you have time to see the shrine and one other stop without rushing. This is our editorial pick, based on the JNTO description.}}
+
+If you plan to base yourself in Hiroshima for the island, you can compare Hiroshima hotels on {{aff:trip_hiroshima_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
 ## FAQ
 

@@ -5,7 +5,7 @@ description: What to do in Fukuoka on a first visit using JNTO: ramen and yatai,
 date: 2026-11-01
 updated: 2026-11-01
 cluster: itineraries
-affiliates: trip_things | klook | viator
+affiliates: trip_things | klook | viator | trip_fukuoka_hotels
 image_queries: Fukuoka Tower | Fukuoka yatai food stall | Dazaifu Tenmangu | Itoshima Peninsula beach
 ---
 Fukuoka is the relaxed big city of southern Japan, and it sits at the end of the shinkansen line that most visitors ride west. The Japan National Tourism Organization (JNTO) pages on Fukuoka and Fukuoka City explain why the city is worth the extra distance. This guide uses those pages and adds our own opinion, labelled "Our view", so you can tell sourced information from editorial advice.
@@ -93,6 +93,8 @@ If you want a guided food tour, a Dazaifu half day or an Itoshima outing, you ca
 {{pick|If you only have one evening in Fukuoka, our editorial pick is a yatai dinner in the Nakasu and Tenjin area, with Dazaifu kept for the next morning. This is our view, based on the layout and food notes in the JNTO pages.}}
 
 Our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to check whether a pass suits a longer route west, and our [airport guide](which-airport-to-fly-into-japan.html) compares the main gateways.
+
+For a place to stay, you can compare Fukuoka hotels on {{aff:trip_fukuoka_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
 ## FAQ
 

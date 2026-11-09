@@ -136,13 +136,61 @@
     "trip_nara_hotels": {
       "name": "Trip.com (Nara hotels)",
       "category": "hotels",
-      "link": "https://www.trip.com/hotels/list?city=1175&display=%E5%A5%88%E8%89%AF%E5%B8%82&optionId=1175&optionType=City&optionName=%E5%A5%88%E8%89%AF%E5%B8%82&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-nara&trip_sub3=D20994815",
+      "link": "https://www.trip.com/hotels/list?city=1175&display=Nara%20City&optionId=1175&optionType=City&optionName=Nara%20City&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-nara&trip_sub3=D20994815",
       "network": "Trip.com Affiliate"
     },
     "trip_airport_transfer": {
       "name": "Trip.com (airport transfers)",
       "category": "transport",
       "link": "https://www.trip.com/airport-transfers/index/?Allianceid=11163258&SID=334618698&trip_sub1=-sougei-airport&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_kyoto_hotels_2": {
+      "name": "Trip.com (Kyoto hotels, alt link)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=734&display=Kyoto&optionId=734&optionType=City&optionName=Kyoto&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-kyoto&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_hiroshima_hotels": {
+      "name": "Trip.com (Hiroshima hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=262&display=Hiroshima%20City&optionId=262&optionType=City&optionName=Hiroshima%20City&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-hiroshima&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_fukuoka_hotels": {
+      "name": "Trip.com (Fukuoka hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=248&display=Fukuoka&optionId=248&optionType=City&optionName=Fukuoka&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-fukuoka&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_sapporo_hotels": {
+      "name": "Trip.com (Sapporo hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=641&display=Sapporo&optionId=641&optionType=City&optionName=Sapporo&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-sapporo&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_okinawa_hotels": {
+      "name": "Trip.com (Okinawa hotels)",
+      "category": "hotels",
+      "link": "https://www.trip.com/hotels/list?city=207&display=%E6%B2%96%E7%B8%84%E5%B8%82&optionId=207&optionType=City&optionName=%E6%B2%96%E7%B8%84%E5%B8%82&Allianceid=11163258&SID=334618698&trip_sub1=-hotel-okinawa&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_train_osaka_kyoto": {
+      "name": "Trip.com (Osaka to Kyoto trains)",
+      "category": "transport",
+      "link": "https://www.trip.com/trains/tt-common/ttlist?departurecitycode=JP04472&arrivalcitycode=JP04465&Allianceid=11163258&SID=334618698&trip_sub1=-trains-osaka-kyoto&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_esim": {
+      "name": "Trip.com (Japan eSIM)",
+      "category": "connectivity",
+      "link": "https://jp.trip.com/things-to-do/experiences/japan-simcard/?Allianceid=11163258&SID=334618698&trip_sub1=-japan-esim&trip_sub3=D20994815",
+      "network": "Trip.com Affiliate"
+    },
+    "trip_insurance": {
+      "name": "Trip.com (travel insurance)",
+      "category": "insurance",
+      "link": "https://jp.trip.com/insurance?bid=1&cid=2&pid=1&locale=ja-JP&curr=JPY&Allianceid=11163258&SID=334618698&trip_sub1=-japan-hoken&trip_sub3=D20994815",
       "network": "Trip.com Affiliate"
     }
   }

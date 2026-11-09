@@ -5,7 +5,7 @@ description: What to do in Hiroshima on a first visit using JNTO: the Peace Park
 date: 2026-11-01
 updated: 2026-11-01
 cluster: itineraries
-affiliates: trip_things | klook | viator
+affiliates: trip_things | klook | viator | trip_hiroshima_hotels
 image_queries: Atomic Bomb Dome Hiroshima | Hiroshima Peace Memorial Park | Hiroshima okonomiyaki | Hiroden tram Hiroshima
 ---
 Hiroshima is a city that most first-time visitors add for two reasons: the Peace Memorial Park and the floating shrine on nearby Miyajima. This guide builds a first visit from the Japan National Tourism Organization (JNTO) pages on Hiroshima, Hiroshima City and Miyajima. It adds our own opinion, labelled "Our view", so you can tell sourced information from editorial advice.
@@ -89,6 +89,8 @@ If you would rather join a guided tour of the Peace Memorial Park or a Miyajima 
 {{pick|For a first visit, our editorial pick is a full day: the Peace Memorial Park in the morning, Hiroshima-style okonomiyaki for lunch and a ferry to Miyajima in the afternoon. This is our view, based on the travel times JNTO gives between Hiroshima Station and Miyajimaguchi.}}
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how a western extension can fit into a longer route.
+
+For a place to stay, you can compare Hiroshima hotels on {{aff:trip_hiroshima_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
 ## FAQ
 

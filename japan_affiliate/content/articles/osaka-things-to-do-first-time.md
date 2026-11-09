@@ -5,7 +5,7 @@ description: What to do in Osaka on a first visit using JNTO: Osaka Castle, Doto
 date: 2026-10-30
 updated: 2026-10-30
 cluster: itineraries
-affiliates: trip_things | klook | viator | trip_osaka_hotels
+affiliates: trip_things | klook | viator | trip_osaka_hotels | trip_train_osaka_kyoto
 image_queries: file:Osaka Castle 02bs3200.jpg | Dotonbori Glico sign Osaka | Shinsaibashi-suji shopping street | Takoyaki Osaka
 ---
 Osaka is the easiest big city in Japan to enjoy without a plan, but a few choices make the visit better. This guide uses the Japan National Tourism Organization (JNTO) pages on Osaka, Osaka Castle and Dotonbori to build a first-time visit. It adds our own opinion, labelled "Our view", so you can tell sourced information from editorial advice.
@@ -89,6 +89,8 @@ Read the cancellation terms and the meeting point before you book, and check tha
 If you arrive from Tokyo, our [Tokyo to Osaka bullet train guide](tokyo-to-osaka-bullet-train.html) covers the trip.
 
 {{pick|If you have one evening in Osaka, our editorial pick is a walk down Shinsaibashi-suji at dusk and dinner on the Dotonbori riverside. This is our view, based on the layout JNTO describes for the two areas.}}
+
+For the short ride between the two cities, you can compare Osaka to Kyoto train tickets on {{aff:trip_train_osaka_kyoto|Trip.com}}. Check the change and refund terms before you pay.
 
 ## FAQ
 

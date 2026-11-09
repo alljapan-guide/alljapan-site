@@ -5,7 +5,7 @@ description: A 3-day Kansai itinerary from JNTO: Kyoto temples and markets on da
 date: 2026-11-03
 updated: 2026-11-03
 cluster: itineraries
-affiliates: trip_nara_hotels | trip_airport_transfer | trip_trains | trip_things | trip_kyoto_hotels | trip_osaka_hotels | klook
+affiliates: trip_nara_hotels | trip_airport_transfer | trip_trains | trip_things | trip_kyoto_hotels | trip_osaka_hotels | klook | trip_train_osaka_kyoto
 image_queries: Kiyomizu-dera Kyoto | Nara Park deer | Todaiji Great Buddha Hall | file:Osaka Castle 02bs3200.jpg
 ---
 Three days is enough to see Kyoto, Nara and Osaka without rushing, and the Japan National Tourism Organization (JNTO) has an itinerary built for exactly that. This guide follows the JNTO itinerary called "The Kansai Trio", then adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
@@ -93,6 +93,8 @@ Our view: if you have a fourth day, add it in Kyoto rather than shortening Nara.
 {{pick|For most first-time visitors, our editorial pick is JNTO's order: Kyoto first, Nara second and Osaka last, with Osaka kept for the evening meal. This is our view, based on the walking load and transit times in the JNTO itinerary.}}
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how these three days fit into a longer route with Tokyo.
+
+For the short ride between the two cities, you can compare Osaka to Kyoto train tickets on {{aff:trip_train_osaka_kyoto|Trip.com}}. Check the change and refund terms before you pay.
 
 ## FAQ
 

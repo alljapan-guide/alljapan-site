@@ -5,7 +5,7 @@ description: A 3-day southern Hokkaido itinerary from JNTO: Noboribetsu Onsen an
 date: 2026-11-06
 updated: 2026-11-06
 cluster: itineraries
-affiliates: trip_things | klook | viator | trip_hotels
+affiliates: trip_things | klook | viator | trip_hotels | trip_sapporo_hotels
 image_queries: Noboribetsu Hell Valley Hokkaido | Hakodate morning market | Hakodate night view
 ---
 Southern Hokkaido packs a famous hot spring, a volcanic lake and a harbour city into three days. This guide follows the Japan National Tourism Organization (JNTO) itinerary "Hot Springs and Nature in Hokkaido". Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
@@ -91,6 +91,8 @@ For guided tours, a seafood market tour or a volcano excursion, you can compare 
 {{pick|If you have three days in southern Hokkaido, our editorial pick is the JNTO order: hot springs first, the lake and volcano second, and Hakodate last, with the morning market and the night view. This is our view, based on the transfer times JNTO gives.}}
 
 If you want a gift to take home from the north, our [Tohoku souvenirs guide](tohoku-souvenirs.html) covers sweets from the next region south.
+
+If your trip starts or ends in Sapporo, you can compare Sapporo hotels on {{aff:trip_sapporo_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
 ## FAQ
 

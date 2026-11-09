@@ -5,7 +5,7 @@ description: A 2-day Hokkaido winter itinerary from JNTO: Asahiyama Zoo, the Asa
 date: 2026-11-07
 updated: 2026-11-07
 cluster: itineraries
-affiliates: trip_things | klook | viator | trip_hotels
+affiliates: trip_things | klook | viator | trip_hotels | trip_sapporo_hotels
 image_queries: Asahiyama Zoo penguins | Asahikawa Winter Festival snow sculpture
 ---
 Hokkaido in winter is a different country: deep snow, animals and snow sculptures. The Japan National Tourism Organization (JNTO) has a two-day plan that links a famous zoo with the two big snow festivals. This guide follows the JNTO itinerary "A Winter Trip to Hokkaido". Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
@@ -89,6 +89,8 @@ You can compare places to stay in Asahikawa and Sapporo on {{aff:trip_hotels|Tri
 For guided tours, a snow activity or a day trip, you can compare options on {{aff:trip_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}.
 
 {{pick|For a first winter trip, our editorial pick is the JNTO order: the zoo and the snow park on day 1, the village and the festival or the lights on day 2. This is our view, based on the plan and the times JNTO gives.}}
+
+If your trip starts or ends in Sapporo, you can compare Sapporo hotels on {{aff:trip_sapporo_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
 ## FAQ
 

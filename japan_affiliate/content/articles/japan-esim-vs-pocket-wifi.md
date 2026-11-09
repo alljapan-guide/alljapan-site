@@ -5,7 +5,7 @@ description: How to choose between an eSIM and a rented pocket WiFi router for J
 date: 2026-10-18
 updated: 2026-10-18
 cluster: connectivity
-affiliates: esim | wifi
+affiliates: esim | wifi | trip_esim
 image_queries: SIM card smartphone | Wi-Fi router device | Smartphone SIM card tray | Wi-Fi router
 ---
 If your phone supports eSIM and is unlocked, an eSIM is usually the simplest choice for one traveller. A rented pocket WiFi router makes more sense when your phone cannot use an eSIM, or when several people or devices share one connection.
@@ -79,6 +79,8 @@ If you are using a phone for tickets and navigation, our [IC card guide](japan-i
 {{photo:4|A portable WiFi router}}
 
 {{note|Hotels and cafes often offer WiFi, but coverage varies and it is not a replacement for mobile data while you are out. The tourism organisation's page linked in the Sources box has the official overview.}}
+
+If you choose an eSIM or SIM card, you can compare Japan data options on {{aff:trip_esim|Trip.com}}. Check that your phone supports eSIM and read the plan's data limits and validity before you buy.
 
 ## FAQ
 

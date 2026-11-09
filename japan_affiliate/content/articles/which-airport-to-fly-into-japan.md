@@ -5,7 +5,7 @@ description: How to choose between Narita, Haneda and Kansai International for y
 date: 2026-10-25
 updated: 2026-10-25
 cluster: planning
-affiliates: trip_airport_transfer | trip_kix_car | booking | esim | trip_trains | trip_trains_osaka
+affiliates: trip_airport_transfer | trip_kix_car | booking | esim | trip_trains | trip_trains_osaka | trip_esim
 image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport terminal building | Narita Express train | Tokyo Monorail Haneda Airport
 ---
 Where you land shapes the first day of your trip. The Japan National Tourism Organization (JNTO) describes the main international airports and what each is close to. This guide uses those pages to help you choose, and adds our own view, labelled "Our view", so you can tell sourced information from opinion.
@@ -81,6 +81,8 @@ If you land at Kansai International Airport, you can compare a pre-booked airpor
 If your plans include a visa or entry paperwork, see our [visa and entry guide](japan-visa-and-entry-basics.html) first.
 
 {{pick|If this is your first trip and your plan starts in Tokyo, our editorial pick is whichever of Haneda and Narita has the better fare, with a hotel booked near a direct station. If your plan starts in Kyoto or Osaka, consider Kansai International. This is our view, based on the JNTO descriptions above.}}
+
+For mobile data on arrival, you can compare Japan eSIM and SIM options on {{aff:trip_esim|Trip.com}}. Check that your phone supports eSIM first.
 
 ## FAQ
 

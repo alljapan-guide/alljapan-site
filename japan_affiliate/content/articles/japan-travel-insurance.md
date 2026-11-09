@@ -5,7 +5,7 @@ description: Is travel insurance mandatory for Japan? What JNTO says visitors sh
 date: 2026-10-23
 updated: 2026-11-03
 cluster: planning
-affiliates: insurance
+affiliates: insurance | trip_insurance
 image_queries: Japan hospital building sign | Tokyo ambulance | Japan police box koban | Matsumoto Kiyoshi drugstore
 ---
 Short answer: yes, get it. The Japan National Tourism Organization (JNTO) states that {{fact:ins_recommended}}. JNTO also notes that {{fact:ins_safe}}, but a single hospital visit without cover can still be a problem, and the official guidance says why.
@@ -87,6 +87,8 @@ You can compare policies through {{aff:insurance|a travel insurance provider}}. 
 ## Other planning guides
 
 Insurance is one part of preparation. If you are working out connectivity so you can reach your insurer abroad, see our [eSIM and pocket WiFi guide](japan-esim-vs-pocket-wifi.html). For transport, our [IC card guide](japan-ic-card-guide.html) covers cards and our [rail pass guide](is-japan-rail-pass-worth-it.html) covers longer trips. For a full route, see our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html).
+
+If you decide to buy cover, you can compare travel insurance plans on {{aff:trip_insurance|Trip.com}}. Read what the plan covers, its exclusions and the claim steps before you pay.
 
 ## FAQ
 

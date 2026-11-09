@@ -5,7 +5,7 @@ description: A one-day Kyoto walking itinerary from JNTO: Ginkaku-ji, the Philos
 date: 2026-11-04
 updated: 2026-11-04
 cluster: itineraries
-affiliates: trip_kyoto_hotels | trip_things | klook | viator
+affiliates: trip_kyoto_hotels | trip_things | klook | viator | trip_train_osaka_kyoto
 image_queries: Ginkaku-ji Kyoto | Philosopher's Path Kyoto canal | Nanzen-ji Sanmon Kyoto | Heian Jingu Kyoto
 ---
 One day is not enough for Kyoto, but it is enough for a good walk. The Japan National Tourism Organization (JNTO) published a walking itinerary for exactly that: a day on foot along the eastern hills, from a Zen temple to the geisha district. This guide follows the JNTO blog "24 Hours in Kyoto" and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
@@ -81,6 +81,8 @@ For a guided walk or a cultural activity, you can compare options on {{aff:trip_
 {{pick|If you have one day in Kyoto, our editorial pick is JNTO's order, started early: Ginkaku-ji, the Philosopher's Path, Nanzen-ji and Heian-jingu in the morning, and Gion and Shijo in the afternoon. This is our view, based on the route and times in the JNTO blog.}}
 
 Our [Tokyo to Kyoto bullet train guide](tokyo-to-kyoto-bullet-train.html) explains how to arrive, and our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where Kyoto fits in a longer trip.
+
+For the short ride between the two cities, you can compare Osaka to Kyoto train tickets on {{aff:trip_train_osaka_kyoto|Trip.com}}. Check the change and refund terms before you pay.
 
 ## FAQ
 

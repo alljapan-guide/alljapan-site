@@ -5,7 +5,7 @@ description: What to do in Kyoto on a first visit using JNTO: Higashiyama and Gi
 date: 2026-10-30
 updated: 2026-10-30
 cluster: itineraries
-affiliates: trip_things | klook | viator | trip_kyoto_hotels
+affiliates: trip_things | klook | viator | trip_kyoto_hotels | trip_train_osaka_kyoto
 image_queries: Kiyomizu-dera Kyoto | Ginkaku-ji Silver Pavilion Kyoto | Nishiki Market Kyoto | Nijo Castle Kyoto
 ---
 Kyoto rewards a plan. The city has more to see than a first visit can hold, and the best-known places are also the most crowded. This guide builds a first-time visit from the Japan National Tourism Organization (JNTO) pages on Kyoto, Gion and Higashiyama, and Central Kyoto. It adds our own opinion, labelled "Our view", so you can tell sourced information from editorial advice.
@@ -99,6 +99,8 @@ Read the cancellation terms and the meeting point before you book anything.
 {{pick|If you only have two days in Kyoto, our editorial pick is one day for Gion and Higashiyama and one half day for Nijo Castle and Central Kyoto, with Fushimi Inari at first light. This is our view, based on the time JNTO recommends for Higashiyama.}}
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where Kyoto fits into the wider route.
+
+For the short ride between the two cities, you can compare Osaka to Kyoto train tickets on {{aff:trip_train_osaka_kyoto|Trip.com}}. Check the change and refund terms before you pay.
 
 ## FAQ
 
