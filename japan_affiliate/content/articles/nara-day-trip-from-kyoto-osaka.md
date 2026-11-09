@@ -5,7 +5,7 @@ description: How to do Nara as a day trip from Kyoto or Osaka: train options, th
 date: 2026-10-23
 updated: 2026-10-23
 cluster: itineraries
-affiliates: klook | viator | gyg
+affiliates: trip_nara_hotels | klook | viator | gyg
 image_queries: Nara Park deer Todai-ji | Todai-ji Daibutsuden Nara | Kasuga Taisha lanterns Nara | Deer Nara Park
 ---
 Nara is an easy day trip from both Kyoto and Osaka, and the official Nara tourism guide treats it that way: it says {{fact:nara_just30}}. The two things to sort out in advance are which station you use and how you will walk between the sights in Nara Park.
@@ -85,6 +85,8 @@ Our view: choose by what you want your evenings to look like, because Nara is a 
 ## Booking a guided visit
 
 You can see the park without a guide, since the walking route is simple. If you would like history explained on site, guided tours are listed on {{aff:klook|Klook}}, {{aff:viator|Viator}} and {{aff:gyg|GetYourGuide}}. Check the meeting point, language and cancellation terms in each listing before you pay.
+
+If you would rather stay overnight in Nara, for example to see the park early in the morning, you can compare Nara hotels on {{aff:trip_nara_hotels|Trip.com}}. Our view: a night in Nara suits travellers who want quiet evenings, while a day trip from Kyoto or Osaka suits a short itinerary.
 
 ## FAQ
 

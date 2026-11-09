@@ -5,7 +5,7 @@ description: A 3-day Osaka itinerary using JNTO pages: Osaka Castle and Dotonbor
 date: 2026-11-03
 updated: 2026-11-03
 cluster: itineraries
-affiliates: trip_osaka_hotels | trip_things | trip_trains_osaka | klook
+affiliates: trip_airport_transfer | trip_kix_car | trip_osaka_hotels | trip_things | trip_trains_osaka | klook
 image_queries: file:Osaka Castle 02bs3200.jpg | Dotonbori Osaka night | Nara Park deer | Himeji Castle
 ---
 Osaka works well as a base for three days, because the best day trips in western Japan all leave from it. This guide builds a three-day plan around Osaka: one day in the city and two day trips that you choose between. It uses the Japan National Tourism Organization (JNTO) pages we have summarised in our other guides, and it adds our own opinion, labelled "Our view", so sourced information and editorial advice stay separate.
@@ -74,6 +74,8 @@ Our view: choose Kobe if you want a city with a harbour, a beef lunch and a nigh
 From the airport, JNTO says that {{fact:on_kix}}. For Kyoto, JNTO says that {{fact:kg_tokyo}}. For Osaka itself, our [Tokyo to Osaka bullet train guide](tokyo-to-osaka-bullet-train.html) covers the direct line. You can compare train tickets on {{aff:trip_trains_osaka|Trip.com}}.
 
 For a base, you can compare Osaka hotels on {{aff:trip_osaka_hotels|Trip.com}}, and our [Osaka hotel guide](where-to-stay-in-osaka.html) explains the areas. Our view: choose a hotel near a major station on the loop or the Midosuji Line, since every day starts and ends by rail.
+
+If you arrive at Kansai International Airport with luggage, you can compare airport transfers on {{aff:trip_airport_transfer|Trip.com}}, or car hire on {{aff:trip_kix_car|Trip.com}} if your plan includes places the trains do not reach.
 
 ## Tours and tickets
 
