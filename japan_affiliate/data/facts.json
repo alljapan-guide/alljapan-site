@@ -18212,5 +18212,1751 @@
    "oita-hot-springs-beppu-yufuin-4-day-itinerary"
   ],
   "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_len",
+  "text": "the JNTO itinerary Nagasaki and Saga has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_intro",
+  "text": "Nagasaki blends Chinese and European influence with Japanese tradition",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Nagasaki blends Chinese and European influence with Japanese tradition"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_ceramics",
+  "text": "the neighbouring towns of Arita, Imari and Karatsu are where the art of Japanese ceramics was born",
+  "claim": "Ceramic towns",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Arita, Imari and Karatsu",
+   "the art of Japanese ceramics was born"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_highlights",
+  "text": "the highlights are Chinese, Western and Japanese architectural styles coexisting in Nagasaki, and learning the subtle differences between Arita, Imari and Karatsu pottery",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Chinese, Western and Japanese architectural styles coexisting in Nagasaki",
+   "Learning the subtle differences between Arita, Imari and Karatsu pottery"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_access",
+  "text": "by train you take the JR Tokaido-Sanyo Shinkansen to Hakata Station, which takes about five hours, and by air there are several flights per day from Haneda Airport to Nagasaki Airport",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "take the JR Tokaido-Sanyo Shinkansen to Hakata Station",
+   "The ride takes about five hours",
+   "several flights per day from Haneda Airport to Nagasaki Airport"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_fukuoka",
+  "text": "from Fukuoka it takes 1 hour 25 minutes on the JR Kagoshima Main Line from Hakata Station to Nagasaki Station",
+  "claim": "From Fukuoka",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "From Fukuoka: 1 hour 25 minutes",
+   "Take the JR Kagoshima Main Line from Hakata Station to Nagasaki Station"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_isolation",
+  "text": "Nagasaki was the only place in Japan that stayed open to the world during the Isolation Period",
+  "claim": "Isolation Period",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "only place in Japan that stayed open to the world"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_kofukuji",
+  "text": "Kofukuji was established by a Chinese monk in 1620 and is the birthplace of the Obaku school of Zen Buddhism in Japan",
+  "claim": "Kofukuji Temple",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "established by a Chinese monk in 1620",
+   "birthplace of the Obaku school of Zen Buddhism in Japan"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_megane",
+  "text": "Meganebashi Bridge means Spectacles Bridge, because the reflection of its stone arches resembles a pair of glasses, and it was constructed in 1634",
+  "claim": "Meganebashi Bridge",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Spectacles Bridge",
+   "resembles a pair of glasses",
+   "constructed in 1634"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_sofukuji",
+  "text": "Sofukuji Temple is noted for its inner gate and Great Buddha Hall, built in Ningbo, China, then dismantled, shipped to Nagasaki and reassembled",
+  "claim": "Sofukuji Temple",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "inner gate and Great Buddha Hall",
+   "dismantled, shipped to Nagasaki, and reassembled"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_tram",
+  "text": "from Sofukuji you take the Nagasaki Electric Tramway to Oura Cathedral Station",
+  "claim": "Tram to Oura",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Take the Nagasaki Electric Tramway to Oura Cathedral Station"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_oura",
+  "text": "Oura Cathedral was built by French missionaries and is the oldest standing church in all of Japan",
+  "claim": "Oura Cathedral",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "built by French missionaries",
+   "oldest standing church in all of Japan"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_glover",
+  "text": "Glover Garden has six lavish Western-style buildings on a hilly park, including the Former Glover House where the Scottish merchant Thomas Glover once lived",
+  "claim": "Glover Garden",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "six lavish Western-style buildings",
+   "Former Glover House",
+   "Scottish merchant Thomas Glover"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_peace_tram",
+  "text": "the Nagasaki Electric Tramway goes on to Peace Park Station",
+  "claim": "Tram to Peace Park",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Take the Nagasaki Electric Tramway to Peace Park Station"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_peace",
+  "text": "the Peace Park is near Ground Zero of the August 9, 1945 bombing, and a memorial ceremony is held every year in front of the 10-meter tall Peace Statue",
+  "claim": "Peace Park",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "August 9, 1945",
+   "10-meter tall Peace Statue"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_chinatown",
+  "text": "Nagasaki Chinatown is the oldest in Japan and is known for the chanpon noodle dish, and its Lantern Festival displays as many as 15,000 colorful lanterns",
+  "claim": "Chinatown",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "oldest Chinatown",
+   "chanpon noodle dish",
+   "as many as 15,000 colorful lanterns"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_lantern",
+  "text": "the Nagasaki Lantern Festival runs during the first 15 days of the Lunar New Year",
+  "claim": "Lantern Festival",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "first 15 days of the Lunar New Year"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_arita_route",
+  "text": "on day 2 you take the Seaside Liner from Nagasaki Station and change at Haiki Station to a local train on the Sasebo Line for Arita Station, which takes 1 hour 50 minutes",
+  "claim": "Route to Arita",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "1 hour 50 minutes Take the Seaside Liner from Nagasaki Station",
+   "change to a local train on the Sasebo Line for Arita Station"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_arita",
+  "text": "Arita in Saga Prefecture is the origin of Japanese porcelain, with a history dating back 400 years and an almost transparent white base",
+  "claim": "Arita",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "origin of Japanese porcelain",
+   "history dating back 400 years",
+   "almost transparent white base"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_imari",
+  "text": "European collectors call Arita ware Imari porcelain, named after the nearby Imari port city",
+  "claim": "Imari porcelain",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "what European collectors call Imari porcelain"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_museum",
+  "text": "the Arita Ceramic Museum explains how Arita ware started, and Arita has a sister-city relationship with Meissen, Germany",
+  "claim": "Arita Ceramic Museum",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Arita Ceramic Museum",
+   "sister-city relationship with Meissen, Germany"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_imaemon",
+  "text": "Imaemon has plied its trade for nearly 400 years and its museum shows Iro-Nabeshima porcelain with multi-colored overglazed enamel",
+  "claim": "Imaemon",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "nearly 400 years",
+   "Iro-Nabeshima porcelain with multi-colored overglazed enamel"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_fair",
+  "text": "the Arita Ceramics Fair is held every year in Golden Week from April 29 to May 5, with about 500 stands along Sarayama Street",
+  "claim": "Arita Ceramics Fair",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "from April 29 to May 5",
+   "About 500 stands"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_okawachi",
+  "text": "Okawachiyama is a small, isolated village hemmed in by the mountains, and Nabeshimahanyo Park has several stepped kilns",
+  "claim": "Okawachiyama",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "small, isolated village hemmed in by the mountains",
+   "several stepped kilns"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_okawachi_taxi",
+  "text": "from Arita it takes 25 minutes by taxi to Okawachiyama Village",
+  "claim": "Taxi to Okawachiyama",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "25 minutes Take a taxi to Okawachiyama Village"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_karatsu_route",
+  "text": "on day 3 you take a taxi from Okawachiyama to Imari Station, then the JR Chikuhi Line to Karatsu Station, which takes 1 hour 10 minutes",
+  "claim": "Route to Karatsu",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "1 hour 10 minutes Get a taxi from Okawachiyama to Imari Station",
+   "take JR Chikuhi Line to Karatsu Station"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_karatsu",
+  "text": "Karatsu is a coastal city overlooking the Genkai Sea with a four and a half-kilometer-long sandy beach and black pine trees",
+  "claim": "Karatsu",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "coastal city overlooking the Genkai Sea",
+   "four and a half-kilometer-long sandy beach"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_karatsu_ware",
+  "text": "Karatsu ceramics are generally of a much more earthy hue than colorful Arita ware",
+  "claim": "Karatsu ware",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "much more earthy hue"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_castle",
+  "text": "Karatsu Castle was built in 1608, has an observatory facing Karatsu Bay, and cherry trees and wisteria flowers bloom every spring in its park",
+  "claim": "Karatsu Castle",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "Built in 1608",
+   "observatory facing Karatsu Bay",
+   "cherry trees and wisteria flowers bloom every spring"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_hikiyama",
+  "text": "the Karatsu Kunchi Festival is a parade of floats in autumn, and the giant hikiyama floats are on display all year at the Hikiyama Exhibition Hall beside Karatsu Shrine",
+  "claim": "Karatsu Kunchi",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "parade of floats for the Karatsu Kunchi Festival",
+   "on display at the Hikiyama Exhibition Hall located beside Karatsu Shrine all year-round"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_washi",
+  "text": "the base of each hikiyama float is made by layering hundreds of pieces of washi paper",
+  "claim": "Hikiyama floats",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "hundreds of pieces of washi paper"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_check",
+  "text": "JNTO notes that the latest information may differ, so you should check the official website",
+  "claim": "Check official site",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "The latest information may differ, so please check the official website"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ngs_itoshima",
+  "text": "the Itoshima Peninsula is less than an hour from the heart of Fukuoka City and has hiking trails, beaches and the Meoto Iwa rocks",
+  "claim": "Itoshima",
+  "source_name": "JNTO itinerary: Nagasaki and Saga, Diversity and Ceramic Heritage",
+  "source_url": "https://www.japan.travel/en/itineraries/nagasakis-diversity-and-sagas-ceramic-heritage/",
+  "must_contain": [
+   "less than an hour from the heart of Fukuoka City",
+   "Meoto Iwa"
+  ],
+  "topics": [
+   "nagasaki-saga-ceramics-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_len",
+  "text": "the JNTO itinerary Matsushima, Akiu Onsen and Sendai has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_intro",
+  "text": "the views of Matsushima inspired the poet Matsuo Basho, and the bay is dotted with over 260 small islands",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "inspired poet Matsuo Basho",
+   "dotted with over 260 small islands"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_akiu_intro",
+  "text": "Akiu Onsen is a small hot spring village with outdoor activities and opportunities for relaxation",
+  "claim": "Akiu Onsen overview",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Akiu Onsen, a small hot spring village"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_highlights",
+  "text": "the highlights include pine-covered islands in Matsushima Bay and a historical walk around Sendai",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "The breathtaking beauty of pine-covered islands in Matsushima Bay",
+   "A historical walk around Sendai"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_access",
+  "text": "Sendai is best reached by bullet train on the JR Tohoku Shinkansen, trains depart up to seven times an hour, and overnight buses are also available",
+  "claim": "Getting there",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Sendai is best reached by bullet train on the JR Tohoku Shinkansen",
+   "Trains depart up to seven times an hour",
+   "Overnight buses are also available"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_times",
+  "text": "JNTO lists 2 hours by train or 6 hours by other means from Tokyo, and elsewhere describes a one and a half-hour ride by shinkansen",
+  "claim": "Travel time",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "From Tokyo: 2 hours or 6 hours",
+   "A one and a half-hour ride from Tokyo by shinkansen"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_gateway",
+  "text": "Sendai is the gateway to Tohoku, the northeastern region known for its remoteness and rugged landscapes",
+  "claim": "Sendai",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "gateway to Tohoku",
+   "rugged landscapes"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_date",
+  "text": "the feudal lord Date Masamune constructed the town of Sendai",
+  "claim": "Date Masamune",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "feudal lord Date Masamune",
+   "constructed the town"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_aoba",
+  "text": "Aoba-dori Street is lined with Zelkova trees, and Chuo-dori is the shopping arcade in the city center",
+  "claim": "Streets",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "lined with Zelkova trees",
+   "Chuo-dori"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_tanabata",
+  "text": "the Sendai Tanabata Matsuri runs from August 6 to 8, when colorful paper ornaments line the streets of Chuo-dori",
+  "claim": "Tanabata",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "From August 6 to 8",
+   "colorful paper ornaments"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_mat_route",
+  "text": "to reach Matsushima, you take the JR Senseki-Tohoku Line to Takagimachi Station for 23 minutes, change to the JR Senseki Line to Matsushima Kaigan Station, and Matsushima Bay is 2 minutes on foot from the station",
+  "claim": "Route to Matsushima",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "take JR Senseki-Tohoku Line to Takagimachi Station for 23 minutes",
+   "change to JR Senseki Line to Matsushima Kaigan Station",
+   "Matsushima Bay is 2 minutes on foot from the station"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_shiogama",
+  "text": "Shiogama-jinja Shrine is surrounded by cherry trees and has 202 steps to the top, and Marine Gate Shiogama has restaurants and seafood venues",
+  "claim": "Shiogama",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "202 steps to the top",
+   "Marine Gate Shiogama"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_cruise",
+  "text": "cruise courses in the bay last from 25 to 70 minutes, and the Basho Cruise is a one-way course from Shiogama Port to Matsushima Pier",
+  "claim": "Cruises",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "lasting from 25 to 70 minutes",
+   "one-way course from Shiogama Port to Matsushima Pier"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_islands",
+  "text": "the islands were eroded over time to form compelling shapes and patterns, and each island has its own special name",
+  "claim": "Islands",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "eroded over time to form compelling shapes and patterns",
+   "Each island has its own special name"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_godaido",
+  "text": "Godaido Temple is a 2-minute walk from the sightseeing boat pier across a red wooden bridge",
+  "claim": "Godaido",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "2-minute walk from the sightseeing boat pier across a red wooden bridge"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_kanrantei",
+  "text": "the Kanrantei teahouse has Japanese sliding screens covered in gold leaf",
+  "claim": "Kanrantei",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Japanese sliding screens covered in gold leaf"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_zuiganji",
+  "text": "Zuiganji Temple is one of the most famous in the region, built by Date Masamune and designated a national treasure",
+  "claim": "Zuiganji",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "built by Date Masamune and designated a national treasure"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_akiu_route",
+  "text": "for day 2 you take the JR Senseki Line from Matsushimakaigan Station to Sendai Station for 37 minutes, then the Miyakoh bus Akiu Line for 30 minutes to Akiu Yumoto bus stop",
+  "claim": "Route to Akiu",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Take JR Senseki Line at Matsushimakaigan Station to Sendai Station for 37 minutes",
+   "Miyakoh bus Akiu Line for 30 minutes to Akiu Yumoto Bus stop"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_akiu",
+  "text": "Akiu Onsen is a historic hot spring town along the banks of the Natori river, with a tourist information center called the Sendai Akiu Bunka no Sato Center",
+  "claim": "Akiu Onsen",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "historic hot spring town along the banks of the Natori river",
+   "Sendai Akiu Bunka no Sato Center"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_otaki",
+  "text": "Akiu Otaki Falls reach 55 meters high and 6 meters wide, a 30-minute bus ride from the information center",
+  "claim": "Akiu Otaki Falls",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Reaching 55 meters high and 6 meters wide",
+   "30-minute bus ride"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_rairai",
+  "text": "Rairai Gorge has a one-kilometer walkway surrounded by giant rocks, with views from Nozoki-bashi Bridge",
+  "claim": "Rairai Gorge",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "one-kilometer walkway surrounded by giant rocks",
+   "Nozoki-bashi Bridge"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_craft",
+  "text": "at Akiu Craft Village you can try indigo fabric dyeing and painting Kokeshi dolls, with advance reservation",
+  "claim": "Akiu Craft Village",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "indigo fabric dyeing and painting Kokeshi dolls, with advance reservation"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_stay",
+  "text": "you can book an overnight stay at one of the many ryokan or guesthouses in Akiu",
+  "claim": "Staying in Akiu",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "booking an overnight stay at one of",
+   "many ryokan (traditional Japanese inns) or guesthouses"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "snd_hanamaki",
+  "text": "Hanamaki Onsen is a hot spring resort town north of Sendai with four Japanese inns in the area",
+  "claim": "Hanamaki Onsen",
+  "source_name": "JNTO itinerary: Matsushima, Akiu Onsen and Sendai",
+  "source_url": "https://www.japan.travel/en/itineraries/matsushima-akiu-onsen-and-sendai/",
+  "must_contain": [
+   "Hanamaki Onsen",
+   "four Japanese inns in the area"
+  ],
+  "topics": [
+   "sendai-matsushima-akiu-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_len",
+  "text": "the JNTO itinerary Trekking the Kumano Kodo Pilgrimage Route has a recommended length of 2 to 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Recommended length: 2-3 days"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_intro",
+  "text": "the ancient Kumano Kodo weaves around the mountainous Kii Peninsula in Wakayama, passing through areas of remarkable spirituality and natural beauty",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "ancient Kumano Kodo weaves around the mountainous Kii Peninsula in Wakayama",
+   "remarkable spirituality and natural beauty"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_sanzan",
+  "text": "the three Kumano shrines are Kumano Hongu Taisha, Kumano Hayatama Taisha and Nachi Taisha, known collectively as Kumano Sanzan",
+  "claim": "Kumano Sanzan",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Kumano Hongu Taisha Shrine, Kumano Hayatama Taisha, and Nachi Taisha",
+   "Kumano Sanzan"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_highlights",
+  "text": "the highlights are walking under the Oyunohara gates, relaxing in the naturally heated water of Kawayu Onsen and the Nachi-no-Otaki Falls",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Walking under the imposing Oyunohara gates",
+   "Relaxing in the naturally heated water of Kawayu Onsen",
+   "Marveling at the majestic Nachi-no-Otaki Falls"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_air",
+  "text": "from Tokyo it takes 4 hours 20 minutes, with flights from Haneda Airport to Nanki Shirahama Airport taking 1 hour 10 minutes and the Meiko bus to Kii-Tanabe Station taking 50 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "From Tokyo: 4 hours 20 minutes",
+   "flights from Haneda Airport to Nanki Shirahama Airport (1 hour 10 minutes)",
+   "Take the Meiko bus from the airport to Kii-Tanabe Station (50 minutes)"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_osaka",
+  "text": "from Osaka it takes 4 hours 10 minutes, with the JR Kuroshio Express from Osaka Station to Kii-Tanabe Station taking 2 hours 10 minutes",
+  "claim": "From Osaka",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "From Osaka: 4 hours 10 minutes",
+   "Take the JR Kuroshio Express from Osaka Station to Kii-Tanabe Station (2 hours 10 minutes)"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_buses",
+  "text": "there are seven buses a day from Kii-Tanabe Station to Hongu Taisha Shrine, and the last one departs at 4:40 p.m.",
+  "claim": "Buses",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "there are seven buses to Hongu Taisha Shrine per day",
+   "The last one departs at 4:40 p.m."
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_hongu",
+  "text": "you pass through the gate and climb the 158 stairs to the altar of Kumano Hongu Taisha",
+  "claim": "Hongu Taisha",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "climb the 158 stairs to the altar"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_oyunohara",
+  "text": "Oyunohara is the former site of Kumano Hongu Taisha and has the largest torii gate in Japan, 34 meters high and 42 meters wide",
+  "claim": "Oyunohara",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "the former site of Kumano Hongu Taisha",
+   "largest torii gate in Japan",
+   "34 meters high and 42 meters wide"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_walk",
+  "text": "JNTO gives the walk from Hongu Taisha Shrine to Oyunohara as six minutes in one place and 10 minutes in another",
+  "claim": "Walk to Oyunohara",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Oyunohara is six minutes on foot from Hongu Taisha Shrine",
+   "10 minutes walk away"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_kawayu_bus",
+  "text": "from the Hongu-taisha bus stop you take the Ryujin Bus Kumano Hongu Line to the Kawayu Onsen bus stop",
+  "claim": "Bus to Kawayu",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Take the Ryujin Bus Kumano Hongu Line from Hongu-taisha bus stop to Kawayu Onsen bus stop"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_kawayu",
+  "text": "at Kawayu Onsen the hot water mixes with the cool river water to create the ideal bathing temperature, and visitors can dig their own baths and boil eggs and vegetables in the 90-degree hot spring water",
+  "claim": "Kawayu Onsen",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "mixes with the cool river water creating the ideal bathing temperature",
+   "dig their own baths",
+   "90-degree hot spring water"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_ryokan",
+  "text": "the town is home to a number of ryokan for those wanting to spend the night",
+  "claim": "Kawayu stays",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "a number of ryokan (Japanese inns) for those wanting to spend the night"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_day2",
+  "text": "on day 2 you take the Kumano Kotsu Bus to Gongen Bus Stop, and Kumano Hayatama Taisha Shrine is about a five-minute walk from the bus stop",
+  "claim": "Hayatama Taisha",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Take the Kumano Kotsu Bus to Gongen Bus Stop",
+   "is about a five-minute walk from the bus stop"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_nachi_route",
+  "text": "from Gongenmae bus stop you take Kumano Kotsu bus no. 17 bound for Katsuura station and change at Shioiribashi Bus Stop, a journey of 1 hour 10 minutes",
+  "claim": "Route to Nachi",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "1 hour 10 minutes From Gongenmae bus stop take Kumano Kotsu bus no. 17 bound for Katsuura station (27 minutes)",
+   "change at Shioiribashi Bus Stop"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_nachi",
+  "text": "Kumano Nachi Taisha can be reached via the stone-paved road known as Daimonzaka, flanked by towering Japanese cedar trees",
+  "claim": "Nachi Taisha",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "stone-paved road known as Daimonzaka",
+   "towering Japanese cedar trees"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_seigantoji",
+  "text": "next to the shrine is Seigantoji Temple, and in the Meiji period the two were divided because of the separation of Shinto and Buddhism, but many visitors still pray at both locations",
+  "claim": "Seigantoji",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Adjacent to the shrine is Seigantoji Temple",
+   "due to the separation of Shinto and Buddhism",
+   "many visitors still pray at both locations"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_falls",
+  "text": "Nachi Falls is 133 meters tall and has the highest drop of any waterfall in Japan",
+  "claim": "Nachi Falls",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "133 meters tall",
+   "highest drop of any waterfall in Japan"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "kmk_horyu",
+  "text": "to the northeast, Horyu Waterfall and Senin Waterfall are scenic and tranquil hiking destinations",
+  "claim": "Other waterfalls",
+  "source_name": "JNTO itinerary: Trekking the Kumano Kodo Pilgrimage Route",
+  "source_url": "https://www.japan.travel/en/itineraries/trekking-along-the-kumano-kodo/",
+  "must_contain": [
+   "Horyu Waterfall and Senin Waterfall",
+   "scenic and tranquil hiking destinations"
+  ],
+  "topics": [
+   "kumano-kodo-pilgrimage-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_len",
+  "text": "the JNTO itinerary Cycling the Shimanami Kaido has a recommended length of 1 to 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Recommended length: 1-2 days"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_intro",
+  "text": "the Shimanami Kaido is a scenic 70 km-long bike route from Honshu to Shikoku, crossing over six islands, and it can be completed in a day",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Cycle from Honshu to Shikoku on this scenic 70 km-long bike route",
+   "Crossing over six islands",
+   "can be completed in a day"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_highlights",
+  "text": "the highlights are riding through quaint seaside towns and citrus groves, passing Kosanji Temple, and views of the Seto Inland Sea from the bridges",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Ride through quaint seaside towns and citrus groves",
+   "Pass by Kosanji Temple"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_tokyo",
+  "text": "from Tokyo it takes 4 hours 30 minutes, with the Shinkansen to Fukuyama Station taking 3 hours 30 minutes and the JR Sanyo Line to Onomichi Station taking 20 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "From Tokyo: 4 hours 30 minutes",
+   "to Fukuyama Station (3 hours 30 minutes)",
+   "to Onomichi Station (20 minutes)"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_hiroshima",
+  "text": "from Hiroshima it takes around 1 hour, with the Shinkansen to Fukuyama Station taking 30 minutes",
+  "claim": "From Hiroshima",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "From Hiroshima: Around 1 hour",
+   "to Fukuyama Station (30 minutes)"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_onomichi",
+  "text": "Onomichi has many shops that offer bicycle maintenance and rentals",
+  "claim": "Onomichi bikes",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "bicycle maintenance and rentals"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_temples",
+  "text": "a temple walk connects 25 temples in Onomichi, and the most important, Senkoji, was built in 806 and is accessible by a small ropeway",
+  "claim": "Onomichi temples",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "A temple walk connects 25 of them",
+   "built in 806",
+   "accessible by a small ropeway"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_observatory",
+  "text": "Senkoji Park has an observatory with views of the town, the sea and the Shimanami Kaido",
+  "claim": "Senkoji Park",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Senkoji Park has an observatory"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_time",
+  "text": "experienced cyclists can complete the 70-kilometer route in about four hours, a leisurely ride takes about 10 hours, and you can also cycle just a section of it",
+  "claim": "Riding time",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "complete the 70-kilometer journey along it in about four hours",
+   "will take about 10 hours",
+   "cycle just a section of it"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_innoshima",
+  "text": "Suigun Castle on Innoshima was built in 1983 and has a museum on the Murakami Suigun, a naval clan active from the mid-14th to the 16th centuries",
+  "claim": "Innoshima",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Built in 1983",
+   "Murakami Suigun",
+   "mid-14th to the 16th centuries"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_kosanji",
+  "text": "Kosanji Temple on Ikuchijima was founded in 1935 and took more than 30 years to complete, with replicas of many famous temples and shrines",
+  "claim": "Kosanji",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "founded in 1935",
+   "more than 30 years",
+   "replicas of many of Japan"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_families",
+  "text": "Ikuchijima is a great place for cycling for families and couples",
+  "claim": "Ikuchijima",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "great place for cycling for families and couples"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_omishima",
+  "text": "Omishima is the largest island along the route, and its Oyamazumi-jinja, dedicated to the gods of sailors and soldiers, has the largest museum of samurai-era military equipment in the country",
+  "claim": "Omishima",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Omishima, the largest island along the Shimanami Kaido",
+   "gods of sailors and soldiers",
+   "largest museum of samurai-era military equipment in the country"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_hakata",
+  "text": "Kitaura Hachiman Okami-jinja Shrine on Hakatajima was originally built in 673",
+  "claim": "Hakatajima",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Originally built in 673"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_kurushima",
+  "text": "the Kurushima Kaikyo Bridge was completed in 1999, is the first triple suspension bridge in the world, and is about 4,100 meters long",
+  "claim": "Kurushima Kaikyo Bridge",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "Completed in 1999",
+   "triple suspension bridge",
+   "about 4,100 meters"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_rose",
+  "text": "Yoshiumi Rose Park on Oshima has 3,500 roses from 400 different species, in bloom between mid-May and December",
+  "claim": "Rose Park",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "3,500 roses from 400 different species",
+   "between mid-May and December"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_imabari",
+  "text": "in Imabari the local favorite is fried pork and eggs over rice, and ramen made from local sea bream is also popular",
+  "claim": "Imabari food",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "fried pork and eggs over rice",
+   "Ramen made from local sea bream"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_pilgrim",
+  "text": "six sacred sites on the Shikoku 88 Temple Pilgrimage are located in Imabari",
+  "claim": "Imabari temples",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "six sacred sites on the Shikoku 88 Temple Pilgrimage"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "smn_return",
+  "text": "you can drop your bike off in Imabari and return to Onomichi by highway bus, which takes about 1.5 hours, and from Onomichi the JR Sanyo Line takes another 1.5 hours to Hiroshima",
+  "claim": "Return trip",
+  "source_name": "JNTO itinerary: Cycling the Shimanami Kaido",
+  "source_url": "https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/",
+  "must_contain": [
+   "return to Onomichi by highway bus, which takes about 1.5 hours",
+   "JR Sanyo Line another 1.5 hours to Hiroshima"
+  ],
+  "topics": [
+   "shimanami-kaido-cycling-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_len",
+  "text": "the JNTO itinerary Hiroshima in Autumn has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_highlights",
+  "text": "the highlights include the thought-provoking displays at Hiroshima Peace Memorial Museum and the famous okonomiyaki",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "thought-provoking displays at Hiroshima Peace Memorial Museum",
+   "famous okonomiyaki"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_osaka",
+  "text": "from Osaka it takes 1 hour 25 minutes on the Tokaido-Sanyo Shinkansen from Shin-Osaka Station",
+  "claim": "From Osaka",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "From Osaka: 1 hour 25 minutes",
+   "Take the Tokaido-Sanyo Shinkansen from Shin-Osaka Station"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_ferry",
+  "text": "to reach Miyajima you take the JR Sanyo Line to Miyajimaguchi Station, then board the ferry, a journey of 50 minutes",
+  "claim": "To Miyajima",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "50 minutes Take the JR Sanyo Line to Miyajimaguchi Station, then board the ferry bound for Miyajima"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_miyajima",
+  "text": "Itsukushima-jinja Shrine was constructed around 1400 years ago and sits elevated over the water, with covered corridors connecting the shrine buildings",
+  "claim": "Itsukushima-jinja",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "constructed around 1400 years ago",
+   "Covered corridors connect the shrine buildings"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_torii",
+  "text": "the grand torii gate stands further out in the bay and is accessible at low tide, and at night the shrine is illuminated",
+  "claim": "Torii and lighting",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "accessible at low tide",
+   "the shrine is illuminated"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_pagoda",
+  "text": "the Five-Story Pagoda was originally built in 1407, and its vivid red lacquer is enhanced by the bold reds and golds of the autumn leaves around it",
+  "claim": "Five-Story Pagoda",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Originally built in 1407",
+   "bold reds and golds of the surrounding autumn leaves"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_houkoku",
+  "text": "Houkoku-jinja Shrine is sometimes called the Hall of 1000 Mats, and Toyotomi Hideyoshi started building it in 1587 but it was never completed",
+  "claim": "Houkoku-jinja",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Hall of 1000 Mats",
+   "Toyotomi Hideyoshi started building the shrine in 1587",
+   "never completed"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_walk",
+  "text": "the ropeway base and Momijidani Park are a 20-minute walk from Miyajimaguchi Ferry Terminal",
+  "claim": "Walk to the ropeway",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "The ropeway base and Momijidani Park are a 20-minute walk from Miyajimaguchi Ferry Terminal"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_momijidani",
+  "text": "Momijidani Park has about seven hundred maple trees that turn brilliant shades of red from mid- to late-November",
+  "claim": "Momijidani Park",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "about seven hundred maple trees",
+   "from mid- to late-November"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_misen",
+  "text": "Mt. Misen is the highest point on the island and can be reached by the Miyajima Ropeway",
+  "claim": "Mt. Misen",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "the highest point on the island",
+   "Miyajima Ropeway"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_shishiiwa",
+  "text": "the Shishiiwa Observatory at the summit gives panoramic views of the island, 535 meters above sea level",
+  "claim": "Shishiiwa Observatory",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Shishiiwa Observatory",
+   "535 meters above sea level"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_stay",
+  "text": "there are several Japanese inns and hotels on Miyajima Island, most near the port area on the north side",
+  "claim": "Staying on Miyajima",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "several Japanese inns and hotels on Miyajima Island",
+   "Most are located near the port area on the north side of the island"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_day2",
+  "text": "on day 2 you take a ferry from Miyajima to Miyajimaguchi for 10 minutes, then the JR Sanyo Main Line to Hiroshima Station, which takes 29 minutes",
+  "claim": "Back to Hiroshima",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Take a ferry from Miyajima to Miyajimaguchi for 10 minutes",
+   "which takes 29 minutes"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_tram",
+  "text": "you take the Hiroden Tram from Hiroshima Station to Genbaku Dome-mae Station",
+  "claim": "Tram",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Take the Hiroden Tram from Hiroshima Station to Genbaku Dome-mae Station"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_bomb",
+  "text": "Hiroshima was the first city to be hit by an atomic bomb, at 8:15 a.m. on August 6, 1945",
+  "claim": "History",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "8:15 a.m. on August 6, 1945",
+   "first city to be hit by an atomic bomb"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_park",
+  "text": "Peace Memorial Park contains the Peace Bell and the Cenotaph for the Atomic Bomb Victims, and a memorial ceremony is held there on August 6 every year",
+  "claim": "Peace Memorial Park",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Peace Bell, the Cenotaph for the Atomic Bomb Victims",
+   "A memorial ceremony is held in the park on August 6 every year"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_bus",
+  "text": "the Meipuru-pu Bus runs from the Hiroshima Peace Memorial Park bus stop to the Shukkeien Garden bus stop",
+  "claim": "Bus to Shukkeien",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Take the Meipuru-pu Bus from Hiroshima Peace Memorial Park bus stop to Shukkeien Garden bus stop"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_shukkeien",
+  "text": "Shukkeien Garden was created for the Daimyo of Hiroshima in 1619 and designed by tea master Ueda Soko, with a pond dotted with tiny islands and thatched tea houses",
+  "claim": "Shukkeien Garden",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "created for the Daimyo of Hiroshima in 1619",
+   "tea master Ueda Soko",
+   "thatched tea houses"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_maple",
+  "text": "the Maple Leaf Festival is held in late November, when the foliage is at its best",
+  "claim": "Maple Leaf Festival",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "Maple Leaf Festival in late November"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_castle",
+  "text": "Hiroshima Castle was built in 1599, destroyed during WWII and faithfully restored, and now houses a museum with historical artifacts from local samurai families",
+  "claim": "Hiroshima Castle",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "built in 1599",
+   "faithfully restored",
+   "historical artifacts from local samurai families"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "hra_okono",
+  "text": "Okonomimura Village is just a few minutes from Hiroshima Station by streetcar and has around 25 restaurants in one location",
+  "claim": "Okonomimura",
+  "source_name": "JNTO itinerary: Hiroshima in Autumn",
+  "source_url": "https://www.japan.travel/en/itineraries/vibrant-hiroshima-in-autumn/",
+  "must_contain": [
+   "just a few minutes from Hiroshima Station by streetcar",
+   "around 25 restaurants in one location"
+  ],
+  "topics": [
+   "hiroshima-autumn-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
  }
 ]
