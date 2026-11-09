@@ -48,7 +48,7 @@ JNTO also points to the mountain. On its height, {{fact:oit_yufu}}. Our view: no
 
 JNTO's second day goes to the big resort town. It says that {{fact:oit_beppu}}. For the bus, {{fact:oit_beppu_bus}}.
 
-{{photo:2|One of the colourful hells of Beppu}}
+{{photo:2|Umi Jigoku, the Sea Hell, one of the hells of Beppu}}
 
 Our view: the two bus times differ in JNTO's text, so allow a longer margin and check the timetable on the day.
 
@@ -56,7 +56,7 @@ For food, JNTO says that {{fact:oit_mushi}}.
 
 At the bath facility, {{fact:oit_hyotan}}. And on the wall, {{fact:oit_masters}}.
 
-{{photo:3|The sand bath in Beppu}}
+{{photo:3|An old postcard showing the sand bath in Beppu}}
 
 Then the main sight. On the hells, {{fact:oit_hells}}.
 
@@ -68,7 +68,7 @@ JNTO's third day is quieter. It says that {{fact:oit_kunisaki_hist}}. On getting
 
 The first stop is a major shrine. On Usa-jingu, {{fact:oit_usa}}.
 
-{{photo:4|The main shrine at Usa Jingu}}
+{{photo:4|Portable shrines at a ceremony at Usa Jingu}}
 
 For old temples, JNTO says that {{fact:oit_fukiji}}. Next, {{fact:oit_makiodo}}. And last, {{fact:oit_futagoji}}.
 

@@ -5,14 +5,14 @@ description: A 3-day northern Okinawa itinerary from JNTO: Churaumi Aquarium, Bi
 date: 2026-11-08
 updated: 2026-11-08
 cluster: itineraries
-affiliates: trip_things | klook | viator | trip_hotels
-image_queries: Churaumi Aquarium whale shark | Bise Fukugi tree lane | Hiji Falls Okinawa | Hirugi mangrove Okinawa
+affiliates: trip_things | klook | viator | trip_okinawa_hotels
+image_queries: Churaumi Aquarium whale shark | Hiji Falls Okinawa | Hirugi mangrove Okinawa Yanbaru
 ---
 Okinawa is the beach side of a Japan trip, but the north of the main island offers more than sand. The Japan National Tourism Organization (JNTO) has a three-day plan that links a famous aquarium with forests, waterfalls and mangroves. This guide follows the JNTO itinerary "Tropical Adventure in Okinawa" and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO sums up the trip: {{fact:okn_intro}}. And it sets the length: {{fact:okn_len}}.
 
-{{photo:1|A whale shark in the main tank of Churaumi Aquarium}}
+{{photo:1|A diver and a manta ray in a large aquarium tank}}
 
 ## The route at a glance
 
@@ -36,7 +36,6 @@ Our view: arrive in Naha the day before if you can, and take the first bus north
 
 JNTO starts with the aquarium. It says that {{fact:okn_aquarium}}. In the big tank, {{fact:okn_tank}}.
 
-{{photo:2|Bise Fukugi Tree Lane, with trees planted to protect the village houses}}
 
 On timing, JNTO adds that {{fact:okn_hours}}.
 
@@ -56,7 +55,7 @@ Our view: choose a licensed local guide and check the current booking terms. Our
 
 JNTO's second day goes into the forest. At the falls, {{fact:okn_hiji}}. On the hours, {{fact:okn_hiji_hours}}. And to get there, {{fact:okn_hiji_bus}}.
 
-{{photo:3|Hiji Otaki Falls in the forest of Yanbaru}}
+{{photo:2|Hiji Falls in the forest of northern Okinawa}}
 
 For the park, JNTO says that {{fact:okn_daiseki}}. On visiting, {{fact:okn_daiseki_hours}}. And on the nature, {{fact:okn_endemic}}.
 
@@ -66,7 +65,7 @@ For the park, JNTO says that {{fact:okn_daiseki}}. On visiting, {{fact:okn_daise
 
 JNTO's last day moves to the coast. At the first stop, {{fact:okn_mangrove}}. For the bus, {{fact:okn_mangrove_bus}}.
 
-{{photo:4|Mangroves at Higashimura Fureai Hirugi Park}}
+{{photo:3|Mangroves in Gesashi bay, photographed while a keep-out sign was posted during a tsunami warning}}
 
 For a second stop, JNTO says that {{fact:okn_neo}}. And for a sweet finish, {{fact:okn_pine}}.
 
@@ -78,7 +77,7 @@ Okinawa is subtropical, so weather is part of planning. Our [Japan weather guide
 
 ## Where to stay and what to book
 
-If you want a mangrove canoe tour or a guided night walk, you can compare options on {{aff:trip_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}. For a place to stay in Tokyo on the way, you can look at hotels on {{aff:trip_hotels|Trip.com}}.
+If you want a mangrove canoe tour or a guided night walk, you can compare options on {{aff:trip_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}. For a place to stay in Naha or the north, you can compare Okinawa hotels on {{aff:trip_okinawa_hotels|Trip.com}}.
 
 Read the cancellation terms and the meeting point before you book anything.
 
