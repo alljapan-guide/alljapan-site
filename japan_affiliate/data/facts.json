@@ -21349,5 +21349,1551 @@
    "izu-oshima-island-2-day-itinerary"
   ],
   "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_len",
+  "text": "the JNTO itinerary Spirituality in the Mountains of Koyasan has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_intro",
+  "text": "Mt. Koya is the birthplace of Shingon Buddhism, introduced 1,200 years ago by the priest Kukai",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "birthplace of Shingon Buddhism",
+   "introduced 1,200 years ago by the priest Kukai"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_walk",
+  "text": "you can walk part of the ancient pilgrimage route, relax in the sacred atmosphere and stay overnight in a shukubo, a traditional temple lodging",
+  "claim": "What you can do",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "walk part of the ancient pilgrimage route",
+   "stay overnight in a shukubo, a traditional temple lodging"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_highlights",
+  "text": "the highlights are the serene, cedar-lined approach to Okunoin Temple, staying at a shukubo and joining the morning prayers, and Banryu-tei Garden",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "The serene, cedar-lined approach to Okunoin Temple",
+   "Staying at a shukubo and joining the morning prayers",
+   "Banryu-tei Garden"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_route",
+  "text": "from Osaka it takes 3 hours: the Midosuji Subway Line to Namba Station takes 15 minutes, the Nankai Limited Express to Hashimoto Station takes 50 minutes, the local line to Gokurakubashi Station takes 45 minutes, then the Koyasan Cable Car",
+  "claim": "From Osaka",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "From Osaka: 3 hours",
+   "Midosuji Subway Line to Namba Station (15 minutes)",
+   "Hashimoto Station (50 minutes)",
+   "Gokurakubashi Station (45 minutes)",
+   "Koyasan Cable Car"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_bus",
+  "text": "the cable car to Mt. Koyasan Station takes 5 minutes, and the Nankai Rinkan Bus from in front of Koyasan Station goes to Daimon Bus Stop in 10 minutes",
+  "claim": "Cable car and bus",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "Mt. Koyasan Station (5 minutes)",
+   "The Nankai Rinkan Bus picks passengers up from in front of Koyasan Station",
+   "Daimon Bus Stop (10 minutes)"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_nankai",
+  "text": "from Namba Station it is an 80 minute trip on the Nankai Koya Line to Gokurakubashi Station, then a five-minute cable car ride up to Koyasan",
+  "claim": "Nankai line",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "80 minute trip on the Nankai Koya Line to Gokurakubashi Station",
+   "five-minute cable car ride up to Koyasan"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_daimon",
+  "text": "Daimon gate is the gateway to Mt. Koya, a huge vermillion structure flanked by fierce wooden guardians",
+  "claim": "Daimon Gate",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "huge vermillion structure flanked by fierce wooden guardians"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_women",
+  "text": "up until about 150 years ago women were not allowed to enter the mountain",
+  "claim": "History",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "women were not allowed to enter the mountain"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_danjo",
+  "text": "Danjo Garan has an impressive two-story round tahoto-style pagoda and is the center of the religious town of Koyasan",
+  "claim": "Danjo Garan",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "two-story round tahoto-style pagoda",
+   "center of the religious town of Koyasan"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_reihokan",
+  "text": "the Koyasan Reihokan Museum displays cultural assets owned by the temples, some over 1,000 years old and designated as National Treasures",
+  "claim": "Reihokan Museum",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "cultural assets owned by the temples on Koyasan",
+   "over 1,000 years old and designated as National Treasures"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_kongobuji",
+  "text": "Kongobuji is the head temple of around 3,600 Shingon temples and has the largest stone garden in the country, with two dragons made from 140 pieces of blue granite",
+  "claim": "Kongobuji",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "head temple of around 3,600 Shingon temples",
+   "largest stone garden in the country",
+   "140 pieces of blue granite"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_sanmaiin",
+  "text": "Kongou Sanmaiin was built by Hojo Masako about 800 years ago and has a tahoto pagoda built in 1223",
+  "claim": "Kongou Sanmaiin",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "built by Hojo Masako about 800 years ago",
+   "tahoto pagoda built in 1223"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_okunoin",
+  "text": "the path to Okunoin is cedar-lined and passes more than 200,000 gravestones and towers",
+  "claim": "Okunoin path",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "cedar-lined path",
+   "more than 200,000 gravestones"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_okunoin_rest",
+  "text": "Okunoin Temple is the spiritual resting place of Kukai",
+  "claim": "Okunoin",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "spiritual resting place of Kukai"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_bridge",
+  "text": "when you cross the bridge you should bow your head and hold your hands in prayer",
+  "claim": "Bridge etiquette",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "bow your head and hold your hands in prayer"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_warlords",
+  "text": "the gravestones include names from Japanese history such as the warlords Toyotomi Hideyoshi and Oda Nobunaga",
+  "claim": "Famous names",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "Toyotomi Hideyoshi and Oda Nobunaga"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_shukubo",
+  "text": "there are around 52 shukubo temple lodgings in the area",
+  "claim": "Shukubo",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "around 52 shukubo temple lodgings"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "kys_shukubo_range",
+  "text": "the lodgings range from very simple ones with basic accommodations, vegan meals and shared bathrooms to more luxurious ones, and many offer tea ceremony and sutra copying experiences along with morning prayers",
+  "claim": "Shukubo range",
+  "source_name": "JNTO itinerary: Spirituality in the Mountains of Koyasan",
+  "source_url": "https://www.japan.travel/en/itineraries/a-spiritual-journey-through-sacred-mountains/",
+  "must_contain": [
+   "vegan meals, and shared bathrooms",
+   "tea ceremony and sutra copying experiences",
+   "morning prayers"
+  ],
+  "topics": [
+   "koyasan-mt-koya-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_len",
+  "text": "the JNTO itinerary Exploring Aizu Samurai Spirit has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_intro",
+  "text": "the itinerary explores the philosophy of the samurai through castles, temples and post towns",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "philosophy of the samurai",
+   "castles, temples and post towns"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_kitakata_intro",
+  "text": "Kitakata is a historical merchant town with beautifully preserved storehouses and famous ramen",
+  "claim": "Kitakata",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "beautifully preserved storehouses and famous ramen"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_highlights",
+  "text": "the highlights include standing on the grounds of Tsuruga Castle and exploring the preserved townscapes in Ouchijuku",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Standing on the grounds of Tsuruga Castle",
+   "preserved townscapes in Ouchijuku"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_route",
+  "text": "from Tokyo it takes 3 hours: the Tohoku Shinkansen to Koriyama Station takes about 1 hour 30 minutes, then a Shin-Joban Kotsu bus takes 1 hour 15 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "From Tokyo: 3 hours",
+   "Koriyama Station, which takes about 1 hour 30 minutes",
+   "Shin-Joban Kotsu bus from just opposite Koriyama Station (1 hour 15 minutes)"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_castle",
+  "text": "Tsurugajo Castle is where one of the fiercest battles of the Boshin War of 1868 was fought, as one of the last strongholds of Aizu samurai loyal to the Tokugawa Shogunate",
+  "claim": "Tsurugajo Castle",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Boshin War of 1868",
+   "loyal to the Tokugawa Shogunate"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_rebuilt",
+  "text": "the castle was first built in 1384 and rebuilt in the 1960s",
+  "claim": "Castle history",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "first built in 1384",
+   "rebuilt in the 1960s"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_redroof",
+  "text": "the castle has a red-tiled roof, which is unusual for castles in Japan",
+  "claim": "Red roof",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "unusual for castles in Japan"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_museum",
+  "text": "the onsite museum tells you more about the history and culture of the Aizu region",
+  "claim": "Castle museum",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "onsite museum"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_loopbus",
+  "text": "you take the Aizu Loop Bus to the Aizu Bukeyashiki-mae stop",
+  "claim": "Loop bus",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Take the Aizu Loop Bus to the Aizu Bukeyashiki-mae stop"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_mansion",
+  "text": "the Aizu Samurai Mansion has dozens of rooms and sections including gardens, a tea house and an archery range, with mannequins of the former inhabitants",
+  "claim": "Samurai Mansion",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "dozens of rooms and sections including gardens, a tea house and even an archery range",
+   "mannequins of the former inhabitants"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_byakkotai",
+  "text": "the Byakkotai were teenage samurai aged 16 and 17 who fought in the Boshin War, and the Byakkotai Museum is at the base of Mt. Iimori",
+  "claim": "Byakkotai",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "aged 16 and 17",
+   "Byakkotai Museum"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_iimori_bus",
+  "text": "you take the Aizu Loop Bus to the Iimoriyama-shita stop, then walk three minutes to the Byakkotai Museum",
+  "claim": "Route to Mt. Iimori",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Take the Aizu Loop Bus to the Iimoriyama-shita stop, then walk three minutes to the Byakkotai Museum"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_sazaedo",
+  "text": "Aizu Sazaedo was built in 1796, is a hexagonal, three-tiered temple 16.5 meters tall, and has no stairs on the gradual ascent",
+  "claim": "Aizu Sazaedo",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Built in 1796",
+   "hexagonal, three-tiered temple",
+   "16.5 meters tall",
+   "there are no stairs on the gradual ascent"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_pilgrimage",
+  "text": "a journey up and down Sazaedo represents the Saigoku Kannon Pilgrimage to 33 Buddhist temples",
+  "claim": "Sazaedo pilgrimage",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Saigoku Kannon Pilgrimage to 33 Buddhist temples"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_ashinomaki",
+  "text": "Ashinomaki Onsen has a history of over a millennium, with inns along the Okawa River and outdoor baths that offer beautiful views of the gorge",
+  "claim": "Ashinomaki Onsen",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "history of over a millennium",
+   "inns along the Okawa River",
+   "outdoor baths that offer beautiful views of the gorge"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_ashi_route",
+  "text": "to reach Ashinomaki Onsen you take an Aizu Loop Bus to Wakamatsu Station, then a bus bound for Ashinomaki Chuo Machiaisho",
+  "claim": "Route to Ashinomaki",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Take an Aizu Loop Bus to Wakamatsu Station",
+   "bus bound for Ashinomaki Chuo Machiaisho"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_day2",
+  "text": "on day 2 you take a bus to Ashinomaki-onsen Station and a train to Tonohetsuri Station",
+  "claim": "Day 2 route",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Take a bus to Ashinomaki-onsen Station",
+   "Board a train to Tonohetsuri Station"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_hetsuri",
+  "text": "Hetsuri means cliff in the Aizu dialect, and the To-no-Hetsuri Cliff is designated a national monument with unusually shaped rocks",
+  "claim": "To-no-Hetsuri Cliff",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "cliff in the Aizu dialect",
+   "designated a national monument",
+   "unusually shaped rocks"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_ouchi_route",
+  "text": "you take a train to Yunokami Onsen Station, then a bus to the Ouchi-juku bus stop",
+  "claim": "Route to Ouchi-juku",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Take a train to Yunokami Onsen Station",
+   "bus to the Ouchi-juku bus stop"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_ouchi",
+  "text": "Ouchi-juku has thatched roofs and a broad main thoroughfare and was formerly one of the post towns that dotted Japan",
+  "claim": "Ouchi-juku",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "thatched roofs and a broad main thoroughfare",
+   "post towns"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_ouchi_food",
+  "text": "local specialties at Ouchi-juku are scallion soba noodles and grilled char fish",
+  "claim": "Ouchi-juku food",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "scallion soba noodles, and grilled char fish"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_kitakata",
+  "text": "Kitakata has around 4,000 traditional storehouses, many shops still produce and sell miso and sake, and some storehouses are converted into museums, restaurants or art galleries",
+  "claim": "Kitakata storehouses",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "around 4,000 traditional storehouses",
+   "miso and sake",
+   "converted into museums, restaurants, or art galleries"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_ramen",
+  "text": "Kitakata has over 100 ramen noodle joints, serving curly noodles in a rich soy sauce-based soup",
+  "claim": "Kitakata ramen",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "over 100 ramen noodle joints",
+   "curly noodles in a rich soy sauce-based soup"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_sake",
+  "text": "the Yamatogawa Sake Brewery Northern Museum is a storehouse established in 1790, with a sake-tasting corner where you can sample about 10 types of sake",
+  "claim": "Sake museum",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "Yamatogawa Sake Brewery Northern Museum",
+   "established in 1790",
+   "about 10 types of sake"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "aiz_yonezawa",
+  "text": "Yonezawa is just over the border in Yamagata Prefecture",
+  "claim": "Yonezawa",
+  "source_name": "JNTO itinerary: Exploring Aizu Samurai Spirit",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-aizus-samurai-spirit/",
+  "must_contain": [
+   "just over the border in Yamagata Prefecture"
+  ],
+  "topics": [
+   "aizu-samurai-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_len",
+  "text": "the JNTO itinerary Explore Chiba Theme Parks and Farms has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_intro",
+  "text": "the itinerary lets you discover the world below the sea, enjoy a farm experience and see views of Tokyo Bay from the jagged cliffs of Mt. Nokogiri",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Discover the world below the sea",
+   "jagged cliffs of Mt. Nokogiri"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_beyond",
+  "text": "beyond Disneyland, Chiba is home to a number of family-friendly theme parks",
+  "claim": "Beyond Disneyland",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Beyond Disneyland",
+   "family-friendly theme parks"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_highlights",
+  "text": "the highlights are sea life at Kamogawa Seaworld, the views from the top of Mt. Nokogiri and fruit-picking at Tokyo German Village",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Encountering sea life at Kamogawa Seaworld",
+   "Admiring the views from the top of Mt. Nokogiri",
+   "Fruit-picking at Tokyo German Village"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_route",
+  "text": "from Tokyo it takes around 2 hours: the JR Sotobo Line Limited Express to Awa-Kamogawa Station, then a free shuttle bus to Kamogawa Seaworld that takes 10 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "From Tokyo: around 2 hours",
+   "JR Sotobo Line Limited Express to Awa-Kamogawa Station",
+   "free shuttle bus to Kamogawa Seaworld (10 minutes)"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_bus",
+  "text": "there are also direct buses from the Yaesu South Exit Bus Terminal at Tokyo Station on the Keisei Bus line, which take 2 hours 15 minutes",
+  "claim": "Direct bus",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Yaesu South Exit Bus Terminal on the Keisei Bus line to Kamogawa Seaworld (2 hours 15 minutes)"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_seaworld",
+  "text": "Kamogawa Seaworld is home to over 11,000 marine creatures across 800 different species",
+  "claim": "Kamogawa Seaworld",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "over 11,000 marine creatures across 800 different species"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_park",
+  "text": "the park has themed display zones and the killer whale live show is a highlight",
+  "claim": "Seaworld shows",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "killer whale live show",
+   "themed display zones"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_nokogiri_route",
+  "text": "to reach Mt. Nokogiri you take the free shuttle bus to Awa-Kamogawa Station and change to the JR Uchibo Line to Hamakanaya Station, which takes 1 hour 20 minutes",
+  "claim": "Route to Mt. Nokogiri",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Take Free Shuttle bus to Awa-Kamogawa Station and change to JR Uchibo Line to Hamakanaya Station"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_nokogiri",
+  "text": "Mt. Nokogiri is a 330-meter-high mountain covered in walking trails, some of which lead to Nihonji Temple",
+  "claim": "Mt. Nokogiri",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "330-meter-high mountain",
+   "Nihonji Temple"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_views",
+  "text": "from the trails you can see Tokyo Bay, Tokyo Skytree, the Miura Peninsula, Mt. Fuji and Izu Oshima framed by jagged cliffs",
+  "claim": "Views",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Tokyo Skytree, the Miura Peninsula, Mt. Fuji, and Izu Oshima"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_jizo",
+  "text": "you will see thousands of jizo, small statues in individual poses set in the cliffside",
+  "claim": "Jizo statues",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "thousands of jizo"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_onsen",
+  "text": "Umibe no Yu Hot Spring is a 15-minute drive north of the mountain and has outdoor baths with views of the ocean",
+  "claim": "Umibe no Yu",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Umibe no Yu Hot Spring",
+   "15-minute drive north of the mountain"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_day2",
+  "text": "on day 2 you take the JR Uchibo Line to Sanukimachi Station and change to the Nitto Kotsu Bus to Mother Farm, which takes 41 minutes",
+  "claim": "Route to Mother Farm",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Take JR Uchibo Line to Sanukimachi Station and then change to Nitto Kotsu Bus to Mother Farm"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_mother",
+  "text": "Mother Farm is a sprawling 250-hectare farm-based amusement park where you can try milking cows, riding horses, and making cheese and butter",
+  "claim": "Mother Farm",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "250-hectare farm-based amusement park",
+   "milking cows, riding horses, and making cheese and butter"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_german",
+  "text": "Tokyo German Village is modeled after a picturesque rural German landscape and has a Ferris wheel",
+  "claim": "Tokyo German Village",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "Modeled after a picturesque rural German landscape",
+   "Ferris wheel"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_spring",
+  "text": "the area is particularly beautiful in springtime",
+  "claim": "Spring",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "particularly beautiful in springtime"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "chb_sodegaura",
+  "text": "Sodegaura Seaside Park has open lawns, ocean views and publicly accessible barbecue facilities",
+  "claim": "Sodegaura Seaside Park",
+  "source_name": "JNTO itinerary: Explore Chiba Theme Parks and Farms",
+  "source_url": "https://www.japan.travel/en/itineraries/exploring-chibas-theme-parks-and-farms/",
+  "must_contain": [
+   "publicly accessible barbecue facilities",
+   "open lawns, gorgeous ocean views"
+  ],
+  "topics": [
+   "chiba-theme-parks-farms-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_len",
+  "text": "the JNTO itinerary Food and Culture in Ise has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_intro",
+  "text": "Ise is best known for Ise-jingu, one of the oldest and most significant shrines in Japan, its specialty dishes and delectable seafood",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "oldest and most significant shrines",
+   "delectable seafood"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_ago",
+  "text": "Ago Bay, south of Ise City, is historically known as the pearl production capital of Japan, thanks to the cultivation of Akoya oysters",
+  "claim": "Ago Bay",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "pearl production capital of Japan",
+   "Akoya oysters"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_highlights",
+  "text": "the highlights are paying your respects at the Ise-jingu Shrines, dining on Ise lobster and Mikimoto Pearl Island",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Paying your respects at the Ise-jingu Shrines",
+   "Dining on Ise lobster",
+   "Mikimoto Pearl Island"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_osaka",
+  "text": "from Osaka it takes 2 hours, with the Kintetsu Limited Express from Tsuruhashi Station to Iseshi Station taking 1 hour 40 minutes",
+  "claim": "From Osaka",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "From Osaka: 2 hours",
+   "Kintetsu Limited Express from Tsuruhashi Station to Iseshi Station (1 hour 40 minutes)"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_bus",
+  "text": "buses run from Iseshi Station to the Jingu Kaikan Mae Bus Stop in 20 minutes, and Okage Yokocho is in front of the bus stop",
+  "claim": "Bus to Okage Yokocho",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Jingu Kaikan Mae Bus Stop via Mie Kotsu Bus (20 minutes)",
+   "Okage Yokocho is in front of the bus stop"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_tokyo",
+  "text": "from Tokyo it takes 3 hours 40 minutes, taking the shinkansen to Nagoya and then the JR Rapid Mie to Ise-shi Station, which takes 95 minutes",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "From Tokyo: 3 hours 40 minutes",
+   "Take the JR Rapid Mie to Ise-shi Station (95 minutes)"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_okage",
+  "text": "Okage Yokocho Street is a gourmet thoroughfare filled with shops selling local Ise delicacies",
+  "claim": "Okage Yokocho",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "A gourmet thoroughfare",
+   "local Ise delicacies"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_inner",
+  "text": "the Inner Shrine of Ise-jingu is the home of Amaterasu, the divine ancestor of the Imperial Family",
+  "claim": "Inner Shrine",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Inner Shrine of Ise-jingu",
+   "Amaterasu, the divine ancestor of the Imperial Family"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_uji",
+  "text": "Uji Bridge, at the entrance to the inner shrine, is believed to connect the sacred and the secular worlds",
+  "claim": "Uji Bridge",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Uji Bridge, at the entrance to the inner shrine",
+   "connect the sacred and the secular worlds"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_lobster",
+  "text": "Ise lobsters are at their best between October and April",
+  "claim": "Ise lobster season",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Ise lobsters are at their best between October and April"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_tekone",
+  "text": "tekonezushi is a signature Ise dish of delicately marinated strips of lean fish on a bed of vinegared sushi rice",
+  "claim": "Tekonezushi",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Delicately marinated strips of lean fish",
+   "signature Ise dish"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_oshi",
+  "text": "oshizushi is a layered type of sushi made in a traditional wooden block press, and the saury fish caught in Ise makes very good oshizushi",
+  "claim": "Oshizushi",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "traditional wooden block press",
+   "saury fish caught in Ise"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_udon",
+  "text": "udon from Ise is distinguished from other varieties by the rich sauce that it is served with",
+  "claim": "Ise udon",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Udon from Ise is distinguished from other varieties by the rich sauce"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_akafuku",
+  "text": "akafuku is a pounded rice cake topped with a simple red bean paste, served the same way for over three hundred years",
+  "claim": "Akafuku",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "akafuku, a pounded rice cake",
+   "over three hundred years"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_restaurants",
+  "text": "many restaurants serving local delicacies are clustered in the downtown area near Iseshi Station",
+  "claim": "Restaurants",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "clustered in the downtown area near Iseshi Station"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_outer",
+  "text": "from Iseshi Station the outer shrine is a 10-minute walk south, where you pay your respects to the goddess of food and grains",
+  "claim": "Outer Shrine",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "the outer shrine is a 10-minute walk south",
+   "goddess of food and grains"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_meoto_route",
+  "text": "you take a bus from the Geku-mae stop to Meoto Iwa Higashiguchi, which takes 55 minutes",
+  "claim": "Route to Meoto Iwa",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Take a bus from the Geku-mae stop to Meoto Iwa Higashiguchi"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_meoto",
+  "text": "the wedded rocks of Meoto Iwa stand 700 meters offshore, the rising sun can be seen between them from May to July, and they are backdropped by full moons in autumn and winter",
+  "claim": "Meoto Iwa",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "700 meters offshore",
+   "from May to July",
+   "full moons in autumn and winter"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_mikimoto_route",
+  "text": "you take a bus from Meoto Iwa Higashiguchi to the Toba Center bus stop, then walk about 10 minutes",
+  "claim": "Route to Mikimoto Pearl Island",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "Take a bus from Meoto Iwa Higashiguchi to the Toba Center bus stop, then walk about 10 minutes"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_mikimoto",
+  "text": "Mikimoto Pearl Island has the first pearl museum in Japan and is where Kokichi Mikimoto first successfully cultivated a pearl, with the famed pearl divers of Toba",
+  "claim": "Mikimoto Pearl Island",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "first pearl museum",
+   "Kokichi Mikimoto first successfully cultivated a pearl",
+   "famed pearl divers of Toba"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "ifc_spain",
+  "text": "Shima Spain Village is a European-styled theme park, and Mie Prefecture has a sister state relationship with the Spanish region of Valencia",
+  "claim": "Shima Spain Village",
+  "source_name": "JNTO itinerary: Food and Culture in Ise",
+  "source_url": "https://www.japan.travel/en/itineraries/ise-shrine-toba-ago-bay-and-beyond/",
+  "must_contain": [
+   "European-styled theme park",
+   "sister state relationship with the Spanish region of Valencia"
+  ],
+  "topics": [
+   "ise-food-and-culture-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_len",
+  "text": "the JNTO itinerary Touring Through Tohoku Summer Festival Circuit has a recommended length of 3-5 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "Recommended length: 3-5 days"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_intro",
+  "text": "Tohoku is home to three of the most colorful summer festivals in the nation, held around the same time, and all three can be experienced on a single trip",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "three of the nation",
+   "most colorful summer festivals",
+   "all three can be experienced on a single trip"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_order",
+  "text": "the journey begins with the giant paper floats of Aomori Nebuta, stops at the Akita Kanto Festival and ends at Sendai Tanabata",
+  "claim": "Order of the trip",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "giant paper floats of Aomori Nebuta",
+   "Akita Kanto Festival to watch heart-stopping feats of balance",
+   "Sendai Tanabata"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_access",
+  "text": "from Tokyo it takes 3 hours 10 minutes, and trains on the Tohoku Shinkansen to Shin-Aomori Station depart hourly",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "From Tokyo: 3 hours 10 minutes",
+   "Shin-Aomori Station depart hourly"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_aomori",
+  "text": "Aomori City is the northernmost capital city on Honshu, and the Nebuta Festival is the biggest summer event in the area, with 3 million visitors each year",
+  "claim": "Aomori",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "northernmost capital city on Honshu",
+   "3 million visitors each year"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_nebuta_dates",
+  "text": "the Aomori Nebuta Festival is held between August 2 to 7",
+  "claim": "Nebuta dates",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "August 2 to 7"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_parade",
+  "text": "the highlight is the daily parade of enormous, meticulously-crafted paper lantern floats accompanied by dancers and taiko drummers",
+  "claim": "Nebuta parade",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "enormous, meticulously-crafted, paper lantern floats",
+   "dancers and taiko drummers"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_warasse",
+  "text": "Nebuta House Warasse is a museum with full-sized floats, haneto dancing workshops and taiko drumming displays",
+  "claim": "Nebuta House Warasse",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "Nebuta House Warasse",
+   "haneto dancing workshops"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_asamushi",
+  "text": "Asamushi Onsen Village is flanked by the ocean on one side and rolling hills on the other, with resort hotels and ryokan",
+  "claim": "Asamushi Onsen",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "flanked by the ocean on one side",
+   "resort hotels and ryokan"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_asamushi_route",
+  "text": "you take the Aoimori Railway from Asamushi Onsen Station to Aomori Station, then the JR Ou Line Limited Express to Akita Station, a journey of 3 hours 5 minutes",
+  "claim": "Route to Akita",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "Take Aoimori Railway to Aomori Station from Asamushi Onsen Station",
+   "JR Ou Line-Limited Express to Akita Station"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_kanto",
+  "text": "the Akita Kanto Festival is held along Kanto Dori in Akita City, is also known as the pole lantern festival, and runs from August 3 to 6",
+  "claim": "Akita Kanto Festival",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "Held along Kanto Dori in Akita City",
+   "pole lantern festival",
+   "August 3 to 6"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_kanto_perf",
+  "text": "nightly parades feature skilled performers who balance lantern-covered bamboo poles known as kanto on different parts of their bodies",
+  "claim": "Kanto performances",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "nightly parades",
+   "lantern-covered bamboo poles known as kanto"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_kanto_comp",
+  "text": "kanto skill competitions are held in front of the Akita Museum of Art",
+  "claim": "Kanto competitions",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "kanto skill competitions are held in front of the Akita Museum of Art"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_neburi",
+  "text": "you can learn more at the Akita City Folk Performing Arts Heritage Center, the Neburi Nagashi Museum",
+  "claim": "Neburi Nagashi Museum",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "Neburi Nagashi Museum"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_sendai_route",
+  "text": "you take the Akita Shinkansen Komachi from Akita Station to Sendai Station, which takes 2 hours 22 minutes",
+  "claim": "Route to Sendai",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "Take Akita Shinkansen Komachi from Akita Station to Sendai Station"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_tanabata",
+  "text": "the Sendai Tanabata Festival runs from August 6 to 8, beginning on the final day of the Akita Kanto Festival",
+  "claim": "Tanabata dates",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "runs from August 6 to 8",
+   "Beginning on the final day of the Akita Kanto Festival"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_tan_decor",
+  "text": "the streets of downtown Sendai are lined with streamers and paper decorations, creating a colorful paper forest in the heart of the city",
+  "claim": "Tanabata decorations",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "colorful paper forest in the heart of the city"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_tan_show",
+  "text": "the festival features stage performances, live music and traditional dances, with a fireworks display on the Hirosegawa River the night before",
+  "claim": "Tanabata events",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "stage performances, live music, and traditional dances",
+   "fireworks display that takes place on the Hirosegawa River the night before"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
+ },
+ {
+  "id": "tfs_akiu",
+  "text": "Akiu Onsen is less than an hour from Sendai by car and has the Akiu Great Falls, a six-meter wide, 55-meter tall waterfall",
+  "claim": "Akiu Onsen",
+  "source_name": "JNTO itinerary: Touring Through Tohoku Summer Festival Circuit",
+  "source_url": "https://www.japan.travel/en/itineraries/touring-through-tohokus-lively-summer-festival-circuit/",
+  "must_contain": [
+   "less than an hour from Sendai by car",
+   "six-meter wide, 55-meter tall waterfall"
+  ],
+  "topics": [
+   "tohoku-summer-festivals-itinerary"
+  ],
+  "verified_on": "2026-11-10"
  }
 ]
