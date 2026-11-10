@@ -2818,24 +2818,6 @@
   "file": "koyasan-mt-koya-2-day-itinerary-1.jpg",
   "query": "Okunoin Koyasan cemetery"
  },
- "koyasan-mt-koya-2-day-itinerary/2": {
-  "title": "File:Daimon Kōyasan (Wakayama Kōya) Temple hdsr S5 d45.jpg",
-  "author": "Hyppolyte de Saint-Rambert",
-  "license": "CC BY 4.0",
-  "license_url": "https://creativecommons.org/licenses/by/4.0",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Daimon_K%C5%8Dyasan_(Wakayama_K%C5%8Dya)_Temple_hdsr_S5_d45.jpg",
-  "file": "koyasan-mt-koya-2-day-itinerary-2.jpg",
-  "query": "Daimon Koyasan gate"
- },
- "tohoku-summer-festivals-itinerary/1": {
-  "title": "File:Aomori Nebuta Festival fireworks.jpg",
-  "author": "OKJaguar",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Aomori_Nebuta_Festival_fireworks.jpg",
-  "file": "tohoku-summer-festivals-itinerary-1.jpg",
-  "query": "Aomori Nebuta Festival"
- },
  "chiba-theme-parks-farms-2-day-itinerary/1": {
   "title": "File:Walrus - Kamogawa Seaworld - 1.jpg",
   "author": "User:Megapixie",
@@ -2862,5 +2844,59 @@
   "source_url": "https://commons.wikimedia.org/wiki/File:Country_Farm_Tokyo_German_Village_(6561599615).jpg",
   "file": "chiba-theme-parks-farms-2-day-itinerary-3.jpg",
   "query": "Tokyo German Village"
+ },
+ "koyasan-mt-koya-2-day-itinerary/2": {
+  "title": "File:Koyasan, Daimon.jpg",
+  "author": "Saigen Jiro",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Koyasan,_Daimon.jpg",
+  "file": "koyasan-mt-koya-2-day-itinerary-2.jpg",
+  "query": "Koyasan Daimon"
+ },
+ "koyasan-mt-koya-2-day-itinerary/3": {
+  "title": "File:Danjô-garan (Wakayama Kōyasan) Temple hdsr S5 kn11.jpg",
+  "author": "Hyppolyte de Saint-Rambert",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Danj%C3%B4-garan_(Wakayama_K%C5%8Dyasan)_Temple_hdsr_S5_kn11.jpg",
+  "file": "koyasan-mt-koya-2-day-itinerary-3.jpg",
+  "query": "Koyasan Danjo Garan Konpon Daito"
+ },
+ "koyasan-mt-koya-2-day-itinerary/4": {
+  "title": "File:Kongobu-ji, Banryutei (Rock Garden) -1 (October 2008) - panoramio.jpg",
+  "author": "ttshr1970",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kongobu-ji,_Banryutei_(Rock_Garden)_-1_(October_2008)_-_panoramio.jpg",
+  "file": "koyasan-mt-koya-2-day-itinerary-4.jpg",
+  "query": "Kongobuji Banryutei"
+ },
+ "tohoku-summer-festivals-itinerary/1": {
+  "title": "File:Akita kanto matsuri xl.jpg",
+  "author": "https://search.find47.jp/ja/i/unXp4",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Akita_kanto_matsuri_xl.jpg",
+  "file": "tohoku-summer-festivals-itinerary-1.jpg",
+  "query": "Akita Kanto Festival"
+ },
+ "tohoku-summer-festivals-itinerary/2": {
+  "title": "File:Nebuta house Warasse Aomori Japan12n.jpg",
+  "author": "663highland",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Nebuta_house_Warasse_Aomori_Japan12n.jpg",
+  "file": "tohoku-summer-festivals-itinerary-2.jpg",
+  "query": "Nebuta Warasse"
+ },
+ "tohoku-summer-festivals-itinerary/3": {
+  "title": "File:Sendai Tanabata Festival 2010.jpg",
+  "author": "Nikm",
+  "license": "Public domain",
+  "license_url": "",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Sendai_Tanabata_Festival_2010.jpg",
+  "file": "tohoku-summer-festivals-itinerary-3.jpg",
+  "query": "Sendai Tanabata"
  }
 }

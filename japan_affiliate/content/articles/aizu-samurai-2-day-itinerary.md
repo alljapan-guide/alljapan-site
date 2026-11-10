@@ -79,7 +79,7 @@ For a drink, JNTO adds that {{fact:aiz_sake}}. And for a longer trip, {{fact:aiz
 
 Our view: if you only have one day, choose the castle, the mansion and Sazaedo, and take the bus back to Koriyama in the evening. If you want a slower trip, add a night in Kitakata and plan a morning for the storehouses and ramen. If you travel in winter, check bus services and road conditions, since this is a snowy region.
 
-For another Tohoku trip, our [Sendai itinerary](sendai-matsushima-akiu-3-day-itinerary.html) covers a nearby city, and our [Japan weather guide](japan-weather-by-season.html) explains the seasons.
+For another Tohoku trip, our [Tohoku summer festivals itinerary](tohoku-summer-festivals-itinerary.html) covers the big August events, and our [Japan weather guide](japan-weather-by-season.html) explains the seasons.
 
 ## Who this trip suits
 
