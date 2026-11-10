@@ -19958,5 +19958,1396 @@
    "hiroshima-autumn-2-day-itinerary"
   ],
   "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_len",
+  "text": "the JNTO itinerary A Downtown Shopping Adventure in Tokyo has a recommended length of 1 day",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Recommended length: 1 day"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_intro",
+  "text": "small shops in the historic downtown districts of Tokyo show the fine art of omotenashi, Japanese hospitality",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Discover Japanese hospitality through small shops",
+   "omotenashi, Japanese hospitality"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_highlights",
+  "text": "the highlights are lively Ameyoko Shopping Street, knives, crockery and replica foodstuffs at Kappabashi, and Asakusa Nakamise Shopping Street",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Lively Ameyoko Shopping Street",
+   "Knives, crockery and replica foodstuffs at Kappabashi"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_route",
+  "text": "from Tokyo Station it takes 15 minutes: the JR Yamanote Line to Ueno Station takes 10 minutes, then you walk five minutes to Ameya Yokocho",
+  "claim": "Getting there",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "From Tokyo Station: 15 minutes",
+   "Take JR Yamanote Line from Tokyo Station to Ueno Station for 10 minutes",
+   "Walk five minutes to Ameya Yokocho"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_ameyoko",
+  "text": "Ameyoko is part open-air market, located minutes away from Ueno Station",
+  "claim": "Ameyoko",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Part open-air market and located minutes away from Ueno Station"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_tataki",
+  "text": "you can watch the tatakiuri vendor in action, selling bags of chocolate candies",
+  "claim": "Tatakiuri",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "tatakiuri",
+   "bags of chocolate candies"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_onekind",
+  "text": "many stores in Ameyoko focus on selling one kind of item only",
+  "claim": "Specialist shops",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Many stores focus on selling one kind of item only"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_military",
+  "text": "essential stops include stores for surplus military gear, a nod to the black market origins of the market after World War II, and artisanal denim jeans",
+  "claim": "Ameyoko shops",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "surplus military gear",
+   "black market following World War II",
+   "artisanal denim jeans"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_kappabashi",
+  "text": "Kappabashi Street is also known as Kitchen Town",
+  "claim": "Kappabashi",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Kitchen Town"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_kappa_items",
+  "text": "knives, crockery and plastic food replicas are among the most popular souvenir items at Kappabashi",
+  "claim": "Kappabashi souvenirs",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "knives, crockery and plastic food replicas",
+   "most popular souvenir items"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_magnets",
+  "text": "more unusual gifts include magnets shaped like sushi and yakitori and food-themed smartphone covers",
+  "claim": "Kappabashi gifts",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Magnets shaped like sushi and yakitori",
+   "food-themed smartphone covers"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_kappa_statues",
+  "text": "statues of kappa, water imps in Japanese folklore, can be found throughout the area",
+  "claim": "Kappa statues",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Statues of kappa",
+   "found throughout the area"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_nakamise",
+  "text": "Asakusa Nakamise is a stone-paved shopping arcade connecting Kaminarimon Gate and Sensoji Temple, dating back to the 17th century",
+  "claim": "Nakamise",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "dating back to the 17th century",
+   "Kaminarimon Gate and Sensoji Temple",
+   "stone-paved shopping arcade"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_stalls",
+  "text": "Nakamise Street has 90-odd stalls selling wooden kokeshi dolls, maneki neko figurines, Japan-themed t-shirts and kimono-type bathrobes",
+  "claim": "Nakamise stalls",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "90-odd stalls",
+   "maneki Neko",
+   "kimono-type bathrobes"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_snacks",
+  "text": "red bean-filled sweets and deep-fried rice crackers are popular edible souvenirs",
+  "claim": "Nakamise snacks",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "red bean-filled sweets and deep-fried rice crackers"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_sensoji",
+  "text": "Sensoji Temple and Nakamise are literally connected, and JNTO suggests seeing the temple at night without the crowds, when it is beautifully illuminated",
+  "claim": "Sensoji",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "the two are literally connected",
+   "at night sans crowds",
+   "beautifully illuminated"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "tds_murals",
+  "text": "scenic murals cover the drawn shutters of the Nakamise stalls and some depict the history of Sensoji through seasonal events",
+  "claim": "Shutter murals",
+  "source_name": "JNTO itinerary: A Downtown Shopping Adventure in Tokyo",
+  "source_url": "https://www.japan.travel/en/itineraries/a-downtown-shopping-adventure-in-tokyo/",
+  "must_contain": [
+   "Scenic murals",
+   "drawn shutters of the Nakamise stalls"
+  ],
+  "topics": [
+   "tokyo-downtown-shopping-ameyoko-nakamise-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_len",
+  "text": "the JNTO itinerary Into the Wild: The Shiretoko Peninsula has a recommended length of 3 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Recommended length: 3 days"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_intro",
+  "text": "the Shiretoko Peninsula has over 800 types of plants and over 500 varieties of living organisms and was declared a UNESCO World Heritage site in 2005",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "over 800 types of plants",
+   "over 500 varieties of living organisms",
+   "declared a UNESCO World Heritage site in 2005"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_season",
+  "text": "a visit to Shiretoko is rewarding throughout the year, and outside of the snow season there is a wide range of outdoor activities",
+  "claim": "Seasons",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "rewarding throughout the year",
+   "outside of the snow season"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_highlights",
+  "text": "the highlights are a drift ice walk, the setting sun at Cape Puyuni or Yuhidai, and Shiretoko Five Lakes",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Participate in a drift ice walk",
+   "Watch the setting sun at Cape Puyuni or Yuhidai",
+   "Visit Shiretoko Five Lakes"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_access",
+  "text": "from Tokyo Haneda it takes 4 hours: a 1-hour 40-minute flight to Memanbetsu Airport, then the Shiretoko Airport Liner Express bus to Utoro Onsen Bus Terminal, around 2 hours",
+  "claim": "Getting there",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "From Tokyo Haneda: 4 hours",
+   "1-hour 40-minute flight from Tokyo Haneda",
+   "Shiretoko Airport Liner Express bus to Utoro Onsen Bus Terminal",
+   "around 2 hours"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_center",
+  "text": "the Shiretoko National Park Nature Center is the place to receive information on local weather and traffic conditions",
+  "claim": "Nature Center",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "receive information on local weather and traffic conditions"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_ship",
+  "text": "from the sightseeing ship you can see a 200-meter-high cliff, and the ship runs from late April to about late-October",
+  "claim": "Sightseeing ship",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "200-meter-high cliff",
+   "Runs from late April to about late-October"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_bears",
+  "text": "depending on the season you can see brown bears going after salmon from the ship",
+  "claim": "Wildlife from the ship",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "brown bears going after salmon"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_stars",
+  "text": "the nature experiences include the Shiretoko Star Watching / Moon Watching tour",
+  "claim": "Star watching",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Shiretoko Star Watching / Moon Watching tour"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_drift",
+  "text": "the drift ice walk lets you walk on the drift ice, which approaches the Shiretoko Peninsula in late January and gradually covers the Okhotsk Sea",
+  "claim": "Drift ice walk",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Participate in the Drift Ice Walk",
+   "approaches the Shiretoko Peninsula in late January"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_beginners",
+  "text": "beginners are welcome to participate in the nature programs, and many include guides with specialized knowledge",
+  "claim": "Programs",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Beginners are welcome to participate"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_furepe",
+  "text": "Furepe Falls is a walk along the walking path from the Nature Center, and its water comes from the rain and snow that falls on the Shiretoko Mountain Range",
+  "claim": "Furepe Falls",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Walk along the walking path from Shiretoko National Park Nature Center to Furepe Falls",
+   "water comes from the rain and snow that falls on the Shiretoko Mountain Range"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_puyuni",
+  "text": "Cape Puyuni is located at the northern coast of the Shiretoko Peninsula and is a famous spot for watching some of the first arrivals of drift ice",
+  "claim": "Cape Puyuni",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "located at the northern coast of the Shiretoko Peninsula",
+   "first arrivals of drift ice"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_yuhidai",
+  "text": "Yuhidai has blood-red sunsets over drift ice and views of Oronko Rock",
+  "claim": "Yuhidai",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Blood-red sunsets over drift ice",
+   "Oronko Rock"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_oronko",
+  "text": "Oronko Rock stands at 60 meters tall and huge flocks of gulls can be seen from its peak",
+  "claim": "Oronko Rock",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "stands at 60 meters tall",
+   "Huge flocks of the gulls"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_oshinkoshin",
+  "text": "the top of Oshinkoshin Waterfall has a walking path and an observation deck with views of the Shiretoko mountains and the Okhotsk Sea",
+  "claim": "Oshinkoshin Waterfall",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "Oshinkoshin Observation Deck",
+   "Shiretoko mountains and the Okhotsk Sea"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_kayak",
+  "text": "you can enjoy paddling sea kayaks at the Shiretoko Outdoor Guide Center",
+  "claim": "Sea kayaking",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "paddling sea kayaks at the Shiretoko Outdoor Guide Center"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_lakes",
+  "text": "the walking path around all five lakes takes 60 minutes, while walking around one or two of the lakes takes just 30 minutes",
+  "claim": "Five Lakes",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "around all five lakes takes 60 minutes",
+   "one or two of the lakes takes just 30 minutes"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_lake_bears",
+  "text": "you may see wild animals at the Five Lakes, but JNTO says to be careful of any bears that may appear",
+  "claim": "Bear warning",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "be careful of any bears that may appear"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_kamuiwakka",
+  "text": "at Kamuiwakka Falls hot spring water flows into the river, making the entire river a flowing onsen bath, and the rocks are slippery",
+  "claim": "Kamuiwakka Falls",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "making the entire river a flowing onsen bath",
+   "the rocks are slippery"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "stk_kaminoko",
+  "text": "Kaminoko Pond is a transparent yet luminously blue pond where fallen trees are submerged in its waters",
+  "claim": "Kaminoko Pond",
+  "source_name": "JNTO itinerary: Into the Wild, The Shiretoko Peninsula",
+  "source_url": "https://www.japan.travel/en/itineraries/the-wilderness-and-beauty-of-the-shiretoko-peninsula/",
+  "must_contain": [
+   "transparent yet luminously blue pond",
+   "fallen trees are submerged in its waters"
+  ],
+  "topics": [
+   "shiretoko-peninsula-3-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_len",
+  "text": "the JNTO itinerary A Winter Weekend in Niigata has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_intro",
+  "text": "Niigata is a short shinkansen ride away from Tokyo, and its snow-capped mountains are some of the best in Honshu",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "A short shinkansen ride away from Tokyo",
+   "snow-capped mountains are some of the best in Honshu"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_highlights",
+  "text": "the highlights are a dip in a traditional Japanese hot spring, skiing powder on Mt. Hakkai and learning about traditional Shiozawa fabrics",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Taking a dip in a traditional Japanese hot spring",
+   "Skiing Japanese powder on Mt. Hakkai",
+   "traditional Shiozawa fabrics"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_access",
+  "text": "you take the JR Joetsu Shinkansen from Tokyo Station to Echigo Yuzawa, trains run hourly, then the local JR Joetsu Line to Muikamachi Station, two stops from Echigo Yuzawa",
+  "claim": "Getting there",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Take the JR Joetsu Shinkansen from Tokyo Station to Echigo Yuzawa",
+   "Trains run hourly",
+   "Muikamachi Station, two stops from Echigo Yuzawa"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_car",
+  "text": "getting around the area is easiest by rental car or by taxi",
+  "claim": "Local transport",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Getting around the area is easiest by rental car or by taxi"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_muika",
+  "text": "Muikamachi is a hub for winter activities in Niigata",
+  "claim": "Muikamachi",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Muikamachi is a hub for winter activities in Niigata"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_hakkaisan",
+  "text": "Hakkaisan Ski Resort has 11 courses for all levels and its strength lies in off-piste and side-country terrain, with English-language lessons available",
+  "claim": "Hakkaisan Ski Resort",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "The 11-course resort has options for all levels",
+   "off-piste and side-country terrain",
+   "English-language lessons are available"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_drive",
+  "text": "from Muikamachi Station Hakkaisan Ski Resort is a 20-minute drive or taxi ride, and there are infrequent buses",
+  "claim": "Getting to the resort",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Hakkaisan Ski Resort is a 20-minute drive or taxi ride",
+   "infrequent buses from Muikamachi Station"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_ropeway",
+  "text": "the Hakkaisan Ropeway goes to the top, where an observatory has 360-degree panoramic views",
+  "claim": "Ropeway",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Take the Hakkaisan Ropeway to the top",
+   "360-degree panoramic views"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_sake",
+  "text": "Mt. Hakkai is known for its award-winning sake, Hakkaisan",
+  "claim": "Sake",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "award-winning sake, Hakkaisan"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_onsen",
+  "text": "Muikamachi Onsen has natural hot springs, and you can look for outdoor baths, or rotenburo, to take in the snowscape",
+  "claim": "Muikamachi Onsen",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Muikamachi Onsen",
+   "rotenburo"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_kamakura",
+  "text": "from January to February each year the Kamakura Snow Dome Festival lets you enter igloos to drink amazake",
+  "claim": "Snow Dome Festival",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "From January to February each year",
+   "enter igloos to drink amazake"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_oritate",
+  "text": "Oritate Onsen holds Hyakku Hattou, the Festival of 108 Lanterns, on the first Sunday of March",
+  "claim": "Oritate Onsen",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Festival of 108 Lanterns",
+   "first Sunday of March"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_day2",
+  "text": "for day 2, by public transportation you take the Minami Echigo Bus to Muikamachi Station, and Shiozawa Station is a 3-minute ride away on the JR Joetsu Line",
+  "claim": "Route to Shiozawa",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "take the Minami Echigo Bus to Muikamachi Station",
+   "Shiozawa Station is a 3-minute ride away on the JR Joetsu Line"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_shiozawa",
+  "text": "in Shiozawa you can discover the 1,200-year-old craft of making plain-woven hemp textiles, and woven cloth laid out on the snow is a common sight in winter",
+  "claim": "Shiozawa fabrics",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "1,200-year-old craft of making plain-woven hemp textiles",
+   "Woven cloth laid out on the snow"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_museum",
+  "text": "at the Shiozawa Tsumugi Memorial Museum you can learn about local fabric-making and pick up or make your own",
+  "claim": "Tsumugi Memorial Museum",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Shiozawa Tsumugi Memorial Museum",
+   "pick up or make your own"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_bokushi",
+  "text": "Bokushi Street looks like it is from the Edo period and has countless shops to explore",
+  "claim": "Bokushi Street",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "Bokushi Street",
+   "countless shops to explore"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "nig_yuzawa",
+  "text": "Echigo-Yuzawa is one of the most popular ski spots in the Kanto region, and foreign language assistance and lessons are offered at many of the resorts",
+  "claim": "Echigo-Yuzawa",
+  "source_name": "JNTO itinerary: A Winter Weekend in Niigata",
+  "source_url": "https://www.japan.travel/en/itineraries/a-weekend-in-niigatas-winter-wonderland/",
+  "must_contain": [
+   "one of the most popular ski spots in the Kanto region",
+   "Foreign language assistance and lessons are offered at many of the resorts"
+  ],
+  "topics": [
+   "niigata-winter-weekend-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_len",
+  "text": "the JNTO itinerary An Overnight Hot Springs Tour in Yamanashi has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_intro",
+  "text": "the itinerary combines hot springs first discovered by a 16th-century warlord with temples and local cuisine",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "hot springs first discovered by a 16th-century warlord",
+   "temples and local cuisine"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_shingen",
+  "text": "the hot springs are linked to the private spring of the warlord Shingen Takeda in the 16th century",
+  "claim": "Shingen Takeda",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "private spring of warlord Shingen Takeda"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_tokyo",
+  "text": "from Tokyo it takes 1 hour 30 minutes on the JR Chuo Main Line Limited Express from Shinjuku Station to Enzan Station",
+  "claim": "From Tokyo",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "From Tokyo: 1 hour 30 minutes",
+   "JR Chuo Main Line Limited Express to Enzan Station"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_ease",
+  "text": "the springs are easily accessible from Tokyo",
+  "claim": "Access",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "Easily accessible from Tokyo"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_highlights",
+  "text": "the highlights are the therapeutic waters of Masutomi Onsen, hoto as a hearty stew and Yamanashi staple, and the landscaped gardens at Erinji Temple",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "The therapeutic waters of Masutomi Onsen",
+   "a hearty stew and Yamanashi staple",
+   "exquisite landscaped gardens at Erinji Temple"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_bus",
+  "text": "you take the Yamanashi Kotsu Bus from Enzan Station to the Erinji bus stop",
+  "claim": "Bus to Erinji",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "Take Yamanashi Kotsu Bus from Enzan Station to the Erinji bus stop"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_erinji",
+  "text": "Erinji is a family temple of Shingen Takeda dating back to 1330, with a helmet, war fan and flag, landscape gardens designed by the monk Kokushi Muso, and a cup of matcha",
+  "claim": "Erinji Temple",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "dating back to 1330",
+   "helmet, war fan and flag",
+   "landscape gardens designed by monk Kokushi Muso",
+   "a cup of matcha"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_hokoji",
+  "text": "Hokoji Temple has plum blossoms, camellias, cherry blossoms, kerrias and peonies, and many come to pray for luck in love",
+  "claim": "Hokoji Temple",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "plum blossoms, camellias, cherry blossoms, kerrias, and peonies",
+   "pray for luck in love"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_masutomi_route",
+  "text": "to reach Masutomi Onsen you take a bus back to Enzan Station, a train to Nirasaki Station and a Yamanashi Kotsu bus, which takes 2 hours 30 minutes",
+  "claim": "Route to Masutomi",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "2 hours 30 minutes Take a bus back to Enzan Station",
+   "board a Yamanashi Kotsu bus bound for Masutomi Onsen"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_masutomi",
+  "text": "Masutomi Onsen is a nationally recognized therapeutic onsen, a quiet resort in the mountains, with moderate water temperature perfect for a long bath, and it became popular with artists and nobility",
+  "claim": "Masutomi Onsen",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "nationally recognized therapeutic onsen spas",
+   "quiet resort in the mountains",
+   "moderate and perfect for taking a long bath",
+   "popular with artists and nobility"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_hoto",
+  "text": "hoto is a warming hotpot in which flat, wheat-flour noodles are boiled with miso and seasonal vegetables such as pumpkin, taro, burdock root and wild boar",
+  "claim": "Hoto",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "flat, wheat-flour noodles are boiled with miso",
+   "pumpkin, taro, burdock root and wild boar"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_day2",
+  "text": "on day 2 you take a bus back to Nirasaki Station, then a taxi to the mountain, a journey of 1 hour 40 minutes",
+  "claim": "Route to Mt. Amari",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "1 hour 40 minutes Take a bus back to Nirasaki Station",
+   "then take a taxi to the mountain"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_amari",
+  "text": "Mt. Amari is covered with Japanese azaleas and irises in June, is relatively easy to climb, and on clear days gives a great view of Mt. Fuji",
+  "claim": "Mt. Amari",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "Japanese azaleas and irises",
+   "relatively easy to climb",
+   "great view of Mt. Fuji"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_hakusan",
+  "text": "Hakusan Onsen welcomes day-trippers and is appreciated after climbing the 1,731-meter Mt. Amari",
+  "claim": "Hakusan Onsen",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "Day-trippers also welcome",
+   "1,731-meter Mt. Amari"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "ymn_kofu",
+  "text": "the Koshu region is famous in Japan for its fruit and wineries, and you can pick and eat your own fruit at a farm",
+  "claim": "Kofu",
+  "source_name": "JNTO itinerary: An Overnight Hot Springs Tour in Yamanashi",
+  "source_url": "https://www.japan.travel/en/itineraries/an-overnight-hot-springs-tour-of-yamanashi-prefecture/",
+  "must_contain": [
+   "famous in Japan for its fruit and wineries",
+   "pick and eat your own fruit"
+  ],
+  "topics": [
+   "yamanashi-hot-springs-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_len",
+  "text": "the JNTO itinerary Oshima: An Island Escape has a recommended length of 2 days",
+  "claim": "Recommended length",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Recommended length: 2 days"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_intro",
+  "text": "a high-speed jet ferry takes you from Tokyo to Izu Oshima Island, which is well-loved for its camellia flowers, hiking trails and water sports",
+  "claim": "Overview",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "high-speed jet ferry",
+   "camellia flowers, hiking trails, and water sports"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_governs",
+  "text": "Tokyo also governs the Izu Islands south of the mainland, including Oshima",
+  "claim": "Tokyo islands",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Tokyo also governs the Izu Islands"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_highlights",
+  "text": "the highlights are hiking around the crater on Mt. Mihara, a 758-meter tall active volcano, soaking in the Motomachi Hamanoyu hot spring, and bekko sushi",
+  "claim": "Highlights",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "758-meter tall active volcano",
+   "Soaking in the Motomachi Hamanoyu hot spring",
+   "bekko sushi"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_bekko",
+  "text": "bekko sushi is a local delicacy of fish marinated in zesty chili",
+  "claim": "Bekko sushi",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "fish marinated in zesty chili"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_ferry",
+  "text": "high-speed jet ferries depart from Takeshiba Pier to Okada Port on the west coast of Oshima Island, which takes 1 hour 45 minutes, and flights take 30 minutes",
+  "claim": "Getting there",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "High-speed jet ferries depart from Takeshiba Pier",
+   "Okada Port on the west coast of Oshima Island (1 hour 45 minutes)",
+   "flights run by New Central Airservice (30 minutes)"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_pier",
+  "text": "the pier can be accessed from Takeshiba Station or Hamamatsucho Station",
+  "claim": "Takeshiba Pier",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Takeshiba Station or Hamamatsucho Station"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_island",
+  "text": "Oshima is 120 kilometers south of the mainland and the largest of the Izu Islands, and as much as 97 percent of its area is preserved as part of the Fuji-Hakone-Izu National Park",
+  "claim": "The island",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "120 kilometers south of the mainland",
+   "largest of the Izu Islands",
+   "97 percent of its area"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_bus",
+  "text": "from Oshima Motomachi pier you take the Oshima Bus to the Kazan Hakubutsukan Mae bus stop",
+  "claim": "Bus to the museum",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Take the Oshima Bus from Oshima Motomachi pier to Kazan Hakubutsukan Mae bus stop"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_mihara",
+  "text": "Mt. Mihara last erupted in 1986, an event dubbed Gojinkasama",
+  "claim": "Mt. Mihara",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "last erupted in 1986",
+   "Gojinkasama"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_cliffs",
+  "text": "the volcanic cliffs are around 30 meters tall and around 600 meters long, a series of stripes formed by layers and layers of sediment",
+  "claim": "Volcanic cliffs",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "around 30 meters tall and around 600 meters long",
+   "layers and layers of sediment"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_hike",
+  "text": "allow one to two hours for the entire hike, and Mihara Shrine near the summit is revered as a holy site",
+  "claim": "Hiking Mt. Mihara",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Allow one to two hours for the entire hike",
+   "Mihara Shrine",
+   "revered as a holy site"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_bus2",
+  "text": "on day 2 you take the Oshima Bus back to Oshima Pier and change to the Mihara Yama Line",
+  "claim": "Bus on day 2",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Take the Oshima Bus back to Oshima Pier and change to the Mihara Yama Line"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_crater",
+  "text": "the Ohachi-meguri course circles the crater, which is about 300 meters in diameter",
+  "claim": "Ohachi-meguri",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Ohachi-meguri",
+   "about 300 meters in diameter"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_deck",
+  "text": "at the crater observation deck you see hardened lava sediment, and on a clear day Mt. Fuji and Hakone in the distance",
+  "claim": "Observation deck",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "hardened lava sediment",
+   "Mt. Fuji and Hakone in the distance"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_cherry",
+  "text": "the huge Oshima cherry tree has a trunk of more than eight meters in circumference and was a landmark for passing ships",
+  "claim": "Cherry Stump",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "trunk of more than eight meters in circumference",
+   "landmark for passing ships"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_rainbow",
+  "text": "you take the Oshima Bus Rainbow Line from Shin Kako Tenbodai bus stop to Oshima Koen bus stop",
+  "claim": "Rainbow Line",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Take the Oshima Bus Rainbow Line from Shin Kako Tenbodai bus stop to Oshima Koen bus stop"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_camellia",
+  "text": "there are as many as three million camellia trees on Oshima, and the park garden has about 1,000 species in full bloom between January and March",
+  "claim": "Camellias",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "as many as three million camellia trees",
+   "about 1,000 species",
+   "between January and March"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_zoo",
+  "text": "the adjacent zoo is free-of-charge for visitors and has animals such as ring-tailed lemurs and red pandas",
+  "claim": "Zoo",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "free-of-charge for visitors",
+   "ring-tailed lemurs and red pandas"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_hamanoyu_bus",
+  "text": "you take the Oshima Bus Oshima Koen Line from Oshima Island Park bus stop to Motomachi Pier and walk four minutes to Hamanoyu",
+  "claim": "Route to Hamanoyu",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "Take the Oshima Bus Oshima Koen Line from Oshima Island Park bus stop to Motomachi Pier",
+   "walk four minutes to Hamanoyu"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
+ },
+ {
+  "id": "osm_hamanoyu",
+  "text": "Motomachi Hamanoyu is an open-air onsen with views at dusk, and as it is a mixed-gender bath, swimsuits are necessary",
+  "claim": "Hamanoyu",
+  "source_name": "JNTO itinerary: Oshima, An Island Escape",
+  "source_url": "https://www.japan.travel/en/itineraries/oshima-an-island-getaway/",
+  "must_contain": [
+   "open-air onsen",
+   "mixed-gender bath, swimsuits are necessary"
+  ],
+  "topics": [
+   "izu-oshima-island-2-day-itinerary"
+  ],
+  "verified_on": "2026-11-09"
  }
 ]
