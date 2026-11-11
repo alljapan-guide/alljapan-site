@@ -3,7 +3,7 @@ title: Japan Opening Hours and Holidays: What Is Open and When
 slug: japan-opening-hours-and-holidays
 description: Typical shop, office, train and shrine hours in Japan, plus Golden Week, Obon and New Year, using the Japan National Tourism Organization's guidance.
 date: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-12
 cluster: planning
 affiliates: booking | klook | trip_hotels | trip_kyoto_hotels | trip_trains | trip_things | trip_esim | trip_insurance
 image_queries: Lawson convenience store Japan night | Sensoji Temple Asakusa Tokyo | Tokyo commuters train rush hour | Bon Odori dance Japan
@@ -92,6 +92,22 @@ If something does go wrong while you travel, our [emergency numbers page](japan-
 
 {{pick|For a first trip, our editorial pick is to avoid the New Year, Golden Week and Obon periods if you have a choice, check venue hours the day before, and carry a small snack for odd hours. This is our view, based on the JNTO guidance.}}
 
+## Decision table: what to do in each situation
+
+Our view: this table is our own shortcut, built on the JNTO points above. It is not a substitute for checking a venue's own hours.
+
+| Your situation | What to do | JNTO point behind it |
+|---|---|---|
+| Arriving late at night | Plan on a convenience store for food and basics | Many operate 24 hours, even on national holidays |
+| Heading out for dinner | Confirm the restaurant's hours first, and check your last train before you go | Restaurant hours vary greatly; most trains stop around midnight |
+| Carrying large luggage | Avoid weekday rush hours, or send bags ahead | Commuter trains are extremely crowded at those times |
+| Visiting a popular shrine or temple | Go on a weekday or early in the morning | JNTO recommends this to avoid crowds |
+| Wanting an amulet or goshuin stamp | Check the shrine office hours separately from the grounds | The office has specific opening hours |
+| Travelling in late April, early May or mid-August | Book rooms and transport well in advance | Golden Week transport can be fully booked; Obon is a travel peak |
+| Travelling around New Year | Expect closures for several days and stock up | Many businesses close from late December to early January |
+
+Last reviewed on 12 November 2026 against the JNTO page cited in this guide.
+
 ## A sample day built around the hours
 
 Our view: a simple day plan shows how the JNTO hours fit together. Start at a shrine or temple early, since JNTO recommends early mornings and weekdays for popular sites. Keep the middle of the day for sights with fixed hours, such as museums, and check each one's own page. Eat lunch at a restaurant whose hours you have confirmed. In the afternoon, shop, since JNTO says shops in cities are open until the evening. For dinner, choose a venue you have checked, and keep a convenience store as a fallback. Before you head back, check the last train, as JNTO lists a timetable app for that. This rhythm avoids the two most common problems, which are arriving at a closed door and queuing in the busiest hours.
@@ -117,3 +133,19 @@ JNTO says they are generally open year-round, with grounds often accessible from
 ### Which holidays should I avoid?
 
 JNTO names New Year, Golden Week and Obon as the three major holiday seasons when domestic travel peaks and many businesses may close or operate on reduced hours.
+
+### Are shops open on national holidays in Japan?
+
+Many are, but not all. JNTO says many convenience stores, some chain restaurants and discount stores stay open even on national holidays, while many businesses close around New Year. Check the venue itself.
+
+### What time is rush hour on Japanese trains?
+
+JNTO gives commuter rush hour as around 7:30am to 9:00am and around 5:30pm to 7:00pm on weekdays. Trains are extremely crowded then, so avoid them with large luggage.
+
+### Can I check restaurant hours online?
+
+Yes. JNTO says restaurant hours vary greatly and suggests checking official websites or Google Maps for up-to-date hours. Confirm again on the day for any meal that matters.
+
+### When is the best time to visit shrines to avoid crowds?
+
+JNTO recommends weekdays or early mornings, and says the year-end and New Year period is extremely busy.

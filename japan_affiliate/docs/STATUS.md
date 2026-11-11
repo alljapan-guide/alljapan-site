@@ -124,3 +124,6 @@ Added can-tourists-buy-suica-or-pasmo-in-japan, transfer-suica-pasmo-card-to-iph
 
 ## 2026-11-12 japan-travel-insurance refresh
 Added a "Which option fits you?" decision table (six situations, each tied to a JNTO point, no new facts), four more FAQ entries (credit card cover, home health insurance, unpaid bills, pre-existing conditions) and a visible "Last reviewed 12 November 2026" line; updated date set to 2026-11-12. Verify and build pass. Next: business-hours article, then IC card guide.
+
+## 2026-11-12 japan-opening-hours-and-holidays refresh
+Added a seven-row decision table (situation, action, JNTO point), four FAQ entries (national holidays, rush hour, restaurant hours, shrine crowds) and a visible "Last reviewed 12 November 2026" line; updated date set to 2026-11-12. No new facts. Verify and build pass. Next: japan-ic-card-guide.
