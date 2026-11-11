@@ -5,7 +5,7 @@ description: Typical shop, office, train and shrine hours in Japan, plus Golden 
 date: 2026-10-26
 updated: 2026-10-26
 cluster: planning
-affiliates: booking | klook
+affiliates: booking | klook | trip_hotels | trip_kyoto_hotels | trip_trains | trip_things | trip_esim | trip_insurance
 image_queries: Lawson convenience store Japan night | Sensoji Temple Asakusa Tokyo | Tokyo commuters train rush hour | Bon Odori dance Japan
 ---
 Knowing when things are open saves more time in Japan than almost any other piece of planning. The Japan National Tourism Organization (JNTO) publishes typical hours for shops, offices, trains and shrines, and lists the three holiday seasons that can change your trip. This guide summarises that page.
@@ -42,7 +42,7 @@ Rush hour matters if you carry bags. JNTO says that {{fact:bh_rush}}. It adds th
 
 {{warn|Do not plan to arrive at a station with large suitcases at the weekday rush hours JNTO lists. Our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to send bags ahead and travel hands-free.}}
 
-Our view: check the last train for your return before you leave for an evening out, because JNTO's timetable says most trains stop around midnight. Our [IC card guide](japan-ic-card-guide.html) covers paying for the trains you do use.
+Our view: check the last train for your return before you leave for an evening out, because JNTO's timetable says most trains stop around midnight. Our [IC card guide](japan-ic-card-guide.html) covers paying for the trains you do use. To use a timetable app on the way, you need mobile data, so compare options in our [eSIM guide](japan-esim-vs-pocket-wifi.html) or look at {{aff:trip_esim|a Japan eSIM on Trip.com}}.
 
 ## Shrines and temples
 
@@ -77,6 +77,18 @@ Our view: build the plan in three steps.
 3. **Keep one flexible day** so a closure does not break the schedule.
 
 For seasonal planning beyond holidays, our [weather by season guide](japan-weather-by-season.html) and [cherry blossom guide](japan-cherry-blossom-guide.html) show how timing affects crowds. You can compare accommodation and cancellation terms on {{aff:booking|Booking.com}}, and look at activities with fixed time slots on {{aff:klook|Klook}}. Read each listing's own terms before you pay.
+
+## What to book early, and where to compare
+
+JNTO's advice is to reserve ahead in busy periods, and our view is that three things matter most.
+
+1. **Rooms.** Hotels in the big cities fill first in holiday weeks. You can compare Tokyo hotels on {{aff:trip_hotels|Trip.com}}, and Kyoto hotels on {{aff:trip_kyoto_hotels|Trip.com}}, and our hotel guides for [Tokyo](where-to-stay-in-tokyo.html), [Kyoto](where-to-stay-in-kyoto.html) and [Osaka](where-to-stay-in-osaka.html) explain which areas suit a short stay.
+2. **Intercity trains.** If you travel between cities during a holiday period, compare Tokyo to Kyoto tickets on {{aff:trip_trains|Trip.com}}. Our [Tokyo to Kyoto](tokyo-to-kyoto-bullet-train.html) and [Tokyo to Osaka](tokyo-to-osaka-bullet-train.html) guides explain how booking works.
+3. **Timed activities.** Tours and tickets with fixed slots can sell out, so look at {{aff:trip_things|Trip.com things to do}} early.
+
+Read the change and refund terms on each booking, because a holiday closure is exactly when you may need to change a plan.
+
+If something does go wrong while you travel, our [emergency numbers page](japan-emergency-numbers-for-tourists.html) lists the numbers to save, and our [travel insurance guide](japan-travel-insurance.html) explains what to check in a policy. You can compare plans on {{aff:trip_insurance|Trip.com}}.
 
 {{pick|For a first trip, our editorial pick is to avoid the New Year, Golden Week and Obon periods if you have a choice, check venue hours the day before, and carry a small snack for odd hours. This is our view, based on the JNTO guidance.}}
 
