@@ -23204,5 +23204,471 @@
    "insurance-cluster"
   ],
   "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_logo",
+  "text": "you can look for the Hands-Free Travel logo at places like airports, train stations, hotels and department stores to deliver baggage between two locations or store it, though some locations may have limited service",
+  "claim": "Hands-Free logo",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Hands-Free Travel",
+   "airports, train stations, hotels, and department stores",
+   "some locations may have limited service"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_types",
+  "text": "delivery works between the airport and accommodation, hotel to hotel, train station to city and between tourist sites, and storage includes coin lockers, storage sites and commercial places",
+  "claim": "Delivery and storage types",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Between airport and accommodation",
+   "Hotel to hotel",
+   "Coin Lockers (train stations, airports, etc)"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_early",
+  "text": "a delivery service helps when you arrive early in the morning and your check-in is in the afternoon",
+  "claim": "Early arrival",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "arrived early in the morning and your check-in is in the afternoon"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_odd",
+  "text": "most companies also deliver odd-sized luggage like sports gear and offer insurance for lost items up to 300,000 yen",
+  "claim": "Odd-sized luggage",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "odd-sized luggage like sports gear",
+   "insurance for lost items up to 300,000 yen"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_discount",
+  "text": "some credit cards and airlines may offer discounted luggage delivery, and JAL passengers can take advantage of discounted baggage delivery to and from major airports",
+  "claim": "Discounts",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Some credit cards and airlines may offer discounted luggage delivery",
+   "JAL passengers can also take advantage of discounted baggage delivery"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_reception",
+  "text": "from the airport your luggage will normally be sent to the hotel reception",
+  "claim": "To the hotel",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "will normally be sent to the hotel reception"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_pickup",
+  "text": "from your hotel, your luggage will normally be delivered to a designated counter at the airport to be picked up before you check in",
+  "claim": "To the airport",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "delivered to a designated counter to be picked up before you check-in"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_options",
+  "text": "from your hotel you can use a Hands-Free Travel counter, schedule a pickup via services like Airporter or Luggage-Free Travel, or drop luggage at Yamato or Sagawa Express counters in major hotel lobbies or convenience stores",
+  "claim": "Hotel to airport options",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Airporter or Luggage-Free Travel online",
+   "Yamato or Sagawa Express service counters",
+   "major hotel lobbies or convenience stores"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_sagawa",
+  "text": "Sagawa can drop your luggage by 4pm the same day if you send it before 11am, at Haneda Airport only",
+  "claim": "Sagawa same day",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Sagawa can drop your luggage by 4pm the same day if you send it off before 11am (Haneda Airport only)"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_prices",
+  "text": "JNTO sample prices for one check-in luggage of 160cm dimension start from 2,578 yen at Yamato, 2,031 yen at Sagawa Express and 2,000 yen at Airporter",
+  "claim": "Sample prices",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "From 2,578",
+   "From 2,031",
+   "From 2,000"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_date",
+  "text": "this JNTO guide is dated 14 November 2018, so prices may have changed",
+  "claim": "Guide date",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "14 November 2018"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_quote",
+  "text": "JNTO advises checking directly with the service provider for a more accurate quote",
+  "claim": "Quotes",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Check directly with the service provider for a more accurate quote"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_tateyama",
+  "text": "between stations and hotels along the Tateyama Kurobe Alpine Route, fees cost between 1,000 and 2,200 yen depending on the distance",
+  "claim": "Alpine Route",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Tateyama Kurobe Alpine Route",
+   "fees cost between 1,000-2,200 yen"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_kiso",
+  "text": "between Tsumagoi and Magome in the Kiso Valley you can drop luggage at either tourism information center between 8:30 and 11:30 and it arrives at 13:00, not valid during winter, at 500 yen per luggage",
+  "claim": "Kiso Valley",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Tsumagoi and Magome in the Kiso Valley",
+   "between 8:30 and 11:30",
+   "not valid during winter"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_locker_size",
+  "text": "coin locker sizes are usually only large enough for small backpacks, although larger stations may have lockers large enough for luggage",
+  "claim": "Locker size",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "the locker sizes are only large enough to accommodate small backpacks",
+   "larger stations may have lockers large enough for luggage"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_locker_days",
+  "text": "coin lockers at train stations charge by the day, whereas lockers at airports like Narita and Centrair can store luggage for longer, up to 8 days",
+  "claim": "Locker duration",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Coin lockers at train stations charge by the day",
+   "Narita and Centrair",
+   "up to 8 days"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_locker_cost",
+  "text": "coin lockers cost from 300 yen for a small one, which is usually valid for a day",
+  "claim": "Locker cost",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Coin lockers cost from 300 yen (small)"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_locker_ic",
+  "text": "some lockers accept Suica or Pasmo payment if you do not have coins",
+  "claim": "Locker payment",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "some lockers accept Suica or Pasmo"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_left",
+  "text": "for odd-sized luggage that does not fit lockers, a luggage storage service has a size limit of 200cm in dimension and prices from about 500 yen per day",
+  "claim": "Left luggage",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "Most services have a size limit of 200cm in dimension",
+   "from about 500 yen per day"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_ecbo",
+  "text": "a growing number of cafes, shops and offices offer luggage storage through a service called ecbo cloak, in places including Tokyo, Kyoto, Osaka and Fukuoka",
+  "claim": "ecbo cloak",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "ecbo cloak",
+   "Tokyo, Kyoto, Osaka, Fukuoka"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_sites",
+  "text": "some train stations, VIP Liner bus lounges, department stores and tourist information centres offer luggage storage, marked by the Hands-Free Travel logo or the Yamato black cat logo",
+  "claim": "Storage sites",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "VIP Liner bus lounges",
+   "tourist information centres",
+   "Yamato (with its iconic black cat logo)"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_airport_store",
+  "text": "airports like Narita, Haneda and Kansai usually offer luggage storage, can store large or bulky items, and set prices by size",
+  "claim": "Airport storage",
+  "source_name": "JNTO guide: Travel around Japan luggage-free",
+  "source_url": "https://www.japan.travel/en/sg/guide/travel-around-japan-luggage-free/",
+  "must_contain": [
+   "usually offer luggage storage",
+   "You can store large/bulky items as well, and prices are determined by size"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_locker_range",
+  "text": "JNTO says to expect to pay between 300 and 600 yen for a coin locker, depending on size, and that in busy locations the lockers fill up very quickly",
+  "claim": "Locker range",
+  "source_name": "JNTO: Luggage and Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "between 300 and 600 yen",
+   "in very busy locations, the lockers fill up very quickly"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_form",
+  "text": "you drop your items at a Hands-Free Travel counter and fill in the delivery form, with multilingual access for international visitors",
+  "claim": "How to send",
+  "source_name": "JNTO: Luggage and Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "drop off your items, fill in the delivery form",
+   "multi-lingual access for international visitors"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "hfx_kids",
+  "text": "airport delivery is especially useful if you travel with many large luggage or small children, or want to jump into sightseeing after arriving",
+  "claim": "Who it suits",
+  "source_name": "JNTO: Luggage and Storage",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/luggage-storage/",
+  "must_contain": [
+   "traveling with small children",
+   "jump right into sightseeing after arriving to Japan"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "gdx_intro",
+  "text": "JNTO says that hiring a Licensed Guide Interpreter with extensive knowledge of the region helps you see Japan in a new light",
+  "claim": "Why hire",
+  "source_name": "JNTO: How To Book a Certified Tour Guide",
+  "source_url": "https://www.japan.travel/en/plan/how-to-book-a-certified-tour-guide/",
+  "must_contain": [
+   "Licensed Guide Interpreter with extensive knowledge of the region",
+   "see Japan in a new light"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "gdx_national",
+  "text": "national organizations include the Japan Federation of Certified Guides, True Japan, GoWithGuide, Japan Wonder Travel and the Japan Guide Association",
+  "claim": "National organizations",
+  "source_name": "JNTO: How To Book a Certified Tour Guide",
+  "source_url": "https://www.japan.travel/en/plan/how-to-book-a-certified-tour-guide/",
+  "must_contain": [
+   "Japan Federation of Certified Guides",
+   "True Japan",
+   "GoWithGuide",
+   "Japan Wonder Travel",
+   "Japan Guide Association"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "gdx_regional",
+  "text": "regional organizations include the Kansai Interpreter and Guide Association, the Hiroshima Interpreter and Guide Association and the Kyushu Association of Interpreters, Translators and Guide Interpreters",
+  "claim": "Regional organizations",
+  "source_name": "JNTO: How To Book a Certified Tour Guide",
+  "source_url": "https://www.japan.travel/en/plan/how-to-book-a-certified-tour-guide/",
+  "must_contain": [
+   "Kansai Interpreter",
+   "Hiroshima Interpreter",
+   "Kyushu Association of Interpreters"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "gdx_hokkaido",
+  "text": "for Sapporo and Hokkaido JNTO lists a Concierge center (J ECO TOUR)",
+  "claim": "Hokkaido",
+  "source_name": "JNTO: How To Book a Certified Tour Guide",
+  "source_url": "https://www.japan.travel/en/plan/how-to-book-a-certified-tour-guide/",
+  "must_contain": [
+   "Sapporo",
+   "J ECO TOUR"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "gdx_request",
+  "text": "you can also make a request through a national organization for a National Government Licensed Guide Interpreter",
+  "claim": "Requesting",
+  "source_name": "JNTO: How To Book a Certified Tour Guide",
+  "source_url": "https://www.japan.travel/en/plan/how-to-book-a-certified-tour-guide/",
+  "must_contain": [
+   "make a request through a national organization"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "gdx_local",
+  "text": "a guide helps you go on a comfortable and informative journey, seeing and doing things like a local",
+  "claim": "Like a local",
+  "source_name": "JNTO: How To Book a Certified Tour Guide",
+  "source_url": "https://www.japan.travel/en/plan/how-to-book-a-certified-tour-guide/",
+  "must_contain": [
+   "seeing and doing things like a local"
+  ],
+  "topics": [
+   "luggage-guide-cluster"
+  ],
+  "verified_on": "2026-11-11"
  }
 ]

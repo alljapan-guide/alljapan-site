@@ -77,6 +77,8 @@ A guide works best inside a plan. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-
 
 {{pick|If you want to try one guided experience on a first trip, choose one in a place full of history, such as Kyoto or Asakusa, and confirm the guide is licensed. This is our editorial pick, based on the JNTO page.}}
 
+For a list of organizations to contact, see our guide on [where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
+
 ## FAQ
 
 ### What is a National Government Licensed Guide Interpreter?

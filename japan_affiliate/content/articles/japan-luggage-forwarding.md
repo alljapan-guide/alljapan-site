@@ -85,6 +85,13 @@ If you prefer a guided day with transport handled for you, you can browse option
 
 Forwarding makes the most sense on a multi-city route. Our [IC card guide](japan-ic-card-guide.html) covers paying for trains once your bags are sorted, our [rail pass guide](is-japan-rail-pass-worth-it.html) helps you decide on long-distance tickets, and our [Tokyo area guide](where-to-stay-in-tokyo.html) can help you choose a base near the station.
 
+## More detail on each question
+
+- [How to send luggage from the airport to your hotel](send-luggage-from-airport-to-hotel-japan.html)
+- [How much luggage forwarding costs](luggage-forwarding-cost-japan.html)
+- [Coin lockers and luggage storage](coin-lockers-and-luggage-storage-japan.html)
+- [Size, weight and banned items](luggage-forwarding-limits-japan.html)
+
 ## FAQ
 
 ### What is Hands-Free Travel?
