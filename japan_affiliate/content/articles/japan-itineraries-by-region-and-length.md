@@ -98,6 +98,8 @@ For the whole island at a glance, including routes, hot springs and how to link 
 
 For the whole region at a glance, including routes, travel times and how to link the towns, see our [Tohoku travel guide](tohoku-travel-guide-sendai-aizu-aomori-and-beyond.html).
 
+For the whole island at a glance, including routes, flights and how long the distances really are, see our [Hokkaido travel guide](hokkaido-travel-guide-sapporo-hakodate-and-shiretoko.html).
+
 ## FAQ
 
 ### How many days do you need for Japan?

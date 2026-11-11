@@ -96,6 +96,8 @@ If your trip starts or ends in Sapporo, you can compare Sapporo hotels on {{aff:
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole island at a glance, including routes, flights and how long the distances really are, see our [Hokkaido travel guide](hokkaido-travel-guide-sapporo-hakodate-and-shiretoko.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

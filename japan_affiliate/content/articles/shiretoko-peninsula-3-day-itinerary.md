@@ -89,6 +89,8 @@ If you want a guided walk, a kayak tour or a cruise, you can compare options on 
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole island at a glance, including routes, flights and how long the distances really are, see our [Hokkaido travel guide](hokkaido-travel-guide-sapporo-hakodate-and-shiretoko.html).
+
 ## FAQ
 
 ### How many days do you need for Shiretoko?
