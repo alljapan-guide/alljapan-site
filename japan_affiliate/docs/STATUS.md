@@ -121,3 +121,6 @@ Added send-luggage-from-airport-to-hotel-japan, luggage-forwarding-cost-japan, c
 
 ## 2026-11-12 IC card question pages
 Added can-tourists-buy-suica-or-pasmo-in-japan, transfer-suica-pasmo-card-to-iphone-apple-wallet, suica-iphone-requirements-apple-watch-japan, mobile-pasmo-android-phone-from-abroad and does-suica-work-everywhere-in-japan (29 new facts from the Apple Support transit card page and the PASMO English page, all verified). The PASMO page lists 2023 notices of temporary suspension of Suica/PASMO card sales and an April 17, 2026 notice that TOURIST PASMO is available soon; the articles tell readers to check current status and do not claim availability. japan-ic-card-guide links to all five. Google Search Console showed 55 indexed pages (flat since late October, matching the failed sitemap fetch); sitemap was resubmitted by the owner on 2026-11-11. 105 articles.
+
+## 2026-11-12 japan-travel-insurance refresh
+Added a "Which option fits you?" decision table (six situations, each tied to a JNTO point, no new facts), four more FAQ entries (credit card cover, home health insurance, unpaid bills, pre-existing conditions) and a visible "Last reviewed 12 November 2026" line; updated date set to 2026-11-12. Verify and build pass. Next: business-hours article, then IC card guide.

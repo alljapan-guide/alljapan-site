@@ -3,7 +3,7 @@ title: Do You Need Travel Insurance for Japan? Is It Mandatory?
 slug: japan-travel-insurance
 description: Is travel insurance mandatory for Japan? What JNTO says visitors should do: why it is recommended, what to check in a policy, emergency numbers and the hotline.
 date: 2026-10-23
-updated: 2026-11-03
+updated: 2026-11-12
 cluster: planning
 affiliates: insurance | trip_insurance
 image_queries: Japan hospital building sign | Tokyo ambulance | Japan police box koban | Matsumoto Kiyoshi drugstore
@@ -78,6 +78,21 @@ The hotline is not insurance, but it is worth saving. JNTO says {{fact:hotline_h
 
 {{note|JNTO's pages describe where to find help, not what your policy covers. For claims, always follow your insurer's own process.}}
 
+## Which option fits you? A quick decision table
+
+Our view: this table is our own editorial shortcut, built on the JNTO points above. It is not a ranking of products, and it does not replace reading the policy terms.
+
+| Your situation | What to do | Why (JNTO point) |
+|---|---|---|
+| You have a travel policy already | Check it against the five-question list above | The checklist covers cashless service, activities and third parties |
+| You rely on a credit card | Ask the card provider for the exact terms before you leave | JNTO asks you to confirm details with the card provider |
+| You have a chronic condition | Read the policy wording on pre-existing conditions first | JNTO notes this will affect your coverage |
+| You plan risky activities | Check the exclusions for those activities | JNTO notes some dangerous activities may not be covered |
+| You forgot to buy before departure | Sign up online after you arrive, then save the insurer's number | JNTO says you can sign up once you arrive |
+| You are unsure about all of it | Buy a basic travel policy and keep receipts | JNTO strongly recommends cover for all travelers |
+
+Last reviewed on 12 November 2026 against the JNTO pages cited in this guide.
+
 ## Our recommendation
 
 {{pick|Buy a travel policy before you leave, check that it covers medical treatment and your planned activities, save the insurer's emergency number and the Japan Visitor Hotline number on your phone, and keep receipts. This is our editorial pick, built on the JNTO checklist above.}}
@@ -121,3 +136,19 @@ JNTO says the number to dial for an ambulance is 119.
 ### Is there a help line for visitors?
 
 Yes. The Japan Visitor Hotline is run by JNTO and is open around the clock, with support in English, Chinese and Korean.
+
+### Do I need travel insurance for Japan if I have a credit card with cover?
+
+Not necessarily, but check first. JNTO says some credit card companies offer travel insurance and asks you to confirm the details with your card provider. Compare that cover with the checklist in this guide.
+
+### Will my home health insurance pay for treatment in Japan?
+
+JNTO says travel insurance is separate from health insurance, so do not assume your home plan applies abroad. Ask your health insurer before you travel.
+
+### What happens if I leave Japan with an unpaid medical bill?
+
+JNTO warns that foreigners with unpaid medical expenses in Japan may be restricted or refused entry in future. Keep your receipts and contact your insurer promptly.
+
+### Does travel insurance cover pre-existing conditions?
+
+It depends on the policy. JNTO notes a chronic disease will affect your coverage, so read that part of the wording before you buy.
