@@ -89,6 +89,8 @@ Our view: with two days, keep Osaka and one day trip. With four days, add the se
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
+
 ## FAQ
 
 ### Is three days enough for Osaka and day trips?

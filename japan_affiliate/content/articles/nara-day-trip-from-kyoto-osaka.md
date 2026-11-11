@@ -90,6 +90,8 @@ If you would rather stay overnight in Nara, for example to see the park early in
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
+
 ## FAQ
 
 ### How long does it take to get to Nara from Kyoto?

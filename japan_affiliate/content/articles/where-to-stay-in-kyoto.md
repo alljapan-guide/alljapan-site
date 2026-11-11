@@ -96,6 +96,8 @@ You can compare options and cancellation terms on {{aff:booking|Booking.com}}, {
 
 Kyoto often sits in the middle of a longer route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a plan with three nights in Kyoto, and our [Tokyo area guide](where-to-stay-in-tokyo.html) covers the other half of the trip. Sort out transit payments with our [IC card guide](japan-ic-card-guide.html).
 
+For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
+
 ## FAQ
 
 ### What is the best area to stay in Kyoto for first-timers?

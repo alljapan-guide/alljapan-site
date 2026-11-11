@@ -130,3 +130,6 @@ Added a seven-row decision table (situation, action, JNTO point), four FAQ entri
 
 ## 2026-11-12 japan-ic-card-guide refresh
 Added a seven-row decision table (situation, action, source point), four FAQ entries (shop payments, Android and Mobile PASMO, Express Mode, line coverage) and a visible "Last reviewed 12 November 2026" line; updated date set to 2026-11-12. No new facts. Verify and build pass. The three top-impression pages (insurance, opening hours, IC card) are now refreshed. Next: regional hubs (Kansai hub, Kyushu hub).
+
+## 2026-11-12 Kansai hub
+Added kansai-travel-guide-kyoto-osaka-nara-and-beyond (JNTO-based hub: base choice, core three cities, day-trip time table, four longer trips, decision table, FAQ). No new facts: it reuses 24 verified facts from the Kansai articles. Four photos are reused from existing verified articles (Ginkaku-ji, Nara deer, Himeji Castle, Koyasan bridge) and registered under the hub's own keys. Linked from 7 articles (main itinerary hub, Kansai 3-day, Osaka 3-day, Nara, Kyoto 1-day, where-to-stay Kyoto and Osaka). Trip.com links used: trip_kyoto_hotels, trip_osaka_hotels, trip_trains, trip_things, plus Klook and Viator. 106 articles. Next: Kyushu hub.

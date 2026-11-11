@@ -86,6 +86,8 @@ For the short ride between the two cities, you can compare Osaka to Kyoto train 
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
+
 ## FAQ
 
 ### Can you see Kyoto in one day?

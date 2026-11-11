@@ -92,6 +92,8 @@ If you want to compare places to stay, you can look at {{aff:trip_hotels|Tokyo h
 
 {{pick|If this is your first trip, our editorial pick is the seven-day Tokyo, Kyoto and Osaka plan, with one day trip from the list above. If it is your second, choose one region and stay there. This is our view, based on the travel times in the JNTO itineraries.}}
 
+For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
+
 ## FAQ
 
 ### How many days do you need for Japan?

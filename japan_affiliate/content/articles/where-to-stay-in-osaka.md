@@ -99,6 +99,8 @@ You can browse Osaka hotels on {{aff:trip_osaka_hotels|Trip.com}} or compare opt
 
 Osaka often sits at the end of a longer route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a plan, our [Kyoto accommodation guide](where-to-stay-in-kyoto.html) covers the other half, and our [Tokyo area guide](where-to-stay-in-tokyo.html) covers the start. For arrival airports, see our [airport guide](which-airport-to-fly-into-japan.html).
 
+For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
+
 ## FAQ
 
 ### Where should first-time visitors stay in Osaka?
