@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: planning
 affiliates: trip_airport_transfer | trip_insurance
-image_queries: Yamato delivery electric truck | Shioiri Station coin lockers
+image_queries: Sagawa Express truck | Narita airport baggage carousel
 ---
 Before you hand a suitcase to a counter in Japan, it helps to know what the service will and will not take. The Japan National Tourism Organization (JNTO) lists limits on size, weight and value, and a short list of items that cannot be accepted. This guide turns that list into a pre-flight check. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Rules differ by carrier, so confirm with the one you use.
 
-{{photo:1|A delivery truck of a luggage carrier in Japan}}
+{{photo:1|A Sagawa Express delivery truck}}
 
 ## The limits
 
@@ -61,7 +61,7 @@ steps: Measure and weigh the bag | Remove valuables, liquids, fragile and fresh 
 
 {{tip|Pack a small day bag with a charger, medicine, a change of clothes and your documents. If the main bag arrives late, you will still have what you need for the first evening.}}
 
-{{photo:2|Coin lockers at a station in Japan, an alternative for small bags}}
+{{photo:2|Bags being checked at a counter in Japan}}
 
 ## When a locker is the better choice
 

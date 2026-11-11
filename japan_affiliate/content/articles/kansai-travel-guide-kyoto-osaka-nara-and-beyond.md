@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: itineraries
 affiliates: trip_hotels | trip_kyoto_hotels | trip_osaka_hotels | trip_trains | trip_things | klook | viator
-image_queries: Ginkaku-ji Kyoto | Nara Park deer Todai-ji | Himeji Castle | Okunoin Koyasan cemetery
+image_queries: Kyoto temple garden autumn | Todaiji Daibutsu Great Buddha statue | Himeji Castle white walls | Koyasan Danjo Garan
 ---
 Kansai is the region around Kyoto, Osaka and Nara, and it is the easiest place in Japan to build a trip from short train rides. This page is a planning hub for the region. It does not repeat each guide; it helps you choose a base, decide which day trips fit, and pick a longer trip if you have more days. Every route comes from the Japan National Tourism Organization (JNTO), and where we add opinion we label it "Our view", so sourced information and editorial advice stay separate.
 
-{{photo:1|Ginkaku-ji temple in Kyoto}}
+{{photo:1|Autumn leaves framed by a temple room at Nanzen-ji, Kyoto}}
 
 ## How to use Kansai as a base
 
@@ -32,7 +32,7 @@ If this is your first visit, start with the three cities that give the region it
 - **Osaka.** [Osaka in one day](osaka-one-day-itinerary.html), the [3-day Osaka plan](osaka-3-day-itinerary.html) and the [things to do in Osaka](osaka-things-to-do-first-time.html) guide cover the city, and the [Osaka food guide](osaka-food-guide.html) is the one to read before dinner.
 - **Nara.** Our [Nara day trip](nara-day-trip-from-kyoto-osaka.html) covers the deer park and the temples. JNTO says that {{fact:nara_just30}}.
 
-{{photo:2|Deer and temple buildings at Todai-ji in Nara}}
+{{photo:2|The Great Buddha inside Todai-ji in Nara}}
 
 Our view: do not try to see all three in a single day. Nara is the one that fits best as a half-day add-on to a Kyoto or Osaka stay, because the train is short and the park is compact.
 
@@ -49,7 +49,7 @@ The table below turns the JNTO transport facts into one comparison. Times are th
 
 JNTO says that {{fact:kb_osaka}}, which makes Kobe the shortest of the four, and that {{fact:amh_kyoto}}. For Himeji, JNTO says {{fact:hj_access}}.
 
-{{photo:3|Himeji Castle in Hyogo}}
+{{photo:3|Himeji Castle seen from below}}
 
 {{tip|If you have only one spare day, pair a short trip with a long evening. Kobe or Nara leaves time to be back in Osaka or Kyoto for dinner, while Amanohashidate really needs the two days JNTO recommends.}}
 
@@ -62,7 +62,7 @@ If you have two to three more days, these JNTO routes start from Osaka or nearby
 - **Kumano Kodo pilgrimage.** JNTO says {{fact:kmk_len}}, and that {{fact:kmk_osaka}}. Our [Kumano Kodo itinerary](kumano-kodo-pilgrimage-itinerary.html) explains the bus legs, which are the part to plan carefully.
 - **Shimanami Kaido cycling.** JNTO says {{fact:smn_len}}. The [cycling guide](shimanami-kaido-cycling-itinerary.html) covers the route and the way back.
 
-{{photo:4|A stone bridge in Okunoin cemetery, Koyasan}}
+{{photo:4|Stone lanterns in the Danjo Garan temple complex on Koyasan}}
 
 Our view: Koyasan and Ise are the easiest of the four for a first Kansai trip, because both start from Osaka and the routes are short. Kumano Kodo and Shimanami Kaido are better as a second trip when you want a specific activity.
 

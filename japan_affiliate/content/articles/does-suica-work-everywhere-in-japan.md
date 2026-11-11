@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: transport
 affiliates: trip_trains | trip_esim | trip_hotels
-image_queries: ICOCA card | Yamanote Line train
+image_queries: Suica card | Yamanote Line train
 ---
 A common worry is whether a card bought in Tokyo will work in Osaka or Kyoto, or the other way round. The official PASMO page gives a precise answer, and it is both better and more limited than people expect. This guide uses that page to explain which IC cards work together, where they do not and what to do on the lines they do not cover. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Networks change, so check the operator before you travel.
 
-{{photo:1|An ICOCA transit card from the Kansai area}}
+{{photo:1|The IC card reader on a bus in Japan, with PASMO and Suica marks}}
 
 ## The short answer
 
@@ -38,7 +38,7 @@ PASMO adds a note. It says that {{fact:icx_p_pitapa}}.
 
 Our view: if you buy a card in the Kansai area, ICOCA is the simpler choice for a visitor.
 
-{{photo:2|A Yamanote Line train in Tokyo}}
+{{photo:2|A Yamanote Line train leaving a station in Tokyo}}
 
 ## Where the cards do not work
 

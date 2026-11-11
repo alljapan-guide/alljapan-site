@@ -6,13 +6,13 @@ date: 2026-11-03
 updated: 2026-11-03
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_osaka_hotels | trip_train_osaka_kyoto
-image_queries: Umeda Sky Building | Midosuji Osaka ginkgo | Shinsekai Tsutenkaku Osaka | Abeno Harukas
+image_queries: Osaka Umeda Sky Building night | Midosuji Osaka ginkgo | Shinsekai Tsutenkaku Osaka | Shitennoji Osaka pagoda
 ---
 If you have a single day in Osaka, the best plan is to cross the city from north to south. The Japan National Tourism Organization (JNTO) has an itinerary built that way, from the business and transport hub of Kita to the entertainment districts of Minami. This guide follows that JNTO itinerary and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO sets the scope: {{fact:on_len}}. And it explains the idea: {{fact:on_split}}.
 
-{{photo:1|The Umeda Sky Building in Osaka}}
+{{photo:1|The Umeda Sky Building in Osaka at night}}
 
 ## The route at a glance
 
@@ -68,7 +68,7 @@ JNTO says that {{fact:on_shinsekai}}. And on time, {{fact:on_shinsekai_time}}.
 
 To end the day, JNTO says that {{fact:on_harukas}}. And in daylight, {{fact:on_harukas_day}}.
 
-{{photo:4|Abeno Harukas in Tennoji, Osaka}}
+{{photo:4|The five-story pagoda of Shitennoji in Tennoji, Osaka}}
 
 ## An optional extra: Nakanoshima
 

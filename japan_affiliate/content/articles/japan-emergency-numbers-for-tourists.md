@@ -6,11 +6,11 @@ date: 2026-11-11
 updated: 2026-11-11
 cluster: planning
 affiliates: insurance | trip_insurance | trip_esim
-image_queries: Police box in Ebisu | Sassa General Hospital
+image_queries: Japan fire engine Tokyo | Japan police car patrol
 ---
 If something goes wrong in Japan, the useful thing is to have the right number before you need it. The Japan National Tourism Organization (JNTO) publishes the key numbers for visitors, including the ones that work in English. This page collects them in one place and explains when to use each. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Save the numbers before you travel, and in a real emergency call first and read later.
 
-{{photo:1|A police box, or koban, in Tokyo}}
+{{photo:1|A historic fire engine on display at the Tokyo Fire Museum}}
 
 ## The numbers at a glance
 
@@ -50,7 +50,7 @@ Our view: write the number of your bank, your embassy and your airline in the sa
 
 For a medical emergency, call 119. For help finding care, JNTO says that {{fact:emn_jta_guide}}.
 
-{{photo:2|A hospital building in Japan}}
+{{photo:2|A Tokyo Metropolitan Police van}}
 
 For language, JNTO says that {{fact:ins_language}}. And that {{fact:ins_amda}}.
 

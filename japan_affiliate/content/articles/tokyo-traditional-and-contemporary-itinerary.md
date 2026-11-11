@@ -6,13 +6,13 @@ date: 2026-11-05
 updated: 2026-11-05
 cluster: itineraries
 affiliates: trip_hotels | trip_things | klook | viator
-image_queries: Tsukiji Outer Market | Sensoji Kaminarimon Asakusa | Tokyo Skytree | Shibuya Crossing
+image_queries: Tsukiji Outer Market | Tokyo Skytree Sumida River | Tokyo Skytree | Shibuya Crossing
 ---
 Tokyo can feel like two cities at once: temples and sumo on one side, game arcades and skyscrapers on the other. The Japan National Tourism Organization (JNTO) has a one-day route that deliberately crosses both. This guide follows the JNTO itinerary "Tokyo—Traditional and Contemporary". Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO sets the scope: {{fact:ttc_len}}. And it describes the idea: {{fact:ttc_intro}}.
 
-{{photo:1|Sashimi at the Tsukiji market in Tokyo}}
+{{photo:1|A street at Tsukiji Outer Market in Tokyo}}
 
 ## The route at a glance
 
@@ -46,7 +46,7 @@ For sumo, JNTO adds that {{fact:ttc_sumo}}.
 
 JNTO says that {{fact:ttc_sensoji}}. For what to do there, {{fact:ttc_sensoji_do}}.
 
-{{photo:2|The Kaminarimon Gate at Sensoji in Asakusa}}
+{{photo:2|The Sumida River seen from Tokyo Skytree}}
 
 Our [shrine etiquette guide](shinto-shrine-etiquette.html) explains the routine at shrines, and our [etiquette guide](japan-etiquette-for-first-timers.html) covers general behaviour.
 

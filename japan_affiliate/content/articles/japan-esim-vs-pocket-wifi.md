@@ -6,7 +6,7 @@ date: 2026-10-18
 updated: 2026-10-18
 cluster: connectivity
 affiliates: esim | wifi | trip_esim
-image_queries: SIM card smartphone | Wi-Fi router device | Smartphone SIM card tray | Wi-Fi router
+image_queries: SIM card smartphone | Wi-Fi router device | tourist using smartphone Tokyo | Wi-Fi router
 ---
 If your phone supports eSIM and is unlocked, an eSIM is usually the simplest choice for one traveller. A rented pocket WiFi router makes more sense when your phone cannot use an eSIM, or when several people or devices share one connection.
 
@@ -35,7 +35,7 @@ steps: Is your phone eSIM-capable and unlocked by its carrier? | Yes: buy an eSI
 
 Your phone must support eSIM. For iPhone, Apple states the requirement as {{fact:iphone_esim}}. For other phones, read the maker's own compatibility page. The phone must also be unlocked by its carrier, which only your carrier can confirm.
 
-{{photo:3|A smartphone with an eSIM}}
+{{photo:3|A traveller taking a photo of Shibuya Crossing with a smartphone}}
 
 {{tip|Install the eSIM before you leave home and read the provider's activation steps. Some plans start counting days when you first connect, others when you install, so check which applies to yours.}}
 

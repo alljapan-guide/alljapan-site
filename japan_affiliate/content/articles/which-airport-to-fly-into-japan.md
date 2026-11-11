@@ -6,7 +6,7 @@ date: 2026-10-25
 updated: 2026-10-25
 cluster: planning
 affiliates: trip_airport_transfer | trip_kix_car | booking | esim | trip_trains | trip_trains_osaka | trip_esim
-image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport terminal building | Narita Express train | Tokyo Monorail Haneda Airport
+image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport | Narita Express train | Tokyo Monorail Haneda Airport
 ---
 Where you land shapes the first day of your trip. The Japan National Tourism Organization (JNTO) describes the main international airports and what each is close to. This guide uses those pages to help you choose, and adds our own view, labelled "Our view", so you can tell sourced information from opinion.
 
@@ -46,7 +46,7 @@ JNTO notes that {{fact:a_kix}}. It also says that {{fact:a_kix_times}}. Finally 
 
 Our view: if your plan centres on Kyoto, Osaka and Nara, flying into Kansai can save you a long train ride on the first day. Our [Kyoto accommodation guide](where-to-stay-in-kyoto.html) and [Nara day trip guide](nara-day-trip-from-kyoto-osaka.html) show how to build the western half of a trip.
 
-{{photo:2|The terminal at Kansai International Airport}}
+{{photo:2|Kansai International Airport Terminal 1}}
 
 ## Other airports
 

@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: transport
 affiliates: trip_esim | trip_airport_transfer
-image_queries: JR East Simple Suica gate | JR East commuter train Tokyo station
+image_queries: iPhone smartphone Japan train | Japan train ticket machine station
 ---
 Setting up a transit card on your iPhone before you fly means that you can tap in and out of Japanese stations from the first train. Apple publishes the steps in its support page on adding a transit card in Japan. This guide follows that page, adds the points that matter to a visitor and keeps the unofficial advice labelled. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Software changes, so check the Apple page for your version of iOS.
 
-{{photo:1|A ticket gate with an IC card reader at a JR East station}}
+{{photo:1|Two iPhones showing a train route app}}
 
 ## Two ways to get a card on your phone
 
@@ -38,7 +38,7 @@ caption: Adding a new transit card to your iPhone, from Apple Support
 steps: Open Wallet and tap Add | Choose Transit Card | Choose Suica, PASMO or another card | Tap Add New Card | Choose an amount to put on the card and confirm
 ```
 
-Our view: choose a first amount that covers your first days, and top up later when you know how much you use. You do not need a large balance at the start.
+Our view: choose a first amount that covers your first days, and top up later when you know how much you use. You do not need a large balance at the start. Do the setup on home Wi-Fi before the flight, so that a slow connection at the airport does not hold you up.
 
 ## Transfer a physical card
 
@@ -46,7 +46,7 @@ If you already have a physical card, Apple describes the process. It says that {
 
 For identity, Apple says that {{fact:icx_a_dob}}.
 
-{{photo:2|A station with commuter trains in Tokyo}}
+{{photo:2|Inside a train ticket gate during maintenance}}
 
 ## What happens to the old card
 

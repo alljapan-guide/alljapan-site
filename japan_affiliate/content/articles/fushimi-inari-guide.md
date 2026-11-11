@@ -12,7 +12,7 @@ Fushimi Inari Taisha is the Kyoto shrine famous for its path of vermilion torii 
 
 This guide follows the Kyoto City Tourism Association's own pages for access and for the shrine. Where we add opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
-{{photo:1|The torii gates of Fushimi Inari Taisha, Kyoto}}
+{{photo:1|A double path of torii gates at Fushimi Inari Taisha, Kyoto}}
 
 ## What Fushimi Inari Taisha is
 

@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: planning
 affiliates: trip_hotels | trip_esim
-image_queries: Shioiri Station coin lockers | Kintetsu Tomio station FamilyMart
+image_queries: coin locker Japan station | Kintetsu Tomio station FamilyMart
 ---
 You do not always need to send luggage across the country. Sometimes you only need to leave a bag for the day, so that you can see a city without dragging it behind you. The Japan National Tourism Organization (JNTO) describes several ways to do that. This guide explains the options, what JNTO says about size, cost and payment, and when each one makes sense. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
-{{photo:1|Coin lockers at a station in Japan}}
+{{photo:1|Coin lockers at Osaka Station}}
 
 ## The short answer
 

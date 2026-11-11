@@ -50,7 +50,7 @@ Then the bus: {{fact:hdk_bus}}. On the village, JNTO says that {{fact:hdk_shirak
 
 JNTO describes the transfer: {{fact:hdk_kanazawa_bus}}. On the garden, it says that {{fact:hdk_kenrokuen}}.
 
-{{photo:3|Kenrokuen Garden in Kanazawa}}
+{{photo:3|Yukitsuri ropes protecting the pines at Kenrokuen Garden in Kanazawa}}
 
 For art, {{fact:hdk_museum21}}. On the castle, {{fact:hdk_castle}}.
 
@@ -64,7 +64,7 @@ JNTO moves to Kyoto by rail: {{fact:hdk_thunderbird}}. For an overview, {{fact:h
 
 Then the temples: {{fact:hdk_kodaiji}}. And {{fact:hdk_kiyomizu}}.
 
-{{photo:4|Visitors in yukata at the North Gate of Kiyomizu-dera, Kyoto}}
+{{photo:4|Kiyomizu-dera in Kyoto in autumn}}
 
 ## Day 5: the eastern hills
 

@@ -42,7 +42,7 @@ JNTO describes the famous path: {{fact:fi_torii_5000}}. On access, it says that 
 
 On the symbolism, JNTO adds that {{fact:fi_fox}}. For timing, it says that {{fact:fi_evening}}.
 
-{{photo:2|Fushimi Inari Taisha and its rows of torii gates}}
+{{photo:2|A path of torii gates at Fushimi Inari Taisha in Kyoto}}
 
 Our view: this shrine rewards a walk rather than a quick look. Our [Fushimi Inari guide](fushimi-inari-guide.html) explains the routes and the crowd data JNTO points to.
 
@@ -70,7 +70,7 @@ JNTO says that {{fact:iz_gather}}. It explains the deity's link to marriage: {{f
 
 The prayer is different. JNTO says that {{fact:iz_bows}}. For the journey, it notes that {{fact:iz_days}}.
 
-{{photo:3|The giant shimenawa rope at Izumo Taisha}}
+{{photo:3|Itsukushima Shrine and its floating torii gate on Miyajima}}
 
 Our view: Izumo is the hardest of the five to reach, and the one that most repays a slow visit. Our [Izumo Taisha guide](izumo-taisha-guide.html) gives the routes from Osaka and Tokyo.
 

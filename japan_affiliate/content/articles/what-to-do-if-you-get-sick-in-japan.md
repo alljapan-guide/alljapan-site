@@ -6,11 +6,11 @@ date: 2026-11-11
 updated: 2026-11-11
 cluster: planning
 affiliates: insurance | trip_insurance | trip_esim
-image_queries: Sassa General Hospital | Matsumoto KiYoshi Himeji-Ekimae | Police box in Ebisu
+image_queries: Japan clinic entrance sign | Japan drugstore shelves | Japanese ambulance Tokyo
 ---
 Getting ill on holiday is stressful anywhere, and in a country where you may not speak the language it can feel worse. The Japan National Tourism Organization (JNTO) publishes practical guidance for visitors. This guide turns that guidance into a plan you can follow, so you know who to call and what to prepare. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. It is general information, not medical advice, and in an emergency you should call for help first and read afterwards.
 
-{{photo:1|A hospital building in Japan}}
+{{photo:1|An internal medicine clinic in a station building in Japan}}
 
 ## First: is it an emergency?
 
@@ -38,7 +38,7 @@ JNTO is direct about the problem: {{fact:ins_delay}}. It says that {{fact:ins_la
 
 For help, JNTO says that {{fact:ins_amda}}. It also says that {{fact:emn_amda_q}}.
 
-{{photo:2|A drugstore beside a station in Japan}}
+{{photo:2|A drugstore shelf in Japan}}
 
 For phone help, JNTO says that {{fact:emn_hotline}}. And on languages, {{fact:emn_langs}}.
 
@@ -60,7 +60,7 @@ For documents, JNTO says that {{fact:emn_theft}}. And that {{fact:emn_embassy}}.
 
 Our view: a police report is also what many insurers ask for when you claim, so do not skip it if the situation involves a stolen item, a traffic accident or a loss.
 
-{{photo:3|A police box, or koban, in Tokyo}}
+{{photo:3|A disaster medical assistance (DMAT) vehicle at the Japanese Red Cross Medical Center in Tokyo}}
 
 ## What to prepare before you go
 

@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: planning
 affiliates: trip_things | klook | viator
-image_queries: Streets of Gion Kyoto | Kinkaku-ji reflection Kyoto | Kaminarimon Sensoji Asakusa
+image_queries: Kyoto Higashiyama Yasaka Pagoda | Asakusa rickshaw Tokyo | Kamakura Great Buddha
 ---
 Many visitors want a guide in Japan and do not know where to look. The Japan National Tourism Organization (JNTO) publishes a short list of organizations that provide licensed guides, and explains how to request one. This guide turns that list into a booking plan. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Availability and prices change, so contact each organization for current details.
 
-{{photo:1|A street in Gion, Kyoto}}
+{{photo:1|Yasaka Pagoda and a rickshaw in Higashiyama, Kyoto}}
 
 ## What JNTO means by a licensed guide
 
@@ -38,7 +38,7 @@ Our view: start with the national list if you want a guide in a big city such as
 
 For regional help, JNTO says that {{fact:gdx_regional}}. For the north, {{fact:gdx_hokkaido}}.
 
-{{photo:2|Kinkaku-ji in Kyoto}}
+{{photo:2|A rickshaw in Asakusa, Tokyo}}
 
 Our view: a regional association is a good starting point when you travel outside the big cities, because the guides know local sites, local timing and local transport.
 
@@ -73,7 +73,7 @@ Our view: tour platforms are an easy way to compare group tours with guides, tho
 
 Our view: a guide works best for a place that needs explanation, such as a temple district, a food market or a historic quarter. Our guides to [Kyoto](kyoto-things-to-do-first-time.html), [Tokyo](tokyo-things-to-do-first-time.html), [Nara](nara-day-trip-from-kyoto-osaka.html) and [Hiroshima](hiroshima-things-to-do-first-time.html) show where a guided walk helps most, and the [itinerary hub](japan-itineraries-by-region-and-length.html) lists plans you can add a guide to.
 
-{{photo:3|The Kaminarimon Gate at Sensoji in Asakusa, Tokyo}}
+{{photo:3|The Great Buddha at Kamakura}}
 
 For the practical side, our [IC card guide](japan-ic-card-guide.html) explains how to travel between meeting points, and our [etiquette guide](japan-etiquette-for-first-timers.html) covers the basics.
 

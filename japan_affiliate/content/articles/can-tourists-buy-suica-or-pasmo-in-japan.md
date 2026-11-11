@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: transport
 affiliates: trip_esim | trip_airport_transfer | trip_hotels
-image_queries: JR East Simple Suica gate | ICOCA card
+image_queries: IC card charge machine Japan station | ICOCA card
 ---
 Visitors who read older guides expect to buy a physical Suica or PASMO card at the airport, tap it and go. Recent notices on the official PASMO site show that this has not always been simple. This guide sticks to what the official PASMO and Apple pages say, explains what it means for a first-time visitor and lists alternatives. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Availability changes often, so check the official pages before you fly.
 
-{{photo:1|A ticket gate with an IC card reader at a JR East station}}
+{{photo:1|IC card charging machines at a station in Kyoto}}
 
 ## What the PASMO site says
 
@@ -28,7 +28,7 @@ Our view: the page says "available soon" in a notice dated April 2026, so confir
 
 {{warn|Do not rely on buying a physical IC card at the exact moment you arrive. Check the current PASMO notices, and have a second way to pay, such as paper tickets or a phone wallet, in case the counter has none.}}
 
-{{photo:2|An ICOCA transit card, one of the interoperable IC cards}}
+{{photo:2|Ticket gates with IC card readers at Kyoto Station}}
 
 ## Your options, in order
 

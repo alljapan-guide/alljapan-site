@@ -24,7 +24,7 @@ Our view: check the validity of your passport before you do anything else, inclu
 
 JNTO explains that {{fact:visa_exempt}}. It does not list the countries on its own page. Instead, {{fact:visa_list}}, and JNTO links to it.
 
-{{photo:3|An immigration counter at a Japanese airport}}
+{{photo:3|The arrivals board at Haneda Airport}}
 
 ```diagram
 type: flow

@@ -56,7 +56,7 @@ You can see how pass prices compare on {{aff:railpass|Japan Rail Pass}}, but che
 
 JNTO says that {{fact:tk2_lockers}}. It also points out that {{fact:tk2_bus}}.
 
-{{photo:3|The main concourse of Kyoto Station}}
+{{photo:3|The exterior of Kyoto Station}}
 
 For your first day, our [Kyoto things to do guide](kyoto-things-to-do-first-time.html) explains the bus routes from Kyoto Station to Higashiyama and Kiyomizu-dera, and our [Fushimi Inari guide](fushimi-inari-guide.html) explains the JR route to the shrine.
 

@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: planning
 affiliates: trip_airport_transfer | trip_hotels
-image_queries: Yamato delivery electric truck | Haneda International Airport International Terminal
+image_queries: Kuroneko Yamato Transport truck | Haneda International Airport International Terminal
 ---
 The price of sending a suitcase in Japan is one of the most searched questions about luggage, and the honest answer is a range that depends on the carrier, the route and the size. The Japan National Tourism Organization (JNTO) publishes sample figures, and it is clear about what they are. This guide collects those numbers, explains what changes them and shows how to get a quote. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
-{{photo:1|A delivery truck of a luggage carrier in Japan}}
+{{photo:1|Yamato Transport delivery trucks in Tokyo}}
 
 ## A note on the numbers
 
@@ -52,7 +52,7 @@ Our view: if you travel with sports gear or an odd-sized bag, ask for a quote be
 
 JNTO gives an example of a low-cost local route. It says that {{fact:hfx_kiso}}.
 
-{{photo:2|A busy airport terminal in Japan}}
+{{photo:2|The international terminal at Haneda Airport}}
 
 Our view: this kind of short, local service is a good fit for a walking route. It is not a standard price, so use it only as an example of how local rules differ.
 

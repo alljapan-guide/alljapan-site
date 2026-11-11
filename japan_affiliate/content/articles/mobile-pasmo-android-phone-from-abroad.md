@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: transport
 affiliates: trip_esim | trip_airport_transfer
-image_queries: JR East commuter train Tokyo station | JR East Simple Suica gate
+image_queries: JR East commuter train Tokyo station | Android smartphone
 ---
 Android users often ask whether they can do what iPhone users do: put a transit card on the phone and tap through the gate. The official PASMO site answers that for phones bought outside Japan, and the answer is a clear caution. This guide uses the PASMO page, explains what it means for a visitor and lists the practical alternatives. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Support changes, so check the PASMO site before you travel.
 
-{{photo:1|Commuter trains at a station in Tokyo}}
+{{photo:1|Trains running beside a canal in Tokyo}}
 
 ## What PASMO says
 
@@ -53,7 +53,7 @@ Our view: if you land with an Android phone, decide before you travel how you wi
 
 {{tip|Take a screenshot of your route plan and the station names before you land, in case the connection is slow at the airport.}}
 
-{{photo:2|A ticket gate with an IC card reader at a JR East station}}
+{{photo:2|A traveller using a smartphone}}
 
 ## A short checklist for Android users
 

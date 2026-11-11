@@ -7,7 +7,7 @@ updated: 2026-10-20
 cluster: hotels
 affiliates: booking | agoda | klook | trip_kyoto_hotels
 references: kyoto_central_size
-image_queries: Gion Kyoto traditional street | Arashiyama bamboo grove Kyoto | Kyoto Station building | Nishiki Market Kyoto
+image_queries: Gion Kyoto traditional street | Arashiyama bamboo grove Kyoto | Kyoto Tower night | Nishiki Market Kyoto
 ---
 Choose your Kyoto base by how you will move around, not by which neighbourhood looks prettiest in photos. Kyoto Station suits easy arrivals and departures, Shijo-Kawaramachi suits food and shopping, Gion and Higashiyama suit an old-Kyoto atmosphere, and the Gosho or Arashiyama areas suit a quieter stay.
 
@@ -27,7 +27,7 @@ The same page gives transport advice that should shape your choice: {{fact:kyoto
 
 The official guide describes {{fact:kyoto_station_area}}. It also says the JR lines through this area give access to places such as Fushimi Inari Shrine, Tofuku-ji Temple and Arashiyama, and that there are many coin-operated lockers and luggage check-in places.
 
-{{photo:3|Kyoto Station}}
+{{photo:3|Kyoto Tower seen from the Sky Garden of Kyoto Station}}
 
 Our view: this is the safest choice for a short first trip, especially if you arrive or leave by bullet train. You trade atmosphere for convenience; the area around a big station is not the postcard Kyoto, so plan evenings in other districts. If you are connecting from Tokyo, our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to work out the cost of the journey.
 

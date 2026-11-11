@@ -12,7 +12,7 @@ Nara is an easy day trip from both Kyoto and Osaka, and the official Nara touris
 
 This guide sticks to what the official Nara travel guide says about access and the park. Where we add advice, we label it "Our view", so you can tell sourced information from editorial opinion.
 
-{{photo:1|Deer in Nara Park}}
+{{photo:1|A deer on stone steps in Nara Park}}
 
 ## How to get to Nara
 

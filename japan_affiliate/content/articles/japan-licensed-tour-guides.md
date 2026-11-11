@@ -12,7 +12,7 @@ A licensed guide can turn a list of famous places into a trip you understand. Th
 
 Where we add advice, we label it "Our view", so you can tell sourced information from editorial opinion.
 
-{{photo:1|A street in Gion, Kyoto}}
+{{photo:1|A quiet street in Gion, Kyoto, at night}}
 
 ## What "licensed" means
 
@@ -42,7 +42,7 @@ Not every guided tour is a temple walk. JNTO notes that {{fact:g_niche}}. Our vi
 
 Our view: a guide is most valuable where the context is the point. Temples, shrines and old districts reward explanation, while a shopping day does not. If your time in a city is short, a guide also removes the cost of getting lost. JNTO frames the benefit this way: {{fact:g_learn}}. We think that holds best when you have a few hours and a specific place in mind.
 
-{{photo:2|Kaminarimon Gate in Asakusa, Tokyo}}
+{{photo:2|Nakamise street and Kaminarimon Gate seen from above in Asakusa, Tokyo}}
 
 ## Questions to ask before you book
 

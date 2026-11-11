@@ -6,11 +6,11 @@ date: 2026-11-11
 updated: 2026-11-11
 cluster: itineraries
 affiliates: trip_hotels | trip_trains | trip_things | klook | viator | trip_esim | trip_insurance
-image_queries: Fushimi Inari torii gates | Lake Motosu Mount Fuji | Shiretoko Five Lakes
+image_queries: Kyoto Arashiyama bamboo grove | Lake Kawaguchi Mount Fuji | Shiretoko Pass Rausu
 ---
 There are many ways to plan a trip to Japan, and the hardest part is often choosing where to start. This page is a map to the itineraries on this site. Each one follows a Japan National Tourism Organization (JNTO) route and adds practical notes, and you can pick one by trip length, by region or by what you like. Where we add opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
-{{photo:1|The torii gates of Fushimi Inari in Kyoto}}
+{{photo:1|A bamboo grove in Arashiyama, Kyoto}}
 
 ## How to choose in two minutes
 
@@ -44,7 +44,7 @@ Our view: this is the length where a small region is best, because you can stay 
 - **Tokyo experiences.** [Cultural classes in Tokyo](tokyo-cultural-experiences-classes.html) work well as a half-day add-on.
 - **Tohoku.** [Sendai and Matsushima](sendai-matsushima-akiu-3-day-itinerary.html), [Aizu](aizu-samurai-2-day-itinerary.html), [Shirakami and Juniko](shirakami-juniko-tohoku-2-day-itinerary.html) and the [summer festivals](tohoku-summer-festivals-itinerary.html) cover the north.
 
-{{photo:2|Mt. Fuji seen across Lake Motosu}}
+{{photo:2|Mt. Fuji reflected in Lake Kawaguchi}}
 
 ## If you have four days to a week
 
@@ -72,7 +72,7 @@ Our view: the Golden Route is a good frame, and you can swap parts of it. Replac
 - **Seasons.** [Cherry blossom](japan-cherry-blossom-guide.html) and [weather by season](japan-weather-by-season.html) help you time the trip.
 - **First-timer city guides.** [Tokyo](tokyo-things-to-do-first-time.html), [Kyoto](kyoto-things-to-do-first-time.html), [Osaka](osaka-things-to-do-first-time.html), [Hiroshima](hiroshima-things-to-do-first-time.html), [Fukuoka](fukuoka-things-to-do-first-time.html) and [Kanazawa](kanazawa-things-to-do-first-time.html).
 
-{{photo:3|One of the Shiretoko Five Lakes in Hokkaido}}
+{{photo:3|Mt. Rausu seen from Shiretoko Pass in Hokkaido}}
 
 ## Before you go: the checklist
 

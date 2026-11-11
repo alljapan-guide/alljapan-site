@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: itineraries
 affiliates: trip_trains | trip_things | klook | viator
-image_queries: Dazaifu Tenmangu | Kumamoto Castle | Umi Jigoku Beppu | Mount Nakadake Aso
+image_queries: Canal City Hakata Fukuoka | Nagasaki Dejima | Beppu hot spring hell Chinoike Jigoku | Aso caldera Daikanbo
 ---
 Kyushu is the third big island of Japan's usual travel map, and it rewards a second trip better than a first. It has castles, hot springs, volcanoes and a long port history, but it is a region where the question is not what to see; it is how to link the places without losing days on trains. This page is a planning hub for the island. It points to our detailed guides, compares the routes in one place, and helps you choose where to enter and where to end. Every route comes from the Japan National Tourism Organization (JNTO), and where we add opinion we label it "Our view", so sourced information and editorial advice stay separate.
 
-{{photo:1|The main hall at Dazaifu Tenmangu near Fukuoka}}
+{{photo:1|Canal City Hakata, a shopping and entertainment complex in Fukuoka}}
 
 ## Where to enter Kyushu
 
@@ -38,7 +38,7 @@ JNTO publishes several Kyushu itineraries, and each one has its own character. T
 
 JNTO says {{fact:kcu_len}}, {{fact:ksr_len}}, {{fact:cky_len}}, {{fact:ngs_len}} and {{fact:oit_len}}.
 
-{{photo:2|Kumamoto Castle in Kumamoto}}
+{{photo:2|A restored room at Dejima, Nagasaki's former trading post}}
 
 ## History and castles: Nagasaki to Kagoshima
 
@@ -54,11 +54,11 @@ Kyushu is one of the best places in Japan to build a trip around hot springs, an
 - **Central Kyushu.** The [Aso, Yufuin and Hita itinerary](central-kyushu-aso-yufuin-3-day-itinerary.html) is built around the volcano and spa towns. JNTO says that {{fact:cky_bus_yufuin}}, so plan for a long bus ride between Aso and Yufuin.
 - **Oita.** The [Beppu, Yufuin and Kunisaki guide](oita-hot-springs-beppu-yufuin-4-day-itinerary.html) is the longest plan, and it suits a visitor who wants to stay put and bathe.
 
-{{photo:3|Umi Jigoku, one of the hot spring pools in Beppu}}
+{{photo:3|Chinoike Jigoku, the Blood Pond Hell, in Beppu}}
 
 {{warn|Check the bus and train times for Aso and Yufuin before you book hotels. The long road legs in the central Kyushu plans are where trips most often lose time.}}
 
-{{photo:4|Mount Nakadake, the active crater of Aso}}
+{{photo:4|Mt. Aso and its caldera}}
 
 ## Ceramics and the quieter west
 

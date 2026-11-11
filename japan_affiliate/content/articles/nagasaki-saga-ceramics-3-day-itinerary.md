@@ -42,7 +42,7 @@ Start at a temple. JNTO says that {{fact:ngs_kofukuji}}. A short walk away, {{fa
 
 For the hills, {{fact:ngs_tram}}. JNTO says that {{fact:ngs_oura}}. Next to it, {{fact:ngs_glover}}.
 
-{{photo:2|The Former Glover House at Glover Garden in Nagasaki}}
+{{photo:2|The interior of the former Glover House in Nagasaki}}
 
 ## Day 1 afternoon: the Peace Park and Chinatown
 

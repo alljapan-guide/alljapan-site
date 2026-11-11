@@ -6,7 +6,7 @@ date: 2026-11-07
 updated: 2026-11-07
 cluster: itineraries
 affiliates: trip_hotels | trip_things | trip_trains | trip_kyoto_hotels | trip_osaka_hotels | klook
-image_queries: Tokyo skyline Shibuya | file:Pirate-themed sightseeing Cruise at Lake Ashi, Hakone, Japan3.jpg | Fushimi Inari torii Kyoto | Hiroshima Itsukushima torii
+image_queries: Tokyo skyline Shibuya | Lake Ashi pirate ship Hakone | Fushimi Inari torii Kyoto | Hiroshima Itsukushima torii
 ---
 If you have two weeks for a first trip, the classic route runs from Tokyo to Osaka by way of Hakone, Kyoto, Hiroshima and Himeji. The Japan National Tourism Organization (JNTO) publishes this as its Golden Route. This guide follows the JNTO plan day by day and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
@@ -38,7 +38,7 @@ Our [Tokyo things to do guide](tokyo-things-to-do-first-time.html), [Tokyo tradi
 
 JNTO's next stop is the mountains. It says that {{fact:gld_hakone}}.
 
-{{photo:2|Pirate-themed sightseeing ships at Lake Ashinoko in Hakone}}
+{{photo:2|A pirate-themed sightseeing ship on Lake Ashi in Hakone}}
 
 Our [Hakone guide](hakone-trip-from-tokyo.html) explains the Free Pass, the ropeway and the lake cruise.
 
@@ -46,7 +46,7 @@ Our [Hakone guide](hakone-trip-from-tokyo.html) explains the Free Pass, the rope
 
 JNTO's Kyoto section starts with the train and quieter sites: {{fact:gld_kyoto_d5}}. On the second day, {{fact:gld_kyoto_d6}}.
 
-{{photo:3|Torii gates at Fushimi Inari in Kyoto}}
+{{photo:3|Torii gates climbing a slope at Fushimi Inari in Kyoto}}
 
 Our [Kyoto things to do guide](kyoto-things-to-do-first-time.html), [Kyoto one-day itinerary](kyoto-one-day-itinerary.html) and [Fushimi Inari guide](fushimi-inari-guide.html) cover the city, and our [Tokyo to Kyoto bullet train guide](tokyo-to-kyoto-bullet-train.html) explains the rail leg.
 

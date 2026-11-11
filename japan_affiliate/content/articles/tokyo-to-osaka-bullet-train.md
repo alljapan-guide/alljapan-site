@@ -6,7 +6,7 @@ date: 2026-10-30
 updated: 2026-10-30
 cluster: transport
 affiliates: trip_trains_osaka | railpass
-image_queries: N700S Shinkansen | Shinkansen reserved seat interior | Osaka Station City | Ekiben Japan
+image_queries: N700S Shinkansen | Shinkansen reserved seat interior | Osaka Station City | Shin-Osaka Station Shinkansen
 ---
 The bullet train is the obvious way to get from Tokyo to Osaka, and it is simple once you understand one thing: Osaka has more than one station. This guide combines the Japan National Tourism Organization (JNTO), which describes the route, and JR Central, which runs the Tokaido Shinkansen and explains its booking system. Where we add opinion, we label it "Our view", so you can tell sourced information from editorial advice.
 
@@ -76,7 +76,7 @@ Our view: check the reservation screen for the current seat options, choose a se
 
 If your route continues to Kyoto, our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how the cities fit together, and our [Nara day trip guide](nara-day-trip-from-kyoto-osaka.html) covers a nearby side trip. For food once you arrive, see our [Osaka food guide](osaka-food-guide.html).
 
-{{photo:4|A bento box bought for a Shinkansen ride}}
+{{photo:4|A Shinkansen N700 train at Shin-Osaka Station}}
 
 {{pick|For a first trip, our editorial pick is to book a seat on the bullet train in advance, plan your hotel around the right Osaka station, and carry only what you need. This is our view, based on the JNTO and JR Central descriptions above.}}
 

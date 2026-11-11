@@ -6,13 +6,13 @@ date: 2026-11-03
 updated: 2026-11-03
 cluster: itineraries
 affiliates: trip_nara_hotels | trip_airport_transfer | trip_trains | trip_things | trip_kyoto_hotels | trip_osaka_hotels | klook | trip_train_osaka_kyoto
-image_queries: Kiyomizu-dera Kyoto | Nara Park deer | Todaiji Great Buddha Hall | file:Osaka Castle 02bs3200.jpg
+image_queries: Kiyomizu-dera Kyoto | Nara Park deer | Todaiji Great Buddha Hall | Osaka Castle tower moat
 ---
 Three days is enough to see Kyoto, Nara and Osaka without rushing, and the Japan National Tourism Organization (JNTO) has an itinerary built for exactly that. This guide follows the JNTO itinerary called "The Kansai Trio", then adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
 JNTO sets the length and the scope: {{fact:kg_len}}. And it describes the idea: {{fact:kg_intro}}.
 
-{{photo:1|Visitors in yukata at the North Gate of Kiyomizu-dera, Kyoto}}
+{{photo:1|Kiyomizu-dera in Kyoto, lit up at night}}
 
 ## The plan at a glance
 
@@ -48,7 +48,7 @@ JNTO's second day starts with a rail change. It says that {{fact:kg_day2_transit
 
 On the first stop, JNTO says that {{fact:kg_kofukuji}}. Then the deer: {{fact:kg_deer}}.
 
-{{photo:2|Shika senbei, the crackers sold in Nara for feeding the deer}}
+{{photo:2|A kiosk selling shika senbei deer crackers in Nara}}
 
 For the shrine, JNTO says that {{fact:kg_kasuga}}. And for the great temple, {{fact:kg_todaiji}}.
 
@@ -66,7 +66,7 @@ JNTO's last day opens with a transfer: {{fact:kg_day3_transit}}.
 
 On the castle, JNTO says that {{fact:kg_osaka_castle}}. Our [Osaka things to do guide](osaka-things-to-do-first-time.html) explains how to reach the park and how long to allow.
 
-{{photo:4|Osaka Castle with its stone walls and moat}}
+{{photo:4|The outer moat and stone walls of Osaka Castle}}
 
 After the castle, JNTO suggests the river: {{fact:kg_cruise}}. Then a shopping district: {{fact:kg_nippon}}. And finally a waterfront stop: {{fact:kg_apt}}.
 

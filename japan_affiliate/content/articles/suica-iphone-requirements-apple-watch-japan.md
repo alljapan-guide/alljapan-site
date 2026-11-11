@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: transport
 affiliates: trip_esim | trip_airport_transfer
-image_queries: ICOCA card | Yamanote Line train
+image_queries: Apple Watch | Yamanote Line E235 train
 ---
 Before you build a Japan trip around tapping your phone at the gate, check whether your phone and watch support it. Apple publishes the requirements, and they differ a little between cards and devices. This guide uses Apple's support page on transit cards in Japan to answer the question in one place. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Apple updates the list, so confirm on the Apple page before you travel.
 
-{{photo:1|An ICOCA transit card}}
+{{photo:1|An Apple Watch showing a map}}
 
 ## The short answer
 
@@ -45,7 +45,7 @@ Apple says that {{fact:apple_wallet_cards}}.
 
 On ICOCA, {{fact:icx_a_icoca}}. For TOICA, {{fact:icx_a_toica}}.
 
-{{photo:2|A Yamanote Line train in Tokyo}}
+{{photo:2|A Yamanote Line train arriving at Tokyo Station}}
 
 Our view: if you travel mostly in Tokyo, Suica or PASMO is the simple choice. If you travel mostly in Kansai, ICOCA is the local one. The cards work together, and our [compatibility guide](does-suica-work-everywhere-in-japan.html) explains how.
 

@@ -6,13 +6,13 @@ date: 2026-11-03
 updated: 2026-11-03
 cluster: itineraries
 affiliates: trip_airport_transfer | trip_kix_car | trip_osaka_hotels | trip_things | trip_trains_osaka | klook
-image_queries: file:Osaka Castle 02bs3200.jpg | Dotonbori Osaka night | Nara Park deer | Himeji Castle
+image_queries: Osaka Castle Nishinomaru Garden | Osaka Aquarium Kaiyukan | Nara Kofuku-ji pagoda | Himeji Castle
 ---
 Osaka works well as a base for three days, because the best day trips in western Japan all leave from it. This guide builds a three-day plan around Osaka: one day in the city and two day trips that you choose between. It uses the Japan National Tourism Organization (JNTO) pages we have summarised in our other guides, and it adds our own opinion, labelled "Our view", so sourced information and editorial advice stay separate.
 
 JNTO explains why the city suits this approach: {{fact:ot_kansai}}.
 
-{{photo:1|Osaka Castle with its stone walls and moat}}
+{{photo:1|Osaka Castle seen from Nishinomaru Garden}}
 
 ## The three-day plan
 
@@ -30,7 +30,7 @@ Start with the castle. For access, JNTO says to {{fact:oc_loop}}. On the time to
 
 For a view from above in the afternoon, JNTO's one-day Osaka itinerary says that {{fact:on_sky}}. In the evening, you can finish with the shopping street: {{fact:od_arcade}}.
 
-{{photo:2|Dotonbori at night in Osaka}}
+{{photo:2|The Osaka Aquarium Kaiyukan}}
 
 At dusk, JNTO says that {{fact:od_glico}}. For the route between the main areas, {{fact:od_midosuji}}.
 
@@ -44,7 +44,7 @@ Pick one. Kyoto is the bigger name, and Nara is the easier day. JNTO's Kansai Tr
 
 Our view: choose Kyoto if you want temples, streets and shopping, and choose Nara if you want a slow day with deer and one great hall. Our [Kyoto things to do guide](kyoto-things-to-do-first-time.html) and [Nara day trip guide](nara-day-trip-from-kyoto-osaka.html) explain each.
 
-{{photo:3|Shika senbei, the crackers sold in Nara for feeding the deer}}
+{{photo:3|The five-story pagoda of Kofuku-ji in Nara}}
 
 For the longer version, our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html) shows Kyoto, Nara and Osaka as one route.
 
@@ -54,7 +54,7 @@ Pick one again. For Kobe, JNTO says to {{fact:kb_osaka}}. On the food, {{fact:kd
 
 For Himeji, JNTO says that {{fact:hj_best}}. On access from the station, {{fact:hj_access}}. And at the castle, {{fact:hj_climb}}.
 
-{{photo:4|Himeji Castle, an alternative for day 3}}
+{{photo:4|The keep of Himeji Castle}}
 
 Our view: choose Kobe if you want a city with a harbour, a beef lunch and a night view. Choose Himeji if you want one big sight and a garden. Our [Kobe day trip guide](kobe-day-trip-from-osaka.html) and [Himeji day trip guide](himeji-castle-day-trip-from-osaka.html) explain each.
 

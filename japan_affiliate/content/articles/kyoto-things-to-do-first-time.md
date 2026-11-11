@@ -56,7 +56,7 @@ JNTO treats food as part of the sightseeing. On a classic dish, it says that {{f
 
 For a market, JNTO adds rules for Nishiki Market: {{fact:kt_nishiki}}. For southern Kyoto, {{fact:kt_fushimi_sake}}.
 
-{{photo:3|A pickle shop at Nishiki Market, Kyoto}}
+{{photo:3|Grilled squid served at Nishiki Market, Kyoto}}
 
 Our [Osaka food guide](osaka-food-guide.html) covers the other great food city on the Kansai route, and our [Fushimi Inari guide](fushimi-inari-guide.html) covers the shrine that sits in southern Kyoto.
 

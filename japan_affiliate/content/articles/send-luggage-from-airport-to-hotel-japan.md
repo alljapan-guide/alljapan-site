@@ -6,11 +6,11 @@ date: 2026-11-12
 updated: 2026-11-12
 cluster: planning
 affiliates: trip_airport_transfer | trip_hotels | trip_esim
-image_queries: Haneda International Airport International Terminal | Yamato delivery electric truck
+image_queries: Haneda Airport | hotel lobby Japan
 ---
 The first hour in Japan is the hardest one for luggage. You arrive tired, the trains are crowded and your hotel will not let you check in yet. The Japan National Tourism Organization (JNTO) describes a nationwide luggage delivery network for exactly this moment. This guide uses JNTO's pages to explain how to send bags from the airport to your hotel, and back again. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. Prices and rules change, so confirm with the provider.
 
-{{photo:1|An international terminal at Haneda Airport}}
+{{photo:1|A Japan Airlines jet at Haneda Airport}}
 
 ## The short answer
 
@@ -44,7 +44,7 @@ Departure needs more planning. JNTO says that {{fact:hf_hotel_to_airport}}. On h
 
 For ways to send it, JNTO lists these options. {{fact:hfx_options}}.
 
-{{photo:2|A delivery truck used by a luggage carrier in Japan}}
+{{photo:2|A hotel lobby in Japan}}
 
 Our view: book the return trip the day before your departure at the latest, and allow for the time that the luggage needs to reach the airport counter. If your flight is early, check whether the service can deliver before your check-in time.
 

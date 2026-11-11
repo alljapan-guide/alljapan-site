@@ -6,11 +6,11 @@ date: 2026-11-11
 updated: 2026-11-11
 cluster: planning
 affiliates: insurance | trip_insurance | trip_esim
-image_queries: Sassa General Hospital | Matsumoto KiYoshi Himeji-Ekimae
+image_queries: credit cards Visa Mastercard | Akihabara electronics shopping district Tokyo
 ---
 Many visitors assume that the credit card in their wallet already covers them, or that their health insurance at home will travel with them. Neither assumption is safe, and the official guidance explains why. This guide uses the Japan National Tourism Organization (JNTO) page on travel insurance and turns it into a checklist you can use before you rely on a card. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. It is general information, not advice about a specific policy, so read your own documents.
 
-{{photo:1|A general hospital building in Japan}}
+{{photo:1|A card payment terminal on a restaurant counter}}
 
 ## The short answer
 
@@ -18,7 +18,7 @@ JNTO says that {{fact:ins_recommended}}. On cards, it says that {{fact:ins_card}
 
 Our view: treat card cover as a starting point. If you cannot answer the questions in this guide from your card's own documents, you do not yet know what you have.
 
-{{photo:2|A drugstore near a station in Japan}}
+{{photo:2|Tokyo Station's red-brick Marunouchi building}}
 
 ## Why home health insurance is not the same thing
 

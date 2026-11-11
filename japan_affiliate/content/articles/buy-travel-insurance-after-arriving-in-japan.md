@@ -6,11 +6,11 @@ date: 2026-11-11
 updated: 2026-11-11
 cluster: planning
 affiliates: insurance | trip_insurance | trip_esim
-image_queries: Matsumoto KiYoshi Himeji-Ekimae | Sassa General Hospital
+image_queries: Narita Airport arrivals hall | New Chitose Airport terminal
 ---
 It is the night before you fly, or you have already landed, and you realise that you never bought travel insurance. The good news is that the official guidance says you are not too late. This guide uses the Japan National Tourism Organization (JNTO) page on travel insurance to explain what is possible after you arrive, what to check before you buy and what to avoid. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. It is general information, not advice about a specific policy.
 
-{{photo:1|A drugstore near a station in Japan}}
+{{photo:1|The arrivals hall at Narita Airport Terminal 1}}
 
 ## The short answer
 
@@ -24,7 +24,7 @@ The guidance is clear: {{fact:ins_recommended}}. On the risk, {{fact:ins_medical
 
 Our view: arriving without cover is not a disaster if you act quickly. It becomes a problem if you wait for a day when you need it.
 
-{{photo:2|A hospital building in Japan}}
+{{photo:2|The terminal building at New Chitose Airport near Sapporo}}
 
 ## A first-day plan
 

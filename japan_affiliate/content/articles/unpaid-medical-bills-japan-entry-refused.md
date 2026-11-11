@@ -6,11 +6,11 @@ date: 2026-11-11
 updated: 2026-11-11
 cluster: planning
 affiliates: insurance | trip_insurance
-image_queries: Sassa General Hospital | Matsumoto KiYoshi Himeji-Ekimae
+image_queries: Haneda Airport departure hall | Narita Airport departure hall
 ---
 A lot of travellers search for this question after they have read a forum thread, and the answer is more specific than the threads suggest. The Japan National Tourism Organization (JNTO) mentions the issue on its travel insurance page. This guide sticks to what that page says, explains the practical meaning and shows how to avoid the problem. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate. It is general information, not legal advice, and the rules can change, so check the official sources before you travel.
 
-{{photo:1|A hospital building in Japan}}
+{{photo:1|The departures hall at Haneda Airport}}
 
 ## What JNTO says
 
@@ -20,7 +20,7 @@ That is the whole of the official statement on this page. It does not give a thr
 
 Our view: the safest reading is the simple one. Do not leave Japan owing for medical treatment, and keep the paperwork.
 
-{{photo:2|A drugstore near a station in Japan}}
+{{photo:2|The departure hall at Narita Airport Terminal 1}}
 
 ## Why the issue matters to visitors
 

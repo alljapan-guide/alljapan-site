@@ -6,13 +6,13 @@ date: 2026-10-30
 updated: 2026-10-30
 cluster: hotels
 affiliates: trip_osaka_hotels | booking
-image_queries: Dotonbori Glico sign | Umeda Sky Building | Abeno Harukas | Osaka Aquarium Kaiyukan
+image_queries: Namba Osaka street night | Umeda Sky Building | Abeno Harukas | Osaka Aquarium Kaiyukan
 ---
 Osaka is easy to enjoy and a little confusing to base yourself in, because it has several centres rather than one. The Japan National Tourism Organization (JNTO) describes each area and how to reach it, and this guide turns that into a choice. Where we add opinion, we label it "Our view", so you can tell sourced information from editorial advice.
 
 JNTO sets the scene: {{fact:ws_charm}}. It adds that {{fact:ws_short}}.
 
-{{photo:1|The Dotonbori canal and neon signs in Osaka}}
+{{photo:1|Dotonbori at night in Osaka}}
 
 ## First, understand how Osaka is laid out
 
