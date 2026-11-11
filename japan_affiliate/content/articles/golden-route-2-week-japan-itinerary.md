@@ -102,6 +102,8 @@ For tours and tickets, you can compare options on {{aff:trip_things|Trip.com}} a
 
 {{pick|For a first trip of two weeks, our editorial pick is the JNTO order as it stands, with a night in Hakone for the onsen. This is our view, based on the number of nights and the rail legs in the JNTO plan.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the Golden Route take?

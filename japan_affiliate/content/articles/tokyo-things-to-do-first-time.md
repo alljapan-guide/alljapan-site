@@ -79,6 +79,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how Tokyo fi
 
 {{pick|For a first trip, our editorial pick is to build each day around one area, book one activity in advance and leave the rest open. This is our view, based on JNTO's list.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### What are the top things to do in Tokyo for a first-timer?

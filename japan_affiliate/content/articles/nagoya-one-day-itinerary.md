@@ -83,6 +83,8 @@ Read the cancellation terms and the meeting point before you book anything.
 
 {{pick|If you only have a few hours between trains, our editorial pick is the castle and the station dining floors. This is our view, based on the travel time between the stops JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Is one day enough for Nagoya?

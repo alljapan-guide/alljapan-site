@@ -96,6 +96,8 @@ For guided tours, rafting or a festival ticket, you can compare options on {{aff
 
 {{pick|For a first trip to Shikoku, our editorial pick is JNTO's order with a longer stop in Matsuyama and Dogo Onsen at the end. This is our view, based on the route and the transfer times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

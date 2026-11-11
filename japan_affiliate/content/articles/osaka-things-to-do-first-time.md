@@ -92,6 +92,8 @@ If you arrive from Tokyo, our [Tokyo to Osaka bullet train guide](tokyo-to-osaka
 
 For the short ride between the two cities, you can compare Osaka to Kyoto train tickets on {{aff:trip_train_osaka_kyoto|Trip.com}}. Check the change and refund terms before you pay.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do I need in Osaka?

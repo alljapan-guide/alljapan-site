@@ -81,6 +81,8 @@ If you want a guided activity or tickets, you can compare options on {{aff:trip_
 
 {{pick|If you only have a day, our editorial pick is Kamogawa Seaworld in the morning and the Mt. Nokogiri views in the afternoon. This is our view, based on the transfer times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Chiba's theme parks and farms?

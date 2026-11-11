@@ -93,6 +93,8 @@ If you are visiting as part of a longer route, our [7-day itinerary](tokyo-kyoto
 
 {{pick|If you can, give Ise Jingu a full day with an early start, so you can visit both shrines in the order JNTO describes without rushing. This is our editorial pick, based on the distance between the shrines.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Which shrine should I visit first at Ise?

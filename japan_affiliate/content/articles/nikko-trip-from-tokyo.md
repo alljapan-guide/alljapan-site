@@ -84,6 +84,8 @@ For guided tours or a day trip package from Tokyo, you can compare options on {{
 
 Our [day trips guide](best-day-trips-from-tokyo.html) compares Nikko with Hakone and Kamakura, and our [Hakone guide](hakone-trip-from-tokyo.html) and [Kamakura guide](kamakura-day-trip-from-tokyo.html) go deeper on those.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Nikko?

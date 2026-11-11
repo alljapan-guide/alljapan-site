@@ -84,6 +84,8 @@ For a bay cruise, a guided walk or a food tour, you can compare options on {{aff
 
 Our [day trips guide](best-day-trips-from-tokyo.html) compares Yokohama with Kamakura, Hakone and Nikko.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Yokohama?

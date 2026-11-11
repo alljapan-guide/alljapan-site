@@ -92,6 +92,8 @@ Read the cancellation terms and the meeting point before you book anything.
 
 {{pick|If you only have one night in Oita, our editorial pick is a stay in Yufuin with an evening bath and a morning walk to Lake Kinrin. This is our view, based on the quiet pace JNTO describes for the town.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Oita hot springs?

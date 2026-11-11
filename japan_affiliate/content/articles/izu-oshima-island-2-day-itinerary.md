@@ -91,6 +91,8 @@ If you want a guided hike or a tour, you can compare options on {{aff:trip_thing
 
 {{pick|If you only have two days, our editorial pick is the volcano museum on the first afternoon and the Mt. Mihara hike plus the sunset bath on the second day. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Izu Oshima?

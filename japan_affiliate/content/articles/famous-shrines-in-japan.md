@@ -96,6 +96,8 @@ Our [souvenirs guide](japan-souvenirs-guide.html) covers what else to buy. If a 
 
 You can compare places to stay near the shrines on {{aff:booking|Booking.com}}, and look at guided tours on {{aff:klook|Klook}}. Check each listing's cancellation terms.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Which shrine should I visit first in Japan?

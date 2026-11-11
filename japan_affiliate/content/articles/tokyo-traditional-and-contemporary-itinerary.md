@@ -90,6 +90,8 @@ For tickets, guided walks or a food tour at the market, you can compare options 
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how a Tokyo day fits into a longer route.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Is one day enough for Tokyo?

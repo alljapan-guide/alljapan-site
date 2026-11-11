@@ -83,6 +83,8 @@ If you want a guided walk or a temple experience, you can compare options on {{a
 
 {{pick|If you only have one night, our editorial pick is JNTO's order: the gate and Kongobuji in the afternoon, Okunoin at dusk and a shukubo overnight. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Koyasan?

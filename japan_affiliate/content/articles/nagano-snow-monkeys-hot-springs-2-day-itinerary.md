@@ -87,6 +87,8 @@ Read the cancellation terms and the meeting point before you book anything.
 
 {{pick|If you have one night in Nagano, our editorial pick is JNTO's order: the monkeys on the first afternoon and a ryokan or onsen stay at Shibu Onsen. This is our view, based on the travel time between the stops JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long should you spend on a Nagano snow monkey trip?

@@ -96,6 +96,8 @@ Our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to check wh
 
 For a place to stay, you can compare Fukuoka hotels on {{aff:trip_fukuoka_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How do I get from Tokyo to Fukuoka?

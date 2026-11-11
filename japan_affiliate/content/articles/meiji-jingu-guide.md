@@ -84,6 +84,8 @@ You can look at guided walking tours of Tokyo on {{aff:klook|Klook}}, {{aff:viat
 
 {{pick|If you have one morning in Tokyo, our editorial pick is Meiji Jingu first, then Harajuku. This follows the JNTO advice to make it one of your first Tokyo stops. It is our view, not a ranking.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How do I get to Meiji Jingu?

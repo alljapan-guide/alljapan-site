@@ -75,6 +75,8 @@ If you prefer a guided day with transport arranged, you can compare tours on {{a
 
 Day trips work best from a convenient base; our [Tokyo area guide](where-to-stay-in-tokyo.html) covers where to stay. For a full week, see our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html), and set up train payments with our [IC card guide](japan-ic-card-guide.html). If you will use bullet trains for a longer route, run the numbers in our [rail pass guide](is-japan-rail-pass-worth-it.html).
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Which day trip from Tokyo is the easiest?

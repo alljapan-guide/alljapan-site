@@ -83,6 +83,8 @@ If you want a guided walk or a local food experience, you can compare options on
 
 {{pick|If you only have one night, our editorial pick is Erinji in the afternoon, a night at Masutomi Onsen with hoto for dinner, and Hakusan the next morning. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Yamanashi hot springs?

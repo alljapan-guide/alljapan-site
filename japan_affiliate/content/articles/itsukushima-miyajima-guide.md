@@ -92,6 +92,8 @@ For how to behave at the shrine, our [shrine etiquette guide](shinto-shrine-etiq
 
 If you plan to base yourself in Hiroshima for the island, you can compare Hiroshima hotels on {{aff:trip_hiroshima_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How do I get to Miyajima from Hiroshima?

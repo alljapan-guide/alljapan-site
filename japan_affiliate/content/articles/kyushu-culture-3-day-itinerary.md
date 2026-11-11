@@ -90,6 +90,8 @@ For guided tours, a theme park ticket or a volcano excursion, you can compare op
 
 {{pick|For a first visit to Kyushu, our editorial pick is the JNTO order, with a night in Nagasaki and a night in Kumamoto. This is our view, based on the transfer times JNTO lists between the cities.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

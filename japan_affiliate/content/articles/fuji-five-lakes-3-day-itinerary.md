@@ -89,6 +89,8 @@ Read the cancellation terms and the meeting point before you book anything.
 
 {{pick|If you only have one night, our editorial pick is Lake Kawaguchi: stay there, see the north shore in the morning, then go to Oshino Hakkai by bus. This is our view, based on the JNTO advice to see the mountain early.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for the Fuji Five Lakes?

@@ -78,6 +78,8 @@ For a base, you can compare Osaka hotels on {{aff:trip_osaka_hotels|Trip.com}}, 
 
 If you are visiting western Japan, our [Hiroshima guide](hiroshima-things-to-do-first-time.html) and [Kobe guide](kobe-day-trip-from-osaka.html) fit on the same route.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How do I get to Himeji Castle from Himeji Station?

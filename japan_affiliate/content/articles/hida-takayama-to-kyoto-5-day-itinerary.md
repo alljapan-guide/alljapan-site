@@ -88,6 +88,8 @@ For guided tours in Takayama, Shirakawa-go or Kyoto, you can compare options on 
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows the more usual Tokyo, Kyoto and Osaka route for comparison.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the Takayama to Kyoto route take?

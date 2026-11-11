@@ -83,6 +83,8 @@ Read the cancellation terms and the meeting point before you book anything.
 
 {{pick|If you only have one day in the north, our editorial pick is the aquarium in the morning and Bise Fukugi lane in the afternoon. This is our view, based on the travel time between the stops JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need in northern Okinawa?

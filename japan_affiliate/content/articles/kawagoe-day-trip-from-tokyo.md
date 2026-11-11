@@ -78,6 +78,8 @@ For a guided walking tour or a day trip package, you can compare options on {{af
 
 Our [Kamakura guide](kamakura-day-trip-from-tokyo.html) and [Hakone guide](hakone-trip-from-tokyo.html) cover longer options.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Kawagoe?

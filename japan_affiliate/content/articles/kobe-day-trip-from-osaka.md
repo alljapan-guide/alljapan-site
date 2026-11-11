@@ -90,6 +90,8 @@ For a base, Kobe is an easy trip from Osaka, so you can compare Osaka hotels on 
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where an extra Osaka-based day trip can fit.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get from Osaka to Kobe?

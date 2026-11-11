@@ -94,6 +94,8 @@ For guided tours, a castle ticket or a volcano excursion, you can compare option
 
 Our [Kyushu culture itinerary](kyushu-culture-3-day-itinerary.html) covers Nagasaki and Kumamoto from another angle.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

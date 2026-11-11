@@ -90,6 +90,8 @@ For guided hikes or regional tours, you can compare options on {{aff:trip_things
 
 {{pick|For a first visit to the area, our editorial pick is the JNTO order: the scenic train and the lakes on day 1, a night at Furofushi, and the coast on day 2. This is our view, based on the route and the transfer times JNTO gives.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

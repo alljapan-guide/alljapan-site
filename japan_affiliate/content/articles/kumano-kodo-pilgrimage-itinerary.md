@@ -82,6 +82,8 @@ If you want a guided walk or a day tour, you can compare options on {{aff:trip_t
 
 {{pick|If you only have two days, our editorial pick is Hongu Taisha and Oyunohara on day 1, a night at Kawayu Onsen, and Nachi Taisha and the falls on day 2. This is our view, based on the bus times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for the Kumano Kodo?

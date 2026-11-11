@@ -87,6 +87,8 @@ If you want a guided walk, a kayak tour or a cruise, you can compare options on 
 
 {{pick|If you only have two nights, our editorial pick is the sightseeing ship and Furepe Falls on the first day, and the Five Lakes walk on the second. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Shiretoko?

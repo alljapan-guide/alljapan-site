@@ -80,6 +80,8 @@ For a guided hike or a day trip package, you can compare options on {{aff:trip_t
 
 Our [day trips guide](best-day-trips-from-tokyo.html) compares Mt. Takao with Kamakura, Hakone and Nikko, and our [Kawagoe guide](kawagoe-day-trip-from-tokyo.html) covers a gentler option.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get from Shinjuku to Mt. Takao?

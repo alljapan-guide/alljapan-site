@@ -80,6 +80,8 @@ For guided tours or a day trip package, you can compare options on {{aff:trip_th
 
 Our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html) shows a more central route if you have only a few days.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get from Kyoto to Amanohashidate?

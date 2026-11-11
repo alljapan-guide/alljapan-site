@@ -89,6 +89,8 @@ If you want a guided tour or a food experience, you can compare options on {{aff
 
 {{pick|If you only have a day, our editorial pick is Okage Yokocho for lunch and the Inner Shrine in the afternoon. This is our view, based on the short walk between them that JNTO describes.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Ise?

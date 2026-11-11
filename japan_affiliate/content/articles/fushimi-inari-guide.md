@@ -84,6 +84,8 @@ Our view: pair Fushimi Inari with something near Kyoto Station, since the JR rid
 
 {{pick|If you only have a morning, take the JR Nara Line from Kyoto Station and walk part of the path. This is our editorial pick, based on the access times in the official guide.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get to Fushimi Inari from Kyoto Station?

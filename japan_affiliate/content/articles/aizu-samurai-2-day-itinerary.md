@@ -91,6 +91,8 @@ If you want a guided walk or a local experience, you can compare options on {{af
 
 {{pick|If you only have one night, our editorial pick is JNTO's order: the castle and mansion on the first day, a night at Ashinomaki Onsen, and Ouchi-juku the next morning. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Aizu?

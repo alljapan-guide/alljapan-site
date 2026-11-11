@@ -90,6 +90,8 @@ You can compare class listings and tours on {{aff:trip_things|Trip.com}}, {{aff:
 
 Our [one-day cultural itinerary](tokyo-one-day-cultural-itinerary.html) and [traditional and contemporary Tokyo itinerary](tokyo-traditional-and-contemporary-itinerary.html) cover sightseeing days in the same city.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

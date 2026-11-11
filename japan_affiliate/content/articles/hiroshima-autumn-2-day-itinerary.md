@@ -89,6 +89,8 @@ If you want a guided tour or a tea experience, you can compare options on {{aff:
 
 {{pick|If you have only two days, our editorial pick is JNTO's order: Miyajima first, then Hiroshima, ending with okonomiyaki. This is our view, based on the transfer times between the stops JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Hiroshima in autumn?

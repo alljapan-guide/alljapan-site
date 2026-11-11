@@ -95,6 +95,8 @@ If you want a guided tour or a pottery workshop, you can compare options on {{af
 
 {{pick|If you only have one day, our editorial pick is Nagasaki: the temples and bridge in the morning, Oura Cathedral and Glover Garden after lunch, and Chinatown for dinner. This is our view, based on the tram route JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for Nagasaki and the pottery towns?

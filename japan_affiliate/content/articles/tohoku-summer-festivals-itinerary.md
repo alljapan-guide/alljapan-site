@@ -83,6 +83,8 @@ If you want a guided festival tour or a cultural workshop, you can compare optio
 
 {{pick|If you only have a few days, our editorial pick is Aomori Nebuta and then Sendai Tanabata, linked by the Shinkansen. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for the Tohoku summer festivals?

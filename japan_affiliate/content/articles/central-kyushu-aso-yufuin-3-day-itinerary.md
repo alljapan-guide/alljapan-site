@@ -92,6 +92,8 @@ For guided tours, a horse-riding or trolley ticket or a cormorant fishing evenin
 
 {{pick|For a first visit to central Kyushu, our editorial pick is the JNTO order: Aso on day 1, Yufuin on day 2, and a hot spring night in Hita. This is our view, based on the transfers and times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

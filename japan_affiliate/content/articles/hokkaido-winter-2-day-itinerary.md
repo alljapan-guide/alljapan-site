@@ -92,6 +92,8 @@ For guided tours, a snow activity or a day trip, you can compare options on {{af
 
 If your trip starts or ends in Sapporo, you can compare Sapporo hotels on {{aff:trip_sapporo_hotels|Trip.com}}. Read each listing's cancellation terms before you book.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

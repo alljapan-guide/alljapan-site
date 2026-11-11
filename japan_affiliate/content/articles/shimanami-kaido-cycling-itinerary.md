@@ -85,6 +85,8 @@ If you want a guided ride or an activity, you can compare options on {{aff:trip_
 
 {{pick|If you ride once a month or less, our editorial pick is a one-way ride from Onomichi to Ikuchijima, with Kosanji as the main stop, and a train or bus back. This is our view, based on the riding times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long is the Shimanami Kaido?

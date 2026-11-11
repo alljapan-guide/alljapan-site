@@ -88,6 +88,8 @@ You can see the park without a guide, since the walking route is simple. If you 
 
 If you would rather stay overnight in Nara, for example to see the park early in the morning, you can compare Nara hotels on {{aff:trip_nara_hotels|Trip.com}}. Our view: a night in Nara suits travellers who want quiet evenings, while a day trip from Kyoto or Osaka suits a short itinerary.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How long does it take to get to Nara from Kyoto?

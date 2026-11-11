@@ -86,6 +86,8 @@ If you want a ski lesson, a guided snow activity or a day tour, you can compare 
 
 {{pick|If you only have one night, our editorial pick is skiing at Hakkaisan on the first day with an evening hot spring, and Shiozawa on the way back. This is our view, based on the travel times JNTO lists.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### How many days do you need for a Niigata winter trip?

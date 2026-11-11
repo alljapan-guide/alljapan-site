@@ -90,6 +90,8 @@ You can compare accommodation near Izumo on {{aff:booking|Booking.com}}, and loo
 
 {{pick|If you only add one shrine outside the main cities, our editorial pick is Izumo Taisha for the combination of the giant rope, the four-clap prayer and the soba on the approach. This is our view, based on the JNTO pages.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Who is enshrined at Izumo Taisha?

@@ -88,6 +88,8 @@ Compare hotels with flexible cancellation, particularly for busy dates. Everythi
 - **Long queues for trending restaurants.** Choose neighbourhood places instead.
 - **Overpacked days.** Two main activities a day is a healthy pace.
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Is 7 days enough for Tokyo, Kyoto and Osaka?

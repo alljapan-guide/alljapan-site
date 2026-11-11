@@ -87,6 +87,8 @@ Our view: with two days, keep Osaka and one day trip. With four days, add the se
 
 {{pick|For a first visit, our editorial pick is Osaka on day 1, Kyoto on day 2 and Kobe on day 3. This is our view, based on the train times and the day-length advice in the JNTO pages we have summarised.}}
 
+Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
+
 ## FAQ
 
 ### Is three days enough for Osaka and day trips?
