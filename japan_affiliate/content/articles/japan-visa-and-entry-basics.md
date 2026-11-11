@@ -77,6 +77,8 @@ You can compare travel insurance through {{aff:insurance|a travel insurance prov
 
 Before you travel, you can compare travel insurance plans on {{aff:trip_insurance|Trip.com}}. Read what the plan covers and its exclusions before you pay.
 
+For a related question, our guide on [unpaid medical bills and entry](unpaid-medical-bills-japan-entry-refused.html) explains what JNTO says about travel insurance and entry, and our [emergency numbers page](japan-emergency-numbers-for-tourists.html) lists the numbers to save before you arrive.
+
 ## FAQ
 
 ### Do I need a visa to visit Japan as a tourist?

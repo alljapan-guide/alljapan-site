@@ -84,6 +84,16 @@ The hotline is not insurance, but it is worth saving. JNTO says {{fact:hotline_h
 
 You can compare policies through {{aff:insurance|a travel insurance provider}}. Read the exclusions, the claim process and the cancellation terms before you buy.
 
+## More detail on each question
+
+If you are looking for a specific answer, these guides go deeper:
+
+- [Is credit card travel insurance enough for Japan?](is-credit-card-travel-insurance-enough-for-japan.html) A checklist for card and home cover.
+- [Can you buy travel insurance after you arrive in Japan?](buy-travel-insurance-after-arriving-in-japan.html) What to do on the first day.
+- [What to do if you get sick or injured in Japan](what-to-do-if-you-get-sick-in-japan.html) Who to call and what to prepare.
+- [Can unpaid medical bills stop you entering Japan?](unpaid-medical-bills-japan-entry-refused.html) What JNTO says and how to avoid the problem.
+- [Japan emergency numbers for tourists](japan-emergency-numbers-for-tourists.html) The numbers to save before you travel.
+
 ## Other planning guides
 
 Insurance is one part of preparation. If you are working out connectivity so you can reach your insurer abroad, see our [eSIM and pocket WiFi guide](japan-esim-vs-pocket-wifi.html). For transport, our [IC card guide](japan-ic-card-guide.html) covers cards and our [rail pass guide](is-japan-rail-pass-worth-it.html) covers longer trips. For a full route, see our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html).

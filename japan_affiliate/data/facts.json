@@ -22895,5 +22895,314 @@
    "tohoku-summer-festivals-itinerary"
   ],
   "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_jta_site",
+  "text": "the Japan Tourism Agency operates a dedicated website for safe travel, where you can easily purchase travel insurance",
+  "claim": "Buying after arrival",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "dedicated website for safe travel",
+   "easily purchase travel insurance through this website"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_covers",
+  "text": "travel insurance covers medical expenses and compensation for the damage that occurs during your trip",
+  "claim": "What it covers",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "covers medical expenses and compensation for the damage that occurs during your trip"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_check_own",
+  "text": "if you buy travel insurance in your country, you should check with your insurance company for their specific policies before your trip",
+  "claim": "Check your policy",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "check with your insurance company for their specific policies"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_transport",
+  "text": "some policies cover round-trip flights or transport from your home to the airport, while others do not",
+  "claim": "Policy differences",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "Some policies cover round-trip flights or transport from your home to the airport"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_contact",
+  "text": "you should know how to contact your travel insurance provider and keep their emergency contact phone number on your person",
+  "claim": "Contacting the insurer",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "Know how to contact your travel insurance provider",
+   "Keep their emergency contact phone number on your person"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_upfront",
+  "text": "some insurers may require you to pay upfront, and some clinics do not accept credit cards",
+  "claim": "Paying upfront",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "pay upfront, and some clinics"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_inst_type",
+  "text": "the type of medical institution you need differs depending on the hour of the day, the level of severity and whether it is an emergency",
+  "claim": "Which institution",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "differs depending on the hour of the day, the level of severity"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ins_delay",
+  "text": "not speaking Japanese will complicate things and in some cases even delay you getting help",
+  "claim": "Language",
+  "source_name": "JNTO: Travel Insurance in Japan",
+  "source_url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/",
+  "must_contain": [
+   "not speaking Japanese will complicate things",
+   "even delay you getting help"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_police",
+  "text": "in addition to the emergency number 110, the Metropolitan Police in Tokyo has an English helpline available 24 hours a day, 365 days a year, on 03-3501-0110",
+  "claim": "Police English helpline",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "English helpline available 24 hours a day, 365 days a year",
+   "03-3501-0110"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_tell",
+  "text": "the Tokyo English Life Line mental health hotline is 03-5774-0992, open Monday through Thursday 9 a.m. to 11 p.m. and Friday through Sunday 9 a.m. to 2 a.m.",
+  "claim": "TELL hotline",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Tokyo English Life Line (TELL)",
+   "03-5774-0992",
+   "Friday through Sunday 9 a.m. to 2 a.m."
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_tic",
+  "text": "the JNTO TIC Call Center, 050-3416-0010, provides tourist information throughout Japan, every day 9 a.m. to 5 p.m.",
+  "claim": "TIC call center",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "050-3416-0010",
+   "every day 9 a.m. to 5 p.m."
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_hotline",
+  "text": "for emergency support such as illness or disasters, you can call the JNTO Japan Visitor Hotline on 050-3816-2787, 24 hours, every day",
+  "claim": "Visitor Hotline",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "For emergency support (illness, disasters, etc.)",
+   "050-3816-2787",
+   "24 hours, every day"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_langs",
+  "text": "both the TIC call center and the hotline support English, Chinese, Korean and Japanese",
+  "claim": "Hotline languages",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Both services support English, Chinese, Korean, and Japanese"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_koban",
+  "text": "if you need help, you can head to a local koban, the small police boxes dotted throughout Japanese neighborhoods, and if you do not know where one is you can just ask",
+  "claim": "Koban",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "head to a local koban",
+   "small police boxes dotted throughout Japanese neighborhoods"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_theft",
+  "text": "if you are without credit cards, airline tickets or passports due to theft, you should contact the issuers to arrange replacements and keep a list of relevant numbers",
+  "claim": "Theft",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "contact the issuers to arrange for replacements",
+   "Keep a list of relevant numbers"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_report",
+  "text": "if you need your passport reissued or receive an insurance payment due to theft, loss, traffic or other incident, a police report will be required, and a local police station can create it",
+  "claim": "Police report",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "a police report will be required",
+   "A local police station can create this for you"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_hotel",
+  "text": "if you are staying at a hotel, you can ask the front desk to give you a hand with the police report",
+  "claim": "Hotel help",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "ask the front desk to give you a hand"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_embassy",
+  "text": "your embassy is a useful point of contact in an emergency, and you will need to get in touch with it if you need a replacement passport",
+  "claim": "Embassy",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Your embassy is also a useful point of contact",
+   "need a replacement passport"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_copies",
+  "text": "you should make a couple of copies of your passport, keeping one with you and leaving one at home",
+  "claim": "Passport copies",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "make a couple of copies of your passport"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_jta_guide",
+  "text": "the Japan Tourism Agency guide for when you are feeling ill provides medical institution information, search methods and guidelines, in English, Chinese and Korean",
+  "claim": "Illness guide",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Guide for when you are feeling ill",
+   "medical institutions information, search methods, and guidelines",
+   "available in English, Chinese, and Korean"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "emn_amda_q",
+  "text": "the AMDA International Medical Information Center provides a medical questionnaire in several languages",
+  "claim": "AMDA questionnaire",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Medical Questionnaire in Multilanguage"
+  ],
+  "topics": [
+   "insurance-cluster"
+  ],
+  "verified_on": "2026-11-11"
  }
 ]
