@@ -96,6 +96,8 @@ Our [Kyushu culture itinerary](kyushu-culture-3-day-itinerary.html) covers Nagas
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

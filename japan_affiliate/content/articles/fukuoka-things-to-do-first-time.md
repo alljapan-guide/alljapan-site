@@ -98,6 +98,8 @@ For a place to stay, you can compare Fukuoka hotels on {{aff:trip_fukuoka_hotels
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
+
 ## FAQ
 
 ### How do I get from Tokyo to Fukuoka?

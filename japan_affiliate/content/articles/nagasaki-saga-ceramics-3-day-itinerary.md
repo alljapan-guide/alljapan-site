@@ -97,6 +97,8 @@ If you want a guided tour or a pottery workshop, you can compare options on {{af
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
+
 ## FAQ
 
 ### How many days do you need for Nagasaki and the pottery towns?

@@ -94,6 +94,8 @@ If you want to compare places to stay, you can look at {{aff:trip_hotels|Tokyo h
 
 For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
 
+For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
+
 ## FAQ
 
 ### How many days do you need for Japan?
