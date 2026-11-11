@@ -3,7 +3,7 @@ title: Japan IC Card Guide: Suica, Pasmo & ICOCA Explained
 slug: japan-ic-card-guide
 description: Which Japan IC card (train card) to use, how to add one to your iPhone, and when a card is not enough. A practical guide for first-time visitors.
 date: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-12
 cluster: transport
 affiliates: railpass | klook | esim
 references: apple_express_mode | pasmo_tourist
@@ -50,6 +50,22 @@ For Android, PASMO's own page says {{fact:pasmo_android}}. Android users should 
 {{note|If you use the phone route, carry a small battery pack. A phone that has run out of power cannot open the ticket gate.}}
 
 {{photo:2|Commuters on a Tokyo station platform}}
+
+## Decision table: which way to get and use a card
+
+Our view: this table is our own shortcut, built on the operator and Apple points above. Card sales and devices change, so confirm on the operator's page before you travel.
+
+| Your situation | What to do | Source point |
+|---|---|---|
+| You have an iPhone 8 or later | Add a card in Apple Wallet before you fly | Apple lists the iPhone, Apple Account and payment card needs |
+| You have an Android phone bought abroad | Plan on a physical card | PASMO says such devices are generally not compatible with Mobile PASMO |
+| You want a physical card | Check the operator's page for what is sold to visitors now | The PASMO site announces TOURIST PASMO, with availability to be checked |
+| You travel between cities | One card is enough | Ten cards, including Suica, PASMO and ICOCA, are interoperable |
+| You head to rural areas | Check the local operator before relying on the card | PASMO says it is not usable on every line |
+| You want to pay in shops | Tap the card where IC payment is shown | Transit IC cards work at participating stores |
+| You take several long bullet train trips | Compare fares with a pass | An IC card pays standard fares |
+
+Last reviewed on 12 November 2026 against the operator and Apple pages in the Sources box.
 
 ## How to use it on day one
 
@@ -109,3 +125,19 @@ The rules depend on the card type, so check the operator's page for the card you
 ### Should I get a rail pass as well?
 
 Only if the long-distance journeys you plan cost more than the pass. For city-based trips an IC card alone is usually enough.
+
+### Can I use an IC card to pay in shops?
+
+Yes, at participating stores. PASMO's page says transit IC cards can also be used for cashless payments there. Look for the IC payment sign at the register.
+
+### Does an Android phone bought abroad work with Mobile PASMO?
+
+PASMO says Android devices purchased outside Japan are, in general, not compatible with Mobile PASMO. Plan on a physical card and check your phone maker's support page.
+
+### Can I turn on Express Mode for two cards at once?
+
+No. Apple says Express Mode can be turned on for only one card at a time, so choose the card you use most.
+
+### Does my IC card work on every train and bus?
+
+Not always. PASMO says its card cannot be used on every railway and bus line in Japan, so check the local operator for rural trips.

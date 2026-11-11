@@ -127,3 +127,6 @@ Added a "Which option fits you?" decision table (six situations, each tied to a 
 
 ## 2026-11-12 japan-opening-hours-and-holidays refresh
 Added a seven-row decision table (situation, action, JNTO point), four FAQ entries (national holidays, rush hour, restaurant hours, shrine crowds) and a visible "Last reviewed 12 November 2026" line; updated date set to 2026-11-12. No new facts. Verify and build pass. Next: japan-ic-card-guide.
+
+## 2026-11-12 japan-ic-card-guide refresh
+Added a seven-row decision table (situation, action, source point), four FAQ entries (shop payments, Android and Mobile PASMO, Express Mode, line coverage) and a visible "Last reviewed 12 November 2026" line; updated date set to 2026-11-12. No new facts. Verify and build pass. The three top-impression pages (insurance, opening hours, IC card) are now refreshed. Next: regional hubs (Kansai hub, Kyushu hub).
