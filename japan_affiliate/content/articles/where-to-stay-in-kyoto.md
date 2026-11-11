@@ -98,6 +98,8 @@ Kyoto often sits in the middle of a longer route. Our [7-day itinerary](tokyo-ky
 
 For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
 
+For a traditional inn, our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html) explains what to expect and how to book.
+
 ## FAQ
 
 ### What is the best area to stay in Kyoto for first-timers?

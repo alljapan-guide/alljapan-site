@@ -86,6 +86,8 @@ If you want a stay where bathing rules are explained at check-in, you can compar
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a first trip route, and our [travel insurance guide](japan-travel-insurance.html) covers emergency numbers and the visitor hotline.
 
+If you plan to drive, our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html) explains the permit and the road rules.
+
 ## FAQ
 
 ### Do I need to carry my passport in Japan?

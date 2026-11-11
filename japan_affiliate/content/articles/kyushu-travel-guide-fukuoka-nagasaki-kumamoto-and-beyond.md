@@ -93,6 +93,8 @@ For the long train legs between Fukuoka and the rest of the island, you can comp
 
 {{note|Hot spring and bus schedules change by season. Use this page to choose a route, then confirm on the operator's own page.}}
 
+If you plan to drive between hot spring towns, see our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html).
+
 ## FAQ
 
 ### How many days do you need for Kyushu?

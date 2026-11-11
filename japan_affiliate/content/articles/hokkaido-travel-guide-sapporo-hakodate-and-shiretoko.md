@@ -85,6 +85,8 @@ To compare places to stay in the main city, you can look at {{aff:trip_sapporo_h
 
 {{note|Flight, bus and train schedules change by season. Use this page to choose a route, then confirm on the operator's own page.}}
 
+Much of Hokkaido is easier with a car, and our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html) explains the permit and the rules.
+
 ## FAQ
 
 ### How many days do you need for Hokkaido?

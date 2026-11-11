@@ -74,6 +74,8 @@ An accommodation with its own bath is the easiest way to try an onsen, because t
 
 If you are planning a wider trip, our [guide to where to stay in Kyoto](where-to-stay-in-kyoto.html) mentions ryokan and areas with hot spring lodging, and our [day trips guide](best-day-trips-from-tokyo.html) covers Hakone, where the tourism organisation's itinerary lists highlights such as {{fact:hakone_highlights}}.
 
+Many onsen are part of a ryokan stay, and our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html) explains how the evening works.
+
 ## FAQ
 
 ### Do I have to be naked in an onsen?

@@ -102,6 +102,8 @@ For the whole island at a glance, including routes, flights and how long the dis
 
 For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
 
+For planning help by traveller type, see our guides to [traveling with children](traveling-to-japan-with-children.html), [accessible travel](accessible-travel-in-japan-wheelchair-guide.html) and [vegetarian and vegan travel](vegetarian-and-vegan-travel-in-japan.html).
+
 ## FAQ
 
 ### How many days do you need for Japan?

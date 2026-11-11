@@ -24098,5 +24098,1307 @@
    "ic-card-cluster"
   ],
   "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_def",
+  "text": "ryokan are traditional Japanese inns found throughout the country",
+  "claim": "What a ryokan is",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "traditional Japanese inns found throughout the country"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_elements",
+  "text": "the common elements are tatami flooring, futon bedding, private baths, yukata robes, kaiseki multi-course dinners and a traditional Japanese breakfast",
+  "claim": "Ryokan common elements",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "tatami flooring, futon bedding, private baths"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_customs",
+  "text": "customs such as removing your shoes indoors, taking an onsen bath and wearing a yukata will all be explained",
+  "claim": "Ryokan customs explained",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "removing your shoes indoors, taking an onsen bath and wearing a yukata"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_staff",
+  "text": "the staff is welcoming and ready to allay concerns about the customs",
+  "claim": "Ryokan staff",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "the staff is welcoming and ready to allay concerns"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_meals",
+  "text": "a ryokan stay typically includes a kaiseki ryori dinner and a traditional Japanese breakfast the next morning",
+  "claim": "Ryokan meals",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "traditional Japanese breakfast the next morning"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_hall",
+  "text": "meals are presented in either a communal eating hall or in your room, depending on the ryokan",
+  "claim": "Where meals are served",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "either a communal eating hall or in your room"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_nomeals",
+  "text": "some ryokan offer stays without meals, but dining in-house is considered an essential part of the experience",
+  "claim": "Stays without meals",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "Some ryokan offer stays without meals"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_price",
+  "text": "ryokan stays are priced per person, per room, with meals usually included",
+  "claim": "How ryokan are priced",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "priced per person, per room, with meals usually included"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_avg",
+  "text": "the average price of a ryokan stay hovers around the 15,000 yen per night mark",
+  "claim": "Average ryokan price",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "hovers around the 15,000 yen per night mark"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_loc",
+  "text": "ryokan are located all over Japan, from the old capitals of Nara and Kyoto to onsen ryokan in the hills of Nagano and contemporary resorts in Tokyo",
+  "claim": "Where ryokan are",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "from prestigious establishments in the old capitals of Nara and Kyoto"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_onsen",
+  "text": "most ryokan have an onsen and many have a beautiful Japanese garden",
+  "claim": "Onsen and garden",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "Most ryokan have an onsen and many have a beautiful Japanese garden"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "ry_garden",
+  "text": "deluxe ryokan invite guests to wear geta or zori slippers and a yukata to wander the landscaped grounds",
+  "claim": "Ryokan grounds",
+  "source_name": "JNTO: Japanese Ryokan Guide",
+  "source_url": "https://www.japan.travel/en/guide/japanese-ryokan/",
+  "must_contain": [
+   "don geta or zori slippers and a yukata gown to wander your landscaped surroundings"
+  ],
+  "topics": [
+   "how-to-stay-at-a-ryokan-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_challenge",
+  "text": "being a vegetarian or vegan in Japan is a challenge, but there is plenty to keep you well-fed",
+  "claim": "Vegetarian difficulty",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Being a vegetarian or vegan in Japan is a challenge"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_stock",
+  "text": "even stocks and sauces usually have some ingredients containing meat",
+  "claim": "Stocks and sauces",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "even stocks and sauces usually have some ingredients containing meat"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_hidden",
+  "text": "even when meat or fish is not evident in a dish, hidden ingredients such as meat or bonito flakes can make it unfriendly to vegans",
+  "claim": "Hidden ingredients",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "hidden ingredients such as meat or bonito flakes"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_word",
+  "text": "simply requesting vegetarian meals may not be sufficient",
+  "claim": "The word vegetarian",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Simply requesting vegetarian meals may not be sufficient"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_specific",
+  "text": "when ordering you should say no meats, seafoods, or animal products including dashi or stocks",
+  "claim": "How to order",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Say no meats, seafoods, or animal products including dashi or stocks"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_chicken",
+  "text": "no meat also includes chicken, pork, and fish",
+  "claim": "Clarify what meat means",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "no meat also includes chicken, pork, and fish"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_card",
+  "text": "you should print out a written explanation or card detailing your dietary requirements in Japanese",
+  "claim": "Dietary card",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Print out a written explanation or card detailing your dietary requirements in Japanese"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_advance",
+  "text": "establishments should be told of dietary requirements in advance when you make reservations, particularly for a set menu",
+  "claim": "Tell restaurants in advance",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Notify establishments of dietary requirements in advance when making reservations"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_photo",
+  "text": "restaurants and izakayas with photo menus can be very helpful, but you still need to check the dashi and base ingredients",
+  "claim": "Photo menus",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Restaurants and izakayas with photo menus can be very helpful"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_shojin",
+  "text": "shojin ryori is found almost exclusively in Buddhist temples",
+  "claim": "Shojin ryori",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Shojin ryori is found almost exclusively in Buddhist temples"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_shojin_dairy",
+  "text": "traditionally shojin ryori is vegan, but modern monks do not consider the use of dairy harmful to animals, so it is occasionally used",
+  "claim": "Shojin ryori and dairy",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "the use of dairy is not considered harmful to animals by modern monks"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_ryokan",
+  "text": "outside major cities a ryokan can create vegetarian Japanese food if you contact them ahead of time with details of your dietary needs",
+  "claim": "Ryokan and vegetarian food",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "contact them ahead of time with details of your dietary needs"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_konbini",
+  "text": "convenience stores are a surprising goldmine of veggie snacks",
+  "claim": "Convenience stores",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "surprising goldmine of veggie snacks"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_onigiri",
+  "text": "many onigiri are filled with fish, but there are usually some umeboshi and kombu options",
+  "claim": "Onigiri",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "there are usually some umeboshi (sour pickled plum) and kombu (dried kelp) options"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_natto",
+  "text": "ready-to-eat natto often comes with an accompanying sauce that is dashi, a fish stock",
+  "claim": "Natto sauce",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "the accompanying sauce is often dashi (fish stock)"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_soy",
+  "text": "you may consider taking your own soy sauce around with you for a fish-free flavor",
+  "claim": "Own soy sauce",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Consider taking your own soy sauce around with you"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_sticker",
+  "text": "many veggie restaurants display an official vegan or vegetarian sticker of approval from groups such as The Japan Vegan Society, VegeProject Japan or The Japan Vegetarian Association",
+  "claim": "Restaurant stickers",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "an official vegan or vegetarian sticker of approval"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_portals",
+  "text": "dedicated portal sites such as Happy Cow and Japan VegeMap list vegetarian and vegan restaurants",
+  "claim": "Portal sites",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "Japan VegeMap"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "vg_halal",
+  "text": "awareness of halal and kosher diets is still far from optimal compared to vegetarianism and veganism",
+  "claim": "Halal and kosher",
+  "source_name": "JNTO: A Vegetarian and Vegan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/guide/vegetarian-guide/",
+  "must_contain": [
+   "is still far from optimal compared to vegetarianism and veganism"
+  ],
+  "topics": [
+   "vegetarian-and-vegan-travel-in-japan"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_idp",
+  "text": "if you wish to drive in Japan you must obtain an International Driving Permit prior to departure",
+  "claim": "Driving permit needed",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "you must obtain an International Driving Permit prior to departure"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_issued",
+  "text": "International Driving Permits are generally issued by the national automobile association in your country",
+  "claim": "Who issues the permit",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "generally issued by the national automobile association in your country"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_geneva",
+  "text": "your permit needs to be issued by a country or region that participates in the Convention on International Road Traffic of 1949",
+  "claim": "Geneva Convention",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "Convention on International Road Traffic of 1949"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_valid",
+  "text": "permits are valid for up to one year from the date of issue and further restricted to one year from the date of arrival in Japan",
+  "claim": "Permit validity",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "valid for up to one year from the date of issue and further restricted to one year from the date of arrival in Japan"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_stamp",
+  "text": "the date of arrival in Japan is confirmed by the entry stamp on your passport",
+  "claim": "Entry stamp",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "confirmed by the entry stamp on your passport"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_gate",
+  "text": "if you pass through an automated gate you cannot get an entry stamp, so go to a non-automated gate and obtain an entry stamp before passing through the gate if you wish to rent a car",
+  "claim": "Automated gates",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "please go to a non-automated gate and obtain an entry stamp before passing through the gate"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_booklet",
+  "text": "a booklet-type paper permit is valid in Japan, while card-type and smartphone versions are not",
+  "claim": "Booklet permit",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "Card-type and smartphone versions of International Driving Permits are not valid in Japan"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_exception",
+  "text": "visitors with licenses from Switzerland, Germany, France, Belgium, Monaco and Taiwan must carry both their original license and a Japanese translation",
+  "claim": "Licence translation exception",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "must carry both your original license and a Japanese translation"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_insurance",
+  "text": "when renting a car you are required to purchase insurance with a certain level of coverage",
+  "claim": "Rental insurance",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "you are required to purchase insurance with a certain level of coverage"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_check",
+  "text": "you should check for any scratches or dents on the rental car with the staff before driving off",
+  "claim": "Check the car",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "Check for any scratches or dents on the rental car with the staff"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_refuel",
+  "text": "refueling the car before returning it is one of the basic rules",
+  "claim": "Refuel before return",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "Refueling the car, before returning it, is also one of the basic rules"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_fuel",
+  "text": "the rental charges do not include fuel costs",
+  "claim": "Fuel not included",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "do not include fuel costs"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_left",
+  "text": "cars drive on the left side of the road",
+  "claim": "Driving side",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "Cars drive on the left side of the road"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_turns",
+  "text": "many accidents occur when a car turns left or right",
+  "claim": "Turning accidents",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "many accidents occur when a car turns left or right"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_phone",
+  "text": "using mobile devices while driving is illegal",
+  "claim": "Mobile devices",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "Using mobile devices while driving is illegal"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_alcohol",
+  "text": "you must not drive under the influence of alcohol",
+  "claim": "Alcohol",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "You must not drive under the influence of alcohol"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_rail",
+  "text": "before crossing railroad tracks drivers must pause at the stop line and check both ways for oncoming trains",
+  "claim": "Railroad crossings",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "drivers must pause at the stop line and check both ways for oncoming trains"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_snow",
+  "text": "when traveling in snowy areas you should install winter tires or tire chains",
+  "claim": "Snow",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "install winter tires or tire chains"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_parking",
+  "text": "you may get penalties if you do not park in a designated car parking space",
+  "claim": "Parking",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "designated car parking space"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_signs",
+  "text": "on main roads most major destinations are sign-posted in English, but in rural areas this may not be the case",
+  "claim": "English signs",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "most major destinations are sign-posted in English"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_atlas",
+  "text": "for more remote areas it is advisable to buy a reliable English-Japanese road atlas before you depart",
+  "claim": "Road atlas",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "purchase a reliable English-Japanese road atlas"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_navi",
+  "text": "some rental companies have cars equipped with foreign-language navigation systems, so ask when you reserve",
+  "claim": "Navigation language",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "foreign-language navigation systems"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_etc",
+  "text": "if you rent a car and use an expressway you should obtain an ETC card from the rental company",
+  "claim": "ETC card",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "please obtain an ETC card from the rental company"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_etc_settle",
+  "text": "the toll fees charged to the ETC card are settled when you return the car to the rental company",
+  "claim": "ETC settlement",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "settle the toll fees charged to the ETC card when you return the car"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_gates",
+  "text": "toll gates with a green sign take cash or credit card, while gates with a purple sign take automatic ETC card payment",
+  "claim": "Toll gate colours",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "gates with a purple sign"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_pass",
+  "text": "regional expressway passes are only available to international travelers",
+  "claim": "Expressway passes",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "These passes are only available to international travelers"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_jep",
+  "text": "the Japan Expressway Pass is no longer for sale as of December 2023",
+  "claim": "Japan Expressway Pass ended",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "no longer for sale as of December 2023"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "cr_michi",
+  "text": "many towns and cities have Michi-no-Eki roadside stations, which are parking areas where one can rest",
+  "claim": "Roadside stations",
+  "source_name": "JNTO: Things to know when renting a car",
+  "source_url": "https://www.japan.travel/en/plan/getting-around/cars/",
+  "must_contain": [
+   "parking areas where one can rest"
+  ],
+  "topics": [
+   "renting-a-car-in-japan-driving-permit-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_effort",
+  "text": "the government, local authorities and NPOs have all been working hard to develop an accessible travel environment",
+  "claim": "Accessible environment",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "have all been working hard to develop an accessible travel environment"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_95",
+  "text": "about 95 percent of the train stations in Japan are entirely accessible",
+  "claim": "Station accessibility",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "train stations are entirely accessible"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_rental",
+  "text": "some tourist spots offer wheelchair rental services",
+  "claim": "Wheelchair rental",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "Some of these tourist spots offer wheelchair rental services"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_bathing",
+  "text": "in some hotels bathing and showering facilities as well as an assisted bathing service are available",
+  "claim": "Hotel bathing",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "an assisted bathing service"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_sidewalks",
+  "text": "sidewalks are smooth, and raised yellow tiles indicate safe walking paths for anybody with a visual impairment",
+  "claim": "Sidewalks",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "raised yellow tiles indicate safe walking paths"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_taxi",
+  "text": "catching a taxi can be a challenge because most standard cabs are unable to support customers in electric wheelchairs",
+  "claim": "Taxis",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "most standard cabs are unable to support customers in electric wheelchairs"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_contact",
+  "text": "for taxi advice and other queries you can contact the staff at Accessible Japan",
+  "claim": "Accessible Japan",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "contact the knowledgeable staff at Accessible Japan"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_research",
+  "text": "independent research is always advised for the most up-to-date and relevant information",
+  "claim": "Check independently",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "Independent research is always advised"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_map",
+  "text": "a website highlights the degree of accessibility of stations across Japan",
+  "claim": "Station accessibility map",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "highlights the degree of accessibility of stations across Japan"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "da_def",
+  "text": "accessible tourism means travel designed for everyone, including the elderly, people with disabilities and families with children",
+  "claim": "Accessible tourism",
+  "source_name": "JNTO: Accessible Tourism",
+  "source_url": "https://www.japan.travel/en/guide/accessibility-in-japan/",
+  "must_contain": [
+   "Accessible tourism means travel designed for everyone"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "da_station",
+  "text": "if you use a wheelchair, you can ask the station staff for assistance getting on and off the train",
+  "claim": "Station staff help",
+  "source_name": "JNTO: Accessible Tourism",
+  "source_url": "https://www.japan.travel/en/guide/accessibility-in-japan/",
+  "must_contain": [
+   "you can ask the station staff for assistance getting on and off the train"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "da_bus",
+  "text": "bus drivers help people who use wheelchairs, and they will even help you get on and off the bus",
+  "claim": "Bus drivers",
+  "source_name": "JNTO: Accessible Tourism",
+  "source_url": "https://www.japan.travel/en/guide/accessibility-in-japan/",
+  "must_contain": [
+   "they will even help you get on and off the bus"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "da_writing",
+  "text": "there is a service that lets people who cannot hear or speak communicate by means of writing",
+  "claim": "Communication by writing",
+  "source_name": "JNTO: Accessible Tourism",
+  "source_url": "https://www.japan.travel/en/guide/accessibility-in-japan/",
+  "must_contain": [
+   "communicate by means of writing"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "da_sign",
+  "text": "there are driver signs for people with disabilities, and it may be required to put a sticker on the vehicle depending on their conditions",
+  "claim": "Driver signs",
+  "source_name": "JNTO: Accessible Tourism",
+  "source_url": "https://www.japan.travel/en/guide/accessibility-in-japan/",
+  "must_contain": [
+   "it may be required to put a sticker on their vehicle"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_nursing",
+  "text": "nursing rooms are in department stores, stations, malls and beyond",
+  "claim": "Nursing rooms",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "department stores, stations, malls, and beyond"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_amen",
+  "text": "many nursing rooms come with hot water dispensers, microwaves for baby food, private nursing cubicles and soft changing mats",
+  "claim": "Nursing room amenities",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "hot water dispensers, microwaves for baby food, private nursing cubicles"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_app",
+  "text": "many parents use the free Mama Papa App to locate the nearest nursing room",
+  "claim": "Nursing room app",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "free Mama Papa App"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_stroller",
+  "text": "on most urban trains there is a space that can easily accommodate a stroller",
+  "claim": "Stroller space on trains",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "a space that can easily accommodate a stroller"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_carriage",
+  "text": "certain carriages are designated stroller- and wheelchair-friendly",
+  "claim": "Stroller-friendly carriages",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "Certain carriages are designated stroller- and wheelchair-friendly"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_platform",
+  "text": "you can spot these carriages by looking for carriage numbers and pictograms indicating stroller or multipurpose spaces on platform markings",
+  "claim": "Platform markings",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "look for carriage numbers and pictograms indicating stroller or multipurpose spaces"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_elevator",
+  "text": "selecting the wheelchair-accessible option in apps like Google Maps can make navigating stations easier",
+  "claim": "Accessible route option",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "selecting the wheelchair-accessible option in apps like Google Maps"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_bus",
+  "text": "many cities use low-floor, non-step buses that tilt toward the curb when stopping",
+  "claim": "Low-floor buses",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "low-floor, non-step buses that tilt toward the curb"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_rental",
+  "text": "many major sightseeing spots offer free or low-cost stroller rentals for families",
+  "claim": "Stroller rentals",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "offer free or low-cost stroller rentals for families"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_fami",
+  "text": "casual family-friendly dining is called fami-resu, short for family restaurants",
+  "claim": "Family restaurants",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "fami-resu"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_welcome",
+  "text": "most restaurants that are not upscale or highly formal tend to be welcoming toward children",
+  "claim": "Restaurants welcome children",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "tend to be welcoming toward children"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_babyfood",
+  "text": "baby food is also easy to find at most convenience stores",
+  "claim": "Baby food",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "Baby food is also easy to find at most convenience stores"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_infra",
+  "text": "outside major cities older infrastructure means more walking and stairs, so plan extra travel time or consider renting a car",
+  "claim": "Outside major cities",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "older infrastructure means more walking and stairs"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_carseat",
+  "text": "rental car companies often offer child seats as an optional extra",
+  "claim": "Child seats",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "child seats as an optional extra"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_ryokan",
+  "text": "if you are staying at a ryokan you should check ahead about bedding options, because Western-style beds or travel cribs might not always be available",
+  "claim": "Ryokan bedding",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "check ahead about bedding options"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_futon",
+  "text": "many ryokan use futons on tatami mats for the whole family",
+  "claim": "Futons for families",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "futons on tatami mats for the whole family"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_wear",
+  "text": "babywearing may be a more convenient choice when navigating stations or areas without elevators and ramps",
+  "claim": "Babywearing",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "babywearing may be a more convenient choice"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "kf_rush",
+  "text": "crowds can build up during rush hours and peak travel times",
+  "claim": "Rush hours",
+  "source_name": "JNTO: Traveling With Children",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-children/",
+  "must_contain": [
+   "crowds can build up during rush hours and peak travel times"
+  ],
+  "topics": [
+   "traveling-to-japan-with-children"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "dz_sites",
+  "text": "many major tourist destinations are developing websites in English that give general information on accessibility",
+  "claim": "English accessibility websites",
+  "source_name": "JNTO: Traveling With a Disability",
+  "source_url": "https://www.japan.travel/en/plan/traveling-with-disability/",
+  "must_contain": [
+   "Many major tourist destinations are developing websites in English"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "da_places",
+  "text": "its accessible tourism page has information for Tokyo, for Yokohama in Kanagawa and for Lake Suwa in Nagano",
+  "claim": "Accessible destinations",
+  "source_name": "JNTO: Accessible Tourism",
+  "source_url": "https://www.japan.travel/en/guide/accessibility-in-japan/",
+  "must_contain": [
+   "Lake Suwa"
+  ],
+  "topics": [
+   "accessible-travel-in-japan-wheelchair-guide"
+  ],
+  "verified_on": "2026-11-11"
  }
 ]

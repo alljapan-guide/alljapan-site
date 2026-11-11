@@ -79,6 +79,8 @@ None of this is complicated, but it takes time. Doing it at home, before the tri
 
 {{pick|For a first trip, base yourself in a major city, book a hotel that states its Muslim-friendly services, and add one halal-friendly tour. This is our editorial pick, based on the JNTO page.}}
 
+For other dietary needs, see our [vegetarian and vegan guide](vegetarian-and-vegan-travel-in-japan.html).
+
 ## FAQ
 
 ### Is there a halal certification body in Japan?

@@ -85,6 +85,8 @@ If you want a traditional stay where these customs are part of the experience, y
 
 {{pick|For a first trip, our editorial pick is to book one ryokan night and ask the staff to explain the routine. It is the quickest way to learn the customs JNTO describes. This is our view, not a sourced ranking.}}
 
+For a stay in a traditional inn, see our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html), and for ordering with dietary needs, our [vegetarian and vegan guide](vegetarian-and-vegan-travel-in-japan.html).
+
 ## FAQ
 
 ### Do I have to bow in Japan?

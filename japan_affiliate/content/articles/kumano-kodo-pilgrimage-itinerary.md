@@ -84,6 +84,8 @@ If you want a guided walk or a day tour, you can compare options on {{aff:trip_t
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+If you prefer to drive, our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html) explains the permit and the rules.
+
 ## FAQ
 
 ### How many days do you need for the Kumano Kodo?

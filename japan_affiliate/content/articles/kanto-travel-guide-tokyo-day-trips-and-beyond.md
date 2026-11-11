@@ -85,6 +85,8 @@ To compare places to stay in the capital, you can look at {{aff:trip_hotels|Toky
 
 {{note|Train times and timetables change by season. Use this page to choose a trip, then confirm on the operator's own page.}}
 
+Travelling with children or with a mobility need? See our guides to [traveling with children](traveling-to-japan-with-children.html) and [accessible travel](accessible-travel-in-japan-wheelchair-guide.html).
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

@@ -95,6 +95,8 @@ To compare places to stay, you can look at {{aff:trip_kyoto_hotels|Kyoto hotels 
 
 For a wider view of the country, see our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html) hub.
 
+If you want to stay in a traditional inn in Kyoto or Nara, see our [guide to staying at a ryokan](how-to-stay-at-a-ryokan-in-japan.html).
+
 ## FAQ
 
 ### How many days do you need for Kansai?

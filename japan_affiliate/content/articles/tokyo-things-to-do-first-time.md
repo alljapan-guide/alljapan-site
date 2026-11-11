@@ -81,6 +81,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how Tokyo fi
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For families, our [guide to traveling with children](traveling-to-japan-with-children.html) covers strollers, nursing rooms and family restaurants.
+
 ## FAQ
 
 ### What are the top things to do in Tokyo for a first-timer?
