@@ -80,6 +80,14 @@ An IC card pays standard fares. It is a convenience product, not a discount prod
 
 Data matters as much as transport on a first trip, so see our [eSIM vs pocket WiFi comparison](japan-esim-vs-pocket-wifi.html). For the full plan, start from the [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html), and sort out where to sleep with our guide to [where to stay in Tokyo](where-to-stay-in-tokyo.html).
 
+## More detail on each question
+
+- [Can tourists buy a Suica or PASMO card?](can-tourists-buy-suica-or-pasmo-in-japan.html)
+- [How to add or transfer a card to your iPhone](transfer-suica-pasmo-card-to-iphone-apple-wallet.html)
+- [Which iPhone and Apple Watch work with Suica and PASMO](suica-iphone-requirements-apple-watch-japan.html)
+- [Can an Android phone bought abroad use Mobile PASMO?](mobile-pasmo-android-phone-from-abroad.html)
+- [Does Suica work everywhere in Japan?](does-suica-work-everywhere-in-japan.html)
+
 ## FAQ
 
 ### Can I use one IC card across different cities?

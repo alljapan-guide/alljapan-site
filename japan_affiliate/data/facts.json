@@ -23670,5 +23670,433 @@
    "luggage-guide-cluster"
   ],
   "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_transfer",
+  "text": "you can add a new transit card in Japan on your iPhone or Apple Watch, or transfer your physical card to your device",
+  "claim": "Add or transfer",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "add a new transit card in Japan on your iPhone or Apple Watch, or transfer your physical card to your device"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_after",
+  "text": "after you transfer a physical card, that physical card will not work",
+  "claim": "After transfer",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "After the transfer, your physical card"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_balance",
+  "text": "you can transfer your physical transit card, its current balance and commuter plan to Apple Wallet",
+  "claim": "What transfers",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "its current balance, and commuter plan to Apple Wallet"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_deposit",
+  "text": "the deposit of the physical card is added to your transit card balance in Apple Wallet",
+  "claim": "Deposit",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Your deposit will be added to your transit card balance in Apple Wallet"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_steps",
+  "text": "to add a new card, open the Wallet app and tap the Add button, tap Transit Card, choose the card, tap Add New Card, then choose an amount to put on the card",
+  "claim": "Add steps",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Open the Wallet app and tap the Add button",
+   "Tap Transit Card",
+   "Tap Add New Card",
+   "Choose an amount to put on the card and tap Add"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_transfer_steps",
+  "text": "to transfer an existing card you tap Transfer Existing Card, verify the last four digits of the card number, then rest the top of your iPhone on the card until Card Added appears, which could take a few minutes",
+  "claim": "Transfer steps",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Tap Transfer Existing Card",
+   "Verify the last four digits of the card number",
+   "until Card Added appears on the screen",
+   "This process could take a few minutes to complete"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_dob",
+  "text": "you only need to enter your date of birth if you are adding a personalized transit card",
+  "claim": "Date of birth",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "You only need to enter your date of birth if"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_onedevice",
+  "text": "you can have a transit card on only one device at a time, but you can move your card between devices",
+  "claim": "One device",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "You can have a transit card on only one device at a time",
+   "you can move your card between devices"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_journey",
+  "text": "you cannot move your transit card during a transit journey",
+  "claim": "During a journey",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "move your transit card during a transit journey"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_remove",
+  "text": "to remove a transit card, open Wallet, tap the card, tap More, then Card Details, scroll down and tap Remove Card",
+  "claim": "Removing",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Remove Card"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_toica",
+  "text": "when you add or transfer a TOICA card to Wallet, it will be issued by JR West as an ICOCA card",
+  "claim": "TOICA",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "TOICA card will be issued by JR West as an ICOCA card"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_express_auto",
+  "text": "when you add your first transit card, Express Mode turns on automatically",
+  "claim": "Express Mode",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "When you add your first transit card, Express Mode turns on automatically"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_suica",
+  "text": "for Suica transit cards you need an iPhone 7 or later, or an Apple Watch Series 2 or later that was purchased in Japan",
+  "claim": "Suica requirements",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "For Suica transit cards, you need an iPhone 7, iPhone 7 Plus or later",
+   "Apple Watch Series 2 or later that was purchased in Japan"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_watch",
+  "text": "the general requirement for an Apple Watch is a Series 3 or later with the latest supported watchOS",
+  "claim": "Apple Watch",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "Apple Watch Series 3 or later"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_children",
+  "text": "Apple Pay is not available for children under 13, and the age varies by country or region",
+  "claim": "Children",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "for children under 13",
+   "Age varies by country or region"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_icoca",
+  "text": "for ICOCA cards, only transit cards issued by JR West are supported",
+  "claim": "ICOCA",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "only transit cards issued by JR West are supported"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_a_icloud",
+  "text": "you should make sure that you sign in to iCloud on all your devices",
+  "claim": "iCloud",
+  "source_name": "Apple Support: Add a transit card to Apple Wallet in Japan",
+  "source_url": "https://support.apple.com/en-us/108772",
+  "must_contain": [
+   "sign in to iCloud on all your devices"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_suspend",
+  "text": "the PASMO site lists notices of temporary suspension of sales of personalized and non-personalized Suica and PASMO cards, dated June and July 2023",
+  "claim": "Sales suspension notices",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "Temporary suspension of sales for personalized Suica and PASMO cards",
+   "Temporary suspension of sales for non-personalized Suica and PASMO cards",
+   "July 31, 2023",
+   "June 2, 2023"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_tourist",
+  "text": "an April 17, 2026 notice says that TOURIST PASMO, an IC card for international visitors, is available soon",
+  "claim": "Tourist PASMO notice",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "April 17, 2026 notice",
+   "TOURIST PASMO IC Card for International Visitors Available Soon"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_tourist_feat",
+  "text": "the TOURIST PASMO section says it is an IC card accepted across Japan for international visitors, with no service charge, sold at Haneda Airport and Narita Airport",
+  "claim": "Tourist PASMO features",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "IC card accepted across Japan for international visitors",
+   "No service charge",
+   "Sold at Haneda Airport and Narita Airport"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_what",
+  "text": "PASMO can be used as a transportation IC card or on your smartphone to pay for train and bus fare and for cashless payments at participating stores",
+  "claim": "What PASMO is",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "pay for train and bus fare and for cashless payments when shopping at participating stores"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_area",
+  "text": "with PASMO you can travel all over the metro Tokyo area and use participating railway and bus networks across Japan by touching your card or smartphone to the reader",
+  "claim": "Coverage",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "travel all over the metro Tokyo area and use participating railway and bus networks across Japan"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_note",
+  "text": "PASMO is not accepted on all train and bus networks in Japan",
+  "claim": "Not everywhere",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "PASMO is not accepted on all train and bus networks in Japan"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_ten",
+  "text": "the interoperable transit IC cards are PASMO, Suica, Kitaca, TOICA, manaca, ICOCA, PiTaPa, HAYAKAKEN, nimoca and SUGOCA",
+  "claim": "Interoperable cards",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "Kitaca",
+   "TOICA",
+   "manaca",
+   "ICOCA",
+   "PiTaPa",
+   "HAYAKAKEN",
+   "nimoca",
+   "SUGOCA"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_pitapa",
+  "text": "PiTaPa does not support electronic money nationwide mutual use",
+  "claim": "PiTaPa limit",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "PiTaPa does not support electronic money nationwide mutual use"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_logo",
+  "text": "if you see the logo, you can use one of 10 transportation IC cards, including Suica and PASMO, to ride trains and buses across Japan and for shopping at participating vendors",
+  "claim": "Logo",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "use one of 10 transportation IC cards"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_japanese",
+  "text": "support for Mobile PASMO is only available in Japanese",
+  "claim": "Mobile PASMO language",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "support for Mobile PASMO is only available in Japanese"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_app",
+  "text": "the PASMO app is required for some services such as commuter passes",
+  "claim": "PASMO app",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "the PASMO app is required for some services such as commuter passes"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
+ },
+ {
+  "id": "icx_p_iphone",
+  "text": "PASMO is available on iPhone or Apple Watch",
+  "claim": "PASMO on Apple devices",
+  "source_name": "PASMO: What is PASMO",
+  "source_url": "https://www.pasmo.co.jp/en/",
+  "must_contain": [
+   "On iPhone or Apple Watch"
+  ],
+  "topics": [
+   "ic-card-cluster"
+  ],
+  "verified_on": "2026-11-11"
  }
 ]
