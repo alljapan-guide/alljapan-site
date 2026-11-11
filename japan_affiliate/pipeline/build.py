@@ -10,6 +10,7 @@ import markdown
 from jinja2 import Environment, FileSystemLoader
 
 from . import facts as F
+from . import image_dupes
 from . import theme as T
 from . import visuals as V
 from .affiliate import expand
@@ -135,6 +136,8 @@ def build(strict=True):
     for m, _ in articles:
         by_cluster.setdefault(m["cluster"], []).append(m)
 
+    if strict:
+        image_dupes.check(images)
     urls = [f"{base}/"]
     for meta, body in articles:
         content = render_body(body, meta, facts, images, strict)

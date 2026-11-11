@@ -58,11 +58,14 @@ def strip_html(s):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", s or "")).strip()
 
 
-def pick(api_json):
-    """Choose the best licensed landscape JPEG from a Commons API response, or None."""
+def pick(api_json, exclude=()):
+    """Choose the best licensed landscape JPEG from a Commons API response, or None. Titles in `exclude` (already used on
+    the site) are skipped so two articles never get the same photo."""
     cands = []
     for p in (api_json.get("query", {}).get("pages", {}) or {}).values():
         ii = (p.get("imageinfo") or [None])[0]
+        if p.get("title") in exclude:
+            continue
         if not ii or ii.get("mime") != "image/jpeg" or ii.get("width", 0) < 1000 or ii.get("width", 0) < ii.get("height", 0):
             continue
         meta = ii.get("extmetadata", {})
@@ -76,7 +79,7 @@ def pick(api_json):
     return sorted(cands, key=lambda c: c[:2])[0][2] if cands else None
 
 
-def search(query, get=http_json):
+def search(query, get=http_json, exclude=()):
     """`file:Exact Commons title.jpg` pins one file; anything else is a ranked Commons search."""
     if query.lower().startswith("file:"):
         title = "File:" + query[5:].strip()
@@ -89,7 +92,7 @@ def search(query, get=http_json):
     q = urllib.parse.urlencode({"action": "query", "format": "json", "generator": "search", "gsrsearch": f"{query} filetype:bitmap",
                                 "gsrnamespace": 6, "gsrlimit": 15, "prop": "imageinfo", "iiprop": "url|extmetadata|size|mime",
                                 "iiurlwidth": 1200})
-    return pick(get(f"{API}?{q}"))
+    return pick(get(f"{API}?{q}"), exclude)
 
 
 def run(get=http_json, download=http_bytes, pause=3):
@@ -104,7 +107,7 @@ def run(get=http_json, download=http_bytes, pause=3):
             import time
             time.sleep(pause)  # be gentle: Wikimedia rate-limits bursts (HTTP 429)
             try:
-                rec = search(q, get)
+                rec = search(q, get, {v["title"] for v in images.values()})
             except Exception as e:  # one failed query must not stop the other photos
                 print(f"search failed for {key}: {e}")
                 rec = None
