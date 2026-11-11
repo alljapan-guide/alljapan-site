@@ -95,6 +95,8 @@ If you have already bought sweets in the west, compare them with our guides to [
 
 If you would rather join a guided tour of the north, you can look at options on {{aff:klook|Klook}} or {{aff:viator|Viator}}. Read the itinerary, the group size and the cancellation terms before you book.
 
+For the whole region at a glance, including routes, travel times and how to link the towns, see our [Tohoku travel guide](tohoku-travel-guide-sendai-aizu-aomori-and-beyond.html).
+
 ## FAQ
 
 ### What are the best souvenirs from Tohoku?

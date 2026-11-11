@@ -96,6 +96,8 @@ For the whole region at a glance, including day trips and longer Kansai routes, 
 
 For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
 
+For the whole region at a glance, including routes, travel times and how to link the towns, see our [Tohoku travel guide](tohoku-travel-guide-sendai-aizu-aomori-and-beyond.html).
+
 ## FAQ
 
 ### How many days do you need for Japan?

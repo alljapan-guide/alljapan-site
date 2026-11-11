@@ -92,6 +92,8 @@ For guided hikes or regional tours, you can compare options on {{aff:trip_things
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole region at a glance, including routes, travel times and how to link the towns, see our [Tohoku travel guide](tohoku-travel-guide-sendai-aizu-aomori-and-beyond.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?
