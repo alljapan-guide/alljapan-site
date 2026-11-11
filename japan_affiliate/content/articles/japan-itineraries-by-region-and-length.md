@@ -100,6 +100,8 @@ For the whole region at a glance, including routes, travel times and how to link
 
 For the whole island at a glance, including routes, flights and how long the distances really are, see our [Hokkaido travel guide](hokkaido-travel-guide-sapporo-hakodate-and-shiretoko.html).
 
+For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
+
 ## FAQ
 
 ### How many days do you need for Japan?

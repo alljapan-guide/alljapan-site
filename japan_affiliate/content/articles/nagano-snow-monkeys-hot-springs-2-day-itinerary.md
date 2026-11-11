@@ -89,6 +89,8 @@ Read the cancellation terms and the meeting point before you book anything.
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
+
 ## FAQ
 
 ### How long should you spend on a Nagano snow monkey trip?

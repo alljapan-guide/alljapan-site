@@ -84,6 +84,8 @@ If you have a second day for the area, our [Hakone guide](hakone-trip-from-tokyo
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Kamakura?
