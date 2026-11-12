@@ -87,6 +87,8 @@ To compare places to stay in the capital, you can look at {{aff:trip_hotels|Toky
 
 Travelling with children or with a mobility need? See our guides to [traveling with children](traveling-to-japan-with-children.html) and [accessible travel](accessible-travel-in-japan-wheelchair-guide.html).
 
+For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

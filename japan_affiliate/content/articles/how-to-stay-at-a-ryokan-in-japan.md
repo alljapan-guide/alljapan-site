@@ -72,6 +72,8 @@ You can compare ryokan and hotels on {{aff:booking|Booking.com}}, and you can lo
 
 {{note|JNTO also points readers to the Japan Ryokan and Hotel Association for more information. Check each inn's own page for current rules.}}
 
+For where cards work, when cash is still needed and which phone payments work, see our [guide to cash, cards and cashless payments](cash-cards-and-cashless-payments-in-japan.html).
+
 ## FAQ
 
 ### What is a ryokan?

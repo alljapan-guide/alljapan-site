@@ -89,6 +89,8 @@ Our view: pack for the season you will mostly be in, and treat the first morning
 
 You can compare hotels on {{aff:booking|Booking.com}} and activities on {{aff:klook|Klook}}. Read each listing's cancellation terms before you pay. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how a first trip fits together in any season.
 
+For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
+
 ## FAQ
 
 ### What is the best season to visit Japan?

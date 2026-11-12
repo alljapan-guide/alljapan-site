@@ -104,6 +104,8 @@ Data matters as much as transport on a first trip, so see our [eSIM vs pocket Wi
 - [Can an Android phone bought abroad use Mobile PASMO?](mobile-pasmo-android-phone-from-abroad.html)
 - [Does Suica work everywhere in Japan?](does-suica-work-everywhere-in-japan.html)
 
+For where cards work, when cash is still needed and which phone payments work, see our [guide to cash, cards and cashless payments](cash-cards-and-cashless-payments-in-japan.html).
+
 ## FAQ
 
 ### Can I use one IC card across different cities?

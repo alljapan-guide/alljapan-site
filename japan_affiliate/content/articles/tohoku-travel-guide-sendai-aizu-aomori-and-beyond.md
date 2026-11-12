@@ -85,6 +85,8 @@ For the long train legs between Tokyo and the north, you can compare tickets on 
 
 {{note|Bus and festival schedules change by year. Use this page to choose a route, then confirm on the operator's or festival's own page.}}
 
+For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
+
 ## FAQ
 
 ### How many days do you need for Tohoku?

@@ -78,6 +78,10 @@ If you prefer a guided food experience with local help, you can look at food tou
 
 Osaka is usually part of a wider route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how to fit it between Tokyo and Kyoto, our [Kyoto area guide](where-to-stay-in-kyoto.html) covers the other half of the route, and our [IC card guide](japan-ic-card-guide.html) explains how to pay for local trains. If you are choosing a rail ticket for the journey, see our [rail pass guide](is-japan-rail-pass-worth-it.html), or look at Tokyo to Osaka train options on {{aff:trip_trains_osaka|Trip.com}}.
 
+For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+
+For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
+
 ## FAQ
 
 ### What is the most famous food in Osaka?

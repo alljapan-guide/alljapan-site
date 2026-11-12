@@ -83,6 +83,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For families, our [guide to traveling with children](traveling-to-japan-with-children.html) covers strollers, nursing rooms and family restaurants.
 
+For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+
 ## FAQ
 
 ### What are the top things to do in Tokyo for a first-timer?

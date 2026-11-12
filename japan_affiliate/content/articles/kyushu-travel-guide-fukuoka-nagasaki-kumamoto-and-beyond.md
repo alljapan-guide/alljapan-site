@@ -95,6 +95,8 @@ For the long train legs between Fukuoka and the rest of the island, you can comp
 
 If you plan to drive between hot spring towns, see our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html).
 
+For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+
 ## FAQ
 
 ### How many days do you need for Kyushu?

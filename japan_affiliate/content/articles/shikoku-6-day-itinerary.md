@@ -98,6 +98,8 @@ For guided tours, rafting or a festival ticket, you can compare options on {{aff
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?

@@ -71,6 +71,8 @@ The airport is not the only choice. If you are visiting a region known for a loc
 
 {{pick|If you only have one stop, our editorial pick is a box of sweets or a tea set bought at the airport, wrapped as a gift, plus one pop culture item for yourself. This is our view, based on the JNTO guide.}}
 
+For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
+
 ## FAQ
 
 ### Can I buy souvenirs at the airport in Japan?

@@ -75,6 +75,8 @@ Our view: arrival day goes better when you decide three things in advance: how t
 
 {{pick|If you land with large bags, send them from the airport counter to your hotel, carry a small bag with essentials, and book the return trip a day ahead. This is our view, built on the JNTO guidance.}}
 
+For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
+
 ## FAQ
 
 ### Can I send my luggage from the airport to my hotel in Japan?

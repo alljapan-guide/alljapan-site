@@ -97,6 +97,8 @@ For a wider view of the country, see our [Japan itineraries by length and region
 
 If you want to stay in a traditional inn in Kyoto or Nara, see our [guide to staying at a ryokan](how-to-stay-at-a-ryokan-in-japan.html).
 
+For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
+
 ## FAQ
 
 ### How many days do you need for Kansai?

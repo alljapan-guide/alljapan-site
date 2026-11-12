@@ -78,6 +78,8 @@ For airport shopping, see our [souvenirs guide](japan-souvenirs-guide.html), and
 
 {{pick|If you can visit one shotengai, our editorial pick is the one nearest your hotel, since each street has its own character. If you are choosing from JNTO's list, Nishiki Market is the easiest for portable gifts. This is our view, not a ranking.}}
 
+For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
+
 ## FAQ
 
 ### What is a shotengai?

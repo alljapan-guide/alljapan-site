@@ -81,6 +81,8 @@ None of this is complicated, but it takes time. Doing it at home, before the tri
 
 For other dietary needs, see our [vegetarian and vegan guide](vegetarian-and-vegan-travel-in-japan.html).
 
+For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
+
 ## FAQ
 
 ### Is there a halal certification body in Japan?

@@ -100,6 +100,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
 
+For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+
 ## FAQ
 
 ### How do I get from Tokyo to Fukuoka?

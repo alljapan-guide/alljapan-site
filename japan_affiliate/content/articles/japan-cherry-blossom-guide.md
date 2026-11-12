@@ -84,6 +84,8 @@ You can compare flexible hotel options and cancellation terms on {{aff:booking|B
 
 Blossom time is a popular time to travel, so your base matters. Our [Kyoto area guide](where-to-stay-in-kyoto.html) helps you choose where to stay in the old capital, and our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a route you can adjust around the bloom. If you plan a day out of Tokyo, see our [day trips guide](best-day-trips-from-tokyo.html).
 
+For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
+
 ## FAQ
 
 ### When is the cherry blossom season in Japan?

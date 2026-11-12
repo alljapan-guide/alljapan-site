@@ -74,6 +74,10 @@ Our view: do not save on insurance. A single unplanned medical bill can erase ev
 
 {{pick|For a first trip, our editorial pick is a business hotel near a station, lunch as the main meal out, free temples and shrines as sightseeing, and a pass only if the maths works. This is our view, based on the JNTO tips.}}
 
+For where cards work, when cash is still needed and which phone payments work, see our [guide to cash, cards and cashless payments](cash-cards-and-cashless-payments-in-japan.html).
+
+For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
+
 ## FAQ
 
 ### Is Japan expensive for tourists?

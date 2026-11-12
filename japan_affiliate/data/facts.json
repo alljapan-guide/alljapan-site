@@ -25400,5 +25400,1419 @@
    "accessible-travel-in-japan-wheelchair-guide"
   ],
   "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_four",
+  "text": "there are four main ramen types",
+  "claim": "Main ramen types",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "four main ramen types"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_types",
+  "text": "three of the types refer to seasonings, miso, shio (salt) and shoyu (soy sauce), while the fourth is tonkotsu, or pork bone stock",
+  "claim": "The four types",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "while the fourth is tonkotsu, or pork bone stock"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_origin",
+  "text": "ramen noodles have their roots in China",
+  "claim": "Origin of ramen",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Ramen noodles have their roots in China"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_1910",
+  "text": "it is generally accepted that in 1910 a Chinese restaurant in Asakusa in Tokyo started serving a dish known as ramen",
+  "claim": "First ramen in Tokyo",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "in 1910 a Chinese restaurant in Asakusa in Tokyo"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_kansui",
+  "text": "kansui, an alkaline solution, gives ramen noodles their characteristic bouncy texture",
+  "claim": "Kansui",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "gives ramen noodles their characteristic bouncy texture"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_sapporo",
+  "text": "Sapporo ramen is famous for combining a tonkotsu base with miso",
+  "claim": "Sapporo ramen",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "famous for combining a tonkotsu base with miso"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_hakata",
+  "text": "in Fukuoka, Hakata-style ramen is popular, recognizable by its cloudy pork bone broth, simple toppings and kaedama",
+  "claim": "Hakata ramen",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Hakata-style ramen is popular"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_kaedama",
+  "text": "kaedama is the act of refilling your noodles while your soup is still hot",
+  "claim": "Kaedama",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "refilling your noodles while your soup is still hot"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_tottori",
+  "text": "Tottori is famous for its beef bone broth",
+  "claim": "Tottori ramen",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Tottori is famous for its beef bone broth"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_tsukemen",
+  "text": "tsukemen has a more concentrated soup served separately for dipping, while mazesoba is a soupless version with a strong, sauce-like seasoning",
+  "claim": "Tsukemen and mazesoba",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "a soupless version with a strong, sauce-like seasoning"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_linger",
+  "text": "most shops are small, so it is not polite to linger over your bowl",
+  "claim": "Lingering",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "it is not polite to linger over your bowl"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_noservers",
+  "text": "to streamline the ordering process, many ramen restaurants do not have servers",
+  "claim": "No servers",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "many ramen restaurants do not have servers"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_tickets",
+  "text": "you insert money, select your ramen, toppings, sides and drinks to dispense tickets, then pass the tickets to the chef",
+  "claim": "Ticket machines",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Pass the tickets to the chef"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_slurp",
+  "text": "slurping is not impolite and is in fact the standard way to eat ramen",
+  "claim": "Slurping",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Slurping is not impolite"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_menu",
+  "text": "most ramen shops feature short menus with only a few variations on their specialty bowls and some toppings priced separately",
+  "claim": "Ramen menus",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "short menus with only a few variations"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_lines",
+  "text": "some of the most popular shops can have lines out the door",
+  "claim": "Queues",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "can have lines out the door"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_instant",
+  "text": "in 1958 Momofuku Ando invented pre-cooked instant noodles",
+  "claim": "Instant ramen",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Momofuku Ando invented pre-cooked instant noodles"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "rm_museum",
+  "text": "instant ramen fans can visit the Cupnoodles Museum in Osaka Ikeda or Yokohama",
+  "claim": "Cupnoodles Museum",
+  "source_name": "JNTO: A Guide to Ramen in Japan",
+  "source_url": "https://www.japan.travel/en/guide/a-guide-to-ramen-in-japan/",
+  "must_contain": [
+   "Cupnoodles Museum in Osaka Ikeda or Yokohama"
+  ],
+  "topics": [
+   "japanese-ramen-guide-types-and-how-to-order"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_def",
+  "text": "an izakaya is a casual Japanese pub serving drinks and a variety of food",
+  "claim": "What an izakaya is",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "A casual Japanese pub serving drinks and a variety of food"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_afterwork",
+  "text": "izakaya are the go-to choice for after-work dinner parties",
+  "claim": "Izakaya use",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "go-to choice for after-work dinner parties"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_feel",
+  "text": "similar to an Irish pub or a tapas bar, izakaya are informal, inexpensive and a lot of fun",
+  "claim": "Izakaya feel",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "informal, inexpensive and a lot of fun"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_share",
+  "text": "food at an izakaya is meant to be shared",
+  "claim": "Sharing",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "Food at an izakaya is meant to be shared"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_torizara",
+  "text": "when dishes arrive each guest is given a torizara, a small plate used when choosing the portion you want from the main plate",
+  "claim": "Torizara",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "a small plate used when choosing the portion you want"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_order",
+  "text": "sashimi platters, karaage, yakisoba noodles and edamame are available at most izakaya",
+  "claim": "What to order",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "sashimi platters, karaage, yakisoba noodles and edamame"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_nabe",
+  "text": "during the colder months, many izakaya serve nabe, or hot pot",
+  "claim": "Nabe",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "many izakaya restaurants serve nabe, or hot pot"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_western",
+  "text": "you can also find Western dishes such as french fries and chicken wings",
+  "claim": "Western dishes",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "french fries and chicken wings"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_chuhi",
+  "text": "chu-hi is shorthand for shochu highball, a combination of shochu, soda water and a fruit sweetener",
+  "claim": "Chu-hi",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "Chu-hi is shorthand for shochu highball"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_sake",
+  "text": "sake, or nihonshu as it is called in Japanese, is served hot or cold",
+  "claim": "Sake",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "nihonshu as it is called in Japanese"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_umeshu",
+  "text": "umeshu, a sweet plum wine, is great on the rocks or mixed with soda",
+  "claim": "Umeshu",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "a sweet plum wine"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_soft",
+  "text": "melon soda is a favorite of Japanese children, and oolong tea is a calming drink after all that food",
+  "claim": "Soft drinks",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "melon soda is a favorite of Japanese children"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_station",
+  "text": "izakaya can be found near any major train station in Japan",
+  "claim": "Where to find izakaya",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "near any major train station in Japan"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_watami",
+  "text": "the izakaya chain Watami can be found throughout Japan and features a picture menu for easy ordering",
+  "claim": "Watami",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "features a picture menu for easy ordering"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_uoya",
+  "text": "Uoya Icho is a chain of izakaya from Hokkaido specializing in fish and other Hokkaido foods",
+  "claim": "Uoya Icho",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "Uoya Icho is a chain of izakaya from Hokkaido"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_kyoto",
+  "text": "visitors to Kyoto should stop by Waraiya for some charcoal grilled chicken",
+  "claim": "Kyoto izakaya",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "Waraiya for some charcoal grilled chicken"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "izk_osaka",
+  "text": "in Osaka, JNTO suggests Ishin in the Tenma neighborhood",
+  "claim": "Osaka izakaya",
+  "source_name": "JNTO: Izakaya Dining Guide",
+  "source_url": "https://www.japan.travel/en/guide/dinner-at-a-japanese-tavern/",
+  "must_contain": [
+   "Ishin in the Tenma neighborhood"
+  ],
+  "topics": [
+   "izakaya-dining-guide-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_cash",
+  "text": "there are still many places where cash is required",
+  "claim": "Cash still needed",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "there are still many places where cash is required"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_signs",
+  "text": "cards and electronic money that can be used are indicated at the entrance of establishments and payment counters",
+  "claim": "Payment signs",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "indicated at the entrance of establishments and payment counters"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_rural",
+  "text": "many places, especially in rural areas, may still only accept cash, even hotels",
+  "claim": "Rural cash",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "may still only accept cash, even hotels"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_countryside",
+  "text": "when visiting the countryside, check with accommodations and facilities before traveling and prepare some cash",
+  "claim": "Countryside",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "prepare some cash"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_brands",
+  "text": "the most widely accepted credit cards in Japan are Visa, JCB and Mastercard",
+  "claim": "Card brands",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "Visa, JCB and Mastercard"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_where",
+  "text": "these cards are usually accepted at major hotels, department stores, large-scale shopping centers and restaurants in urban areas",
+  "claim": "Where cards work",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "large-scale shopping centers and restaurants in urban areas"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_contactless",
+  "text": "contactless payments can already be used at most major convenience stores",
+  "claim": "Contactless",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "most major convenience stores"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_logos",
+  "text": "stores that accept contactless payments have the appropriate logos displayed",
+  "claim": "Contactless logos",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "have the appropriate logos displayed"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_cashhand",
+  "text": "to be on the safe side, always have some cash on hand",
+  "claim": "Cash backup",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "always have some cash on hand"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_phone",
+  "text": "smartphone payment methods used overseas, such as ApplePay, GooglePay and AliPay, sometimes cannot be used in Japan",
+  "claim": "Overseas phone payments",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "sometimes cannot be used in Japan"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_apps",
+  "text": "the most commonly accepted smartphone payment apps are PayPay, LinePay, Rpay (Rakuten Pay) and MerPay",
+  "claim": "Local payment apps",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "PayPay, LinePay, Rpay"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_models",
+  "text": "some mobile payment systems are not compatible with non-Japanese models of mobile phones",
+  "claim": "Phone models",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "non-Japanese models of mobile phones"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_ic_tourist",
+  "text": "IC travel cards for tourists that do not require a deposit are sold at limited locations, have a limited period of use, and any money charged onto the card is non-refundable",
+  "claim": "Tourist IC cards",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "any money charged onto the card is non-refundable"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_ic_nat",
+  "text": "any IC travel card compatible with the National Interoperable Transport System, such as Suica and Pasmo, can be used on trains, buses and at stores nationwide",
+  "claim": "Interoperable IC cards",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "National Interoperable Transport System"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_ic_buy",
+  "text": "physical IC travel cards can be purchased at station ticket counters or at automatic ticket vending machines at most railway stations",
+  "claim": "Where to buy IC cards",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "automatic ticket vending machines at most railway stations"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_ic_cash",
+  "text": "only cash can be used when purchasing from a ticket vending machine",
+  "claim": "Cash at the machine",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "only cash can be used when purchasing from a ticket vending machine"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_deposit",
+  "text": "most deposits are set at 500 yen and refunded once the card is returned",
+  "claim": "IC card deposit",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "most deposits are set at 500 yen"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_topup",
+  "text": "when the balance runs low, the card can be topped up at multi-function ticket vending machines, where credit cards are not accepted",
+  "claim": "Top up",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "credit cards are not accepted"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cl_children",
+  "text": "children IC travel cards are only sold at ticket counters and require a passport or other form of identification that shows their age",
+  "claim": "Children IC cards",
+  "source_name": "JNTO: Cashless Payments in Japan",
+  "source_url": "https://www.japan.travel/en/plan/cashless-payments-in-japan/",
+  "must_contain": [
+   "only sold at ticket counters"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cc_intl",
+  "text": "credit, debit and prepaid cards of international brands are generally accepted throughout the country",
+  "claim": "International cards",
+  "source_name": "JNTO: Credit Cards in Japan",
+  "source_url": "https://www.japan.travel/en/plan/credit-cards/",
+  "must_contain": [
+   "generally accepted throughout the country"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cc_ask",
+  "text": "stores may not display the symbols of the cards they accept, so ask the salesperson if you can use your card",
+  "claim": "Ask the salesperson",
+  "source_name": "JNTO: Credit Cards in Japan",
+  "source_url": "https://www.japan.travel/en/plan/credit-cards/",
+  "must_contain": [
+   "ask the salesperson if you can use your card"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cc_fares",
+  "text": "you can use cards to pay for Narita Express and shinkansen fares, but you cannot always use them for short distance train or subway fares",
+  "claim": "Cards for trains",
+  "source_name": "JNTO: Credit Cards in Japan",
+  "source_url": "https://www.japan.travel/en/plan/credit-cards/",
+  "must_contain": [
+   "short distance train/subway fares"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cc_atm",
+  "text": "you can withdraw cash at ATMs in Japan Post Bank and in Seven Bank",
+  "claim": "ATMs",
+  "source_name": "JNTO: Credit Cards in Japan",
+  "source_url": "https://www.japan.travel/en/plan/credit-cards/",
+  "must_contain": [
+   "ATMs in Japan Post Bank and in Seven Bank"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cc_lost",
+  "text": "if you lose your credit card, contact the issuers directly to arrange for replacements",
+  "claim": "Lost cards",
+  "source_name": "JNTO: Credit Cards in Japan",
+  "source_url": "https://www.japan.travel/en/plan/credit-cards/",
+  "must_contain": [
+   "contact the issuers directly"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "cc_list",
+  "text": "you should keep a list of toll free numbers for the issuer, separate from your cards",
+  "claim": "Issuer numbers",
+  "source_name": "JNTO: Credit Cards in Japan",
+  "source_url": "https://www.japan.travel/en/plan/credit-cards/",
+  "must_contain": [
+   "separate them from your cards"
+  ],
+  "topics": [
+   "cash-cards-and-cashless-payments-in-japan"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_conditions",
+  "text": "tax exemption is available only under certain conditions",
+  "claim": "Tax-free conditions",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "only under certain conditions"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_parcel",
+  "text": "as of April 1, 2025, tax-free shopping does not apply when items are sent overseas by the purchaser via international parcels",
+  "claim": "International parcels",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "sent overseas by the purchaser via international parcels"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_direct",
+  "text": "direct shipping arranged by the store may still be available",
+  "claim": "Direct shipping",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "Direct shipping arranged by the store may still be available"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_refund",
+  "text": "for purchases made on or after November 1, 2026, the revised system adopts a refund method",
+  "claim": "Refund method",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "on or after November 1, 2026"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_customs",
+  "text": "under the refund method, the consumption tax equivalent is refunded after Customs confirms at departure that the goods are being taken out of Japan",
+  "claim": "Customs confirmation",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "after Customs confirms at departure"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_nta",
+  "text": "the page links a National Tax Agency notice to foreign travelers who purchase tax-free goods",
+  "claim": "NTA notice",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "Notice to Foreign Travelers who purchase Tax-Free Goods"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "tx_customspage",
+  "text": "the page links a Japan Customs page on procedures of passenger clearance",
+  "claim": "Customs page",
+  "source_name": "JNTO: Japans Tax Exemption",
+  "source_url": "https://www.japan.travel/en/plan/japans-tax-exemption/",
+  "must_contain": [
+   "Procedures of Passenger Clearance"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_gosh",
+  "text": "Goshikinuma is a group of lakes and ponds that show different shades of greens and blues",
+  "claim": "Goshikinuma",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "a group of lakes and ponds that show different shades of greens and blues"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_gosh_loc",
+  "text": "Goshikinuma is in Bandai-Asahi National Park in Fukushima Prefecture",
+  "claim": "Goshikinuma location",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "Bandai-Asahi National Park in Fukushima Prefecture"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_gosh_boat",
+  "text": "some tourists rent rowboats to enjoy the lakes",
+  "claim": "Goshikinuma rowboats",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "Some tourists rent rowboats"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_showa",
+  "text": "Showa Kinen Park in Tachikawa City is only 30 minutes away from central Tokyo by train",
+  "claim": "Showa Kinen Park",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "only 30 minutes away from central Tokyo by train"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_showa_bike",
+  "text": "bikes are also available for rent at Showa Kinen Park",
+  "claim": "Park bikes",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "Bikes are also available for rent"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_cosmos",
+  "text": "from mid-September to early November the annual Cosmos Flower Festival is held at Showa Kinen Park",
+  "claim": "Cosmos festival",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "from mid-September to early November"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_nara",
+  "text": "Nara Park has more than a thousand deer freely roaming around",
+  "claim": "Nara deer",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "more than a thousand of them freely roaming around"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_nara_sites",
+  "text": "Nara Park also houses Todaiji Temple, Kasuga Taisha Shrine, the Kofukuji National Treasure Hall and the Nara National Museum",
+  "claim": "Nara Park sites",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "the Kofukuji National Treasure Hall"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_kiyo",
+  "text": "Kiyomizu-dera was established as early as 778 A.D. and is one of the oldest temples in Kyoto",
+  "claim": "Kiyomizu-dera",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "as early as 778 A.D."
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_kiyo_stage",
+  "text": "Kiyomizu-dera is especially known for its elevated wooden stage that offers a grand view of the temple complex",
+  "claim": "Kiyomizu stage",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "elevated wooden stage"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_kiyo_name",
+  "text": "Kiyomizu-dera roughly means pure water temple in Japanese",
+  "claim": "Kiyomizu name",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "pure water temple"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_ritsurin",
+  "text": "Ritsurin Garden is famous for its autumn illumination event usually held on the evenings of November and December",
+  "claim": "Ritsurin illumination",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "autumn illumination event usually held on the evenings of November and December"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "af_ritsurin_boat",
+  "text": "at Ritsurin Garden, visitors can ride traditional Japanese-style boats, called wasen, around the ponds",
+  "claim": "Wasen boats",
+  "source_name": "JNTO: Must-See Autumn Foliage Spots in Japan",
+  "source_url": "https://www.japan.travel/en/ph/special-features/must-see-autumn-foliage-spots-japan/",
+  "must_contain": [
+   "traditional Japanese-style boats"
+  ],
+  "topics": [
+   "autumn-foliage-spots-in-japan-guide"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_old",
+  "text": "until October 31, 2026, eligible visitors buy tax-free items without paying the consumption tax",
+  "claim": "Old system",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "up until October 31, 2026"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_pay",
+  "text": "beginning November 1, 2026, travelers will pay the full tax-inclusive price when purchasing items at tax-free shops",
+  "claim": "New price rule",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "travelers will pay the full tax-inclusive price"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_inspect",
+  "text": "before departing Japan, travelers present the purchased goods for inspection at customs at the airport or seaport",
+  "claim": "Customs inspection",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "present the purchased goods for inspection at customs at the airport or seaport"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_90",
+  "text": "within 90 days of the purchase, you present your passport at a tax-free procedure terminal in the international departure lobby of your departure airport or seaport, before baggage check-in",
+  "claim": "90 day window",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "Within 90 days of your purchase"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_green",
+  "text": "a green result means no customs inspection is required and your tax-free procedure is complete",
+  "claim": "Green result",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "Your tax-free procedure is complete"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_red",
+  "text": "a red result means a customs inspection is required, and you must bring your tax-free purchases to the designated customs inspection area",
+  "claim": "Red result",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "A customs inspection is required"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_online",
+  "text": "at major international airports, you may also complete the initial procedure online through Visit Japan Web",
+  "claim": "Visit Japan Web",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "through Visit Japan Web instead of using an airport terminal"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_min",
+  "text": "your total purchases per tax-free shop, per day must be 5,000 yen or more, before tax",
+  "claim": "Minimum purchase",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "per tax-free shop, per day must be 5,000 yen or more"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_export",
+  "text": "all tax-free purchases must be taken out of Japan when you depart",
+  "claim": "Export rule",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "must be taken out of Japan when you depart"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_gold",
+  "text": "gold and platinum bullion, as well as items already exempt from consumption tax, are not eligible for a tax refund",
+  "claim": "Ineligible items",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "Gold and platinum bullion"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_carry",
+  "text": "tax-free purchases must be limited to quantities that you can personally carry out of Japan at the time of departure",
+  "claim": "Personal baggage",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "quantities that you can personally carry out of Japan"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_consumables",
+  "text": "special sealed packaging for consumable items will no longer be required, but items consumed or used in Japan before departure are not eligible",
+  "claim": "Consumables",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "will no longer be required"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_checkin",
+  "text": "you must complete the procedure before checking in your luggage, because baggage cannot be retrieved once it has been checked with the airline",
+  "claim": "Before check-in",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "you must complete the procedure before checking in your luggage"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_time",
+  "text": "JNTO says to allow plenty of time before your flight or departure",
+  "claim": "Allow time",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "Allow plenty of time before your flight or departure"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_nocomp",
+  "text": "neither Customs nor your airline will provide compensation if you miss your departure due to insufficient time for the tax-free procedures",
+  "claim": "No compensation",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "neither Customs nor your airline will provide compensation"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_final",
+  "text": "you complete the tax-free procedure at your final departure point from Japan",
+  "claim": "Final departure point",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "Complete the procedure at your final departure point from Japan"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_docs",
+  "text": "you need your passport, all associated receipts, purchased items and other travel documents on hand",
+  "claim": "Documents",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "all associated receipts, purchased items, and other travel documents"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_receipt",
+  "text": "each receipt is processed separately",
+  "claim": "Receipts",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "Each receipt is processed separately"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_missing",
+  "text": "if even one item from a receipt is missing, none of the items associated with that receipt will be eligible for a tax refund",
+  "claim": "Missing item",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "If even one item from a receipt is missing"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_unused",
+  "text": "if you have consumed or used tax-free items, you should report the consumption to a customs officer at the customs counter instead of using the terminal",
+  "claim": "Consumed items",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "report the consumption to a customs officer at the customs counter"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
+ },
+ {
+  "id": "txr_export_prompt",
+  "text": "after your goods have passed customs inspection, they must be exported from Japan without delay, or you may be subject to penalties",
+  "claim": "Export without delay",
+  "source_name": "JNTO: Everything You Need to Know, Japans New Tax-Free Shopping System",
+  "source_url": "https://www.japan.travel/en/us/blog/everything-you-need-to-know-japans-new-tax-free-shopping-system/",
+  "must_contain": [
+   "may also be subject to penalties"
+  ],
+  "topics": [
+   "tax-free-shopping-in-japan-refund-method"
+  ],
+  "verified_on": "2026-11-12"
  }
 ]

@@ -87,6 +87,8 @@ If you want a traditional stay where these customs are part of the experience, y
 
 For a stay in a traditional inn, see our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html), and for ordering with dietary needs, our [vegetarian and vegan guide](vegetarian-and-vegan-travel-in-japan.html).
 
+For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
+
 ## FAQ
 
 ### Do I have to bow in Japan?

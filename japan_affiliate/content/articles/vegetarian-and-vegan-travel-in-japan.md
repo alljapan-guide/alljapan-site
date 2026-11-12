@@ -72,6 +72,8 @@ If you want help, you can look at food tours and cooking classes on {{aff:trip_t
 
 {{note|JNTO's page may be updated, and some of the restaurant portals it names are Japanese only. Check the listings before you rely on them.}}
 
+For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+
 ## FAQ
 
 ### Is it easy to be vegetarian in Japan?

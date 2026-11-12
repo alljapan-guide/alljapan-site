@@ -79,6 +79,8 @@ Before you travel, you can compare travel insurance plans on {{aff:trip_insuranc
 
 For a related question, our guide on [unpaid medical bills and entry](unpaid-medical-bills-japan-entry-refused.html) explains what JNTO says about travel insurance and entry, and our [emergency numbers page](japan-emergency-numbers-for-tourists.html) lists the numbers to save before you arrive.
 
+For where cards work, when cash is still needed and which phone payments work, see our [guide to cash, cards and cashless payments](cash-cards-and-cashless-payments-in-japan.html).
+
 ## FAQ
 
 ### Do I need a visa to visit Japan as a tourist?

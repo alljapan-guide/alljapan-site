@@ -87,6 +87,8 @@ To compare places to stay in the main city, you can look at {{aff:trip_sapporo_h
 
 Much of Hokkaido is easier with a car, and our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html) explains the permit and the rules.
 
+For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+
 ## FAQ
 
 ### How many days do you need for Hokkaido?

@@ -92,6 +92,8 @@ Forwarding makes the most sense on a multi-city route. Our [IC card guide](japan
 - [Coin lockers and luggage storage](coin-lockers-and-luggage-storage-japan.html)
 - [Size, weight and banned items](luggage-forwarding-limits-japan.html)
 
+For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
+
 ## FAQ
 
 ### What is Hands-Free Travel?
