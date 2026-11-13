@@ -97,6 +97,8 @@ If you plan to drive between hot spring towns, see our [car rental guide](rentin
 
 For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
 
+Hot springs are a main reason to visit Kyushu, so read our [onsen etiquette guide](japan-onsen-etiquette.html) before you go.
+
 ## FAQ
 
 ### How many days do you need for Kyushu?

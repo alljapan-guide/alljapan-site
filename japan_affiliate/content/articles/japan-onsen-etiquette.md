@@ -3,7 +3,7 @@ title: Onsen Etiquette for First-Timers, Including Tattoo Rules
 slug: japan-onsen-etiquette
 description: How to use a Japanese onsen: washing first, towel rules, nudity, tattoo policies and private baths, using the Japan National Tourism Organization's guidance.
 date: 2026-10-20
-updated: 2026-10-20
+updated: 2026-11-13
 cluster: culture
 affiliates: booking | klook
 image_queries: Japanese onsen outdoor bath | Kurokawa Onsen Kumamoto | Ryokan kaiseki dinner | Yukata onsen town Japan
@@ -58,6 +58,40 @@ On cost, the same guide says that {{fact:onsen_free}}. Read the booking details 
 
 The guide notes that onsen are traditionally built to be shared, and that many are also available for private use. On open-air baths, it says that {{fact:onsen_rotenburo}}. It also mentions geothermal footbaths, called ashinoyu, which are often found near a station or the centre of a town and, in our view, are a lower-commitment way to try the experience.
 
+## Choose your first onsen: a decision table
+
+Our view: the best first onsen is the one whose rules you already understand. Use this table to match your situation to an option, then confirm the rules with the facility.
+
+| Your situation | Start with | What the official guides say |
+|---|---|---|
+| You have a tattoo, or you are unsure | A private kashikiri bath, or an en-suite bath | JNTO says that {{fact:onsen_private}} |
+| You are nervous about a shared bath | A free geothermal footbath, called ashinoyu | These are often found near a station or the centre of a town |
+| You are staying overnight | The public bath at your accommodation | JNTO says that {{fact:onsen_free}} |
+| You want a day trip from Tokyo | Takao, by train | JNTO notes that {{fact:tak_onsen}} |
+| You want snow scenery | Muikamachi in Niigata | JNTO notes that {{fact:nig_onsen}} |
+| You want an unusual bath | The sand bath in Beppu | JNTO notes that {{fact:oit_hyotan}} |
+| You want a daytime bath on a rail trip | Tsunagi in Kumamoto | JNTO notes that {{fact:ksr_tsunagi}} |
+
+```diagram
+type: flow
+caption: What to do if you have a tattoo (our editorial view, built on the official guide)
+steps: Check the facility's website or ask your accommodation before you travel | If shared baths are not allowed, ask about a private kashikiri bath | Or book a room with its own en-suite onsen | Or start with a footbath and a hotel bath you have confirmed | Keep a second option in mind in case the first is full
+```
+
+## Common mistakes at your first onsen
+
+- **Asking about tattoos at the entrance.** Ask before you travel, because the policy is set by each facility.
+- **Skipping the wash.** The wash comes before the bath, and the bath water is shared.
+- **Letting the washcloth touch the water.** Leave it beside the bath or on your head, as the official guide describes.
+- **Leaving the towel by the showers.** The guide advises you to dry off before you go back to the changing area.
+- **Assuming a day visit includes a large towel.** Check what the facility provides, and bring your own if you are unsure.
+
+## Where to try an onsen on your trip
+
+The onsen rules above apply everywhere, but the setting changes. Near Tokyo, the [Hakone trip](hakone-trip-from-tokyo.html) and the [Yamanashi hot springs itinerary](yamanashi-hot-springs-2-day-itinerary.html) combine a bath with a short journey. In the north, see the [Hokkaido hot springs itinerary](hokkaido-hot-springs-3-day-itinerary.html) and the [Nagano snow monkeys trip](nagano-snow-monkeys-hot-springs-2-day-itinerary.html). In Kyushu, the [Oita hot springs itinerary](oita-hot-springs-beppu-yufuin-4-day-itinerary.html) and the [Kumamoto to Kagoshima itinerary](kumamoto-to-kagoshima-by-rail-itinerary.html) are built around baths, and our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html) compares the routes.
+
+Last reviewed on 13 November 2026 against the Japan National Tourism Organization pages cited in this guide.
+
 ## Before you go: a short checklist
 
 - Check the facility's tattoo policy on its website or by asking.
@@ -97,3 +131,15 @@ Do not let it touch the onsen water. Leave it to the side of the bath or balance
 ### Is there a private option?
 
 Yes. The tourism organisation describes private kashikiri onsen, which usually cost extra and need to be reserved, and en-suite private onsen that some accommodations include in the room price.
+
+### Where should I try my first onsen?
+
+Our view: choose the bath at your accommodation if you are staying overnight, because the rules and the cost are explained when you book. For a day trip, see the decision table above.
+
+### Are footbaths a good way to start?
+
+Yes, as a low-commitment option. JNTO mentions geothermal footbaths, called ashinoyu, which are often found near a station or the centre of a town.
+
+### Is the bath free for overnight guests?
+
+JNTO says a public onsen at an accommodation is almost always free of charge for overnight guests. Read your booking details to confirm what applies to you.

@@ -3,13 +3,13 @@ title: 7 Days in Japan: Tokyo, Kyoto & Osaka Itinerary for First-Timers
 slug: tokyo-kyoto-osaka-7-day-itinerary
 description: A relaxed 7-day Japan itinerary for first-timers: three nights in Tokyo, three in Kyoto with a Nara day trip, then Osaka, with sourced travel times.
 date: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-13
 cluster: itineraries
 affiliates: booking | klook | railpass | esim | trip_trains | trip_hotels | trip_tokyo_things
 references: nara_park_guide
 image_queries: Fushimi Inari Taisha torii gates | Nara Park deer Todai-ji | Shibuya scramble crossing Tokyo
 ---
-One week is enough for the classic route if you keep it simple: three nights in Tokyo, three in Kyoto with a day trip to Nara, and a final day in Osaka before you fly out. This plan favours fewer, better days over a long list of sights.
+One week is enough for the classic route if you keep it simple: three nights in Tokyo, three in Kyoto with a day trip to Nara, and a final day in Osaka before you fly out. Our view: this plan favours fewer, better days over a long list of sights.
 
 It assumes you arrive in Tokyo, travel west and depart from the Osaka area. If you fly in and out of the same city, adjust the last day. We give travel times only where an official source states them. Opening hours and tickets for individual sights change by season, so check each sight's official page before you go.
 
@@ -29,6 +29,19 @@ Two decisions help before you start. First, set up a transit card so you can tap
 
 {{tip|Book your Tokyo and Kyoto hotels first. They set the shape of the trip, and everything else can move around them.}}
 
+## How long each move takes
+
+The table collects every travel time this plan relies on, each from the official source named in the last column. Check the operator's timetable for your date.
+
+| Move | Time | Source |
+|---|---|---|
+| Tokyo to Kyoto by Tokaido Shinkansen | {{fact:tokyo_kyoto_130}} | JR Central |
+| Kyoto Station to Fushimi Inari | {{fact:fushimi_9min}} | Kyoto City Tourism Association |
+| Kyoto to Nara by JR Rapid | {{fact:nara_jr_41}} | Nara travel guide |
+| Osaka to Kobe, as an optional swap | JNTO says {{fact:kb_osaka}} | JNTO |
+
+Our view: only one move in this plan is long, and it is the Tokyo to Kyoto day. Every other move is short, which is why the plan works as a week. Keep that day light.
+
 ## Day 1: Arrive in Tokyo
 
 Aim for a gentle first day. After you land, travel to your hotel, drop your bags and take a short walk. Have an early dinner and sleep on local time. If you have not arranged mobile data, read our [eSIM vs pocket WiFi comparison](japan-esim-vs-pocket-wifi.html) and install a plan before you leave home.
@@ -41,7 +54,7 @@ Start in Asakusa. The official tourism guide describes Sensoji as {{fact:sensoji
 
 {{photo:3|Shibuya Crossing in Tokyo}}
 
-{{note|Do not try to see everything. Pick two or three areas a day and leave gaps for wandering; that is our editorial advice for a first trip.}}
+{{note|Do not try to see everything. Pick two or three areas a day and leave gaps for wandering; Our view: that is the right pace for a first trip.}}
 
 ## Day 3: Harajuku, Meiji Shrine and Shinjuku
 
@@ -82,6 +95,30 @@ Two bases are enough for this route:
 
 Compare hotels with flexible cancellation, particularly for busy dates. Everything in this itinerary can be adjusted if a booking falls through.
 
+## Decision table: adjust the plan to your trip
+
+Our view: use this table to change the plan without breaking it.
+
+| If this is your situation | Change this | Where to read more |
+|---|---|---|
+| You have five days | Keep three nights in Tokyo and two in Kyoto, and drop Nara and the Osaka day | [Kyoto in one day](kyoto-one-day-itinerary.html) |
+| You have nine or ten days | Add a Hakone night between Tokyo and Kyoto, since JNTO says {{fact:hkn_len}} | [Hakone trip](hakone-trip-from-tokyo.html) |
+| You arrive at an Osaka airport | Reverse the route: Osaka first, then Kyoto, then Tokyo | [Tokyo to Osaka guide](tokyo-to-osaka-bullet-train.html) |
+| You want more food and less temple time | Give Osaka two nights and Kyoto two | [Osaka 3-day itinerary](osaka-3-day-itinerary.html) |
+| You travel with large bags | Send them ahead between Tokyo and Kyoto | [Luggage forwarding](japan-luggage-forwarding.html) |
+| You want a calmer Kyoto | Choose a base away from the station | [Where to stay in Kyoto](where-to-stay-in-kyoto.html) |
+
+## Common mistakes in a first one-week plan
+
+- **Planning a full sightseeing day on the move day.** The Tokyo to Kyoto day already uses the morning for packing and the train, so keep the afternoon light.
+- **Booking three bases instead of two.** Each hotel change costs part of a day, and the plan above already uses two moves.
+- **Adding Hakone, Kobe and Himeji to the same week.** Each is a good trip, but a seven-day plan has no room for them. The [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html) and the [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html) show the options for a second trip.
+- **Leaving the last day without a buffer.** Check your airport transfer the day before, and keep the morning free of fixed plans.
+
+If you have more than seven days, JNTO's Kansai Trio plan is a good next step, since {{fact:kg_len}}; see our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html). For a two-week route, see the [Golden Route itinerary](golden-route-2-week-japan-itinerary.html), and for sightseeing in the capital, our [Meiji Jingu guide](meiji-jingu-guide.html) covers the shrine on day 3.
+
+Last reviewed on 13 November 2026 against the official pages cited in this guide.
+
 ## What to skip if you are short on time
 
 - **Extra cities.** Resist adding more cities to a seven-day plan unless you drop something else.
@@ -111,3 +148,11 @@ Our hotel guide explains the options for Tokyo. In Kyoto, choose between being c
 ### What is the best time of year for this trip?
 
 We do not give a ranking here because we have no sourced data for it. Check the tourism organisation's official pages for seasonal information and events.
+
+### Can I reverse the route and start in Osaka?
+
+Yes. Our view: the plan works in either direction, because it has only one long move. Start in Osaka if you land at Kansai International Airport, then go to Kyoto and finish in Tokyo.
+
+### What if I have only five days?
+
+Keep Tokyo and Kyoto, and drop Nara and the Osaka day. Our view: five days is enough for two bases but not for three.

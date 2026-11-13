@@ -87,6 +87,8 @@ For the long train legs between Tokyo and the north, you can compare tickets on 
 
 For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
 
+If your plan includes a hot spring, our [onsen etiquette guide](japan-onsen-etiquette.html) explains the rules, including the tattoo policy.
+
 ## FAQ
 
 ### How many days do you need for Tohoku?

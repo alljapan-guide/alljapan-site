@@ -89,6 +89,8 @@ Much of Hokkaido is easier with a car, and our [car rental guide](renting-a-car-
 
 For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
 
+If your plan includes a hot spring, our [onsen etiquette guide](japan-onsen-etiquette.html) explains the rules, including the tattoo policy.
+
 ## FAQ
 
 ### How many days do you need for Hokkaido?

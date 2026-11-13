@@ -94,6 +94,8 @@ For the short ride between the two cities, you can compare Osaka to Kyoto train 
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+If you plan to sleep in Kyoto and visit Osaka by train, our [guide to where to stay in Kyoto](where-to-stay-in-kyoto.html) compares the areas.
+
 ## FAQ
 
 ### Is one day enough for Osaka?

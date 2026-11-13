@@ -166,3 +166,39 @@ Added japanese-ramen-guide-types-and-how-to-order (JNTO ramen guide), izakaya-di
 Photos: 16, all new and checked by eye; rejected and re-fetched: a rice bowl labelled ramen (card photo), a salad bowl labelled karaage, an autumn-leaf banner strip for Showa Kinen Park; the third tax photo was dropped (a Narita hall near-duplicate of an existing photo). The izakaya photo 1 is a casual restaurant counter in Kyoto (caption says so).
 Back-links added to 28 existing articles (regional hubs for Tohoku, Kanto, Kansai; shikoku, weather, cherry blossom, Nara, Osaka food, Hokkaido and Kyushu hubs, Fukuoka, vegetarian, etiquette, halal, budget, IC card, ryokan, visa, souvenirs, shotengai, luggage). No hotel program exists for Tohoku or Kyushu; links used: trip_tokyo_things, klook, viator, trip_esim, trip_trains, trip_hotels, trip_kyoto_hotels, trip_things. 120 articles.
 Owner note: priority for Search Console indexing: tax-free-shopping-in-japan-refund-method (timely, rules changed on 1 November 2026) and cash-cards-and-cashless-payments-in-japan.
+
+## 2026-11-13 Search Console: crawled-not-indexed and the quality-first policy
+Owner screenshots (page indexing report, 11/9 data): 28 pages are "crawled - currently not indexed" (it jumped from about 1 to 28 around 11/7-11/9; examples: osaka-3-day-itinerary, is-credit-card-travel-insurance-enough-for-japan, kansai-3-day-itinerary-kyoto-nara-osaka, japan-travel-insurance, where-to-stay-in-kyoto, japan-onsen-etiquette, tokyo-kyoto-osaka-7-day-itinerary, meiji-jingu-guide, where-to-stay-in-tokyo, shotengai-souvenir-shopping; all last crawled 11/9-11/11). 20 pages are "page with redirect": expected, they are old .html URLs and http/www URLs that redirect to the clean https URL; do NOT press "validate fix" and do not treat as an error. Indexed pages were 55 on 11/8 (flat since late October).
+Reading: Google visits these pages but does not yet judge them worth indexing. Likely factors: a new site with almost no external links, many articles that restate official JNTO pages in similar outlines, and the .html to clean-URL move on 10/26. None can be proven from the report.
+Policy (owner approved 2026-11-13): publish less, improve more. The daily routine (trigger trig_01DdzYYrZddVgMrzMXXmopsP) is now 2 new articles + 3 enhancements of existing articles from the queue below. The owner will do external links (Reddit, Pinterest); draft copy and images on request. Do not request indexing for the same page repeatedly; do not press "validate fix" on crawled-not-indexed until a batch of enhancements is live.
+What an enhancement must add (decision value, not paraphrase): a case-based decision table or comparison table, common mistakes, a how-to-choose flow or model plan, deeper "Our view", an extra diagram, more internal links in and out (hubs, siblings), less wording shared with sibling articles, a "Last reviewed" line and a new `updated` date. Facts only via verified {{fact:id}}; no money numbers; no invented experiences; photos stay unique.
+
+Audit (120 articles, read-only): every article has a diagram and 5 FAQ items, but only 12 have any table and most itineraries have none; the 2 to 4 inbound-link articles are mostly 11/5-11/12 pages (too new to have links); long-standing pages with many inbound links (7-day itinerary 41, where-to-stay-in-tokyo 30, where-to-stay-in-kyoto 24, onsen etiquette 21, insurance 20) were still flagged by Google, so inbound links alone are not the issue; the weakest by depth are the itinerary articles: about 700 words, no table, 1 diagram, 2 inbound links.
+
+### 強化の対象リスト
+| # | slug | why it is in the queue | what to add | status |
+|---|---|---|---|---|
+| 1 | where-to-stay-in-kyoto | crawled-not-indexed example; high-traffic cluster | areas trade-off table, 4-question flow, nights/hotels guidance, Kyoto vs Osaka base, common mistakes, 8 new links | done 2026-11-13 |
+| 2 | tokyo-kyoto-osaka-7-day-itinerary | crawled-not-indexed example; 0 explicit "Our view" labels | move-time table from facts, adjust-the-plan decision table, common mistakes, longer-trip links, reverse-route FAQ | done 2026-11-13 |
+| 3 | japan-onsen-etiquette | crawled-not-indexed example; only 2 "Our view" | first-onsen decision table (7 situations), tattoo flow diagram, common mistakes, regional onsen links | done 2026-11-13 |
+| 4 | where-to-stay-in-tokyo | crawled-not-indexed example; 979 words, 1 table, 3 "Our view" | area trade-off table, nights/hotels guidance, mistakes, Tokyo vs day-trip bases | todo |
+| 5 | osaka-3-day-itinerary | crawled-not-indexed example; 0 hub overlap | decision table (day swaps), move-time table from facts, mistakes | todo |
+| 6 | kansai-3-day-itinerary-kyoto-nara-osaka | crawled-not-indexed example; no table | move-time table, shorter/longer variants, mistakes | todo |
+| 7 | meiji-jingu-guide | crawled-not-indexed example; 765 words, no table | visit-planning decision table, etiquette mistakes, links to shrine etiquette and Harajuku plan | todo |
+| 8 | is-credit-card-travel-insurance-enough-for-japan | crawled-not-indexed example; shares photos and wording with insurance siblings | distinct angle: card-vs-policy scoring examples, mistakes; trim phrasing shared with japan-travel-insurance | todo |
+| 9 | shotengai-souvenir-shopping | crawled-not-indexed example; no table | what-to-buy-where decision table, tax-free link, mistakes | todo |
+| 10 | japan-travel-insurance (second pass) | 228 impressions, crawled-not-indexed example; refreshed 11/12 | only if still not indexed after 2 weeks: reduce overlap with its 5 sibling pages | todo |
+| 11 | japan-opening-hours-and-holidays (second pass) | 196 impressions; refreshed 11/12 | wait and re-check indexing first | todo |
+| 12 | japan-ic-card-guide (second pass) | 64 impressions; refreshed 11/12 | wait and re-check indexing first | todo |
+| 13 | where-to-book-a-licensed-guide-in-japan | 783 words, no table, 1 inbound link | comparison table of booking routes, mistakes, inbound links from the guide and city guides | todo |
+| 14 | tokyo-cultural-experiences-classes | 728 words, no table, 1 inbound link | class-type decision table, booking mistakes, links from Tokyo hub | todo |
+| 15 | tokyo-downtown-shopping-ameyoko-nakamise-itinerary | 730 words, no table, 1 inbound link | route variants table, mistakes, links from Kanto hub and souvenir pages | todo |
+| 16 | hiroshima-autumn-2-day-itinerary | 767 words, no table, 1 inbound link | day-swap table, autumn-foliage link, mistakes | todo |
+| 17 | nagoya-one-day-itinerary | 701 words, no table, 1 inbound link | stop-by-stop time table from facts, add-ons, mistakes | todo |
+| 18 | yamanashi-hot-springs-2-day-itinerary | 738 words, no table | onsen-type table, link to onsen etiquette | todo |
+| 19 | niigata-winter-weekend-itinerary | 740 words, no table | winter-plan decision table, mistakes | todo |
+| 20 | shiretoko-peninsula-3-day-itinerary | 751 words, no table | season/transport decision table, mistakes | todo |
+| 21 | accessible-travel-in-japan-wheelchair-guide | 655 words, shortest long-form | checklist table by travel stage, mistakes | todo |
+| 22 | hida-takayama-to-kyoto-5-day-itinerary | 658 words, 4 "Our view" | stop table from facts, shortened variant | todo |
+| 23 | the other 2-day and 3-day regional itineraries (Okinawa, Nagasaki-Saga, Amanohashidate, Izu Oshima, Ise, Oita, Shirakami, Chiba, Kawagoe, Nikko, Mt Takao, Koyasan, Shimanami) | about 700 words, no table, 2 to 3 inbound links | one decision table and a mistakes list each, links to the region hub | todo |
+Order rule for new picks: take the lowest-numbered todo row; rows 10 to 12 only after the owner shows that the 11/12 refresh did not get them indexed.

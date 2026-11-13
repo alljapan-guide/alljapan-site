@@ -89,6 +89,8 @@ Travelling with children or with a mobility need? See our guides to [traveling w
 
 For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
 
+If you want one plan that links Tokyo with Kyoto and Osaka, see our [7-day Tokyo, Kyoto and Osaka itinerary](tokyo-kyoto-osaka-7-day-itinerary.html). Many Kanto trips include a hot spring, and our [onsen etiquette guide](japan-onsen-etiquette.html) explains the rules before you go.
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

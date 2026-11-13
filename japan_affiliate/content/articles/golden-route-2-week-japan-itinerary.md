@@ -104,6 +104,8 @@ For tours and tickets, you can compare options on {{aff:trip_things|Trip.com}} a
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+For a shorter version of the same cities, see our [7-day Tokyo, Kyoto and Osaka itinerary](tokyo-kyoto-osaka-7-day-itinerary.html).
+
 ## FAQ
 
 ### How many days does the Golden Route take?
