@@ -94,6 +94,8 @@ For the whole region at a glance, including day trips and longer Kansai routes, 
 
 For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
 
+If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
+
 ## FAQ
 
 ### How long does it take to get to Nara from Kyoto?

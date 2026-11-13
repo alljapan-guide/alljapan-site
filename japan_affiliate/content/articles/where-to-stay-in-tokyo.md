@@ -3,7 +3,7 @@ title: Where to Stay in Tokyo: Best Areas for First-Time Visitors
 slug: where-to-stay-in-tokyo
 description: How to choose a Tokyo base for your first trip: Shinjuku, Asakusa, Tokyo Station or Shibuya, with the official facts and our own editorial view.
 date: 2026-10-18
-updated: 2026-10-18
+updated: 2026-11-13
 cluster: hotels
 affiliates: booking | agoda | trip_hotels
 references: tokyo_station_area
@@ -70,6 +70,65 @@ If you stay several nights, some travellers split their time between two areas f
 
 {{pick|Unless you have a strong reason to prefer another area, pick a hotel a short walk from a Shinjuku station exit for a first trip. This is our editorial recommendation, not a sourced ranking.}}
 
+## If you leave Tokyo for day trips, choose the base by the first train
+
+Our view: many first-time visitors spend a few days outside Tokyo, and the station you sleep near decides how hard the first train of the day is. JNTO describes each of these trips from a specific starting station, so match your base to the trips you actually plan.
+
+```diagram
+type: flow
+caption: Four questions that choose a Tokyo base
+steps: Do you leave on early bullet trains or for Kamakura and Yokohama? Stay near Tokyo Station | Are your day trips on the Odakyu, Keio or Chuo lines? Stay in Shinjuku | Do you want older streets and a calm evening? Stay in Asakusa | Do you want shopping and nightlife on foot? Stay in Shibuya
+```
+
+| Day trip | Starts from | Best base |
+|---|---|---|
+| Hakone by Romancecar | Shinjuku | Shinjuku |
+| Mt. Takao | Shinjuku | Shinjuku |
+| Yamanashi hot springs | Shinjuku | Shinjuku |
+| Nikko | Shinjuku or Tobu Asakusa | Shinjuku or Asakusa |
+| Kawagoe | Ikebukuro | A hotel with a short ride to Ikebukuro |
+| Kamakura and Yokohama | Tokyo Station | Tokyo Station area |
+| Kyoto and Nagano by bullet train | Tokyo Station | Tokyo Station area |
+
+The routes in the table come from JNTO's itineraries, and the times below are the ones it gives:
+
+- **Hakone.** JNTO says that {{fact:hakone_romancecar}}. Our [Hakone trip guide](hakone-trip-from-tokyo.html) has the full plan.
+- **Mt. Takao.** On the JNTO itinerary, {{fact:tak_train}}. See our [Mt. Takao day trip](mt-takao-day-trip-from-tokyo.html).
+- **Yamanashi.** JNTO says that {{fact:ymn_tokyo}}. Our [Yamanashi hot springs plan](yamanashi-hot-springs-2-day-itinerary.html) covers the stay.
+- **Nikko.** JNTO says that {{fact:nik_options}}. See the [Nikko trip guide](nikko-trip-from-tokyo.html).
+- **Kawagoe.** JNTO says that {{fact:kwg_train}}. See the [Kawagoe day trip](kawagoe-day-trip-from-tokyo.html).
+- **Kamakura.** On the JNTO route, {{fact:kamakura_route}}. See the [Kamakura day trip](kamakura-day-trip-from-tokyo.html).
+- **Yokohama.** JNTO says that {{fact:yok_train}}. See the [Yokohama day trip](yokohama-day-trip-from-tokyo.html).
+- **Kyoto and Nagano.** JNTO says that {{fact:kg_tokyo}}, and for Nagano that {{fact:ngn_tokyo}}.
+
+Our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html) compares all of these trips in one place.
+
+## How many nights should decide the base
+
+| Nights in Tokyo | Our suggestion | Why |
+|---|---|---|
+| 1 to 3 | One base, Shinjuku or Tokyo Station | No hotel change, and most first-time sights are on lines you reach from either |
+| 4 to 6 | One base, with day trips from it | A change costs half a day of packing and transfers |
+| 7 or more | Consider two bases, for example Shinjuku then Asakusa | Variety is worth the extra move only when you have days to spare |
+
+Our view: a second hotel makes sense only if the two areas feel different. If both are big hub stations, stay in one.
+
+## The airport leg
+
+JNTO says that {{fact:a_narita}}. For Haneda, {{fact:so_haneda_dist}}, and JNTO also notes that {{fact:tk_nex}}. Our view: arriving at Narita after a long flight is one more reason to choose a base on a direct line, so you do not change trains with luggage. Our [airport guide](which-airport-to-fly-into-japan.html) compares the two airports, and our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to send bags to the hotel.
+
+## Mistakes people make when choosing a Tokyo base
+
+Our view: these are the points that cost visitors the most time, in our reading of the official guidance.
+
+- **Choosing by a hotel photo.** The station and the line matter more than the room. Check the walking route first.
+- **Booking the cheapest area without checking the first train.** A saving disappears if every day trip starts with a long transfer.
+- **Changing hotels for a short stay.** Two nights in each of two areas means two packings. Keep one base unless you have a reason.
+- **Ignoring the last train.** If you plan an evening out, check the last train to your station before you book. Our [opening hours guide](japan-opening-hours-and-holidays.html) explains train hours.
+- **Booking near Tokyo Station when you plan a late night in Shibuya.** Match the base to where your evenings will be.
+
+Last reviewed on 13 November 2026 against the JNTO pages cited in this guide.
+
 ## Practical tips that save headaches
 
 - **Read the room size.** Room sizes vary a lot; the listing states the size, so read it and check the photos.
@@ -107,3 +166,19 @@ Room sizes vary. The listing gives the room size, so read it and check the photo
 ### When should I book?
 
 As soon as your dates are fixed, especially for busy periods. Choose a flexible rate if your plans might change.
+
+### Is Shinjuku or Shibuya better for a first trip?
+
+Our view: Shinjuku, because the official guide shows many lines meeting at the station. Shibuya is livelier at night, so it suits people who want a busy evening and do not mind noise.
+
+### Which area is best if I plan several day trips from Tokyo?
+
+Match the area to the first train. Shinjuku suits Hakone, Mt. Takao, Yamanashi and Nikko, and the Tokyo Station area suits Kamakura, Yokohama and the bullet trains. Our Kanto travel guide lists the routes.
+
+### Is it worth staying near the airport?
+
+Only for a very early flight or a late arrival. JNTO says Narita is an hour-long express ride from Tokyo and Haneda is within half an hour, so most visitors are better off in the city.
+
+### How many nights should I stay in one area?
+
+Our view: stay in one area for up to six nights. For a longer stay, a second base can add variety, but it costs a transfer day.

@@ -181,9 +181,9 @@ Audit (120 articles, read-only): every article has a diagram and 5 FAQ items, bu
 | 1 | where-to-stay-in-kyoto | crawled-not-indexed example; high-traffic cluster | areas trade-off table, 4-question flow, nights/hotels guidance, Kyoto vs Osaka base, common mistakes, 8 new links | done 2026-11-13 |
 | 2 | tokyo-kyoto-osaka-7-day-itinerary | crawled-not-indexed example; 0 explicit "Our view" labels | move-time table from facts, adjust-the-plan decision table, common mistakes, longer-trip links, reverse-route FAQ | done 2026-11-13 |
 | 3 | japan-onsen-etiquette | crawled-not-indexed example; only 2 "Our view" | first-onsen decision table (7 situations), tattoo flow diagram, common mistakes, regional onsen links | done 2026-11-13 |
-| 4 | where-to-stay-in-tokyo | crawled-not-indexed example; 979 words, 1 table, 3 "Our view" | area trade-off table, nights/hotels guidance, mistakes, Tokyo vs day-trip bases | todo |
-| 5 | osaka-3-day-itinerary | crawled-not-indexed example; 0 hub overlap | decision table (day swaps), move-time table from facts, mistakes | todo |
-| 6 | kansai-3-day-itinerary-kyoto-nara-osaka | crawled-not-indexed example; no table | move-time table, shorter/longer variants, mistakes | todo |
+| 4 | where-to-stay-in-tokyo | crawled-not-indexed example; 979 words, 1 table, 3 "Our view" | area trade-off table, nights/hotels guidance, mistakes, Tokyo vs day-trip bases | done 2026-11-13 |
+| 5 | osaka-3-day-itinerary | crawled-not-indexed example; 0 hub overlap | decision table (day swaps), move-time table from facts, mistakes | done 2026-11-13 |
+| 6 | kansai-3-day-itinerary-kyoto-nara-osaka | crawled-not-indexed example; no table | move-time table, shorter/longer variants, mistakes | done 2026-11-13 |
 | 7 | meiji-jingu-guide | crawled-not-indexed example; 765 words, no table | visit-planning decision table, etiquette mistakes, links to shrine etiquette and Harajuku plan | todo |
 | 8 | is-credit-card-travel-insurance-enough-for-japan | crawled-not-indexed example; shares photos and wording with insurance siblings | distinct angle: card-vs-policy scoring examples, mistakes; trim phrasing shared with japan-travel-insurance | todo |
 | 9 | shotengai-souvenir-shopping | crawled-not-indexed example; no table | what-to-buy-where decision table, tax-free link, mistakes | todo |
@@ -202,3 +202,6 @@ Audit (120 articles, read-only): every article has a diagram and 5 FAQ items, bu
 | 22 | hida-takayama-to-kyoto-5-day-itinerary | 658 words, 4 "Our view" | stop table from facts, shortened variant | todo |
 | 23 | the other 2-day and 3-day regional itineraries (Okinawa, Nagasaki-Saga, Amanohashidate, Izu Oshima, Ise, Oita, Shirakami, Chiba, Kawagoe, Nikko, Mt Takao, Koyasan, Shimanami) | about 700 words, no table, 2 to 3 inbound links | one decision table and a mistakes list each, links to the region hub | todo |
 Order rule for new picks: take the lowest-numbered todo row; rows 10 to 12 only after the owner shows that the 11/12 refresh did not get them indexed.
+
+## 2026-11-13 enhancement batch 2 (queue rows 4 to 6)
+where-to-stay-in-tokyo: day-trip base table plus a four-question flow diagram, nights-by-base table, airport leg, mistakes list, 4 FAQ, "Last reviewed" line (now about 2,000 words, 3 tables). osaka-3-day-itinerary: four day-trip pairings table, travel-time table from facts, swap-the-day decision table, mistakes list, 4 FAQ; 5 inbound links added from Osaka and day-trip guides. kansai-3-day-itinerary-kyoto-nara-osaka: Kansai Trio vs Osaka-based comparison, adjust-the-plan table, day load count, mistakes list, 4 FAQ. No new facts (verified ones only); unsupported claims removed during review (a "shortest ride" claim for Kobe and a fare claim about passes). No photos added.

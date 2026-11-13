@@ -80,6 +80,8 @@ If you are visiting western Japan, our [Hiroshima guide](hiroshima-things-to-do-
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
+
 ## FAQ
 
 ### How do I get to Himeji Castle from Himeji Station?

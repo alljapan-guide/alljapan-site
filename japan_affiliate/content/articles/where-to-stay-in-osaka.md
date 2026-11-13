@@ -101,6 +101,8 @@ Osaka often sits at the end of a longer route. Our [7-day itinerary](tokyo-kyoto
 
 For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
 
+If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
+
 ## FAQ
 
 ### Where should first-time visitors stay in Osaka?

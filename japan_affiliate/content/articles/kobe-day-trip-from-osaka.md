@@ -92,6 +92,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where an ext
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
+
 ## FAQ
 
 ### How long does it take to get from Osaka to Kobe?
