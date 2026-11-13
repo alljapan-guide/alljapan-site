@@ -76,6 +76,8 @@ If you have not bought a policy, our [main travel insurance guide](japan-travel-
 
 {{pick|Save the insurer number and the Japan Visitor Hotline number before you leave home, call 119 for an emergency, and ask your hotel front desk for help with the practical steps. This is our view, built on the JNTO guidance.}}
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
 ## FAQ
 
 ### What number do I call for an ambulance in Japan?

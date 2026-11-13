@@ -91,6 +91,8 @@ For a phone that works for calls and maps, see our [eSIM guide](japan-esim-vs-po
 
 {{pick|Save 110, 119 and the Japan Visitor Hotline number, add your insurer's emergency number, and keep a copy of your passport. This is our view, built on the JNTO lists above.}}
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
 ## FAQ
 
 ### What is the emergency number in Japan?

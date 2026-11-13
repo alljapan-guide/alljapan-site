@@ -96,6 +96,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole island at a glance, including routes, flights and how long the distances really are, see our [Hokkaido travel guide](hokkaido-travel-guide-sapporo-hakodate-and-shiretoko.html).
 
+If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
+
 ## FAQ
 
 ### How many days does the itinerary take?

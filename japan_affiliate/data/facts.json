@@ -26814,5 +26814,747 @@
    "tax-free-shopping-in-japan-refund-method"
   ],
   "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_safe",
+  "text": "Japan is very safe and the crime rate is quite low",
+  "claim": "Japan safety",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Japan is very safe and the crime rate is quite low"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_prone",
+  "text": "Japan is prone to natural disasters such as typhoons, earthquakes, tsunamis and volcanic eruptions",
+  "claim": "Natural disasters",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "Japan is prone to natural disasters such as typhoons, earthquakes, tsunamis and volcanic eruptions"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_common",
+  "text": "earthquakes are common in Japan compared to other countries, so it is best to be prepared",
+  "claim": "Earthquakes common",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "earthquakes are common in Japan"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_warning",
+  "text": "earthquakes can occur at any time and strike with little or no warning",
+  "claim": "Earthquake warning",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "strike with little or no warning"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_calm",
+  "text": "if you are inside during a larger earthquake, you should stay calm and follow any instructions staff might give",
+  "claim": "Earthquake indoors",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "stay calm and follow any instructions staff might give"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_route",
+  "text": "when you check into a hotel, you should double-check where the evacuation routes are",
+  "claim": "Evacuation routes",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "double-check where the evacuation routes are"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_fire",
+  "text": "fire is the most dangerous secondary disaster, so you should extinguish any naked flames as quickly as possible during an earthquake",
+  "claim": "Earthquake fire",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "most dangerous secondary disaster"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_phone",
+  "text": "you should keep your phone and devices fully charged, as they can be indispensable in an emergency",
+  "claim": "Charged phone",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "fully charged"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_eq_coast",
+  "text": "if you are by the coast when a large earthquake strikes, you should head for higher ground in case of a tsunami",
+  "claim": "Coast and tsunami",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "head for higher ground in case of a tsunami"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_apps",
+  "text": "for information on a significant disaster, JNTO lists the Japan Safe Travel Information site, the Safety Tips app and NHK WORLD-JAPAN",
+  "claim": "Information sources",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "NHK WORLD-JAPAN"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_koban",
+  "text": "if you need help, you can head to a local koban, the small police boxes dotted throughout Japanese neighborhoods",
+  "claim": "Koban",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "head to a local koban"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_embassy",
+  "text": "you should note the location and contact details of your embassy before arriving in Japan",
+  "claim": "Embassy details",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "relevant contact details before arriving in Japan"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_copies",
+  "text": "you should make a couple of copies of your passport and keep one with you and leave one at home",
+  "claim": "Passport copies",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "make a couple of copies of your passport"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_police_help",
+  "text": "the Metropolitan Police in Tokyo has an English helpline available 24 hours a day, 365 days a year",
+  "claim": "English police helpline",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "English helpline available 24 hours a day"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "sfe_insure",
+  "text": "you should sign up for travel insurance with adequate coverage before your departure",
+  "claim": "Insurance before departure",
+  "source_name": "JNTO: Staying Safe in Japan",
+  "source_url": "https://www.japan.travel/en/plan/emergencies/",
+  "must_contain": [
+   "with adequate coverage before your departure"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_season",
+  "text": "most typhoons form between July and October",
+  "claim": "Typhoon season",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "most of them form between July and October"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_landfall",
+  "text": "an average of 25 typhoons form over the Pacific Ocean every year, but only around three of these make landfall on the four main islands",
+  "claim": "Typhoon landfall",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "only around three of these make landfall"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_regions",
+  "text": "typhoons tend to affect the subtropical islands of Okinawa and Kyushu, so visitors planning trips there should be aware of the possibility of travel disruption",
+  "claim": "Typhoon regions",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "possibility of travel disruption"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_cities",
+  "text": "Tokyo, Osaka and Kyoto remain relatively protected from typhoons, but storms causing damage in these cities are not unheard of",
+  "claim": "Typhoons and cities",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "are not unheard of"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_jma",
+  "text": "the Japan Meteorological Agency tracks typhoons closely, providing regular updates via television and the internet",
+  "claim": "Typhoon tracking",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "tracks typhoons closely"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_closures",
+  "text": "when a typhoon is likely to make landfall, schools and businesses may be temporarily closed, public transportation suspended, and evacuation warnings issued",
+  "claim": "Typhoon closures",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "public transportation suspended"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_outside",
+  "text": "during a typhoon you should avoid going outside, either on foot or in a private vehicle",
+  "claim": "Typhoon outside",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "Avoid going outside, either on foot or in a private vehicle"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_transport",
+  "text": "if you need to use public transportation, you should give yourself ample time to reach your destination before services are temporarily suspended",
+  "claim": "Typhoon transport",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "give yourself ample time to reach your destination"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_supplies",
+  "text": "if necessary you can stock up on food and water essentials, but you should resist panic-buying",
+  "claim": "Typhoon supplies",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "resist panic-buying"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_24h",
+  "text": "typhoons tend to pass through in less than 24 hours",
+  "claim": "Typhoon duration",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "pass through in less than 24 hours"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_planb",
+  "text": "your travel plans will likely be affected if a typhoon is approaching, so it is a good idea to have a Plan B",
+  "claim": "Typhoon plan B",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "have a Plan B"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "typ_after",
+  "text": "the day after a typhoon is usually bright and sunny, which makes it a good day for outdoor activities",
+  "claim": "After a typhoon",
+  "source_name": "JNTO: Weathering Typhoons in Japan",
+  "source_url": "https://www.japan.travel/en/blog/weathering-typhoons-in-japan/",
+  "must_contain": [
+   "usually bright and sunny"
+  ],
+  "topics": [
+   "earthquake-and-typhoon-safety-for-visitors-in-japan"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_season",
+  "text": "the ski season in Japan generally begins in December and lasts until April, but the dates depend on each resort and its location",
+  "claim": "Ski season",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "generally begins in December and lasts until April"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_peak",
+  "text": "the peak season is in January and February, the months with the most consistent snowfall",
+  "claim": "Ski peak season",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "The peak season is in January and February"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_crowds",
+  "text": "the Christmas and New Year holidays, as well as early February, draw the highest number of crowds on the slopes",
+  "claim": "Ski crowds",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "draw the highest number of crowds on the slopes"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_march",
+  "text": "March can bring significant snow, but the weather is more unpredictable with a higher chance of warm spells",
+  "claim": "Ski in March",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "more unpredictable with a higher chance of warm spells"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_early",
+  "text": "Hokkaido and the higher mountains of Nagano tend to get more snow earlier in the season than other places",
+  "claim": "Early snow",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "tend to get more snow earlier in the season"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_niseko",
+  "text": "Niseko is the largest, most developed and most popular of all the ski resorts in Japan",
+  "claim": "Niseko",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "Niseko is the largest, most developed, and popular"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_niseko_eng",
+  "text": "Niseko is beginner friendly and has the most options for English speakers in Japan",
+  "claim": "Niseko English",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "most options for English speakers in Japan"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_hakuba",
+  "text": "Hakuba in Nagano hosted the 1998 Winter Olympics and has a total of 10 resorts",
+  "claim": "Hakuba",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "has a total of 10 resorts"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_hakuba_spread",
+  "text": "most of the Hakuba resorts are not connected to each other and are more spread out than those in Niseko",
+  "claim": "Hakuba layout",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "are not connected to each other"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_quiet",
+  "text": "you can find good deals on lift passes and accommodation at lesser-known resorts, which have fewer crowds",
+  "claim": "Quiet resorts",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "good deals on lift passes and accommodation at lesser-known resorts"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_tohoku",
+  "text": "Tohoku offers family-friendly resorts with beginner and intermediate terrain",
+  "claim": "Tohoku skiing",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "family-friendly resorts with beginner and intermediate terrain"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_appi",
+  "text": "Appi Kogen has plenty of intermediate slopes for younger children and beginners, as well as group ski and snowboard lessons in English",
+  "claim": "Appi Kogen",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "group ski and snowboard lessons in English"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_daytrip",
+  "text": "Gala Yuzawa in Niigata has a gondola connected to the train station, which makes it convenient for a day trip from Tokyo",
+  "claim": "Gala Yuzawa",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "there is a gondola connected to the train station"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_kagura",
+  "text": "you reach the Kagura ski area by shinkansen to Jomo Kogen Station",
+  "claim": "Kagura access",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "Access the area by shinkansen to Jomo Kogen Station"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_alps",
+  "text": "the Hakuba resorts are in the Northern Alps, along with Nozawa Onsen and Shiga Kogen",
+  "claim": "Northern Alps",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "located in the Northern Alps, along with Nozawa Onsen and Shiga Kogen"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_monkeys",
+  "text": "a day trip to see the snow monkeys in Yudanaka Onsen makes a great rest day while skiing in the Japan Alps",
+  "claim": "Snow monkeys rest day",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "makes a great rest day while skiing"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_zao",
+  "text": "Zao Onsen is famous for its slopes lined with snow monsters and has natural hot springs for relaxing after a day on the runs",
+  "claim": "Zao Onsen",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "snow monsters"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_snowboard",
+  "text": "almost all resorts allow snowboarders on the slopes, but you should check in advance for any off-limits areas",
+  "claim": "Snowboarding",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "Almost all resorts allow snowboarders"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_family",
+  "text": "many resorts offer mixed-level terrain for family members at different levels, along with day care, kids lessons and English-language lessons",
+  "claim": "Family skiing",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "mixed-level terrain for family members"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_childcare",
+  "text": "paid childcare is available at many resorts, although the majority of places offer it only in Japanese",
+  "claim": "Childcare",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "offer it only in Japanese"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_getting",
+  "text": "reaching a ski resort usually consists of a combination of bullet train or plane plus local bus transport",
+  "claim": "Getting to resorts",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "combination of bullet train or plane plus local bus transport"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_niseko_access",
+  "text": "to reach Niseko you take a 90-minute flight from Tokyo to New Chitose Airport and then a 3-hour direct bus",
+  "claim": "Niseko access",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "3-hour direct bus to Niseko"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_hakuba_transfer",
+  "text": "a long-distance transfer service from Narita and Haneda airports to Hakuba takes around 4-5 hours",
+  "claim": "Hakuba airport transfer",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "take around 4-5 hours"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_rentals",
+  "text": "every ski resort in Japan has rental outlets, and it is usually more economical to rent ski and snowboard sets",
+  "claim": "Ski rentals",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "more economical to rent ski and snowboard sets"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_sizes",
+  "text": "you do not normally need to book rentals in advance, but if you have large feet or need large sizes you should inquire in advance",
+  "claim": "Rental sizes",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "if you have large feet or require large sizes"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
+ },
+ {
+  "id": "ski_delivery",
+  "text": "baggage and delivery services can transport your gear to your hotel at the ski resort, or onward to other cities",
+  "claim": "Gear delivery",
+  "source_name": "JNTO: Skiing in Japan",
+  "source_url": "https://www.japan.travel/en/guide/skiing/",
+  "must_contain": [
+   "baggage and delivery services can transport your gear to your hotel"
+  ],
+  "topics": [
+   "skiing-and-snowboarding-in-japan-first-timer-guide"
+  ],
+  "verified_on": "2026-11-13"
  }
 ]

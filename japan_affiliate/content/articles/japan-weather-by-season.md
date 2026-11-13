@@ -91,6 +91,10 @@ You can compare hotels on {{aff:booking|Booking.com}} and activities on {{aff:kl
 
 For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
+If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
+
 ## FAQ
 
 ### What is the best season to visit Japan?

@@ -91,6 +91,8 @@ For the four main ramen types, regional styles and how to use a ticket machine, 
 
 If your plan includes a hot spring, our [onsen etiquette guide](japan-onsen-etiquette.html) explains the rules, including the tattoo policy.
 
+If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
+
 ## FAQ
 
 ### How many days do you need for Hokkaido?

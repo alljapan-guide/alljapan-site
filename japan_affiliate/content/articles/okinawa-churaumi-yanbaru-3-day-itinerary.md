@@ -87,6 +87,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
 ## FAQ
 
 ### How many days do you need in northern Okinawa?

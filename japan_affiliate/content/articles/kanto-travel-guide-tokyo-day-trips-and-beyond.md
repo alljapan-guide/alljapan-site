@@ -91,6 +91,8 @@ For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen 
 
 If you want one plan that links Tokyo with Kyoto and Osaka, see our [7-day Tokyo, Kyoto and Osaka itinerary](tokyo-kyoto-osaka-7-day-itinerary.html). Many Kanto trips include a hot spring, and our [onsen etiquette guide](japan-onsen-etiquette.html) explains the rules before you go.
 
+If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

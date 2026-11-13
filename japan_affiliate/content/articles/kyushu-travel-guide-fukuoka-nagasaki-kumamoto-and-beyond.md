@@ -99,6 +99,8 @@ For the four main ramen types, regional styles and how to use a ticket machine, 
 
 Hot springs are a main reason to visit Kyushu, so read our [onsen etiquette guide](japan-onsen-etiquette.html) before you go.
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
 ## FAQ
 
 ### How many days do you need for Kyushu?

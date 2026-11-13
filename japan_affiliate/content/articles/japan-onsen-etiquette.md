@@ -110,6 +110,8 @@ If you are planning a wider trip, our [guide to where to stay in Kyoto](where-to
 
 Many onsen are part of a ryokan stay, and our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html) explains how the evening works.
 
+If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
+
 ## FAQ
 
 ### Do I have to be naked in an onsen?

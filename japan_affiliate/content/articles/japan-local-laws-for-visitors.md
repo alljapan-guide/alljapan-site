@@ -88,6 +88,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows a first trip
 
 If you plan to drive, our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html) explains the permit and the road rules.
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
 ## FAQ
 
 ### Do I need to carry my passport in Japan?

@@ -115,6 +115,8 @@ Insurance is one part of preparation. If you are working out connectivity so you
 
 If you decide to buy cover, you can compare travel insurance plans on {{aff:trip_insurance|Trip.com}}. Read what the plan covers, its exclusions and the claim steps before you pay.
 
+If you are worried about earthquakes or typhoons, our [earthquake and typhoon safety guide](earthquake-and-typhoon-safety-for-visitors-in-japan.html) summarises what JNTO advises and how to plan around a storm.
+
 ## FAQ
 
 ### Is travel insurance mandatory for Japan?
