@@ -78,6 +78,8 @@ For where cards work, when cash is still needed and which phone payments work, s
 
 For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
 
+For a closer look at each kind of cheap stay, see our [guide to capsule hotels, minshuku and hostels](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
+
 ## FAQ
 
 ### Is Japan expensive for tourists?

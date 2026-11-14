@@ -95,6 +95,8 @@ If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-
 
 For a quiet forest walk inside Tokyo before or after a day trip, see our [Meiji Jingu guide](meiji-jingu-guide.html).
 
+For the climbing season, trails and hut stays, see our [Mt. Fuji climbing guide](mt-fuji-climbing-guide-for-first-timers.html).
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

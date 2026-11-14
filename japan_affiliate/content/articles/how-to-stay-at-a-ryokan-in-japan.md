@@ -74,6 +74,8 @@ You can compare ryokan and hotels on {{aff:booking|Booking.com}}, and you can lo
 
 For where cards work, when cash is still needed and which phone payments work, see our [guide to cash, cards and cashless payments](cash-cards-and-cashless-payments-in-japan.html).
 
+For cheaper alternatives such as minshuku and pensions, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
+
 ## FAQ
 
 ### What is a ryokan?

@@ -137,6 +137,8 @@ For the whole region at a glance, including day trips and longer Kansai routes, 
 
 For a traditional inn, our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html) explains what to expect and how to book.
 
+For capsule hotels, guesthouses and temple stays, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
+
 ## FAQ
 
 ### What is the best area to stay in Kyoto for first-timers?

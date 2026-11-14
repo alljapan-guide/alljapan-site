@@ -95,6 +95,8 @@ If you are worried about earthquakes or typhoons, our [earthquake and typhoon sa
 
 If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
 
+For the short climbing season on Mt. Fuji, see our [climbing guide](mt-fuji-climbing-guide-for-first-timers.html).
+
 ## FAQ
 
 ### What is the best season to visit Japan?

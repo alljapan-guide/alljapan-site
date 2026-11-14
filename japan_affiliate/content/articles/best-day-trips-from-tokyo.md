@@ -79,6 +79,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
 
+For a climb rather than a view, see our [Mt. Fuji climbing guide](mt-fuji-climbing-guide-for-first-timers.html), which explains why a day climb is not recommended.
+
 ## FAQ
 
 ### Which day trip from Tokyo is the easiest?

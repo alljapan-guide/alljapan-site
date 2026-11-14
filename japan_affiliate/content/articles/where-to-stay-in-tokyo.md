@@ -145,6 +145,8 @@ When you are ready to compare real options, you can filter by area, price and ca
 
 Whichever area you pick, you will rely on trains. Set up a transit card first; our [IC card guide](japan-ic-card-guide.html) explains how. If you will leave Tokyo, read our [rail pass guide](is-japan-rail-pass-worth-it.html) before buying anything, sort out data with our [eSIM vs pocket WiFi comparison](japan-esim-vs-pocket-wifi.html), and see how a base fits into our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html).
 
+For capsule hotels, minshuku and hostels, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
+
 ## FAQ
 
 ### What is the best area to stay in Tokyo for first-timers?

@@ -103,6 +103,8 @@ For the whole region at a glance, including day trips and longer Kansai routes, 
 
 If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
 
+For capsule hotels and business hotels, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
+
 ## FAQ
 
 ### Where should first-time visitors stay in Osaka?
