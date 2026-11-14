@@ -79,6 +79,8 @@ Our [IC card guide](japan-ic-card-guide.html) explains which card to choose and 
 
 For a city trip, take a card for hotels, department stores and restaurants, an IC card for trains and convenience stores, and cash for small shops. For a trip with a countryside leg, add more cash and ask your accommodation about payment first. Our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html) and our [Tohoku travel guide](tohoku-travel-guide-sendai-aizu-aomori-and-beyond.html) show how a city route and a rural route differ.
 
+For small local shops, see our [shotengai souvenir guide](shotengai-souvenir-shopping.html), and for medical costs abroad, see whether [a credit card is enough for travel insurance](is-credit-card-travel-insurance-enough-for-japan.html).
+
 ## FAQ
 
 ### Do I need cash in Japan?

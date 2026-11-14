@@ -3,7 +3,7 @@ title: Is Credit Card Travel Insurance Enough for Japan? What to Check
 slug: is-credit-card-travel-insurance-enough-for-japan
 description: Is credit card cover or home health insurance enough for Japan? What JNTO says to check: cashless treatment, activities, chronic conditions, third parties.
 date: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-14
 cluster: planning
 affiliates: insurance | trip_insurance | trip_esim
 image_queries: credit cards Visa Mastercard | Akihabara electronics shopping district Tokyo
@@ -36,13 +36,16 @@ caption: Questions to ask before you rely on a card or an existing policy
 steps: Does it cover medical treatment in Japan, not only trip cancellation? | Is treatment cashless, or do you pay upfront? | Are your planned activities covered? | Does it cover a chronic condition? | Does it cover damage or injury to third parties? | Do you have the insurer emergency number on your person?
 ```
 
-These come from the JNTO page:
+Our view: do not read your card terms hunting for the word "insurance". Read them for the six answers below. Each row names what a good answer looks like and what should worry you, using the JNTO points.
 
-- **Cashless or upfront.** JNTO says that {{fact:ins_cashless}}. And that {{fact:ins_upfront}}.
-- **Chronic conditions.** JNTO says that {{fact:ins_chronic}}.
-- **Activities.** JNTO says that {{fact:ins_activities}}.
-- **Third parties.** JNTO says to {{fact:ins_third_party}}.
-- **Contact details.** JNTO says to {{fact:ins_contact}}.
+| Question | A good answer | A red flag |
+|---|---|---|
+| Is treatment cashless? | JNTO says that {{fact:ins_cashless}} | You must pay upfront, and JNTO notes that {{fact:ins_upfront}} |
+| Is a chronic condition covered? | The terms say how a chronic disease is handled, since JNTO says that {{fact:ins_chronic}} | The terms are silent, so you cannot tell |
+| Are your activities covered? | Your activity is named, or clearly not excluded | The terms exclude it, and JNTO says that {{fact:ins_activities}} |
+| Are third parties covered? | The terms say so, as JNTO asks you to {{fact:ins_third_party}} | No mention of damage or injury to others |
+| Can you reach the insurer? | You hold a 24-hour number, and JNTO says to {{fact:ins_contact}} | The number sits in an email you cannot open abroad |
+| What does the cover include? | The trip elements you expect, noting that {{fact:ins_transport}} | You assumed something was included without checking |
 
 {{tip|Write the answers down in one place, for example a note on your phone, with the policy number and the emergency number. If you are treated in a hurry, you will not want to search your email for them.}}
 
@@ -54,18 +57,22 @@ Our view: the cost of a single serious treatment is the reason to check, not the
 
 ## A comparison you can do in ten minutes
 
-Our view: put your card cover and any separate policy side by side, and score each against the same questions.
+Our view: score the card and any separate policy on the same six rows, then compare totals. This is our own method, not an official one.
 
-| Question | Card cover | Separate policy |
+- **2 points** if you can point to the written answer in the card or policy documents.
+- **1 point** if it seems likely but you cannot find the wording.
+- **0 points** if the answer is no, or you do not know.
+
+| Row | Card cover (0, 1 or 2) | Separate policy (0, 1 or 2) |
 |---|---|---|
-| Pays for treatment in Japan | check the card terms | check the policy terms |
-| Cashless service | check | check |
-| Covers your activities | check | check |
-| Covers a chronic condition | check | check |
-| Third-party liability | check | check |
-| 24-hour contact number | check | check |
+| Pays for treatment in Japan | | |
+| Cashless service | | |
+| Covers your activities | | |
+| Covers a chronic condition | | |
+| Third-party liability | | |
+| 24-hour contact number | | |
 
-If the card column has "I do not know" in more than one row, you have a reason to buy a separate policy, or at least to speak to your card provider before you travel.
+How to read it, as a rough guide of ours: a card that scores 10 or more out of 12 with written answers may be a reasonable base. A card below 8, or with a 0 on cashless service or your activities, is a reason to compare a separate policy or call your card provider before you travel.
 
 {{warn|JNTO says that {{fact:ins_unpaid}}. Do not leave Japan with an unpaid medical bill, and keep every receipt. Our [unpaid bills guide](unpaid-medical-bills-japan-entry-refused.html) explains this in detail.}}
 
@@ -80,6 +87,29 @@ Our view: a separate policy is worth comparing if any of these apply to you.
 5. You would struggle to pay a large bill upfront.
 
 If you decide to compare plans, you can look at {{aff:trip_insurance|travel insurance on Trip.com}} or {{aff:insurance|another travel insurance provider}}. Read what the plan covers, its exclusions and the claim steps before you pay.
+
+## Which situation are you in?
+
+Our view: the same card can be enough for one trip and not for another. This table is our own shortcut built on the JNTO points above.
+
+| Your trip | A card may be a reasonable base if | Compare a separate policy if |
+|---|---|---|
+| City break, no activities | You can show the treatment and cashless answers in writing | You cannot confirm that treatment in Japan is covered |
+| Hiking, skiing or cycling | Your activity is named as covered | The terms exclude it, or are silent |
+| You have a chronic condition | The terms say how it is handled | The terms are silent |
+| You travel with children or older relatives | Everyone is named in the cover | Only the card holder is covered, or you cannot tell |
+| You would struggle to pay a large bill upfront | Treatment is cashless | You would have to pay first and claim later |
+| Long trip with several countries | Each leg is covered | Some legs or transport are not covered |
+
+Last reviewed on 14 November 2026 against the JNTO page cited in this guide.
+
+## Common mistakes
+
+- **Counting home health insurance as travel cover.** JNTO says that {{fact:ins_not_health}}.
+- **Never asking whether treatment is cashless.** The answer decides whether you pay first.
+- **Not saving the emergency number.** JNTO says to keep it on your person.
+- **Assuming transport is included.** JNTO notes that some policies cover transport from home to the airport, while others do not.
+- **Throwing away receipts.** JNTO warns that {{fact:ins_unpaid}}, so keep every receipt and contact your insurer promptly.
 
 ## What to do next
 
@@ -108,3 +138,15 @@ JNTO says some insurers may require you to pay upfront, and some clinics do not 
 ### Are dangerous activities covered?
 
 JNTO says some particularly dangerous activities may not be covered, so check your policy for your planned activities.
+
+### What if my cover only pays after I return home?
+
+JNTO says some insurers may require you to pay upfront, and that some clinics do not accept credit cards. Plan for how you would pay at the clinic before you travel.
+
+### Does a policy cover flights or transport to the airport?
+
+JNTO says some policies cover round-trip flights or transport from your home to the airport, while others do not, so check the wording.
+
+### What should I carry with me?
+
+JNTO says to know how to contact your insurance provider and to keep their emergency phone number on your person.

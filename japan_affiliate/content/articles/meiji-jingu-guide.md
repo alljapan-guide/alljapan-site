@@ -3,7 +3,7 @@ title: Meiji Jingu: Tokyo's Forest Shrine and How to Visit
 slug: meiji-jingu-guide
 description: How to reach Meiji Jingu from Harajuku, what the forest shrine honours, what to see in the Inner Garden and when festivals and New Year crowds fall, using JNTO.
 date: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-14
 cluster: itineraries
 affiliates: klook | viator | trip_tokyo_things
 image_queries: Meiji Jingu torii gate Tokyo | Meiji Jingu main hall Tokyo | Meiji Jingu sake barrels | Meiji Jingu Inner Garden iris
@@ -56,6 +56,28 @@ Our view: the Inner Garden and museum suit a second visit or a slower morning. I
 
 {{photo:4|The Inner Garden at Meiji Jingu}}
 
+## Which kind of visit fits you?
+
+Our view: the JNTO page gives you the building blocks, and the table below turns them into a choice. It is our own shortcut, not a ranking, and each row rests on the JNTO point shown.
+
+| Your situation | Suggested visit | JNTO point behind it |
+|---|---|---|
+| First shrine visit, just arrived in Tokyo | Walk in, do the shrine routine at the main sanctuary | JNTO calls it a great destination for a first shrine visit |
+| Short on time | Forest walk and the main sanctuary only | The shrine is a 10-minute walk from either station |
+| You like gardens | Add the Inner Garden | It has iris flower beds and a classic tea house, and requires an entrance fee |
+| You like history | Add the museum | It holds articles used by Emperor Meiji and Empress Shoken |
+| Late April to early May | Expect the Spring Grand Festival | Ceremonial music and dances are held |
+| New Year | Plan access in advance, or choose another day | Nearly three million visitors swarm the area |
+| Shibuya or Harajuku already on your list | Shrine first, then the district | JNTO says the walk pairs well with a bustling district |
+
+Last reviewed on 14 November 2026 against the JNTO page cited in this guide.
+
+```diagram
+type: flow
+caption: Our suggested way to size your visit
+steps: How much time do you have? | Short: forest walk and main sanctuary | Longer: add the Inner Garden or the museum | Half a day: finish in Harajuku or Yoyogi Park | Check festival and New Year dates before you set off
+```
+
 ## A simple plan for a morning visit
 
 Our view: this order works well for a first visit, using only what the JNTO page describes.
@@ -86,6 +108,28 @@ You can look at guided walking tours of Tokyo on {{aff:klook|Klook}}, {{aff:viat
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+## Common mistakes
+
+Our view: these are the slips the JNTO facts point to, and each is easy to avoid.
+
+- **Treating the walk in as dead time.** JNTO says the quiet walk to the main sanctuary is what pairs with a busy day in Shibuya or Harajuku, so give it room rather than rushing through.
+- **Arriving at New Year without a plan.** JNTO's figure for New Year Day is nearly three million visitors, so check access first or pick another day.
+- **Assuming the whole site is free.** JNTO says the Inner Garden requires an entrance fee, so check the current details before you queue.
+- **Skipping the signs.** JNTO says there is plenty of English signage for the rituals, so read it instead of copying the person in front.
+- **Crowding a ceremony.** JNTO notes that a traditional Shinto wedding may be happening when there is no other ritual. Keep a respectful distance and ask before you photograph.
+- **Visiting during the Spring Grand Festival and expecting a quiet forest.** If calm is the goal, choose a weekday morning outside the festival dates.
+
+## Where to go next
+
+| If you want to... | Read |
+|---|---|
+| Learn the shrine routine step by step | [Shinto shrine etiquette](shinto-shrine-etiquette.html) |
+| Pair the shrine with a full cultural day | [A cultural day in Tokyo](tokyo-one-day-cultural-itinerary.html) |
+| Add Asakusa and the old town | [Tokyo traditional and contemporary itinerary](tokyo-traditional-and-contemporary-itinerary.html) |
+| See other famous shrines | [Famous shrines in Japan](famous-shrines-in-japan.html) |
+| Choose a base in Tokyo | [Where to stay in Tokyo](where-to-stay-in-tokyo.html) |
+| Plan day trips beyond the city | [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html) |
+
 ## FAQ
 
 ### How do I get to Meiji Jingu?
@@ -107,3 +151,15 @@ JNTO says the Inner Garden requires an entrance fee. Check the current details o
 ### When is the busiest time?
 
 JNTO says nearly three million visitors swarm the area on New Year's Day, and there is a Spring Grand Festival from late April to early May.
+
+### Is Meiji Jingu a good first shrine to visit?
+
+JNTO calls it a great destination for your first shrine visit if you have just arrived in Tokyo.
+
+### Is there English signage?
+
+JNTO says there is plenty of English signage to help you take part in the traditional Shinto rituals.
+
+### Can I combine it with Harajuku or Shibuya?
+
+Yes. JNTO says any trip to bustling Shibuya or Harajuku pairs well with a quiet walk to the main sanctuary, and that Yoyogi Park next to the shrine hosts modern festivals, food fairs and performances throughout the year.

@@ -93,6 +93,8 @@ If you want one plan that links Tokyo with Kyoto and Osaka, see our [7-day Tokyo
 
 If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
 
+For a quiet forest walk inside Tokyo before or after a day trip, see our [Meiji Jingu guide](meiji-jingu-guide.html).
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

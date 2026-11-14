@@ -92,6 +92,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how a Tokyo 
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+If you want a quieter shrine walk to pair with this route, see our [Meiji Jingu guide](meiji-jingu-guide.html).
+
 ## FAQ
 
 ### Is one day enough for Tokyo?

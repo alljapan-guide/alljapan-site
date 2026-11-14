@@ -73,6 +73,8 @@ The airport is not the only choice. If you are visiting a region known for a loc
 
 For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
 
+For gifts tied to one street, see our [shotengai souvenir guide](shotengai-souvenir-shopping.html).
+
 ## FAQ
 
 ### Can I buy souvenirs at the airport in Japan?
