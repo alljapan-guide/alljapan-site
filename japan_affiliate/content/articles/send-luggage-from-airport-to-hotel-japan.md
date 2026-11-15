@@ -77,6 +77,8 @@ Our view: arrival day goes better when you decide three things in advance: how t
 
 For how the new tax-free refund method works at departure, see our [tax-free shopping guide](tax-free-shopping-in-japan-refund-method.html).
 
+For the trains, buses and taxis you can use if you carry your bags yourself, see [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html).
+
 ## FAQ
 
 ### Can I send my luggage from the airport to my hotel in Japan?

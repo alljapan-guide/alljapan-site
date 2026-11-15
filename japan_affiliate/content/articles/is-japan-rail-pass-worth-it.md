@@ -87,6 +87,8 @@ Other options worth pricing for your dates:
 
 Pair this with our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html), set up local transport with our [IC card guide](japan-ic-card-guide.html), and sort out mobile data with our [eSIM vs pocket WiFi comparison](japan-esim-vs-pocket-wifi.html).
 
+For which airport trains a pass covers into Tokyo, see [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html).
+
 ## FAQ
 
 ### Is the Japan Rail Pass cheaper than buying individual tickets?

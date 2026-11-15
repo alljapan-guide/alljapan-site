@@ -76,6 +76,8 @@ If you want a guided shopping or culture day rather than choosing a store yourse
 
 {{warn|The rules are set by the Japanese authorities and can change. JNTO links the official Japan Tourism Agency, National Tax Agency and Customs pages for the full details, so check them before a large purchase.}}
 
+If you buy figures, games or manga, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html) for where to shop.
+
 ## FAQ
 
 ### How does tax-free shopping work in Japan now?

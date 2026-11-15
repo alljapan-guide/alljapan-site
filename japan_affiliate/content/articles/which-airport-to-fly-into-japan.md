@@ -84,6 +84,8 @@ If your plans include a visa or entry paperwork, see our [visa and entry guide](
 
 For mobile data on arrival, you can compare Japan eSIM and SIM options on {{aff:trip_esim|Trip.com}}. Check that your phone supports eSIM first.
 
+Once you know the airport, our guide explains the way into the city: [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html).
+
 ## FAQ
 
 ### Which airport is closest to Tokyo?

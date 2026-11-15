@@ -99,6 +99,8 @@ For the climbing season, trails and hut stays, see our [Mt. Fuji climbing guide]
 
 For slower Tokyo days, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html) and [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html).
 
+For the way in from Tokyo's airports, see [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html); for anime and game districts, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

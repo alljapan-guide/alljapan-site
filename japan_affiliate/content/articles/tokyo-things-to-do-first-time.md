@@ -87,6 +87,8 @@ For the four main ramen types, regional styles and how to use a ticket machine, 
 
 For hands-on days and market streets, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html) and [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html); if you want a guide, see [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
 
+For your first day after landing, see [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html); for anime, manga and games, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+
 ## FAQ
 
 ### What are the top things to do in Tokyo for a first-timer?

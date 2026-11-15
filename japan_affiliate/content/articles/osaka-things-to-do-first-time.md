@@ -96,6 +96,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
 
+For a pop culture theme park day and anime districts in Tokyo, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+
 ## FAQ
 
 ### How many days do I need in Osaka?

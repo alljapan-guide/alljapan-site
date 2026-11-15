@@ -113,6 +113,8 @@ If you want a guided food walk or a workshop in Asakusa, you can compare options
 
 Last reviewed on 15 November 2026 against the JNTO pages cited in this guide.
 
+For another shopping day in the same city, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+
 ## FAQ
 
 ### How long should you spend on the downtown shopping route?

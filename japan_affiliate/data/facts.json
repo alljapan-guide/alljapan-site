@@ -28327,5 +28327,789 @@
    "mt-fuji-climbing-guide-for-first-timers"
   ],
   "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_dist",
+  "text": "Narita Airport is about 60 kilometers east of central Tokyo in Chiba Prefecture",
+  "claim": "Narita distance",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "about 60 kilometers east of central Tokyo in Chiba Prefecture"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_terms",
+  "text": "most international flights go through Terminal 1 and Terminal 2, and most low cost carriers use Terminal 3",
+  "claim": "Narita terminals",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "Most international flights go through Terminal 1 and Terminal 2",
+   "Most Low Cost Carriers (LCC) use Terminal 3"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nex_freq",
+  "text": "the Narita Express runs about twice an hour during the day between the airport and major urban destinations",
+  "claim": "N'EX frequency",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "runs about twice an hour during the day"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nex_tokyo",
+  "text": "the Narita Express will get you to Tokyo Station in just under an hour",
+  "claim": "N'EX to Tokyo Station",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "get you to Tokyo Station in just under an hour"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nex_pass",
+  "text": "if you hold a Japan Rail Pass, your Narita Express ticket is issued free of charge",
+  "claim": "N'EX and JR Pass",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "If you hold a Japan Rail Pass, your Narita Express ticket is issued free of charge"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nex_buy",
+  "text": "you can buy Narita Express tickets at the JR ticket window on the underground floor below the arrival area",
+  "claim": "Where to buy N'EX tickets",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "You can buy tickets at the JR ticket window on the underground floor below the arrival area"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_sky",
+  "text": "the Keisei Skyliner is convenient for the north of Tokyo, reaching Nippori and Ueno in around 40 minutes",
+  "claim": "Skyliner",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "reaching Nippori and Ueno in around 40 minutes"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_sky_pass",
+  "text": "the Keisei Skyliner is not a JR-run service, so Japan Rail Passes cannot be used",
+  "claim": "Skyliner and JR Pass",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "Japan Rail Passes cannot be used"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_bus",
+  "text": "Keisei and Airport Limousine buses pick up at each terminal, a good option if you have a lot of luggage",
+  "claim": "Narita buses",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "Keisei and Airport Limousine buses pick up at each terminal",
+   "good option if you have a lot of luggage"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_bus_tix",
+  "text": "bus tickets are sold at the bus tickets counter in the arrivals hall",
+  "claim": "Narita bus tickets",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "You can buy tickets at the bus tickets counter in the arrivals hall"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_taxi",
+  "text": "flat-rate taxi fares are available to most central destinations, though a taxi is more expensive than other options",
+  "claim": "Narita taxi",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "Flat-rate taxi fares are available to most central destinations",
+   "more expensive than other options"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_taxi_grp",
+  "text": "a taxi can be a reasonable choice if you are in a group",
+  "claim": "Narita taxi for groups",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "can be a reasonable choice if you are in a group"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_last",
+  "text": "the last Narita Express train departs the airport before 10 p.m.",
+  "claim": "Narita last N'EX",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "the last train departs the airport before 10 p.m."
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_sky_hours",
+  "text": "the first Keisei Skyliner arrives around 6:20 a.m. and the last one departs around 11:00 p.m.",
+  "claim": "Skyliner hours",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "The first Keisei Skyliner arrives around 6:20 a.m. and the last one departs around 11:00 p.m."
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_hotel",
+  "text": "the closest hotel for international flights is a capsule hotel connected directly to Terminal 2",
+  "claim": "Narita airport hotel",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "a capsule hotel which is connected directly to Terminal 2"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_sim",
+  "text": "you can get a prepaid SIM card or rent a pocket Wi-Fi device from the counters in the arrival areas in all terminals",
+  "claim": "Narita SIM",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "You can get a prepaid SIM card or rent a pocket Wi-Fi device from the counters in the arrival areas in all terminals"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_nrt_atm",
+  "text": "you can withdraw Japanese yen with an overseas issued card at Seven Bank ATMs in each terminal",
+  "claim": "Narita ATM",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "Seven Bank ATMs in each terminal"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_close",
+  "text": "Haneda is the closest airport to Tokyo, around 30 minutes by train from the center of Tokyo",
+  "claim": "Haneda distance",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "is the closest airport to Tokyo",
+   "around 30 minutes by train from the center of Tokyo"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_terms",
+  "text": "Terminal 3 is the international terminal, and free shuttle buses connect the three terminals",
+  "claim": "Haneda terminals",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "Terminal 3 is the international terminal",
+   "Free shuttle buses take you between the three terminals"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_links",
+  "text": "all three terminals have direct links to train and monorail services into Tokyo",
+  "claim": "Haneda rail links",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "All three terminals have direct links to train and monorail services into Tokyo"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_keikyu",
+  "text": "you can take the Keikyu Line directly from any of the three terminals to Shinagawa Station, a ride of around 20 minutes",
+  "claim": "Haneda Keikyu",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "take the Keikyu Line directly from any of the three terminals",
+   "The ride is around 20 minutes"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_mono",
+  "text": "the Tokyo Monorail connects all three terminals to Hamamatsucho Station in around 20 minutes",
+  "claim": "Haneda monorail",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "connects all three terminals to Hamamatsucho Station in around 20 minutes"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_yama",
+  "text": "from Hamamatsucho Station you can transfer to the Yamanote Line for central Tokyo destinations",
+  "claim": "Haneda monorail transfer",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "you can transfer to the Yamanote Line for destinations in central Tokyo"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_bus",
+  "text": "Keikyu Limousine and Airport Limousine buses pick up at each terminal, a good option if you have a lot of luggage",
+  "claim": "Haneda buses",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "Keikyu Limousine and Airport Limousine buses pick up at each terminal",
+   "good option if you have a lot of luggage"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_taxi",
+  "text": "flat-rate taxi fares are available to most central destinations from Haneda",
+  "claim": "Haneda taxi",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "Flat-rate taxi fares are available to most central destinations"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_late",
+  "text": "the earliest train to Haneda arrives a little after 5 a.m. and the last train departs around midnight",
+  "claim": "Haneda train hours",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "The earliest train to Haneda arrives a little after 5 a.m. and the last train departs around midnight"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_bus_late",
+  "text": "the earliest Airport Limousine bus arrives at Haneda at 4:25 a.m. and the last bus leaves at 2:20 a.m., with limited stops",
+  "claim": "Haneda bus hours",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "The earliest Airport Limousine bus arrives at the airport at 4:25 a.m. and the last bus leaves Haneda at 2:20 a.m., with limited stops"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_to_nrt",
+  "text": "between Haneda and Narita the Keisei or Keikyu express takes around 1 hour 45 minutes",
+  "claim": "Haneda to Narita",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "It takes around 1 hour 45 minutes"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_hotel",
+  "text": "the Royal Park Hotel Tokyo Haneda is connected directly to the departure lobby of Terminal 3",
+  "claim": "Haneda airport hotel",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "connected directly to the Departure Lobby of Terminal 3"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "nh_hnd_sim",
+  "text": "you can buy a prepaid SIM card from vending machines and convenience stores in the arrivals area at Terminal 3",
+  "claim": "Haneda SIM",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "You can buy a prepaid SIM card from vending machines and convenience stores in the arrivals area at Terminal 3"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_intro",
+  "text": "Akihabara, once all about gadgets and the latest electronics, is now an even mix of electrical goods megastores, maid cafes and all things anime",
+  "claim": "Akihabara today",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "Once all about gadgets and the latest electronics, Akihabara is now an even mix of electrical goods megastores, maid cafes and all things anime"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_access",
+  "text": "Akihabara Station is on the JR Yamanote and JR Sobu lines",
+  "claim": "Akihabara station",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "Akihabara Station is on the JR Yamanote and JR Sobu lines"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_access2",
+  "text": "it can also be reached by the Keihin Tohoku Line, the TX Tsukuba Express and the Tokyo Metro Hibiya Line",
+  "claim": "Akihabara other lines",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "Keihin Tohoku Line, TX Tsukuba Express, and Tokyo Metro Hibiya Line"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_name",
+  "text": "Akihabara got its nickname Electric Town from the black market that sprouted there after WWII",
+  "claim": "Akihabara history",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "got its nickname Electric Town from the black market that sprouted there after WWII"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_alleys",
+  "text": "the alleys and small shops of the old Akihabara still remain in arcades like Radio Kaikan",
+  "claim": "Old Akihabara",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "in arcades like Radio Kaikan"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_otaku",
+  "text": "otaku is more of a cultural identity that self-proclaimed sorts assume with pride",
+  "claim": "Otaku meaning",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "more of a cultural identity that self-proclaimed sorts assume with pride"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_potato",
+  "text": "Super Potato is a famous video game store that epitomizes the otaku lifestyle",
+  "claim": "Super Potato",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "Super Potato is a famous video game store that epitomizes the otaku lifestyle"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_potato_fl",
+  "text": "Super Potato has retro games over three floors, plus a game arcade with games from the 1980s and 1990s",
+  "claim": "Super Potato floors",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "retro games over three floors",
+   "games from the 1980s and 1990s"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_maid",
+  "text": "maid cafes are essentially cosplay restaurants where waitresses dressed as maids serve visitors",
+  "claim": "Maid cafes",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "which are essentially cosplay restaurants where waitresses dressed as maids serve"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_animal",
+  "text": "Akihabara also has animal cafes where you can hang out with owls, cats, otters, rabbits or hedgehogs, and anime cafes such as one themed on the Gundam series",
+  "claim": "Other cafes",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "animal cafes where you can hang out with owls, cats, otters, rabbits or hedgehogs",
+   "anime cafes, like one themed on the Gundam series"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_2k540",
+  "text": "the 2k540 Aki-Oka Artisan sits beneath the JR Yamanote Line tracks between Akihabara and Okachimachi stations",
+  "claim": "2k540",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "beneath the JR Yamanote Line tracks running between Akihabara and Okachimachi stations"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_2k540_goods",
+  "text": "2k540 sells artisan crafts from across Japan, including textiles, pottery, furniture, stationery, clothing and hats",
+  "claim": "2k540 goods",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "artisan crafts from across Japan",
+   "textiles, pottery, furniture, stationery, clothing and even hats"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "ak_allday",
+  "text": "people tend to spend a long time in Akiba, often all day, so there is an abundance of food options",
+  "claim": "Akihabara food",
+  "source_name": "JNTO: Akihabara",
+  "source_url": "https://www.japan.travel/en/spot/2178/",
+  "must_contain": [
+   "often all day",
+   "an abundance of food options for shoppers and otaku alike"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_akiba",
+  "text": "JNTO recommends Akihabara for all anime and manga fans, especially action-packed series aimed at male audiences like shounen and seinen",
+  "claim": "Akihabara for fans",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "We recommend Akihabara for all anime and manga fans, especially action-packed series aimed at male audiences like shounen and seinen"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_nakano",
+  "text": "for goods from older series, head to Nakano Broadway, a famous shopping complex with dozens of anime stores",
+  "claim": "Nakano Broadway",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "head to Nakano Broadway which is a famous shopping complex with dozens of anime stores"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_ikebukuro",
+  "text": "Ikebukuro has a wide assortment of anime shops",
+  "claim": "Ikebukuro",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "Ikebukuro with its wide assortment of anime shops"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_otome",
+  "text": "Otome Road in Ikebukuro suits people more interested in goods from the romantic shoujo series",
+  "claim": "Otome Road",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "to people more interested in goods from the romantic shoujo series"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_pokemon",
+  "text": "Pokemon fans can visit one of the many Pokemon Centers across Japan",
+  "claim": "Pokemon Centers",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "need to visit at least one of the many Pok"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_bookoff",
+  "text": "the second-hand chain Book-Off is worth a try for manga in particular",
+  "claim": "Book-Off",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "second-hand chain Book-Off a chance, for manga in particular"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_godzilla",
+  "text": "the famous Godzilla peeks from behind Hotel Gracery in Shinjuku Kabukicho",
+  "claim": "Godzilla head",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "famous Godzilla peeking from behind Hotel Gracery"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_snw",
+  "text": "Super Nintendo World is part of Universal Studios Japan in Osaka, and JNTO says to set aside a whole day for the park",
+  "claim": "Super Nintendo World",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "Super Nintendo World in Osaka",
+   "Make sure to set aside a whole day for this park"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_nijigen",
+  "text": "Nijigen no Mori theme park is on Awaji Island, just outside Kobe, with a section devoted to Naruto and Boruto",
+  "claim": "Nijigen no Mori",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "Located on Awaji Island, just outside of Kobe",
+   "Nijigen no Mori Theme Park"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_manhole",
+  "text": "you can find special Pokemon manhole covers in places such as Ojiya City in Niigata",
+  "claim": "Pokemon manholes",
+  "source_name": "JNTO blog: The Pop Culture Fan Guide to Japan",
+  "source_url": "https://www.japan.travel/en/uk/inspiration/pop-culture-guide/",
+  "must_contain": [
+   "special Pok",
+   "manhole covers"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_nrt_anime",
+  "text": "Narita Anime Deck in Terminal 2 sells items related to popular animation characters and has an entertainment cafe",
+  "claim": "Narita Anime Deck",
+  "source_name": "JNTO: Narita Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/narita-airport/",
+  "must_contain": [
+   "Narita Anime Deck in Terminal 2 sells items related to popular animation characters and has an entertainment cafe"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
+ },
+ {
+  "id": "pc_hnd_pop",
+  "text": "Tokyo Pop Town, on the fifth floor of Haneda Terminal 3, has popular cartoon characters and toys",
+  "claim": "Tokyo Pop Town",
+  "source_name": "JNTO: Haneda Airport",
+  "source_url": "https://www.japan.travel/en/plan/airport-access/haneda-airport/",
+  "must_contain": [
+   "Tokyo Pop Town, on the fifth floor, has popular cartoon characters and toys"
+  ],
+  "topics": [
+   "akihabara-and-anime-pop-culture-guide-tokyo"
+  ],
+  "verified_on": "2026-11-15"
  }
 ]

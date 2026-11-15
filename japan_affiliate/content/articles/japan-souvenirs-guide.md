@@ -77,6 +77,8 @@ For gifts tied to one street, see our [shotengai souvenir guide](shotengai-souve
 
 For a day of buying souvenirs on old market streets, see [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html).
 
+For anime, manga and game goods, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+
 ## FAQ
 
 ### Can I buy souvenirs at the airport in Japan?

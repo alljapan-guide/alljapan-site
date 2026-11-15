@@ -82,6 +82,8 @@ If you are using a phone for tickets and navigation, our [IC card guide](japan-i
 
 If you choose an eSIM or SIM card, you can compare Japan data options on {{aff:trip_esim|Trip.com}}. Check that your phone supports eSIM and read the plan's data limits and validity before you buy.
 
+For what each Tokyo airport offers on arrival and the routes into the city, see [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html).
+
 ## FAQ
 
 ### Is eSIM better than pocket WiFi in Japan?

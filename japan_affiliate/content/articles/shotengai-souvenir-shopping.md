@@ -120,6 +120,8 @@ For how the new tax-free refund method works at departure, see our [tax-free sho
 
 For a one-day route through three famous shopping streets, see [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html); for a hands-on alternative to buying things, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html).
 
+For a different kind of shopping district, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+
 ## FAQ
 
 ### What is a shotengai?
