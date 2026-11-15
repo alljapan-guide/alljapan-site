@@ -94,6 +94,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 If you want a quieter shrine walk to pair with this route, see our [Meiji Jingu guide](meiji-jingu-guide.html).
 
+Two more Tokyo days built from JNTO routes: [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html) and [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html).
+
 ## FAQ
 
 ### Is one day enough for Tokyo?

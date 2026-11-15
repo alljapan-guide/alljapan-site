@@ -96,6 +96,8 @@ For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen 
 
 If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
 
+For a guided walk through Nara, our booking guide explains the organizations and what to confirm: [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
+
 ## FAQ
 
 ### How long does it take to get to Nara from Kyoto?

@@ -97,6 +97,8 @@ For a quiet forest walk inside Tokyo before or after a day trip, see our [Meiji 
 
 For the climbing season, trails and hut stays, see our [Mt. Fuji climbing guide](mt-fuji-climbing-guide-for-first-timers.html).
 
+For slower Tokyo days, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html) and [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html).
+
 ## FAQ
 
 ### What is the best day trip from Tokyo?

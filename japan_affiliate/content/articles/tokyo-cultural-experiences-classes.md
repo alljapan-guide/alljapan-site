@@ -3,7 +3,7 @@ title: Cultural Experiences in Tokyo: Sushi, Glass, Origami and More
 slug: tokyo-cultural-experiences-classes
 description: A one-day Tokyo hands-on itinerary from JNTO: a sushi class, furin glass chimes, origami, bonsai and calligraphy, with the train links between each class.
 date: 2026-11-06
-updated: 2026-11-06
+updated: 2026-11-15
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: Nigiri sushi chef Japan | Furin Japanese wind chime | Origami crane paper folding | Bonsai
@@ -68,6 +68,24 @@ For the fourth stop, JNTO says that {{fact:tcx_bonsai}}. On getting there, {{fac
 
 JNTO ends with brushwork: {{fact:tcx_calligraphy}}.
 
+## Which class fits you
+
+Our view: JNTO lists five classes, but they suit different travellers. The table turns the JNTO stops into a choice. Check each class's own page for the current schedule, language and age limits.
+
+| Class | Best for | Booking note | Fits with |
+|---|---|---|---|
+| Sushi | Food lovers, families and beginners | JNTO says it suits all ages and beginners are welcome; tell the class about dietary restrictions | A natural first class and lunch |
+| Furin glass chimes | Anyone who wants a handmade object to take home | You shape or paint small bulb-shaped glass chimes | Close to the origami stop in JNTO's route |
+| Origami | Paper craft fans and all levels | JNTO says classes run on an irregular basis, so check the schedule first | Book this one first, then fit others around it |
+| Bonsai | Plant lovers who like a slower pace | The furthest stop from the central route, with a bus connection | A second visit, or swap it for a closer class |
+| Calligraphy | People who like writing and history | You learn about the history and create your own pieces | A second-day partner for bonsai |
+
+```diagram
+type: cards
+caption: How many classes to book, by the time you have
+items: One class=Choose sushi | Two classes=Add the furin workshop | Three classes=Add origami, if the schedule allows | A second day=Bonsai and calligraphy
+```
+
 ## How to build the day
 
 Our view: choose two or three classes that sit close together on the route and give each a realistic window. Start with the sushi class, since it is a natural lunch, and then take the furin and origami classes in the afternoon, which keeps you on the central side of the city. Keep bonsai and calligraphy for a second day or a second visit if you want a slower pace. Between classes, leave time for the train, a short break and any delay at the studio.
@@ -92,6 +110,19 @@ Our [one-day cultural itinerary](tokyo-one-day-cultural-itinerary.html) and [tra
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+## Common mistakes with classes
+
+Our view: classes are small, so small mistakes cost a whole slot.
+
+- **Trying all five in one day.** JNTO frames the route as a one-day plan, but it works better as a menu of two or three.
+- **Leaving origami until you arrive.** Classes run on an irregular basis, so the schedule decides the rest of the day.
+- **Forgetting the dietary note.** Sushi classes use raw fish and shared ingredients, so say what you cannot eat when you book.
+- **Booking a start time you cannot reach.** Leave time for the train between classes, as JNTO links the stops by rail.
+- **Adding bonsai without checking the travel.** It needs a bus connection, which adds travel time to the day.
+- **Not asking about language.** Ask whether the class is taught in English before you pay.
+
+Last reviewed on 15 November 2026 against the JNTO pages cited in this guide.
+
 ## FAQ
 
 ### How many days does the itinerary take?
@@ -113,3 +144,11 @@ JNTO says Origami Kaikan offers classes on an irregular basis, so check the sche
 ### Is there a calligraphy class?
 
 JNTO lists Udoyoshi Calligraphy, where you can learn about the history and create your own pieces.
+
+### Can I do all five classes in one day?
+
+JNTO frames the route as a one-day itinerary, but our view is to treat it as a menu. Two or three classes leave time for the trains and for a break.
+
+### Do I need a guide for the classes?
+
+You do not need one, but check whether the class is taught in English. If it is not, ask the studio whether an interpreter or a translated handout is available. Our [licensed guide booking guide](where-to-book-a-licensed-guide-in-japan.html) explains how to find a guide if you want one.

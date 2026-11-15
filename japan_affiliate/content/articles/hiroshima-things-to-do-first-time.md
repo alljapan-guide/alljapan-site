@@ -94,6 +94,8 @@ For a place to stay, you can compare Hiroshima hotels on {{aff:trip_hiroshima_ho
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+To compare ways of hiring a guide for Hiroshima or Miyajima, see [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Hiroshima?

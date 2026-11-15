@@ -3,7 +3,7 @@ title: Tokyo Downtown Shopping: Ameyoko, Kappabashi and Nakamise in 1 Day
 slug: tokyo-downtown-shopping-ameyoko-nakamise-itinerary
 description: A one-day Tokyo shopping itinerary from JNTO: Ameyoko market, Kappabashi Kitchen Town and Asakusa Nakamise, with what to buy, how to get there and when to go.
 date: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-15
 cluster: shopping
 affiliates: trip_tokyo_things | klook | viator | trip_hotels
 image_queries: Ameyoko Ueno night | Nakamise shutter mural | Senso-ji Asakusa night
@@ -67,6 +67,25 @@ JNTO ends with the temple. It says that {{fact:tds_sensoji}}. And on the shutter
 
 Our view: arriving after the shops close is the best reason to leave Nakamise for last, since you see the murals on the shutters and the temple without the daytime crowd.
 
+## Choose your version of the day
+
+Our view: JNTO gives one route for one day, but the day bends to your time and your luggage. The table shows how to adapt it. Check each stop's own hours before you go.
+
+| Your situation | Do this | Why |
+|---|---|---|
+| A full day, the JNTO order | Ameyoko, then Kappabashi, then Nakamise, then Sensoji | The route follows the short transfers JNTO lists, and ends at the temple in the evening |
+| Half a day, morning | Ameyoko and Kappabashi | Both are street-market stops with stalls and shops to browse |
+| Half a day, afternoon | Nakamise and Sensoji | JNTO suggests seeing Sensoji at night without the crowds, so end the day there |
+| You want to buy a knife or crockery | Visit Kappabashi, note the shop, and decide before you leave the street | Heavy purchases are easier to send ahead than to carry |
+| You travel with children | A morning at Ameyoko and an afternoon at Sensoji | Snacks and stalls keep the day varied |
+| You want fewer crowds | Leave Nakamise for the evening | JNTO describes the night view without the daytime crowd |
+
+```diagram
+type: flow
+caption: Handling heavy purchases on a shopping day
+steps: Walk the street once without buying | Note the shops you liked | Decide what is worth carrying | Ask the shop about packing, and check your airline rules | Send heavy items ahead if needed
+```
+
 ## What to buy, and what to skip
 
 Our view: choose items that you will actually use. Kitchen goods and food-themed gifts from Kappabashi are practical, and snacks from Nakamise are light to carry. Souvenirs sold in many stalls look similar, so compare two or three before you buy. Our [Japan souvenirs guide](japan-souvenirs-guide.html) and our [shopping street guide](shotengai-souvenir-shopping.html) explain what is worth carrying home.
@@ -82,6 +101,17 @@ If you travel with children, a morning at Ameyoko and an afternoon at Sensoji is
 If you want a guided food walk or a workshop in Asakusa, you can compare options on {{aff:trip_tokyo_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}. Read the cancellation terms and the meeting point before you book anything.
 
 {{pick|If you only have half a day, our editorial pick is Kappabashi in the morning and Nakamise with Sensoji in the afternoon. This is our view, based on the short transfers JNTO lists.}}
+
+## Common mistakes on a market day
+
+- **Buying heavy kitchen goods first.** You carry them for the rest of the day. Browse first, then decide.
+- **Reaching Nakamise at the busiest time.** The arcade is crowded in the middle of the day, so leave it for the late afternoon or evening.
+- **Carrying only a large bag.** The stalls are narrow, so a small bag is easier to move through.
+- **Skipping a cash check.** Carry some cash, as the tip above says, and check which stalls take cards.
+- **Not checking the airline rules for a knife.** Ask the shop about packing and read the airline's baggage rules before you buy.
+- **Planning a tight schedule.** The day works best when you can stop for snacks and wander.
+
+Last reviewed on 15 November 2026 against the JNTO pages cited in this guide.
 
 ## FAQ
 
@@ -104,3 +134,11 @@ JNTO says it has 90-odd stalls selling kokeshi dolls, maneki neko figurines, Jap
 ### When is the best time to see Sensoji?
 
 JNTO suggests seeing Sensoji at night without the crowds, when it is beautifully illuminated.
+
+### Can I do the route in half a day?
+
+JNTO's itinerary is a one-day plan. Our view: for half a day, choose Ameyoko and Kappabashi in the morning, or Nakamise and Sensoji in the afternoon.
+
+### Should I buy a knife at Kappabashi?
+
+Our view: only if you will use it, and only after you have read the airline's baggage rules and asked the shop how it packs a knife. Our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to send heavy purchases ahead.

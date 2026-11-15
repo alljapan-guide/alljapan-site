@@ -118,6 +118,8 @@ For how the new tax-free refund method works at departure, see our [tax-free sho
 - **Paying without checking how.** Our view: payment options differ by shop, so read our [cash and cashless guide](cash-cards-and-cashless-payments-in-japan.html) before you go and keep some cash.
 - **Buying heavy items early in a long trip.** Our view: keep bags light, and see our [luggage forwarding guide](japan-luggage-forwarding.html) if you carry a lot.
 
+For a one-day route through three famous shopping streets, see [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html); for a hands-on alternative to buying things, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html).
+
 ## FAQ
 
 ### What is a shotengai?

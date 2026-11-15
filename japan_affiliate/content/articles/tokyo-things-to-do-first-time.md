@@ -85,6 +85,8 @@ For families, our [guide to traveling with children](traveling-to-japan-with-chi
 
 For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
 
+For hands-on days and market streets, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html) and [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html); if you want a guide, see [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
+
 ## FAQ
 
 ### What are the top things to do in Tokyo for a first-timer?

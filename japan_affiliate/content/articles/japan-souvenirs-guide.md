@@ -75,6 +75,8 @@ For how the new tax-free refund method works at departure, see our [tax-free sho
 
 For gifts tied to one street, see our [shotengai souvenir guide](shotengai-souvenir-shopping.html).
 
+For a day of buying souvenirs on old market streets, see [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html).
+
 ## FAQ
 
 ### Can I buy souvenirs at the airport in Japan?

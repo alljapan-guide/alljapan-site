@@ -88,6 +88,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how a Tokyo 
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+To add a hands-on class to your Tokyo days, see [Cultural experiences in Tokyo: classes](tokyo-cultural-experiences-classes.html); for a market day, see [Tokyo downtown shopping: Ameyoko, Kappabashi and Nakamise](tokyo-downtown-shopping-ameyoko-nakamise-itinerary.html).
+
 ## FAQ
 
 ### Is one day enough for Tokyo?

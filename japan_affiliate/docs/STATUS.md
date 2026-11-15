@@ -190,9 +190,9 @@ Audit (120 articles, read-only): every article has a diagram and 5 FAQ items, bu
 | 10 | japan-travel-insurance (second pass) | 228 impressions, crawled-not-indexed example; refreshed 11/12 | only if still not indexed after 2 weeks: reduce overlap with its 5 sibling pages | todo |
 | 11 | japan-opening-hours-and-holidays (second pass) | 196 impressions; refreshed 11/12 | wait and re-check indexing first | todo |
 | 12 | japan-ic-card-guide (second pass) | 64 impressions; refreshed 11/12 | wait and re-check indexing first | todo |
-| 13 | where-to-book-a-licensed-guide-in-japan | 783 words, no table, 1 inbound link | comparison table of booking routes, mistakes, inbound links from the guide and city guides | todo |
-| 14 | tokyo-cultural-experiences-classes | 728 words, no table, 1 inbound link | class-type decision table, booking mistakes, links from Tokyo hub | todo |
-| 15 | tokyo-downtown-shopping-ameyoko-nakamise-itinerary | 730 words, no table, 1 inbound link | route variants table, mistakes, links from Kanto hub and souvenir pages | todo |
+| 13 | where-to-book-a-licensed-guide-in-japan | 783 words, no table, 1 inbound link | comparison table of booking routes, mistakes, inbound links from the guide and city guides | done 2026-11-15 |
+| 14 | tokyo-cultural-experiences-classes | 728 words, no table, 1 inbound link | class-type decision table, booking mistakes, links from Tokyo hub | done 2026-11-15 |
+| 15 | tokyo-downtown-shopping-ameyoko-nakamise-itinerary | 730 words, no table, 1 inbound link | route variants table, mistakes, links from Kanto hub and souvenir pages | done 2026-11-15 |
 | 16 | hiroshima-autumn-2-day-itinerary | 767 words, no table, 1 inbound link | day-swap table, autumn-foliage link, mistakes | todo |
 | 17 | nagoya-one-day-itinerary | 701 words, no table, 1 inbound link | stop-by-stop time table from facts, add-ons, mistakes | todo |
 | 18 | yamanashi-hot-springs-2-day-itinerary | 738 words, no table | onsen-type table, link to onsen etiquette | todo |
@@ -214,3 +214,6 @@ meiji-jingu-guide: seven-row visit decision table with a size-your-visit diagram
 
 ## 2026-11-14 new articles (2)
 Added mt-fuji-climbing-guide-for-first-timers (JNTO Mt. Fuji Climbing Guide: season, four trails table, hut stay vs day climb, the rules listed from 2025, weather, gear, tours; written as a plan for next summer because the season is closed; the fee and dates are flagged as year-dependent) and budget-places-to-stay-in-japan-capsule-minshuku-hostel (JNTO Affordable Lodging and Minshuku and Guesthouses pages: capsule, business, minshuku, pension, hostel, temple stay, decision table; no prices quoted because the JNTO lodging pages are older). 55 new facts, all verified (mf_ 32, ac_ 23). 8 new photos, each viewed on a contact sheet; rejected: a hut on a different mountain (Mt. Kogochi, twice returned for the hut query, so the slot became the Fuji summit crater). Back-links added from 10 existing articles (Fuji Five Lakes, Kanto hub, day trips, weather, the three where-to-stay pages, ryokan, budget tips, Koyasan). Trip.com links: trip_hotels, trip_kyoto_hotels, trip_osaka_hotels, booking, trip_things, trip_insurance. 124 articles.
+
+## 2026-11-15 enhancements (rows 13 to 15)
+Improved where-to-book-a-licensed-guide-in-japan (route comparison table, trip-type cards, mistakes, FAQ), tokyo-cultural-experiences-classes (class decision table, how-many-classes cards, mistakes, FAQ) and tokyo-downtown-shopping-ameyoko-nakamise-itinerary (route-version table, heavy-purchase flow, mistakes, FAQ), with 9 inbound links from related guides. No new facts, no new photos; wording kept to what the earlier JNTO facts support. Next queue rows: 16 hiroshima-autumn-2-day-itinerary, 17 nagoya-one-day-itinerary, 18 yamanashi-hot-springs-2-day-itinerary.

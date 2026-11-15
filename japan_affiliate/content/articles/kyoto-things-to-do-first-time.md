@@ -106,6 +106,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For portable gifts from the market, see our [shotengai souvenir guide](shotengai-souvenir-shopping.html).
 
+If you would rather have someone explain the temples and streets, see our guide: [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
+
 ## FAQ
 
 ### How many days do I need in Kyoto?
