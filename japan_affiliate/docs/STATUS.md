@@ -193,9 +193,9 @@ Audit (120 articles, read-only): every article has a diagram and 5 FAQ items, bu
 | 13 | where-to-book-a-licensed-guide-in-japan | 783 words, no table, 1 inbound link | comparison table of booking routes, mistakes, inbound links from the guide and city guides | done 2026-11-15 |
 | 14 | tokyo-cultural-experiences-classes | 728 words, no table, 1 inbound link | class-type decision table, booking mistakes, links from Tokyo hub | done 2026-11-15 |
 | 15 | tokyo-downtown-shopping-ameyoko-nakamise-itinerary | 730 words, no table, 1 inbound link | route variants table, mistakes, links from Kanto hub and souvenir pages | done 2026-11-15 |
-| 16 | hiroshima-autumn-2-day-itinerary | 767 words, no table, 1 inbound link | day-swap table, autumn-foliage link, mistakes | todo |
-| 17 | nagoya-one-day-itinerary | 701 words, no table, 1 inbound link | stop-by-stop time table from facts, add-ons, mistakes | todo |
-| 18 | yamanashi-hot-springs-2-day-itinerary | 738 words, no table | onsen-type table, link to onsen etiquette | todo |
+| 16 | hiroshima-autumn-2-day-itinerary | 767 words, no table, 1 inbound link | day-swap table, autumn-foliage link, mistakes | done 2026-11-16 |
+| 17 | nagoya-one-day-itinerary | 701 words, no table, 1 inbound link | stop-by-stop time table from facts, add-ons, mistakes | done 2026-11-16 |
+| 18 | yamanashi-hot-springs-2-day-itinerary | 738 words, no table | onsen-type table, link to onsen etiquette | done 2026-11-16 |
 | 19 | niigata-winter-weekend-itinerary | 740 words, no table | winter-plan decision table, mistakes | todo |
 | 20 | shiretoko-peninsula-3-day-itinerary | 751 words, no table | season/transport decision table, mistakes | todo |
 | 21 | accessible-travel-in-japan-wheelchair-guide | 655 words, shortest long-form | checklist table by travel stage, mistakes | todo |
@@ -220,3 +220,6 @@ Improved where-to-book-a-licensed-guide-in-japan (route comparison table, trip-t
 
 ## 2026-11-15 new articles (2)
 Added narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city (JNTO Narita and Haneda airport-access pages; routes, first and last services, choice table; high-intent arrival query; Trip.com airport transfer link) and akihabara-and-anime-pop-culture-guide-tokyo (JNTO Akihabara spot page and the 2021 pop culture blog, flagged as dated in the text; district table, mistakes, one-day plan). 55 new facts, all verified on JNTO pages (35 airport, 20 Akihabara and pop culture). 8 photos, all fetched fresh and reviewed on a contact sheet. Rejected: a dim store passageway as the card photo (swapped for the street view), a close-up of a train interior fitting for the Skyliner, a 1989 Skyliner photo, a 1960s limousine bus. Linked from 11 existing articles. 126 articles.
+
+## 2026-11-16 enhancement batch 4
+Improved hiroshima-autumn-2-day-itinerary, nagoya-one-day-itinerary and yamanashi-hot-springs-2-day-itinerary: a situation decision table, a transfers table built from the verified JNTO figures, a cards diagram, a common-mistakes list, FAQ entries and a Last reviewed line each (no new facts, no new photos). Inbound links added from 11 articles (foliage guide, Itsukushima guide, Hiroshima things to do, momiji manju, both bullet-train guides, Hida Takayama, Golden Route, Hakone, Fuji Five Lakes, best day trips from Tokyo). Queue rows 16 to 18 are done; next in line: niigata-winter-weekend-itinerary, shiretoko-peninsula-3-day-itinerary, accessible-travel-in-japan-wheelchair-guide.

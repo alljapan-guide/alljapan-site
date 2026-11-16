@@ -78,6 +78,8 @@ For the season in general, our [weather by season guide](japan-weather-by-season
 
 {{note|JNTO's page does not give peak dates for these spots. Foliage timing changes each year, and events such as illuminations have their own dates, so check the local tourism page before you plan.}}
 
+For a two-day plan built around the maples of Miyajima, see our [Hiroshima in autumn: a 2-day itinerary](hiroshima-autumn-2-day-itinerary.html).
+
 ## FAQ
 
 ### Which autumn foliage spots does JNTO recommend?

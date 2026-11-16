@@ -3,7 +3,7 @@ title: Hiroshima in Autumn: A 2-Day Itinerary for Miyajima Maple Leaves
 slug: hiroshima-autumn-2-day-itinerary
 description: A 2-day Hiroshima autumn itinerary from JNTO: Miyajima maple leaves, Itsukushima-jinja, Mt. Misen, the Peace Memorial Park, Shukkeien Garden and okonomiyaki.
 date: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-16
 cluster: itineraries
 affiliates: trip_hiroshima_hotels | trip_things | klook | viator
 image_queries: Momijidani Miyajima autumn | Shukkeien Garden Hiroshima | Hiroshima Castle
@@ -83,6 +83,47 @@ For a ride before or after, our [Shimanami Kaido guide](shimanami-kaido-cycling-
 
 Our view: this itinerary suits travellers who want one city with both a famous natural setting and a serious history, and who are happy to walk. It works well as a break between Kyoto or Osaka and Kyushu, because the Shinkansen links all three. The two days balance each other: Miyajima is scenic and busy, while the city is reflective and quieter. If you only have a short stay, do not rush the memorial park, since it is better to see fewer places and give it time. Check the foliage reports and your tide times before you finalise the day order.
 
+## Decision table: which version of the plan fits you
+
+Our view: this table is our own editorial shortcut, built on the JNTO points above. It does not replace the current foliage report, the tide table or the operators' timetables.
+
+| Your situation | What to do | JNTO point behind it |
+|---|---|---|
+| Two days, first visit | Miyajima first, the city second | JNTO plans the island for day 1 and the city for day 2 |
+| One day only | Miyajima in the morning, the Peace Memorial Park late in the day | These are the two stops JNTO puts at the centre of the plan |
+| You want the shrine after the day-trippers leave | Add a night on the island | Several inns and hotels sit on the island, most near the port on the north side |
+| You want to walk out to the gate | Plan the shrine visit around low tide | The grand torii gate is accessible at low tide |
+| You travel in late November | Check the foliage report before you book | Momijidani maples turn red from mid- to late November, and the Maple Leaf Festival is held in late November |
+| You are in Hiroshima on August 6 | Expect a memorial ceremony in the park | A ceremony is held in the Peace Memorial Park on August 6 every year |
+
+## The transfers, side by side
+
+The plan works because the legs between stops are short. These are the figures JNTO gives, so you can see where the day goes.
+
+| Leg | Time JNTO gives |
+|---|---|
+| From Osaka by Shinkansen (Shin-Osaka Station) | 1 hour 25 minutes |
+| JR Sanyo Line to Miyajimaguchi, then the ferry to Miyajima | 50 minutes for the journey |
+| Ferry terminal to the ropeway base and Momijidani Park | A 20-minute walk |
+| Miyajima ferry back to Miyajimaguchi | 10 minutes |
+| JR Sanyo Main Line to Hiroshima Station | 29 minutes |
+
+```diagram
+type: cards
+caption: When the calendar matters on this trip, from the JNTO itinerary
+items: Mid to late November=Momijidani Park maples turn red | Late November=The Maple Leaf Festival is held, when the foliage is at its best | Low tide=The grand torii gate in the bay is accessible | August 6=A memorial ceremony is held in the Peace Memorial Park
+```
+
+## Common mistakes on this route
+
+- **Fixing the shrine time without checking the tide.** JNTO says the grand torii gate is accessible at low tide, so the tide table decides how the gate looks. Look it up before you set the order of your morning.
+- **Booking by date alone in autumn.** JNTO gives mid- to late November for the maples. Our view: treat that as a window, check a current foliage report, and keep a spare day if the weather turns. Our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html) compares other places if the island is past its peak.
+- **Rushing the memorial on day 2.** Our view: give the museum and the park their own block of time, and drop the castle before you cut them short.
+- **Walking everything in the city.** JNTO lists the Hiroden Tram from Hiroshima Station and the Meipuru-pu Bus between the park and Shukkeien Garden. Our view: use them, and save your legs for the island.
+- **Leaving the return to the end.** Check the last ferry and the ropeway's last run on the day, since they set the limit for your afternoon.
+
+Last reviewed on 16 November 2026 against the JNTO pages cited in this guide.
+
 ## Where to stay and what to book
 
 If you want a guided tour or a tea experience, you can compare options on {{aff:trip_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}. For a place to stay, compare Hiroshima hotels on {{aff:trip_hiroshima_hotels|Trip.com}}. Read the cancellation terms before you book anything.
@@ -112,3 +153,19 @@ JNTO suggests okonomiyaki, a hearty hybrid of fried noodles and savory pancake, 
 ### Can you stay overnight on Miyajima?
 
 JNTO says there are several Japanese inns and hotels on Miyajima Island, most near the port area on the north side.
+
+### Can you do Hiroshima as a day trip from Osaka?
+
+JNTO gives 1 hour 25 minutes from Shin-Osaka Station on the Tokaido-Sanyo Shinkansen. Our view: one day only works if you cut the plan down to Miyajima and the Peace Memorial Park.
+
+### When is the Maple Leaf Festival?
+
+JNTO says the Maple Leaf Festival is held in late November, when the foliage is at its best.
+
+### When is the memorial ceremony in Hiroshima?
+
+JNTO says a memorial ceremony is held in Peace Memorial Park on August 6 every year.
+
+### How do you get between the memorial park and Shukkeien Garden?
+
+JNTO says the Meipuru-pu Bus runs from the Hiroshima Peace Memorial Park bus stop to the Shukkeien Garden bus stop.

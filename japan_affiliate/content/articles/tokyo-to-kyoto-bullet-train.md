@@ -80,6 +80,8 @@ If you arrive by air, JNTO says that {{fact:tk2_airports}}. Our [airport guide](
 
 Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where the Tokyo to Kyoto leg fits in the wider route.
 
+If you want to break the journey, our [Nagoya in one day](nagoya-one-day-itinerary.html) shows what you can see between trains.
+
 ## FAQ
 
 ### How do I get from Tokyo to Kyoto?

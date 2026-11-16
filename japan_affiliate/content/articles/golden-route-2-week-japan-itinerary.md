@@ -106,6 +106,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For a shorter version of the same cities, see our [7-day Tokyo, Kyoto and Osaka itinerary](tokyo-kyoto-osaka-7-day-itinerary.html).
 
+If you want to stop at Nagoya between Tokyo and Kyoto, see our [Nagoya in one day](nagoya-one-day-itinerary.html).
+
 ## FAQ
 
 ### How many days does the Golden Route take?

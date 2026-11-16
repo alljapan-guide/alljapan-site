@@ -81,6 +81,8 @@ You can look at guided tours and tickets for the Hiroshima area on {{aff:klook|K
 
 {{pick|If you only buy one thing, our editorial pick is a box of momiji manju from Miyajima, plus a pack of crackers for anyone who does not like sweets. This is our view, based on the JNTO list.}}
 
+The maple leaf that gives momiji manju its name is at its best in autumn; see our [Hiroshima in autumn: a 2-day itinerary](hiroshima-autumn-2-day-itinerary.html).
+
 ## FAQ
 
 ### What is momiji manju?

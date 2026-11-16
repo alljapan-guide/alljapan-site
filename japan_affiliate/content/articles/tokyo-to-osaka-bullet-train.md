@@ -80,6 +80,8 @@ If your route continues to Kyoto, our [7-day itinerary](tokyo-kyoto-osaka-7-day-
 
 {{pick|For a first trip, our editorial pick is to book a seat on the bullet train in advance, plan your hotel around the right Osaka station, and carry only what you need. This is our view, based on the JNTO and JR Central descriptions above.}}
 
+If you want to stop on the way, our [Nagoya in one day](nagoya-one-day-itinerary.html) fits a day between Tokyo and Osaka.
+
 ## FAQ
 
 ### How long does the bullet train from Tokyo to Osaka take?

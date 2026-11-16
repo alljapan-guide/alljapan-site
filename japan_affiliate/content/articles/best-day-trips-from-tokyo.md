@@ -81,6 +81,8 @@ For the whole Tokyo area at a glance, including travel times, day trips and two-
 
 For a climb rather than a view, see our [Mt. Fuji climbing guide](mt-fuji-climbing-guide-for-first-timers.html), which explains why a day climb is not recommended.
 
+For a longer trip with a hot spring night, see our [Yamanashi hot springs: a 2-day trip from Tokyo](yamanashi-hot-springs-2-day-itinerary.html).
+
 ## FAQ
 
 ### Which day trip from Tokyo is the easiest?

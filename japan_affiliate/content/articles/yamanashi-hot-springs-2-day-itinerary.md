@@ -3,7 +3,7 @@ title: Yamanashi Hot Springs: A 2-Day Trip from Tokyo to Masutomi Onsen
 slug: yamanashi-hot-springs-2-day-itinerary
 description: A 2-day Yamanashi itinerary from JNTO: Erinji and Hokoji temples, Masutomi Onsen, hoto noodles, Mt. Amari and Hakusan hot springs, an easy trip from Tokyo.
 date: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-16
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: file:恵林寺 - panoramio (7).jpg | Houtou Yamanashi
@@ -77,6 +77,45 @@ For another trip from the capital, our [Hakone guide](hakone-trip-from-tokyo.htm
 
 Our view: this trip suits travellers who want a quiet overnight with a bath, a regional meal and a small amount of walking. It is less suited to those who want a big sight or a lively town, since the villages are small and many shops close early. It works well in spring, when the temple gardens bloom, and in early summer, when the azaleas and irises on the mountain are at their best. Pack light, because you will carry your bag on buses and between stops, and bring a small towel for the bath. If you travel on a weekend, book your room first, since small hot spring inns have few rooms.
 
+## Decision table: how to use the area
+
+Our view: this table is our own editorial shortcut, built on the JNTO points above. Check bus timetables and the opening hours of the temples before you go.
+
+| Your situation | What to do | JNTO point behind it |
+|---|---|---|
+| You want a quiet night and a long bath | Stay at Masutomi Onsen | It is a recognised therapeutic onsen in the mountains, with moderate water temperature for a long bath |
+| You want a bath without an overnight | Visit Hakusan Onsen | It welcomes day-trippers |
+| You like gardens and history | Erinji, then Hokoji | Erinji dates back to 1330 and has landscape gardens, and Hokoji is a flower temple |
+| You want a mountain walk | Climb Mt. Amari | It is relatively easy to climb, and on clear days it gives a view of Mt. Fuji |
+| You come in June | Put Mt. Amari first | It is covered with Japanese azaleas and irises in June |
+| You like fruit or wine | Add the Koshu region | It is famous for its fruit and wineries, and you can pick your own fruit at a farm |
+
+## The transfers, side by side
+
+This trip is mostly about getting between small places, so it helps to see the long legs. These are the figures JNTO gives.
+
+| Leg | Time JNTO gives |
+|---|---|
+| Shinjuku Station to Enzan Station on the JR Chuo Main Line Limited Express | 1 hour 30 minutes |
+| Enzan Station to the Erinji bus stop | By Yamanashi Kotsu Bus |
+| Back by bus to Enzan, a train to Nirasaki, then a bus to Masutomi Onsen | 2 hours 30 minutes |
+| Day 2: a bus back to Nirasaki Station, then a taxi to the mountain | 1 hour 40 minutes |
+
+```diagram
+type: cards
+caption: What each stop offers, from the JNTO itinerary
+items: Erinji=A Takeda family temple from 1330 with landscape gardens | Hokoji=Plum blossoms, camellias, cherry blossoms, kerrias and peonies | Masutomi Onsen=A quiet mountain resort with moderate water temperature | Mt. Amari=Azaleas and irises in June, and Mt. Fuji views on clear days
+```
+
+## Common mistakes on this trip
+
+- **Planning the first day as two sights and a bath.** The bus from the temples to Masutomi Onsen is the long leg of the day, at 2 hours 30 minutes in JNTO's route. Our view: leave the temples early enough that you reach the inn in daylight.
+- **Arriving with a large bag.** You carry it on buses and between stops. Our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to send it ahead to your Tokyo hotel.
+- **Leaving the taxi to chance.** JNTO's second day uses a taxi from Nirasaki Station to the mountain. Ask your inn about taxis in advance, since small towns have few.
+- **Going to the bath without knowing the rules.** Our [onsen etiquette guide](japan-onsen-etiquette.html) covers the steps before you enter the water.
+
+Last reviewed on 16 November 2026 against the JNTO pages cited in this guide.
+
 ## Where to stay and what to book
 
 If you want a guided walk or a local food experience, you can compare options on {{aff:trip_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}. Read the cancellation terms and the meeting point before you book anything.
@@ -108,3 +147,15 @@ JNTO says to join the hikers in June to admire the Japanese azaleas and irises t
 ### Can day-trippers use Hakusan Onsen?
 
 JNTO says day-trippers are also welcome at Hakusan Onsen.
+
+### Can you do this trip without a car?
+
+Yes. JNTO's route uses a limited express, buses, a local train and one taxi. Our view: the buses are the part to check, because small towns have few departures.
+
+### Is Mt. Amari a hard climb?
+
+JNTO says Mt. Amari is relatively easy to climb, and that Hakusan Onsen is appreciated afterwards.
+
+### Can you see Mt. Fuji from Mt. Amari?
+
+JNTO says that on clear days the mountain gives a great view of Mt. Fuji.

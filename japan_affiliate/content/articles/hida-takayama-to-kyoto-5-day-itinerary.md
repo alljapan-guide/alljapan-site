@@ -90,6 +90,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows the more usu
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+If you start from Nagoya, our [Nagoya in one day](nagoya-one-day-itinerary.html) covers the city before you head north.
+
 ## FAQ
 
 ### How many days does the Takayama to Kyoto route take?

@@ -95,6 +95,8 @@ For the whole Tokyo area at a glance, including travel times, day trips and two-
 
 If you are thinking of climbing the mountain rather than viewing it, see our [Mt. Fuji climbing guide](mt-fuji-climbing-guide-for-first-timers.html).
 
+For another trip with mountain views, see our [Yamanashi hot springs: a 2-day trip from Tokyo](yamanashi-hot-springs-2-day-itinerary.html).
+
 ## FAQ
 
 ### How many days do you need for the Fuji Five Lakes?

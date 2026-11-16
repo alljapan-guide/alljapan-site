@@ -94,6 +94,8 @@ If you plan to base yourself in Hiroshima for the island, you can compare Hirosh
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+To fit the island into a two-day autumn trip with the Peace Memorial Park, see our [Hiroshima in autumn: a 2-day itinerary](hiroshima-autumn-2-day-itinerary.html).
+
 ## FAQ
 
 ### How do I get to Miyajima from Hiroshima?

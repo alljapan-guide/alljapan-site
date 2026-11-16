@@ -94,6 +94,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
 
+For a quieter hot spring overnight with temples and local noodles, see our [Yamanashi hot springs: a 2-day trip from Tokyo](yamanashi-hot-springs-2-day-itinerary.html).
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Hakone?

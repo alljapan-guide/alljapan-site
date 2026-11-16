@@ -96,6 +96,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 To compare ways of hiring a guide for Hiroshima or Miyajima, see [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
 
+If you visit in autumn, our [Hiroshima in autumn: a 2-day itinerary](hiroshima-autumn-2-day-itinerary.html) shows how to order the island and the city.
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Hiroshima?
