@@ -76,6 +76,8 @@ For where cards work, when cash is still needed and which phone payments work, s
 
 For cheaper alternatives such as minshuku and pensions, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
 
+If you want a tea experience during your trip, see our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
+
 ## FAQ
 
 ### What is a ryokan?

@@ -29111,5 +29111,817 @@
    "akihabara-and-anime-pop-culture-guide-tokyo"
   ],
   "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_meaning",
+  "text": "sushi is the combination of the words su and meshi, which means vinegar and rice in English",
+  "claim": "sushi is the combination of the words su and meshi, which me",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "In English this means vinegar and rice"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_rice_neta",
+  "text": "sushi refers to the slightly sweet, vinegared rice paired with a garnish, or neta, of seafood, egg or vegetables, either raw or cooked",
+  "claim": "sushi refers to the slightly sweet, vinegared rice paired wi",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Sushi refers to the slightly sweet, vinegared rice"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_not_raw",
+  "text": "many people mistakenly believe that sushi simply means raw fish, but there is much more to the story",
+  "claim": "many people mistakenly believe that sushi simply means raw f",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "there is much more to the story"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_all_prices",
+  "text": "the Japanese enjoy their sushi at all price points and in a variety of restaurants, from very casual izakaya to refined sushi restaurants",
+  "claim": "the Japanese enjoy their sushi at all price points and in a ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "The Japanese enjoy their sushi at all price points"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_hayazushi",
+  "text": "chefs in Edo, now Tokyo, developed hayazushi, literally fast sushi, by placing garnishes on vinegared rice balls",
+  "claim": "chefs in Edo, now Tokyo, developed hayazushi, literally fast",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "hayazushi, literally, fast sushi"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_nigiri",
+  "text": "nigirizushi is a hand molded mound of specially prepared rice with the neta, or topping, draped over it",
+  "claim": "nigirizushi is a hand molded mound of specially prepared ric",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "a hand molded mound of specially prepared rice"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_maki",
+  "text": "in makizushi the chef places neta on a bed of rice and tightly rolls it up with a bamboo mat",
+  "claim": "in makizushi the chef places neta on a bed of rice and tight",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "tightly rolls it up with a bamboo mat"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_temaki",
+  "text": "temakizushi is rolled by hand into a cone shape, with one end closed while the neta spills out the other",
+  "claim": "temakizushi is rolled by hand into a cone shape, with one en",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "rolled by hand into a cone shape"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_chirashi",
+  "text": "chirashizushi is neta served over a bowl of rice as opposed to rolled in nori",
+  "claim": "chirashizushi is neta served over a bowl of rice as opposed ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "neta served over a bowl of rice"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_edomae",
+  "text": "Edomae sushi typically involves a counter where customers sit, and the chef forms the nigiri after the customer has ordered and serves it immediately",
+  "claim": "Edomae sushi typically involves a counter where customers si",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Edomae sushi typically involves a counter where customers sit"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_oshi",
+  "text": "in oshizushi the rice is laid in a box with neta on top and compressed with a bamboo mold, and battera mackerel sushi is a famous type",
+  "claim": "in oshizushi the rice is laid in a box with neta on top and ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Battera mackerel sushi is a famous type of oshizushi"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_funa",
+  "text": "funazushi is made by fermenting fish with salt and rice and is a form of narezushi, the oldest type of sushi",
+  "claim": "funazushi is made by fermenting fish with salt and rice and ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "the oldest type of sushi"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_ura",
+  "text": "the California roll, nearly unknown in Japan, is a reversed makizushi called ura-makizushi",
+  "claim": "the California roll, nearly unknown in Japan, is a reversed ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "ura-makizushi"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_inari",
+  "text": "inarizushi is sushi in a deep-fried tofu pocket that is stuffed with rice",
+  "claim": "inarizushi is sushi in a deep-fried tofu pocket that is stuf",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Inarizushi is sushi in a deep-fried tofu pocket"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_veg",
+  "text": "there are traditional forms of vegetarian sushi, such as umeshiso maki, a makizushi filled with perilla and salted plum paste",
+  "claim": "there are traditional forms of vegetarian sushi, such as ume",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "umeshiso maki"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_sashimi",
+  "text": "sashimi is not sushi, because sashimi platters are served without rice",
+  "claim": "sashimi is not sushi, because sashimi platters are served wi",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "is not sushi"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_neighborhood",
+  "text": "a low-key neighborhood sushi bar is a great place to start",
+  "claim": "a low-key neighborhood sushi bar is a great place to start",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "A low-key neighborhood sushi bar is a great place to start"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_kaiten",
+  "text": "at kaitenzushi restaurants a conveyor belt winds past every seat, and different colored plates will have different prices",
+  "claim": "at kaitenzushi restaurants a conveyor belt winds past every ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Different colored plates will have different prices"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_kaiten_counter",
+  "text": "at the counter of a conveyor belt restaurant with a chef in front of you, you can order directly from the chef",
+  "claim": "at the counter of a conveyor belt restaurant with a chef in ",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "you can order directly from them"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_station",
+  "text": "many major train stations have small, standing-room-only sushi bars for a quick bite",
+  "claim": "many major train stations have small, standing-room-only sus",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "standing-room-only sushi bars"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_omakase",
+  "text": "omakase means you are allowing the chef full control over your meal, and bookings are a must",
+  "claim": "omakase means you are allowing the chef full control over yo",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "bookings are a must"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_walkin",
+  "text": "walking into a popular restaurant without a reservation on the same day tends to be difficult",
+  "claim": "walking into a popular restaurant without a reservation on t",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "tends to be difficult"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_check_booking",
+  "text": "if you wish to visit a specific popular restaurant, it is recommended to check reservation availability while planning your trip",
+  "claim": "if you wish to visit a specific popular restaurant, it is re",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "check reservation availability while planning your trip"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_chopsticks_rule",
+  "text": "you should never pass food from chopstick to chopstick and never stick your chopsticks standing out of your bowl",
+  "claim": "you should never pass food from chopstick to chopstick and n",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Never pass food from chopstick to chopstick"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_dip",
+  "text": "you should dip the neta first, because dipping the shari directly absorbs too much soy sauce",
+  "claim": "you should dip the neta first, because dipping the shari dir",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Dipping shari directly absorbs too much soy sauce"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_hands",
+  "text": "chopsticks are the preferred utensil for eating sushi most of the time, but hands are perfectly acceptable as well, especially at higher-end restaurants",
+  "claim": "chopsticks are the preferred utensil for eating sushi most o",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "hands are perfectly acceptable as well"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_ginger",
+  "text": "if ginger is provided, you eat it between orders as a palate cleanser, and it is not a topping",
+  "claim": "if ginger is provided, you eat it between orders as a palate",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "eat it between orders as a palate cleanser"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_plates",
+  "text": "at kaitenzushi you may take plates freely off the conveyor belt but never put a plate back",
+  "claim": "at kaitenzushi you may take plates freely off the conveyor b",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "never put a plate back"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_green_tea",
+  "text": "green tea is usually self-service at kaitenzushi",
+  "claim": "green tea is usually self-service at kaitenzushi",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "Green tea is usually self-service at kaitenzushi"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_pairing",
+  "text": "the traditional pairing is simply hot green tea or genmaicha, a green tea combined with roasted brown rice",
+  "claim": "the traditional pairing is simply hot green tea or genmaicha",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "The traditional pairing is simply hot green tea or genmaicha"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_kaiten_drinks",
+  "text": "kaitenzushi restaurants typically only stock green tea, domestic draft beers and inexpensive sake",
+  "claim": "kaitenzushi restaurants typically only stock green tea, dome",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "domestic draft beers"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "ssi_shari",
+  "text": "to understand the style of a sushi chef you must look to the rice, the shari",
+  "claim": "to understand the style of a sushi chef you must look to the",
+  "source_name": "JNTO: Sushi in Japan Guide",
+  "source_url": "https://www.japan.travel/en/guide/sushi-in-japan/",
+  "must_contain": [
+   "we must look to the rice, the shari"
+  ],
+  "topics": [
+   "sushi-in-japan-guide-types-how-to-order-etiquette"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_art",
+  "text": "the tea ceremony sees the simple task of preparing a drink for a guest elevated to an art form",
+  "claim": "the tea ceremony sees the simple task of preparing a drink f",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "elevated to an art form"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_names",
+  "text": "the tea ceremony is known as chanoyu, or sado, in Japanese",
+  "claim": "the tea ceremony is known as chanoyu, or sado, in Japanese",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "known as chanoyu, or sado, in Japanese"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_otemae",
+  "text": "the art and performance of preparing and presenting matcha powdered green tea is called otemae",
+  "claim": "the art and performance of preparing and presenting matcha p",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "is called otemae"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_chakai",
+  "text": "chakai are informal gatherings held to appreciate the ritualized serving of tea, while the more formal occasion is a chaji",
+  "claim": "chakai are informal gatherings held to appreciate the ritual",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "Chakai are informal gatherings"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_senchado",
+  "text": "an alternative, but less common, version of the ceremony uses tea leaves and is known as senchado",
+  "claim": "an alternative, but less common, version of the ceremony use",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "known as senchado"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_omotenashi",
+  "text": "the tea ceremony is in many ways a microcosm of omotenashi, which translates as to look after guests wholeheartedly",
+  "claim": "the tea ceremony is in many ways a microcosm of omotenashi, ",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "to look after guests wholeheartedly"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_roots",
+  "text": "the tea ceremony can be traced back to Zen Buddhism in the year 815",
+  "claim": "the tea ceremony can be traced back to Zen Buddhism in the y",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "traced back to Zen Buddhism in the year 815"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_rikyu",
+  "text": "Sen no Rikyu identified principles that must be incorporated into the tea ceremony: harmony, respect, purity, and tranquility",
+  "claim": "Sen no Rikyu identified principles that must be incorporated",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "harmony, respect, purity, and tranquility"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_schools",
+  "text": "there are dozens of different schools of the tea ceremony, each with subtle differences",
+  "claim": "there are dozens of different schools of the tea ceremony, e",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "dozens of different schools of the tea ceremony"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_chashitsu",
+  "text": "a tea ceremony traditionally takes place in a purpose-built chashitsu tea house, featuring a tatami-mat floor with a hearth built into it",
+  "claim": "a tea ceremony traditionally takes place in a purpose-built ",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "purpose-built chashitsu tea house"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_tools",
+  "text": "a tea master uses specialist implements, including the chawan tea bowl, a bamboo scoop for the powdered tea and a tea whisk, known as a chasen",
+  "claim": "a tea master uses specialist implements, including the chawa",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "a tea whisk, known as a chasen"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_shoes",
+  "text": "guests take off their shoes before being ushered into the waiting room of the tea house",
+  "claim": "guests take off their shoes before being ushered into the wa",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "Guests take off their shoes"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_purify",
+  "text": "guests ritually purify themselves at a stone basin by washing their hands and rinsing their mouths",
+  "claim": "guests ritually purify themselves at a stone basin by washin",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "ritually purify themselves at a stone basin"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_scroll",
+  "text": "guests are expected to comment on the scroll that is hanging in the alcove or the seasonal flower arrangement",
+  "claim": "guests are expected to comment on the scroll that is hanging",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "comment on the scroll that is hanging in the alcove"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_seiza",
+  "text": "guests are seated in the seiza kneeling position before the tea master begins",
+  "claim": "guests are seated in the seiza kneeling position before the ",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "seiza kneeling position"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_bowl",
+  "text": "the recipient is expected to rotate the bowl slightly to avoid drinking from the front, take a sip and compliment the master on the taste and the bowl",
+  "claim": "the recipient is expected to rotate the bowl slightly to avo",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "rotate it slightly to avoid drinking from the front"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_pass",
+  "text": "the bowl is passed to the next guest, who repeats the procedure until each guest has sampled the tea",
+  "claim": "the bowl is passed to the next guest, who repeats the proced",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "who repeats the procedure until each guest has sampled the tea"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_attire",
+  "text": "rituals put on to demonstrate the procedures to visitors do not require formal attire",
+  "claim": "rituals put on to demonstrate the procedures to visitors do ",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "do not require formal attire"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_faux",
+  "text": "minor faux pas are always overlooked",
+  "claim": "minor faux pas are always overlooked",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "minor faux pas are always overlooked"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_sweets",
+  "text": "guests may then be served small sweet cakes while the host prepares a second bowl of thinner tea for each guest",
+  "claim": "guests may then be served small sweet cakes while the host p",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "a second bowl of thinner tea"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_meal",
+  "text": "light meals using seasonal ingredients are often served as part of the tea ceremony",
+  "claim": "light meals using seasonal ingredients are often served as p",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "light meals using seasonal ingredients are often served"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_where",
+  "text": "a number of temples, traditional Japanese gardens, cultural facilities, and hotels have tea houses where visitors can experience a tea ceremony",
+  "claim": "a number of temples, traditional Japanese gardens, cultural ",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "have tea houses where visitors can experience a tea ceremony"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_short",
+  "text": "a full, formal tea ceremony can last several hours, but many venues offer abbreviated versions that may be more suitable for foreign guests",
+  "claim": "a full, formal tea ceremony can last several hours, but many",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "many venues offer abbreviated versions"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_courses",
+  "text": "tea schools across the country offer courses in tea appreciation and the precise steps that are a feature of the ceremony",
+  "claim": "tea schools across the country offer courses in tea apprecia",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "tea schools across the country offer courses"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_years",
+  "text": "it is widely accepted that becoming proficient in the art will take many years",
+  "claim": "it is widely accepted that becoming proficient in the art wi",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "becoming proficient in the art will take many years"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
+ },
+ {
+  "id": "tcm_kyoto",
+  "text": "visitors can experience a tea ceremony at tea houses in temples, gardens, cultural facilities and hotels, particularly in Kyoto, the ancient capital that is still the center of the traditional culture of Japan",
+  "claim": "tea ceremony venues, particularly Kyoto",
+  "source_name": "JNTO: Japanese Tea Ceremony",
+  "source_url": "https://www.japan.travel/en/guide/tea-ceremony/",
+  "must_contain": [
+   "particularly in Kyoto, the ancient capital"
+  ],
+  "topics": [
+   "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
+  ],
+  "verified_on": "2026-11-16"
  }
 ]

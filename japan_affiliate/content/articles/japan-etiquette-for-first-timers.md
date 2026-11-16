@@ -89,6 +89,8 @@ For a stay in a traditional inn, see our [ryokan guide](how-to-stay-at-a-ryokan-
 
 For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
 
+For the manners of one specific meal, see our [sushi in Japan: types, how to order and etiquette](sushi-in-japan-guide-types-how-to-order-etiquette.html), and for a ritual setting, our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
+
 ## FAQ
 
 ### Do I have to bow in Japan?

@@ -82,6 +82,8 @@ For the four main ramen types, regional styles and how to use a ticket machine, 
 
 For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
 
+For the etiquette and booking of a sushi meal, see our [sushi in Japan: types, how to order and etiquette](sushi-in-japan-guide-types-how-to-order-etiquette.html).
+
 ## FAQ
 
 ### What is the most famous food in Osaka?

@@ -139,6 +139,8 @@ For a traditional inn, our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html)
 
 For capsule hotels, guesthouses and temple stays, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
 
+For something to fit into a Kyoto day, see our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
+
 ## FAQ
 
 ### What is the best area to stay in Kyoto for first-timers?

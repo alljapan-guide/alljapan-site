@@ -99,6 +99,8 @@ If you want to stay in a traditional inn in Kyoto or Nara, see our [guide to sta
 
 For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen Park, Nara Park, Kiyomizu-dera and Ritsurin Garden, see our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html).
 
+For a quiet cultural experience in Kyoto, see our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
+
 ## FAQ
 
 ### How many days do you need for Kansai?

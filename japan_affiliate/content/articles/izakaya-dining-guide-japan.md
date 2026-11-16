@@ -76,6 +76,8 @@ An izakaya works well as a late dinner after sightseeing. If you want a guided f
 
 {{note|JNTO's page may change, and shops open and close. Use this guide to understand the format, then check the venue's own page for hours and booking before you go.}}
 
+For another casual meal format, with its own rules for soy sauce, hands and ginger, see our [sushi in Japan: types, how to order and etiquette](sushi-in-japan-guide-types-how-to-order-etiquette.html).
+
 ## FAQ
 
 ### What is an izakaya?

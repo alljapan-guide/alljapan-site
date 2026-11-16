@@ -87,6 +87,8 @@ Ramen works best as a quick lunch or a late dinner. Our [Osaka food guide](osaka
 
 For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
 
+For a different kind of counter meal, see our [sushi in Japan: types, how to order and etiquette](sushi-in-japan-guide-types-how-to-order-etiquette.html).
+
 ## FAQ
 
 ### What are the main types of ramen?

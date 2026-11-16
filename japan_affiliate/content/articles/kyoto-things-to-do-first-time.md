@@ -108,6 +108,8 @@ For portable gifts from the market, see our [shotengai souvenir guide](shotengai
 
 If you would rather have someone explain the temples and streets, see our guide: [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
 
+For a quiet hour in the city, our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html) explains what happens and how to choose a session.
+
 ## FAQ
 
 ### How many days do I need in Kyoto?

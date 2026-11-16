@@ -87,6 +87,8 @@ If you plan a day of sightseeing, our [opening hours guide](japan-opening-hours-
 
 If you would like the meaning explained, guided shrine and temple tours are listed on {{aff:klook|Klook}} and {{aff:viator|Viator}}. Check the language, meeting point and cancellation terms before you book, and see our [licensed guide guide](japan-licensed-tour-guides.html) for what to confirm.
 
+For manners in another traditional setting, see our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
+
 ## FAQ
 
 ### How do I pray at a Shinto shrine?

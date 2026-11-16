@@ -74,6 +74,8 @@ If you want help, you can look at food tours and cooking classes on {{aff:trip_t
 
 For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
 
+JNTO notes traditional vegetarian styles of sushi, which our [sushi in Japan: types, how to order and etiquette](sushi-in-japan-guide-types-how-to-order-etiquette.html) explains.
+
 ## FAQ
 
 ### Is it easy to be vegetarian in Japan?

@@ -123,6 +123,8 @@ Our view: classes are small, so small mistakes cost a whole slot.
 
 Last reviewed on 15 November 2026 against the JNTO pages cited in this guide.
 
+For a tea-based experience, see our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
+
 ## FAQ
 
 ### How many days does the itinerary take?
