@@ -82,6 +82,8 @@ Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where the To
 
 If you want to break the journey, our [Nagoya in one day](nagoya-one-day-itinerary.html) shows what you can see between trains.
 
+For a slower way to reach Kyoto through Takayama, Shirakawa-go and Kanazawa, see our [five-day itinerary](hida-takayama-to-kyoto-5-day-itinerary.html).
+
 ## FAQ
 
 ### How do I get from Tokyo to Kyoto?

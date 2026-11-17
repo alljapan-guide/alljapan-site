@@ -88,6 +88,8 @@ Our [Kyoto guide](kyoto-things-to-do-first-time.html) covers the other historica
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+To link Kanazawa with Takayama, Shirakawa-go and Kyoto, see our [five-day Takayama to Kyoto route](hida-takayama-to-kyoto-5-day-itinerary.html), which has a leg-by-leg table with the bus and train times.
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Kanazawa?

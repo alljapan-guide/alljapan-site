@@ -3,7 +3,7 @@ title: Accessible Travel in Japan: Wheelchair, Trains, Taxis and Hotels
 slug: accessible-travel-in-japan-wheelchair-guide
 description: Accessible travel in Japan per JNTO: station accessibility, asking staff for help, taxi limits, hotels, wheelchair rental and where to check details.
 date: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-17
 cluster: planning
 affiliates: trip_hotels | insurance | trip_things
 image_queries: tactile paving yellow blocks Japan | Tokyo station platform elevator | Toei bus Tokyo | Yokohama Minato Mirai waterfront
@@ -64,6 +64,39 @@ JNTO says that {{fact:da_places}}. Our [Yokohama day trip](yokohama-day-trip-fro
 
 {{pick|For a first accessible trip, our editorial pick is to base yourself in Tokyo or Yokohama, check the stations on your route, book hotel details by email and arrange taxi transfers in advance. This is our view, built on the JNTO pages.}}
 
+## Decision table: what to plan for your situation
+
+Our view: this table is our own shortcut, built on the two JNTO pages. Accessibility changes by place and by day, so confirm each point with the operator or venue.
+
+| Your situation | What to plan | JNTO point behind it |
+|---|---|---|
+| You use a wheelchair on trains | Ask station staff for help getting on and off, and name the station where you will get off | Station staff can assist, and about 95 percent of train stations are entirely accessible |
+| You use an electric wheelchair | Arrange taxi transfers in advance and do not rely on a standard cab | Most standard cabs cannot support electric wheelchairs; Accessible Japan can advise on taxis |
+| You have reduced mobility or travel with older relatives | Choose a base with step-free access and check the distance to the station | Accessible tourism covers the elderly, people with disabilities and families with children |
+| You have a visual impairment | Use the raised yellow tiles that mark safe walking paths | Sidewalks are smooth, and the tiles indicate safe paths |
+| You cannot hear or speak | Use the writing-based communication service JNTO mentions | A service lets people communicate by means of writing |
+| You plan to drive | Check the driver sign or sticker rules for your condition | Driver signs exist, and a sticker may be required depending on the condition |
+
+Last reviewed on 17 November 2026 against the two JNTO pages cited in this guide.
+
+## A checklist by stage of the trip
+
+| Stage | What to do | Why |
+|---|---|---|
+| Before you book | Email the hotel about room size, step-free access to the bath and the distance to the station | JNTO says bathing and showering facilities and an assisted bathing service are available in some hotels, not all |
+| Before you travel | Check the stations on your route on the accessibility website JNTO mentions | It shows the degree of accessibility of stations across Japan |
+| On the first and last day | Arrange the airport or station transfer in advance | Taxis are the weak spot |
+| In the city | Allow extra time at big interchanges for a staffed boarding | Our view: help is part of the system, but it takes time to arrange |
+| At a tourist site | Look for the English accessibility page of the venue, and ask about wheelchair rental | JNTO says many major destinations are developing English websites and some offer rental |
+
+## Common mistakes
+
+- **Assuming every taxi can carry an electric wheelchair.** JNTO says most standard cabs cannot, so arrange the transfer before you arrive.
+- **Not telling the station staff where you will get off.** The advice is to say it, so that someone is ready at the destination.
+- **Reading the 95 percent figure as every station.** It means most stations, not all. Check the stations on your route, especially in older or rural areas.
+- **Expecting every hotel to have an accessible bath.** JNTO says the bathing facilities are available in some hotels. Ask before you book.
+- **Treating the JNTO pages as current.** They say that independent research is always advised, so confirm the details with the operator or venue.
+
 ## Check before you go
 
 JNTO is open about the limits of its own advice: {{fact:dz_research}}. Our view: confirm the details with each operator, and consider a travel policy for the trip. Our [travel insurance guide](japan-travel-insurance.html) explains what to check, and you can compare cover on {{aff:insurance|a travel insurance provider}}. For tours that suit your needs, ask the organiser first, then look at {{aff:trip_things|Trip.com things to do}}.
@@ -91,3 +124,15 @@ JNTO says sidewalks are smooth, and raised yellow tiles mark safe walking paths 
 ### Where do I check current details?
 
 JNTO advises independent research for the most up-to-date information, and the operator or venue is the best source.
+
+### Do bus drivers in Japan help wheelchair users?
+
+JNTO says bus drivers help people who use wheelchairs, and will even help you get on and off the bus.
+
+### How can a person who cannot hear or speak communicate in Japan?
+
+JNTO says there is a service that lets people who cannot hear or speak communicate by means of writing.
+
+### Do I need a sticker on the car if I drive with a disability?
+
+JNTO says there are driver signs for people with disabilities, and it may be required to put a sticker on the vehicle depending on the condition. Check the rules for your own situation before you drive.

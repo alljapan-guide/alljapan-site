@@ -110,6 +110,8 @@ If you would rather have someone explain the temples and streets, see our guide:
 
 For a quiet hour in the city, our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html) explains what happens and how to choose a session.
 
+If you arrive in Kyoto from the mountains, our [Takayama to Kyoto itinerary](hida-takayama-to-kyoto-5-day-itinerary.html) ends with two days in the eastern hills.
+
 ## FAQ
 
 ### How many days do I need in Kyoto?

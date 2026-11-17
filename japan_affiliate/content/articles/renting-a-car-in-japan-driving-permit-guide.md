@@ -83,6 +83,8 @@ A car earns its cost in a few places. Our guides to the [Kumano Kodo](kumano-kod
 
 {{pick|Rent a car only if the places you want are poorly served by trains, and only after you hold a booklet-type permit and plan to take a manned immigration gate. Reserve an ETC card with the car. This is our editorial pick, built on the JNTO page.}}
 
+If a driver has a disability, our [accessible travel guide](accessible-travel-in-japan-wheelchair-guide.html) explains the driver sign and sticker point JNTO mentions.
+
 ## FAQ
 
 ### Can I drive in Japan with my home licence?

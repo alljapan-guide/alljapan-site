@@ -147,6 +147,8 @@ Whichever area you pick, you will rely on trains. Set up a transit card first; o
 
 For capsule hotels, minshuku and hostels, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
 
+If you need step-free access, a wheelchair-friendly room or an assisted bath, our [accessible travel guide](accessible-travel-in-japan-wheelchair-guide.html) lists what to ask a hotel before you book.
+
 ## FAQ
 
 ### What is the best area to stay in Tokyo for first-timers?

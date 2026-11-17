@@ -97,6 +97,8 @@ If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-
 
 For the short climbing season on Mt. Fuji, see our [climbing guide](mt-fuji-climbing-guide-for-first-timers.html).
 
+For a winter trip built around snow, see our [Niigata winter weekend itinerary](niigata-winter-weekend-itinerary.html); for a northern wilderness trip across the seasons, see our [Shiretoko itinerary](shiretoko-peninsula-3-day-itinerary.html).
+
 ## FAQ
 
 ### What is the best season to visit Japan?

@@ -98,6 +98,10 @@ For the whole island at a glance, including routes, flights and how long the dis
 
 If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
 
+For a snow trip closer to Tokyo, our [Niigata winter weekend itinerary](niigata-winter-weekend-itinerary.html) shows the legs and the festival dates JNTO lists.
+
+If the drift ice appeals, our [Shiretoko itinerary](shiretoko-peninsula-3-day-itinerary.html) has a season table that shows when the drift ice walk and the sightseeing ship run.
+
 ## FAQ
 
 ### How many days does the itinerary take?

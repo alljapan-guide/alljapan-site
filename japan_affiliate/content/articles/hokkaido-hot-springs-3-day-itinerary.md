@@ -98,6 +98,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole island at a glance, including routes, flights and how long the distances really are, see our [Hokkaido travel guide](hokkaido-travel-guide-sapporo-hakodate-and-shiretoko.html).
 
+For the wilderness side of Hokkaido, see our [Shiretoko itinerary](shiretoko-peninsula-3-day-itinerary.html), with a leg-by-leg table from Tokyo and a season-by-season activity table.
+
 ## FAQ
 
 ### How many days does the itinerary take?

@@ -76,6 +76,8 @@ For ideas, look at our [Tokyo guide](tokyo-things-to-do-first-time.html) and our
 
 {{note|JNTO's tips are general. Nursing rooms, stroller rentals and child seats vary by building and company, so check each one before you travel.}}
 
+For stations, taxis and hotels that suit strollers and reduced mobility, our [accessible travel guide](accessible-travel-in-japan-wheelchair-guide.html) has a decision table and a stage-by-stage checklist.
+
 ## FAQ
 
 ### Is Japan good for kids?

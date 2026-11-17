@@ -3,7 +3,7 @@ title: Takayama to Kyoto in 5 Days: Shirakawa-go, Kanazawa and Kyoto
 slug: hida-takayama-to-kyoto-5-day-itinerary
 description: A 5-day route from Takayama to Kyoto using JNTO: Hida Folk Village, Shirakawa-go, Kanazawa and Kyoto, with the buses and trains between each stop.
 date: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-17
 cluster: itineraries
 affiliates: trip_kyoto_hotels | trip_trains | trip_things | klook
 image_queries: Takayama old town Sanmachi | Shirakawa-go gassho-zukuri village | Kenrokuen Garden Kanazawa | Kiyomizu-dera Kyoto
@@ -74,6 +74,43 @@ Our [Kyoto things to do guide](kyoto-things-to-do-first-time.html) and [Kyoto on
 
 {{warn|Check each bus and train reservation before you leave the mountains. The Shirakawa-go and Kanazawa legs use buses with limited seats, and a missed connection can cost half a day.}}
 
+## The journey leg by leg
+
+Our view: this route works only if the transfers fit together, so the table puts JNTO's figures for each leg in one place. Confirm the timetable before you book, because bus and limited-express schedules change.
+
+| Leg | How JNTO says to do it | Time JNTO gives |
+|---|---|---|
+| Tokyo to Takayama | A shinkansen to Nagoya, then the Limited Express Wide View Hida | 4 hours 15 minutes in total |
+| Takayama to Shirakawa-go | Express bus Shirakawa-go Line from the Nohi Bus terminal | 50 minutes |
+| Shirakawa-go to Kanazawa | Reserved Hokuriku Highway Bus to Kanazawa Station | 1 hour 15 minutes |
+| Kanazawa to Kyoto | JR Thunderbird Express | 2 hours 20 minutes |
+| Day 5 in Kyoto | Bus no. 100 from Kiyomizu-michi to Ginkakuji-mae | 36 minutes |
+
+Our view: JNTO's page names the Hokuriku Shinkansen for the first leg. Treat the line name as a point to check, and look up the Tokyo to Nagoya service in the operator's own timetable, because the timetable is what you book from.
+
+## Decision table: how to adapt the route
+
+Our view: this table is our own shortcut, built on the JNTO figures above. It is not a ranking of towns.
+
+| Your situation | What to do | JNTO point behind it |
+|---|---|---|
+| You have only three days | Take Kanazawa and Kyoto, or Takayama, Shirakawa-go and Kanazawa, rather than all four stops | Four of the five days involve a transfer, so each stop you drop saves a leg |
+| You travel in winter | Keep a night for Shirakawa-go | The village is illuminated on winter nights when the houses are blanketed in snow |
+| You like crafts | Add the Yuzen Kan in Kanazawa and the Takayama craft town | Yuzen Kan lets you colour kimono designs; Takayama is known for carving, weaving, dyeing and quilting |
+| You like gardens | Keep Kenrokuen and the Kodaiji gardens | Kenrokuen is one of the top three gardens in Japan; Kodaiji is lit up at night in spring, summer and autumn |
+| You like markets and early starts | Start day 2 at the morning market | It opens every morning from around 6 a.m. to noon |
+| You like walking | End with the Philosopher Path | It follows a canal from Ginkakuji back toward the city |
+
+Last reviewed on 17 November 2026 against the JNTO itinerary cited in this guide.
+
+## Common mistakes
+
+- **Not reserving the Hokuriku Highway Bus.** JNTO describes it as a reserved bus. Book before you travel and keep your times flexible.
+- **Arriving at the morning market late.** It runs from around 6 a.m. to noon, so go before the middle of the day.
+- **Visiting Kiyomizudera at midday.** JNTO says it tends to be crowded. Go early, and take the Ninenzaka and Sannenzaka streets on the way.
+- **Expecting the Shirakawa-go lights in any season.** The illumination is described for winter nights with snow on the houses.
+- **Packing every day.** Four of the five days involve a transfer, so keep a buffer for a missed connection.
+
 ## Who this route suits
 
 Our view: this route suits travellers who want to see Japan beyond the big three cities, and who are comfortable moving each day. It is a strong choice for a second trip, or for a first trip in autumn or winter when the mountain scenery is the draw. It is less suited to a short holiday, because four of the five days involve a transfer. If you have fewer days, our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html) is a simpler plan.
@@ -100,7 +137,7 @@ JNTO's itinerary has a recommended length of 5 days.
 
 ### How long does it take to get from Tokyo to Takayama?
 
-JNTO says it takes 4 hours 15 minutes, with the Hokuriku Shinkansen to Nagoya and the Limited Express Wide View Hida to Takayama.
+JNTO says it takes 4 hours 15 minutes in total: a shinkansen to Nagoya Station (1 hour 45 minutes), then the Limited Express Wide View Hida to Takayama Station (2 hours 20 minutes).
 
 ### How do I get from Takayama to Shirakawa-go?
 
@@ -113,3 +150,15 @@ JNTO says to take the reserved Hokuriku Highway Bus from Shirakawa-go to Kanazaw
 ### How do I get from Kanazawa to Kyoto?
 
 JNTO says to take the JR Thunderbird Express from Kanazawa Station to Kyoto Station.
+
+### When does the Takayama morning market open?
+
+JNTO says the Jinya Asaichi Morning Market is open every morning from around 6 a.m. to noon.
+
+### When is Shirakawa-go lit up?
+
+JNTO says the village is illuminated on winter nights when the houses are blanketed in snow.
+
+### Do you need to reserve the bus from Shirakawa-go to Kanazawa?
+
+JNTO describes the Hokuriku Highway Bus from Shirakawa-go to Kanazawa Station as a reserved bus, so book your seat before you travel.

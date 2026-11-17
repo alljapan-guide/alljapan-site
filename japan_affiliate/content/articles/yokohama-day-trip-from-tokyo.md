@@ -88,6 +88,8 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
 
+JNTO lists Yokohama among its accessible tourism pages; our [accessible travel guide](accessible-travel-in-japan-wheelchair-guide.html) turns them into a checklist.
+
 ## FAQ
 
 ### How long does it take to get from Tokyo to Yokohama?

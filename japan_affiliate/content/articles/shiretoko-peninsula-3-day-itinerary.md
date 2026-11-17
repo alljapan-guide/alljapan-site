@@ -3,7 +3,7 @@ title: Shiretoko Peninsula: A 3-Day Hokkaido Wilderness Itinerary
 slug: shiretoko-peninsula-3-day-itinerary
 description: A 3-day Shiretoko itinerary from JNTO: getting there, the sightseeing ship, drift ice walk, Furepe Falls, Cape Puyuni, Five Lakes and Kamuiwakka Falls.
 date: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-17
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_sapporo_hotels
 image_queries: Shiretoko Five Lakes | Furepe Falls Shiretoko | Kamuiwakka Falls
@@ -77,6 +77,50 @@ Our view: if you only have two days, keep day 1 and day 3 and treat the waterfal
 
 Our [travel insurance guide](japan-travel-insurance.html) explains what to check for outdoor activities, and our [Japan weather guide](japan-weather-by-season.html) explains the seasons.
 
+## The journey leg by leg
+
+Our view: Shiretoko is a trip where the transfer is part of the plan. The table sets out the legs JNTO describes, so that you can see where the time goes.
+
+| Leg | How JNTO says to do it | What to check |
+|---|---|---|
+| Tokyo Haneda to Memanbetsu | A 1-hour 40-minute flight | Book the flight first; everything else depends on it |
+| Memanbetsu Airport to Utoro Onsen | Shiretoko Airport Liner Express bus, around 2 hours | The bus time against your flight arrival |
+| Around the peninsula | Walking paths from the Nature Center to Furepe Falls and the Five Lakes | The Nature Center's advice on weather and traffic conditions |
+
+JNTO puts the whole journey from Tokyo Haneda at 4 hours.
+
+## Decision table: what to do in which season
+
+Our view: this table is our own shortcut, built on the JNTO points above. Shiretoko is rewarding throughout the year, but the activities change with the season.
+
+| When you go | What fits | JNTO point behind it |
+|---|---|---|
+| Late April to about late October | The sightseeing ship, with a cliff of about 200 metres and brown bears at the right time | The ship runs from late April to about late October |
+| From late January | The drift ice walk | The drift ice approaches the peninsula in late January and gradually covers the Okhotsk Sea |
+| Outside the snow season | Sea kayaking and walks to the waterfalls and the Five Lakes | There is a wide range of outdoor activities outside the snow season |
+| Any season, as a beginner | A guided nature program | Beginners are welcome and many programs include guides |
+| Evening | The star-watching or moon-watching tour | JNTO lists it among the nature experiences |
+
+Last reviewed on 17 November 2026 against the JNTO itinerary cited in this guide.
+
+## Which activity fits which traveller
+
+| If you want | Choose | What JNTO says |
+|---|---|---|
+| A short walk | Furepe Falls | It is a walk along the path from the Nature Center |
+| A longer lake walk | The Five Lakes path | About 60 minutes around all five lakes, or about 30 minutes around one or two |
+| Time on the water | Sea kayaking | Offered at the Shiretoko Outdoor Guide Center |
+| Sunset views | Cape Puyuni or Yuhidai | Yuhidai has blood-red sunsets over drift ice |
+| A river that is also a hot spring | Kamuiwakka Falls | Hot spring water flows into the river, and the rocks are slippery |
+
+## Common mistakes
+
+- **Planning the first day without the Nature Center.** JNTO says it is the place to receive information on local weather and traffic conditions, so visit it before you fix the day.
+- **Assuming the ship runs all year.** It runs from late April to about late October, and the drift ice walk is a winter activity. Match the activity to the month.
+- **Walking the Five Lakes without thinking about bears.** JNTO warns that bears may appear. Follow the Nature Center's advice and the rules on the path.
+- **Treating Kamuiwakka Falls as an easy paddle.** The rocks are slippery, and JNTO says some knowledge and skill are needed, so go prepared.
+- **Booking hotels before the flight and the bus.** The transfer sets the whole timetable, so book it first.
+
 ## Who this trip suits
 
 Our view: Shiretoko suits travellers who have already seen the main cities and want scenery, wildlife and quiet. It is less suited to a first week in Japan, because the journey takes most of a day each way. If you want a gentler Hokkaido trip, the hot springs route in the south is easier to reach.
@@ -112,3 +156,15 @@ JNTO says the walking path around all five lakes takes 60 minutes, while walking
 ### Is Kamuiwakka Falls safe to climb?
 
 JNTO says visitors can enjoy shower climbing in hot water, but some elementary knowledge and skill is needed because the rocks are slippery.
+
+### When can you walk on the drift ice at Shiretoko?
+
+JNTO says the drift ice approaches the Shiretoko Peninsula in late January and gradually covers the Okhotsk Sea, and that the drift ice walk lets you walk on it.
+
+### Is Shiretoko suitable for beginners?
+
+JNTO says beginners are welcome to join the nature programs, and many include guides with specialised knowledge.
+
+### Do you need to worry about bears at Shiretoko?
+
+JNTO says you may see wild animals at the Five Lakes and to be careful of any bears that may appear. Check the Nature Center for local conditions before you walk.

@@ -93,6 +93,8 @@ For the whole Tokyo area at a glance, including travel times, day trips and two-
 
 If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
 
+If you want a second snow trip with skiing and a hot spring town, see our [Niigata winter weekend itinerary](niigata-winter-weekend-itinerary.html), which has a leg-by-leg table and a decision table by season.
+
 ## FAQ
 
 ### How long should you spend on a Nagano snow monkey trip?
