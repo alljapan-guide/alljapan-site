@@ -103,6 +103,17 @@ def clean_links(page_html):
     return _INTERNAL_HTML.sub(repl, page_html)
 
 
+def build_sitemap(urls, articles, base):
+    """Sitemap XML, one <url> per line. lastmod is each article's own `updated` date (a date that changes on every build for
+    every page is ignored by Google); non-article pages use the newest article date. Also published as sitemap-pages.xml so a
+    second sitemap can be submitted if Search Console cannot read the first."""
+    dates = {clean_url(base, f"{m['slug']}.html"): str(m["updated"]) for m, _ in articles}
+    newest = max(dates.values()) if dates else datetime.date.today().isoformat()
+    rows = "\n".join(f"<url><loc>{escape(u)}</loc><lastmod>{dates.get(u, newest)}</lastmod></url>" for u in urls)
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            + rows + "\n</urlset>\n")
+
+
 def build(strict=True):
     site = load_json("config/site.json")
     base = site["base_url"].rstrip("/")
@@ -187,11 +198,11 @@ def build(strict=True):
                   "assistance and pass automated quality checks; prices and schedules are dated and should be confirmed with "
                   "the provider before booking. We earn commissions from some links, which never changes what we recommend "
                   "or what you pay.</p>")
-    today = datetime.date.today().isoformat()
-    (DIST / "sitemap.xml").write_text(
-        '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-        + "".join(f"<url><loc>{escape(u)}</loc><lastmod>{today}</lastmod></url>" for u in urls) + "</urlset>")
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\n")
+    sitemap_xml = build_sitemap(urls, articles, base)
+    (DIST / "sitemap.xml").write_text(sitemap_xml, encoding="utf-8")
+    (DIST / "sitemap-pages.xml").write_text(sitemap_xml, encoding="utf-8")  # same content under a second name (see build_sitemap)
+    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\nSitemap: {base}/sitemap-pages.xml\n",
+                                     encoding="utf-8")
     return len(articles)
 
 

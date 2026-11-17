@@ -41,3 +41,14 @@ def test_faq_jsonld():
     out = json.loads(faq_jsonld("## FAQ\n\n### Q1?\n\nA1 {{aff:klook|go}}.\n\n### Q2?\n\nA2.\n"))
     assert [q["name"] for q in out["mainEntity"]] == ["Q1?", "Q2?"]
     assert out["mainEntity"][0]["acceptedAnswer"]["text"] == "A1 go."
+
+
+def test_sitemap_has_per_article_lastmod_and_valid_xml():
+    import xml.dom.minidom
+    from pipeline.build import build_sitemap
+    arts = [({"slug": "a", "updated": "2026-11-01"}, ""), ({"slug": "b", "updated": "2026-11-12"}, "")]
+    base = "https://x.test"
+    xml_ = build_sitemap([f"{base}/", f"{base}/a", f"{base}/b"], arts, base)
+    d = xml.dom.minidom.parseString(xml_.encode())
+    mods = [n.firstChild.data for n in d.getElementsByTagName("lastmod")]
+    assert mods == ["2026-11-12", "2026-11-01", "2026-11-12"]  # home = newest article date, not today's date
