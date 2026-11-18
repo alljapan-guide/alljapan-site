@@ -3,7 +3,7 @@ title: Nagasaki and Saga Ceramics: A 3-Day Itinerary to Arita and Karatsu
 slug: nagasaki-saga-ceramics-3-day-itinerary
 description: A 3-day Nagasaki and Saga itinerary from JNTO: Chinatown, Oura Cathedral, Glover Garden, the Peace Park, then Arita, Okawachiyama and Karatsu pottery towns.
 date: 2026-11-09
-updated: 2026-11-09
+updated: 2026-11-18
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_fukuoka_hotels
 image_queries: Meganebashi Bridge Nagasaki | Glover Garden Nagasaki | Karatsu Castle
@@ -83,6 +83,45 @@ For a festival, JNTO says that {{fact:ngs_hikiyama}}. On how the floats are made
 
 If you have a spare half day, JNTO suggests going east. It says that {{fact:ngs_itoshima}}.
 
+## Getting between the stops
+
+The trip crosses two prefectures, and the transfers are where a plan can go wrong. This table collects the times JNTO gives.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Tokyo to Hakata | Tokaido-Sanyo Shinkansen | About 5 hours |
+| Hakata to Nagasaki | JR Kagoshima Main Line | 1 hour 25 minutes |
+| Nagasaki to Arita | Seaside Liner, change at Haiki to the Sasebo Line | 1 hour 50 minutes |
+| Arita to Okawachiyama | Taxi | 25 minutes |
+| Okawachiyama to Karatsu | Taxi to Imari Station, then JR Chikuhi Line | 1 hour 10 minutes |
+| Fukuoka to Itoshima | Optional extra | Less than an hour from the city |
+
+## Arita or Karatsu?
+
+Our view: if you cannot do both, this table shows what each town offers, using the points JNTO makes.
+
+| | Arita and Okawachiyama | Karatsu |
+|---|---|---|
+| Main idea | The origin of Japanese porcelain | A coastal city with its own pottery |
+| What you see | A ceramic museum, a maker's museum and stepped kilns at Okawachiyama | A castle, a long sandy beach and the festival floats |
+| Look of the pottery | An almost transparent white base, colourful pictures | An earthier hue |
+| Best if you like | Pottery, museums, villages | Sea views, a castle, a festival |
+| Timing note | The Arita Ceramics Fair runs in Golden Week | The festival floats are on display all year at the exhibition hall |
+
+## Common mistakes on this route
+
+Our view: these are the ones to avoid.
+
+- **Putting Day 1 and Day 2 in one hard push.** Day 1 is heavy on history, and the Arita transfer takes {{fact:ngs_arita_route}}. Keep a gap.
+- **Forgetting the taxi legs.** JNTO uses taxis for the Okawachiyama and Imari legs, so check how to book one before you go.
+- **Visiting Arita in Golden Week by accident.** JNTO says {{fact:ngs_fair}}. That is a reason to go, but book a place to stay early.
+- **Treating the Peace Park as a photo stop.** It is a memorial, as the earlier note says.
+- **Assuming JNTO's details are current.** JNTO notes that {{fact:ngs_check}}.
+
+Our [cash and cashless guide](cash-cards-and-cashless-payments-in-japan.html) explains what to carry in smaller towns, and our [car rental guide](renting-a-car-in-japan-driving-permit-guide.html) covers the option of driving between the pottery towns.
+
+Last reviewed on 18 November 2026 against the JNTO itinerary cited in this guide.
+
 ## How to adapt the plan
 
 Our view: if you only have two days, keep Nagasaki for the first day and choose Arita or Karatsu for the second, not both. If you are interested in pottery, choose Arita and Okawachiyama; if you prefer a seaside town with a castle, choose Karatsu. Because the trains between Nagasaki and the pottery towns involve a change, check timetables before you go, and plan for a late return if you add a meal.
@@ -120,3 +159,15 @@ JNTO says it is held every year during Golden Week, from April 29 to May 5.
 ### What should you eat in Nagasaki?
 
 JNTO points to Nagasaki's Chinese-influenced dishes, including the chanpon noodle dish, which you can try in Chinatown.
+
+### Should I choose Arita or Karatsu?
+
+Our view: choose Arita and Okawachiyama if pottery is the reason for the trip, and Karatsu if you prefer a seaside town with a castle. The comparison table above sets out the differences.
+
+### How long is the train from Nagasaki to Arita?
+
+JNTO gives 1 hour 50 minutes by the Seaside Liner, with a change at Haiki to the Sasebo Line.
+
+### Can I do Nagasaki and the pottery towns from Fukuoka?
+
+JNTO gives 1 hour 25 minutes from Hakata Station to Nagasaki Station. Check the timetables for the return from Arita or Karatsu before you decide where to sleep.

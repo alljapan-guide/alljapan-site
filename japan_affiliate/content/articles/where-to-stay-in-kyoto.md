@@ -141,6 +141,8 @@ For capsule hotels, guesthouses and temple stays, see our [guide to budget stay 
 
 For something to fit into a Kyoto day, see our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html).
 
+For a quieter coastal night away from the city, see our [Amanohashidate trip from Kyoto](amanohashidate-trip-from-kyoto.html), which compares a day trip with one night.
+
 ## FAQ
 
 ### What is the best area to stay in Kyoto for first-timers?

@@ -3,7 +3,7 @@ title: Ise Food and Culture: A 2-Day Itinerary to Ise-jingu and Toba
 slug: ise-food-and-culture-2-day-itinerary
 description: A 2-day Ise itinerary from JNTO: Okage Yokocho, Ise-jingu inner and outer shrines, Ise lobster and tekonezushi, Meoto Iwa and Mikimoto Pearl Island.
 date: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-18
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_osaka_hotels
 image_queries: Okage Yokocho Ise | Ise Jingu Naiku Uji Bridge | Meoto Iwa Futami
@@ -73,6 +73,45 @@ For the last stop, JNTO says that {{fact:ifc_mikimoto_route}}. At the island, {{
 
 For more, JNTO suggests a theme park. It says that {{fact:ifc_spain}}.
 
+## Getting around Ise
+
+The shrine, the food streets and the coast sit in different places, so the transfers shape the days. This table collects the figures JNTO gives.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Osaka to Ise | Kintetsu Limited Express to Iseshi Station, then a bus | 2 hours in total |
+| Tokyo to Ise | Shinkansen to Nagoya, then the JR Rapid Mie | 3 hours 40 minutes in total |
+| Iseshi Station to Okage Yokocho | Bus to Jingu Kaikan Mae | 20 minutes |
+| Iseshi Station to the Outer Shrine | Walk south | 10 minutes |
+| Geku-mae to Meoto Iwa | Bus to Meoto Iwa Higashiguchi | 55 minutes |
+| Meoto Iwa to Mikimoto Pearl Island | Bus to Toba Center, then a walk | About 10 minutes on foot after the bus |
+
+## What to eat, and when it fits
+
+Our view: JNTO lists many dishes, so choose by situation rather than trying them all.
+
+| If you want | Try | What JNTO says |
+|---|---|---|
+| A signature local dish | Tekonezushi | Marinated strips of lean fish on vinegared sushi rice |
+| A layered style | Oshizushi | Made in a wooden block press, with Ise saury |
+| A light noodle meal | Ise udon | Known for its rich sauce |
+| A sweet stop on the street | Akafuku | A pounded rice cake with red bean paste, served for over three hundred years |
+| A big meal | Ise lobster | At its best between October and April |
+
+If you like sushi, our [sushi guide](sushi-in-japan-guide-types-how-to-order-etiquette.html) explains the styles and how to order.
+
+## Common mistakes on this route
+
+Our view: these are the ones to avoid.
+
+- **Saving the shrine for the end of the day.** Keep the shrine visits for the daytime and the food for the lunch break and the evening.
+- **Skipping the Outer Shrine.** JNTO's plan visits both, and the Outer Shrine is a short walk from the station.
+- **Planning the coast without the bus times.** The coast legs use buses, as the warning above says.
+- **Ordering lobster out of season.** JNTO says {{fact:ifc_lobster}}.
+- **Eating too much on day 1.** Choose one big meal and several small snacks.
+
+Last reviewed on 18 November 2026 against the JNTO itinerary cited in this guide.
+
 ## How to adapt the plan
 
 Our view: if you only have a day, choose Okage Yokocho, the Inner Shrine and a long lunch, and skip the coast. If you have an extra day, add Toba and stay a night near the bay. If you visit in winter, plan for Ise lobster season.
@@ -112,3 +151,15 @@ JNTO says it is a signature Ise dish of delicately marinated strips of lean fish
 ### What are Meoto Iwa?
 
 JNTO says they are wedded rocks standing 700 meters offshore, with the rising sun seen between them from May to July.
+
+### Which is better to visit first, the Inner or the Outer Shrine?
+
+JNTO's plan visits the Inner Shrine on day 1 and the Outer Shrine on day 2. The Outer Shrine is a 10-minute walk south of Iseshi Station, which makes it easy to fit into either day.
+
+### How long is the bus from Geku-mae to Meoto Iwa?
+
+JNTO says the bus from Geku-mae to Meoto Iwa Higashiguchi takes 55 minutes.
+
+### Which dish should I try first?
+
+Our view: tekonezushi, since JNTO calls it a signature dish of Ise. Add akafuku as a sweet stop.

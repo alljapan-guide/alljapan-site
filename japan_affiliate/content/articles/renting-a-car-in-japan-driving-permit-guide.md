@@ -85,6 +85,8 @@ A car earns its cost in a few places. Our guides to the [Kumano Kodo](kumano-kod
 
 If a driver has a disability, our [accessible travel guide](accessible-travel-in-japan-wheelchair-guide.html) explains the driver sign and sticker point JNTO mentions.
 
+For a trip where a car or taxi helps, see our [northern Okinawa itinerary](okinawa-churaumi-yanbaru-3-day-itinerary.html) and our [Nagasaki and Saga pottery itinerary](nagasaki-saga-ceramics-3-day-itinerary.html), which list the drive times JNTO gives between stops.
+
 ## FAQ
 
 ### Can I drive in Japan with my home licence?

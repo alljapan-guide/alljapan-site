@@ -3,7 +3,7 @@ title: Okinawa Itinerary: Churaumi Aquarium and Yanbaru Forest in 3 Days
 slug: okinawa-churaumi-yanbaru-3-day-itinerary
 description: A 3-day northern Okinawa itinerary from JNTO: Churaumi Aquarium, Bise Fukugi lane, Hiji Otaki Falls, Yanbaru forest, mangrove canoeing and Nago.
 date: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-18
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_okinawa_hotels
 image_queries: Churaumi Aquarium whale shark | Hiji Falls Okinawa | Hirugi mangrove Okinawa Yanbaru
@@ -69,6 +69,48 @@ JNTO's last day moves to the coast. At the first stop, {{fact:okn_mangrove}}. Fo
 
 For a second stop, JNTO says that {{fact:okn_neo}}. And for a sweet finish, {{fact:okn_pine}}.
 
+## Getting between the stops
+
+The stops are spread along the northern coast, so the transfers decide how much you can fit in. This table collects the figures JNTO gives.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Tokyo to Okinawa | The access route JNTO gives | 4 hours 45 minutes |
+| Naha Airport to Churaumi Aquarium | Okinawa Airport Shuttle bus (rapid) to the Kinen Koen Mae stop | 2 hours |
+| Nago Bus Terminal to Hiji Falls | Naha-Airport Limousine Bus, then a walk | 1 hour 40 minutes, plus a 20-minute walk |
+| Hiji Falls to Daiseki Rinzan Park | Rental car or taxi | 45 minutes |
+| Nago Bus Terminal to the mangroves | Ryukyu Bus to Gesashi | 1 hour |
+| Mangrove park to NEO Park Okinawa | Drive | 30 minutes |
+| NEO Park to Nago Pineapple Park | Drive | 10 minutes |
+
+## Bus or rental car?
+
+Our view: the table shows why this plan splits into two kinds of days. Day 2 and day 3 mix a bus leg with a drive, so the choice depends on who is travelling and how much you want to do.
+
+| Your situation | Better choice | Why |
+|---|---|---|
+| You want the aquarium and little else | Bus from Naha Airport | JNTO gives a direct shuttle to the aquarium stop |
+| You want Hiji Falls and the mangroves only | Buses from Nago Bus Terminal | JNTO gives a bus for each |
+| You want Daiseki Rinzan Park, NEO Park and the pineapple park | Rental car or taxi | JNTO gives driving times for these legs |
+| You have limited time on each day | Rental car | The drives are short, and you do not wait for buses |
+| You do not drive | Mix of buses and a taxi for the park legs | Keep the bus days and the taxi legs separate |
+
+If you rent a car, our [car rental and driving permit guide](renting-a-car-in-japan-driving-permit-guide.html) explains the licence rules before you book.
+
+## Common mistakes on this route
+
+Our view: these are the ones to avoid.
+
+- **Planning the falls for late afternoon.** JNTO says {{fact:okn_hiji_hours}}. Reach the trail well before the last entry.
+- **Treating the forest park like a short stop.** JNTO says {{fact:okn_daiseki_hours}}. Plan an unhurried visit and check the last entrance.
+- **Assuming one bus reaches every stop.** The legs in the table use different buses, so check each timetable the night before.
+- **Booking the night walk without checking.** JNTO says {{fact:okn_night}}. Confirm the booking terms and the meeting place.
+- **Packing every stop into one day.** The aquarium alone takes several hours, as JNTO says. Leave the rest of day 1 loose.
+
+If you travel with children, our [family travel guide](traveling-to-japan-with-children.html) covers what to plan for.
+
+Last reviewed on 18 November 2026 against the JNTO itinerary cited in this guide.
+
 ## How to adapt the plan
 
 Our view: if you only have two days, keep day 1 and day 3 and replace the waterfall with extra time at the aquarium. If you want a beach day, add a night at the coast rather than trying to fit swimming into a day of bus transfers. If you travel with children, the aquarium and the zoo make the trip easy, and the night hike is better kept for older children.
@@ -110,3 +152,15 @@ JNTO says it is home to around 10,000 fish of about 680 species, with whale shar
 ### Can you canoe in the mangroves?
 
 JNTO says Higashimura Fureai Hirugi Park has mangroves that you can view from a promenade or from a canoe.
+
+### Do I need a rental car in northern Okinawa?
+
+Not for every stop. JNTO gives bus routes to the aquarium, Hiji Falls and the mangroves, and gives driving times for Daiseki Rinzan Park, NEO Park and the pineapple park. Our car rental guide explains the licence rules if you drive.
+
+### How long is the trip from Naha Airport to the aquarium?
+
+JNTO says the Okinawa Airport Shuttle bus (rapid) from Naha Airport to the Kinen Koen Mae stop takes 2 hours.
+
+### What is the last entry for Hiji Falls?
+
+JNTO gives the Hiji trail hours and the last entry time. Check the official page before you go, because small parks can change them.

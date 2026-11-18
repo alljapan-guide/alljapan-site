@@ -78,6 +78,8 @@ For ideas, look at our [Tokyo guide](tokyo-things-to-do-first-time.html) and our
 
 For stations, taxis and hotels that suit strollers and reduced mobility, our [accessible travel guide](accessible-travel-in-japan-wheelchair-guide.html) has a decision table and a stage-by-stage checklist.
 
+For a trip with an aquarium and a zoo, see our [northern Okinawa itinerary](okinawa-churaumi-yanbaru-3-day-itinerary.html), which also shows the bus and car legs.
+
 ## FAQ
 
 ### Is Japan good for kids?

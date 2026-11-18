@@ -104,6 +104,8 @@ Sushi is easy to add to a day you already have. If you are in Tokyo, our [tradit
 
 {{note|JNTO's page may change, and restaurants open and close. Use this guide to understand the formats, then check each restaurant's own page for hours and booking.}}
 
+If you want regional sushi styles, our [Ise food itinerary](ise-food-and-culture-2-day-itinerary.html) describes tekonezushi and oshizushi from the JNTO plan.
+
 ## FAQ
 
 ### Is sushi always raw fish?
