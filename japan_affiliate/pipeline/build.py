@@ -114,6 +114,22 @@ def build_sitemap(urls, articles, base):
             + rows + "\n</urlset>\n")
 
 
+def build_feed(articles, base, site_name, limit=50):
+    """Atom feed of the most recently updated articles. Search Console also accepts a feed as a sitemap, which gives a second,
+    differently-formatted file to submit when the XML sitemap cannot be read."""
+    rows = sorted(articles, key=lambda a: (str(a[0]["updated"]), a[0]["slug"]), reverse=True)[:limit]
+    newest = str(rows[0][0]["updated"]) if rows else datetime.date.today().isoformat()
+    out = ['<?xml version="1.0" encoding="UTF-8"?>', '<feed xmlns="http://www.w3.org/2005/Atom">',
+           f"<title>{escape(site_name)}</title>", f'<link href="{base}/feed.xml" rel="self"/>', f'<link href="{base}/"/>',
+           f"<id>{base}/</id>", f"<updated>{newest}T00:00:00Z</updated>"]
+    for m, _ in rows:
+        url = clean_url(base, f"{m['slug']}.html")
+        out.append(f"<entry><title>{escape(m['title'])}</title><link href=\"{escape(url)}\"/><id>{escape(url)}</id>"
+                   f"<updated>{m['updated']}T00:00:00Z</updated><summary>{escape(m.get('description', ''))}</summary></entry>")
+    out.append("</feed>")
+    return "\n".join(out) + "\n"
+
+
 def build(strict=True):
     site = load_json("config/site.json")
     base = site["base_url"].rstrip("/")
@@ -201,6 +217,7 @@ def build(strict=True):
     sitemap_xml = build_sitemap(urls, articles, base)
     (DIST / "sitemap.xml").write_text(sitemap_xml, encoding="utf-8")
     (DIST / "sitemap-pages.xml").write_text(sitemap_xml, encoding="utf-8")  # same content under a second name (see build_sitemap)
+    (DIST / "feed.xml").write_text(build_feed(articles, base, site["name"]), encoding="utf-8")
     (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {base}/sitemap.xml\nSitemap: {base}/sitemap-pages.xml\n",
                                      encoding="utf-8")
     return len(articles)

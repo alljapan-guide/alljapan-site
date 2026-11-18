@@ -52,3 +52,13 @@ def test_sitemap_has_per_article_lastmod_and_valid_xml():
     d = xml.dom.minidom.parseString(xml_.encode())
     mods = [n.firstChild.data for n in d.getElementsByTagName("lastmod")]
     assert mods == ["2026-11-12", "2026-11-01", "2026-11-12"]  # home = newest article date, not today's date
+
+
+def test_atom_feed_lists_newest_articles_with_clean_urls():
+    import xml.dom.minidom
+    from pipeline.build import build_feed
+    arts = [({"slug": "old", "title": "Old & Co", "updated": "2026-11-01", "description": "d1"}, ""),
+            ({"slug": "new", "title": "New", "updated": "2026-11-12", "description": "d2"}, "")]
+    d = xml.dom.minidom.parseString(build_feed(arts, "https://x.test", "Site", limit=1).encode())
+    assert [n.getAttribute("href") for n in d.getElementsByTagName("entry")[0].getElementsByTagName("link")] == ["https://x.test/new"]
+    assert len(d.getElementsByTagName("entry")) == 1
