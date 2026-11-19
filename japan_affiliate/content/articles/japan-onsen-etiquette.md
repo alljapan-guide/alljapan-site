@@ -112,6 +112,8 @@ Many onsen are part of a ryokan stay, and our [ryokan guide](how-to-stay-at-a-ry
 
 If you plan to ski or snowboard, our [skiing and snowboarding guide](skiing-and-snowboarding-in-japan-first-timer-guide.html) explains the season, the main resorts and how to get there.
 
+For a mixed-gender open-air bath by the sea, where swimsuits are needed, see our [Izu Oshima itinerary](izu-oshima-island-2-day-itinerary.html); for a region built around hot springs, see our [Oita hot springs itinerary](oita-hot-springs-beppu-yufuin-4-day-itinerary.html).
+
 ## FAQ
 
 ### Do I have to be naked in an onsen?

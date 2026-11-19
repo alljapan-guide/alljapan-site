@@ -3,7 +3,7 @@ title: Izu Oshima Island: A 2-Day Tokyo Island Trip with a Volcano
 slug: izu-oshima-island-2-day-itinerary
 description: A 2-day Izu Oshima itinerary from JNTO: jet ferry from Tokyo, the Mt. Mihara crater walk, volcano museum, camellia park, Hamanoyu hot spring and bekko sushi.
 date: 2026-11-10
-updated: 2026-11-10
+updated: 2026-11-19
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: Mount Mihara Oshima | Oshima Airport aircraft | Izu Oshima beach
@@ -95,6 +95,44 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
 
+## Getting there and around: the figures in one table
+
+The ferry decides how much of the trip is left, so it helps to see every figure JNTO gives in one place.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Tokyo to Okada Port | High-speed jet ferry from Takeshiba Pier | 1 hour 45 minutes |
+| Tokyo to the island | Flight | 30 minutes |
+| Reaching Takeshiba Pier | Takeshiba Station or Hamamatsucho Station | not given |
+| Mt. Mihara, whole hike including the caldera circuit | On foot | 1 to 2 hours |
+| Oshima Island Park to Hamanoyu | Oshima Bus to Motomachi Pier, then walk | 4-minute walk |
+
+## Ferry or flight, one night or two?
+
+Our view: the table shows why a day trip is tight. JNTO plans two days, and the ferry alone takes a large part of each end of the trip.
+
+| You want | Better choice | Why |
+|---|---|---|
+| The shortest time in transit | Flight | JNTO gives 30 minutes |
+| To start from a pier in Tokyo | Jet ferry | The pier is reached from Takeshiba or Hamamatsucho Station |
+| A hike, a museum and a bath with no rush | Two days on the island | JNTO's itinerary has a recommended length of 2 days |
+| Flowers as the main sight | Plan for January to March | JNTO gives that as the camellia bloom |
+| Views of Mt. Fuji and Hakone | A clear day on the crater walk | JNTO says they show on a clear day |
+
+## Common mistakes on this trip
+
+Our view: these are the ones worth avoiding.
+
+- **Treating the ferry as a short hop.** JNTO says {{fact:osm_ferry}}. Count that time at both ends of the trip.
+- **Rushing Mt. Mihara.** On the hike, JNTO's advice is to {{fact:osm_hike}}. Start in the morning, not late in the day.
+- **Forgetting a swimsuit.** JNTO notes that {{fact:osm_hamanoyu}}.
+- **Coming for the camellias at the wrong time.** JNTO says {{fact:osm_camellia}}.
+- **Forgetting that the mountain is a volcano.** JNTO notes that {{fact:osm_mihara}}. Check the current access rules before you go.
+
+If you want hot spring rules before the bath, our [onsen etiquette guide](japan-onsen-etiquette.html) explains them.
+
+Last reviewed on 19 November 2026 against the JNTO itinerary cited in this guide.
+
 ## FAQ
 
 ### How many days do you need for Izu Oshima?
@@ -116,3 +154,15 @@ JNTO says the camellia garden has about 1,000 species in full bloom between Janu
 ### Is the Hamanoyu hot spring mixed?
 
 JNTO says it is a mixed-gender bath, so swimsuits are necessary.
+
+### Is it better to take the ferry or fly to Izu Oshima?
+
+JNTO gives 1 hour 45 minutes for the jet ferry from Takeshiba Pier and 30 minutes for flights. Our view: the flight saves time, and the ferry starts from a pier in Tokyo, so choose by the schedule that fits your day.
+
+### Can I visit Izu Oshima as a day trip?
+
+JNTO's itinerary has a recommended length of 2 days. Our view: with a ferry of 1 hour 45 minutes in one direction, a day trip leaves little time for the hike, so a night on the island suits the plan better.
+
+### Is the zoo at the park free?
+
+JNTO says the adjacent zoo is free-of-charge for visitors and has animals such as ring-tailed lemurs and red pandas.

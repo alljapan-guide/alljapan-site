@@ -3,7 +3,7 @@ title: Oita Hot Springs: A 4-Day Beppu, Yufuin and Kunisaki Itinerary
 slug: oita-hot-springs-beppu-yufuin-4-day-itinerary
 description: A 4-day Oita itinerary from JNTO: Yufuin onsen, Lake Kinrin, the Hells of Beppu, sand baths, jigokumushi food and the temples of Kunisaki Peninsula.
 date: 2026-11-08
-updated: 2026-11-08
+updated: 2026-11-19
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: Yufuin Lake Kinrin | Beppu Umi Jigoku hell | Beppu sand bath | Usa Jingu shrine
@@ -96,6 +96,50 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole island at a glance, including routes, hot springs and how to link the cities, see our [Kyushu travel guide](kyushu-travel-guide-fukuoka-nagasaki-kumamoto-and-beyond.html).
 
+## Yufuin or Beppu: choosing your base
+
+The plan covers both towns, but they offer different things. This table puts the JNTO descriptions side by side.
+
+| | Yufuin | Beppu |
+|---|---|---|
+| Character | Careful urban planning keeps its character without becoming overly touristic | The largest number of hot springs in Japan, with dozens of plumes of steam |
+| What JNTO lists | Galleries and workshops of painters, potters and craftspeople; free foot spas; Lake Kinrin; the Yunotsubo Kaido route; Mt. Yufu | The Hells of Beppu (eight to stroll around), jigokumushi cooking, the sand bath at Hyotan Onsen, the Kunisaki Peninsula bus tour |
+| Bathing note | Kua-ju Yufuin is swimsuit-only; Sansuikan and Musouen let non-staying guests use their baths for a fee | Spring water in the Hells reaches up to 150 degrees Celsius |
+
+## Getting between the stops
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Tokyo to Yufuin | Flight from Haneda to Oita Airport, then the Oita Kotsu Kamenoi Express Bus | 2 hours 40 minutes in total (flight 1 hour 35 minutes, bus 55 minutes) |
+| Yufuin Station to Beppu | Kamenoi Bus | 1 hour in the route, 1 hour 30 minutes in the text |
+| Beppu to the Kunisaki Peninsula | Sightseeing bus from Beppu Bus Terminal | booking in advance recommended |
+| Beppu Station to Hyotan Onsen | Taxi, as JNTO suggests | not given |
+| Usa-jingu | On foot around the complex | about an hour |
+
+## How many days do you have?
+
+Our view: JNTO's plan is four days, but the stops can be split into three groups, so the plan bends to your time.
+
+| Your time | Suggested plan | Why |
+|---|---|---|
+| Four days | The full JNTO plan: Yufuin, Beppu, Kunisaki, then an optional Dazaifu Tenmangu | This is the recommended length |
+| Three days | Yufuin and Beppu, and one Kunisaki stop | The two towns carry the hot spring theme |
+| Two days | Beppu only, or Yufuin only | Choose by the table above: sand bath and Hells, or galleries and foot spas |
+
+## Common mistakes on this trip
+
+Our view: these are the ones worth avoiding.
+
+- **Assuming every bath takes any guest.** JNTO says {{fact:oit_swim}}.
+- **Expecting the inn baths to be free.** JNTO says {{fact:oit_baths}}.
+- **Not booking the Kunisaki bus.** JNTO notes that {{fact:oit_kunisaki}}.
+- **Trusting one bus time.** The Beppu bus is listed at 1 hour in the route and 1 hour 30 minutes in the text, so plan with the longer figure.
+- **Expecting hot water everywhere.** JNTO says {{fact:oit_kan}}.
+
+For the bathing rules, our [onsen etiquette guide](japan-onsen-etiquette.html) covers the basics.
+
+Last reviewed on 19 November 2026 against the JNTO itinerary cited in this guide.
+
 ## FAQ
 
 ### How many days do you need for Oita hot springs?
@@ -117,3 +161,15 @@ JNTO says it is seafood and vegetables cooked over hot springs in bamboo steamer
 ### Can day visitors use the baths in Yufuin?
 
 JNTO says the outdoor baths at Sansuikan and Musouen are highly recommended and that both inns allow non-staying guests to use their facilities for a fee.
+
+### Should I stay in Yufuin or Beppu?
+
+Our view: stay in Yufuin if you prefer a quiet town with galleries and foot spas, and in Beppu if you want the Hells, the sand bath and the most springs. JNTO's plan uses both, so a night in each works.
+
+### How long is the bus between Yufuin and Beppu?
+
+JNTO lists the Kamenoi Bus from Yufuin Station to Beppu as 1 hour in the route and 1 hour 30 minutes in the text. Plan with the longer figure.
+
+### Do I need a swimsuit in Yufuin?
+
+At Kua-ju Yufuin, yes. JNTO says it is swimsuit-only, so check each bath before you go.

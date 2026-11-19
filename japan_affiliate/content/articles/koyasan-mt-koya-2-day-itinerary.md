@@ -3,7 +3,7 @@ title: Koyasan Itinerary: A 2-Day Mt. Koya Trip with a Temple Stay
 slug: koyasan-mt-koya-2-day-itinerary
 description: A 2-day Koyasan itinerary from JNTO: getting there from Osaka, Daimon Gate, Danjo Garan, Kongobuji stone garden, Okunoin cemetery and a shukubo temple stay.
 date: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-19
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_osaka_hotels
 image_queries: Okunoin Koyasan | Koyasan Daimon | Koyasan Danjo Garan Konpon Daito | Kongobuji Banryutei
@@ -87,6 +87,54 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For other budget and cultural stays, see our [guide to stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
 
+## Getting to Koyasan: the figures in one table
+
+The trip is long, and the last part is slow, so the route matters. This table collects the figures JNTO gives from Osaka.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Osaka to Koyasan in total | Midosuji Line, Nankai Limited Express, local line, then the cable car | 3 hours |
+| Osaka to Namba Station | Midosuji Subway Line | 15 minutes |
+| Namba to Hashimoto Station | Nankai Limited Express | 50 minutes |
+| Hashimoto to Gokurakubashi Station | Local line | 45 minutes |
+| Namba to Gokurakubashi Station (alternative) | Nankai Koya Line | 80 minutes |
+| Gokurakubashi to Mt. Koyasan Station | Koyasan Cable Car | 5 minutes |
+| Koyasan Station to Daimon Bus Stop | Nankai Rinkan Bus | 10 minutes |
+
+## Day trip or a night in a temple?
+
+Our view: the stay is a large part of the point. JNTO's itinerary has a recommended length of 2 days and includes the shukubo and the morning prayers.
+
+| You want | Better choice | Why |
+|---|---|---|
+| The morning prayers | Stay in a shukubo | JNTO lists staying at a shukubo and joining the morning prayers as a highlight |
+| A simple stay | A basic shukubo | JNTO says simple ones have basic accommodations, vegan meals and shared bathrooms |
+| A more comfortable stay | A luxurious shukubo | JNTO says they range up to more luxurious ones |
+| An experience | A lodging that offers one | JNTO says many offer tea ceremony and sutra copying |
+| Time to see the temples unhurried | Stay a night | JNTO's itinerary has a recommended length of 2 days |
+
+## What to see, and what each stop is for
+
+| Stop | What JNTO says |
+|---|---|
+| Daimon | A huge vermilion gate flanked by fierce wooden guardians |
+| Danjo Garan | The two-story round tahoto-style pagoda; the centre of the town |
+| Koyasan Reihokan Museum | Cultural assets, some over 1,000 years old, designated as National Treasures |
+| Kongobuji | The head temple, with the largest stone garden in the country |
+| Okunoin | The path passes more than 200,000 gravestones and towers |
+
+## Common mistakes on this trip
+
+Our view: these are the ones worth avoiding.
+
+- **Treating Okunoin as a quick stop.** JNTO says {{fact:kys_okunoin}}. Allow an unhurried walk.
+- **Forgetting the bridge.** JNTO says {{fact:kys_bridge}}.
+- **Booking a shukubo without checking.** JNTO says {{fact:kys_shukubo_range}}. Read what the lodging offers before you book.
+- **Underestimating the journey.** JNTO says {{fact:kys_nankai}}. Plan arrival with the cable car and bus in mind.
+- **Expecting a menu to suit everyone.** The simple lodgings serve vegan meals, which fits our [vegetarian and vegan travel guide](vegetarian-and-vegan-travel-in-japan.html), but tell the lodging about any needs when you book.
+
+Last reviewed on 19 November 2026 against the JNTO itinerary cited in this guide.
+
 ## FAQ
 
 ### How many days do you need for Koyasan?
@@ -108,3 +156,15 @@ JNTO says it is the spiritual resting place of Kukai, reached along a cedar-line
 ### What is the stone garden at Kongobuji?
 
 JNTO says Kongobuji has the largest stone garden in the country, with two dragons created from 140 pieces of blue granite.
+
+### Can I visit Koyasan as a day trip from Osaka?
+
+JNTO gives 3 hours from Osaka in one direction and plans 2 days. Our view: a day trip is possible but leaves little time at Okunoin, so a night in a shukubo suits the plan better.
+
+### Are shukubo meals vegetarian?
+
+JNTO says simple lodgings have vegan meals. Tell the lodging about any dietary needs when you book.
+
+### Do I need to book a shukubo in advance?
+
+JNTO says there are around 52 shukubo temple lodgings in the area. Our view: check the lodging's own page for booking rules, since they differ by lodging.

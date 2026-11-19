@@ -99,6 +99,8 @@ For the short climbing season on Mt. Fuji, see our [climbing guide](mt-fuji-clim
 
 For a winter trip built around snow, see our [Niigata winter weekend itinerary](niigata-winter-weekend-itinerary.html); for a northern wilderness trip across the seasons, see our [Shiretoko itinerary](shiretoko-peninsula-3-day-itinerary.html).
 
+For a trip built around hot springs in any season, see our [Oita hot springs itinerary](oita-hot-springs-beppu-yufuin-4-day-itinerary.html).
+
 ## FAQ
 
 ### What is the best season to visit Japan?

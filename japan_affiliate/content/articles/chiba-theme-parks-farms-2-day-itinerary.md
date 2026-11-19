@@ -3,7 +3,7 @@ title: Chiba Beyond Disneyland: A 2-Day Family Itinerary from Tokyo
 slug: chiba-theme-parks-farms-2-day-itinerary
 description: A 2-day Chiba itinerary from JNTO: Kamogawa Seaworld, Mt. Nokogiri views and hot spring, Mother Farm, Tokyo German Village and Sodegaura Seaside Park.
 date: 2026-11-11
-updated: 2026-11-11
+updated: 2026-11-19
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: Kamogawa Seaworld | Mother Farm Futtsu | Tokyo German Village
@@ -85,6 +85,46 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole Tokyo area at a glance, including travel times, day trips and two-day escapes, see our [Kanto travel guide](kanto-travel-guide-tokyo-day-trips-and-beyond.html).
 
+## Getting between the stops
+
+This table collects the figures JNTO gives, so you can see how the two days fit together.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Tokyo to Kamogawa Seaworld | JR Sotobo Line Limited Express to Awa-Kamogawa Station, then a free shuttle bus (10 minutes) | around 2 hours |
+| Tokyo Station to Kamogawa | Direct Keisei Bus from the Yaesu South Exit Bus Terminal | 2 hours 15 minutes |
+| Seaworld to Mt. Nokogiri | Free shuttle to Awa-Kamogawa Station, then the JR Uchibo Line to Hamakanaya Station | 1 hour 20 minutes |
+| Mt. Nokogiri to Umibe no Yu Hot Spring | Drive | 15 minutes |
+| Day 2: to Mother Farm | JR Uchibo Line to Sanukimachi Station, then the Nitto Kotsu Bus | 41 minutes by bus |
+
+## Which stop for which traveller
+
+Our view: the two days suit different tastes, so you can keep the stops that fit your group.
+
+| Your group | Best stop | Why |
+|---|---|---|
+| Animal lovers | Kamogawa Seaworld | JNTO lists over 11,000 marine creatures across 800 species |
+| Walkers who want views | Mt. Nokogiri | JNTO says it is 330 meters high and covered in walking trails |
+| Families | Mother Farm | JNTO lists milking cows, riding horses, and making cheese and butter |
+| People who want open lawns | Sodegaura Seaside Park | JNTO lists open lawns, ocean views and publicly accessible barbecue facilities |
+| Visitors in spring | The farm area | JNTO says the area is particularly beautiful in springtime |
+
+For a train or a bus: JNTO gives around 2 hours by train and shuttle and 2 hours 15 minutes by direct bus. Our view: choose the bus if you want to avoid a change, and the train if you want the exact timetable.
+
+## Common mistakes on this route
+
+Our view: these are the ones worth avoiding.
+
+- **Treating Mother Farm as a short stop.** JNTO says {{fact:chb_mother}}. Plan a long visit.
+- **Rushing Mt. Nokogiri.** JNTO says {{fact:chb_nokogiri}}. Leave time for the trails and the views.
+- **Forgetting the free shuttle.** The shuttle bus between Seaworld and Awa-Kamogawa Station takes 10 minutes, so build it into the day.
+- **Missing the show.** JNTO calls the killer whale live show a highlight, so check the show times before you go.
+- **Starting day 2 late.** JNTO gives 41 minutes by bus after the train, so an early start keeps the farm visit relaxed.
+
+If you travel with children, our [family travel guide](traveling-to-japan-with-children.html) covers what to plan for.
+
+Last reviewed on 19 November 2026 against the JNTO itinerary cited in this guide.
+
 ## FAQ
 
 ### How many days do you need for Chiba's theme parks and farms?
@@ -106,3 +146,15 @@ JNTO says it is a sprawling 250-hectare farm-based amusement park where you can 
 ### What can you see from Mt. Nokogiri?
 
 JNTO says the trails offer views of Tokyo Bay, Tokyo Skytree, the Miura Peninsula, Mt. Fuji and Izu Oshima.
+
+### Is it better to take the train or the direct bus to Kamogawa?
+
+JNTO gives around 2 hours by the JR Sotobo Line Limited Express plus a 10-minute shuttle, and 2 hours 15 minutes by the direct Keisei Bus from Tokyo Station. Our view: the bus avoids a change, and the train fits a fixed timetable.
+
+### Is this trip good for children?
+
+JNTO says beyond Disneyland, Chiba is home to a number of family-friendly theme parks, and Mother Farm has cow milking and horse riding.
+
+### How long does the trip from Mt. Nokogiri to the hot spring take?
+
+JNTO says Umibe no Yu Hot Spring is a 15-minute drive north of the mountain.

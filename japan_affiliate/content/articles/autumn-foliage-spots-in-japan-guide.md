@@ -80,6 +80,8 @@ For the season in general, our [weather by season guide](japan-weather-by-season
 
 For a two-day plan built around the maples of Miyajima, see our [Hiroshima in autumn: a 2-day itinerary](hiroshima-autumn-2-day-itinerary.html).
 
+For beech forests and lakes in the Tohoku mountains, see our [Shirakami and Juniko itinerary](shirakami-juniko-tohoku-2-day-itinerary.html).
+
 ## FAQ
 
 ### Which autumn foliage spots does JNTO recommend?

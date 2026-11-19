@@ -3,7 +3,7 @@ title: Shirakami and Juniko in Tohoku: A 2-Day Scenic Train and Lakes Trip
 slug: shirakami-juniko-tohoku-2-day-itinerary
 description: A 2-day Tohoku itinerary from JNTO: the Gono Line Resort Shirakami train, the Juniko Twelve Lakes, Furofushi Onsen and the Senjojiki coast.
 date: 2026-11-07
-updated: 2026-11-07
+updated: 2026-11-19
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: Gono Line Resort Shirakami train | Senjojiki Aomori
@@ -94,6 +94,47 @@ Not sure this is the right plan? Compare more options in our [Japan itineraries 
 
 For the whole region at a glance, including routes, travel times and how to link the towns, see our [Tohoku travel guide](tohoku-travel-guide-sendai-aizu-aomori-and-beyond.html).
 
+## Getting between the stops
+
+The trip depends on a few train and bus legs. This table collects the figures JNTO gives.
+
+| Leg | How JNTO says to go | Time JNTO gives |
+|---|---|---|
+| Tokyo to Akita Station | Akita Shinkansen Komachi | 3 hours 50 minutes |
+| Akita to Higashi-Noshiro Station | Limited Express Tsugaru | 45 minutes |
+| Higashi-Noshiro to Juniko Station | Resort Shirakami train | 1 hour 15 minutes |
+| Tokyo to Juniko in total | The three legs above | 4 hours 45 minutes |
+| Juniko Station to Oike bus stop (Oku Juniko) | Konan Bus | 15 minutes |
+| Furofushi Onsen to Henashi Station | On foot | 10 minutes |
+| Henashi Station onward | Gono Line | 3 minutes |
+| On to Senjojiki Station | Resort Shirakami | 40 minutes |
+
+## Which sights to put first
+
+Our view: with two days you cannot do every lake and every viewpoint. Choose by what you came for.
+
+| You came for | Go to | Why |
+|---|---|---|
+| A clear blue lake | Aoike Lake | JNTO calls it a dazzling shade of clear blue |
+| Autumn colour | Ochikuchi-no-ike Lake | JNTO says it is especially scenic in autumn as the beechwood trees turn orange |
+| A dramatic landscape | Nihon Canyon | JNTO compares it to the Grand Canyon, with white tuff exposed |
+| A bath with a sea view | Furofushi Onsen | JNTO says the outdoor bath protrudes into the Sea of Japan |
+| Unusual coastal rock formations | Senjojiki | JNTO describes rock formations raised by an earthquake more than 200 years ago |
+
+For colour in the leaves, our [autumn foliage guide](autumn-foliage-spots-in-japan-guide.html) covers other places to see them.
+
+## Common mistakes on this trip
+
+Our view: these are the ones worth avoiding.
+
+- **Treating it as a short trip from Tokyo.** JNTO says {{fact:tsh_tokyo}}. Leave room for the three legs and the changes between them.
+- **Expecting only twelve lakes.** JNTO says {{fact:tsh_33}}.
+- **Skipping the train.** JNTO describes the line this way: {{fact:tsh_gono}}. The ride is part of the trip, not only the way there.
+- **Packing the lakes into one hour.** The bus to Oku Juniko takes 15 minutes from the station, so count the walking on top of it.
+- **Leaving the coast for last without time.** Day 2 needs a 10-minute walk to Henashi Station, then trains of 3 and 40 minutes, so start early.
+
+Last reviewed on 19 November 2026 against the JNTO itinerary cited in this guide.
+
 ## FAQ
 
 ### How many days does the itinerary take?
@@ -115,3 +156,15 @@ JNTO says it is famous for an outdoor bath that protrudes into the Sea of Japan.
 ### What is on the way back to Tokyo?
 
 JNTO suggests Kakunodate, a 17th century samurai town famed for its cherry blossoms.
+
+### Can I do Shirakami and Juniko as a day trip from Tokyo?
+
+JNTO gives 4 hours 45 minutes from Tokyo to Juniko Station. Our view: a day trip would leave almost no time at the lakes, so plan one night or more.
+
+### Which lake is best in autumn?
+
+JNTO says Ochikuchi-no-ike Lake is a well-known photo spot, especially scenic in autumn as the beechwood trees turn orange.
+
+### Are there really only twelve lakes?
+
+No. JNTO says there are in fact 33 lakes, but the region is called Juniko because only 12 could be seen from the collapsed mountain.

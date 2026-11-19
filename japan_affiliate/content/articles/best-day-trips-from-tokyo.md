@@ -83,6 +83,8 @@ For a climb rather than a view, see our [Mt. Fuji climbing guide](mt-fuji-climbi
 
 For a longer trip with a hot spring night, see our [Yamanashi hot springs: a 2-day trip from Tokyo](yamanashi-hot-springs-2-day-itinerary.html).
 
+For an island trip that needs a night, see our [Izu Oshima itinerary](izu-oshima-island-2-day-itinerary.html).
+
 ## FAQ
 
 ### Which day trip from Tokyo is the easiest?
