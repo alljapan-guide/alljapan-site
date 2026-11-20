@@ -1,16 +1,16 @@
 ---
 title: Nara Day Trip from Kyoto or Osaka: Getting There and What to See
 slug: nara-day-trip-from-kyoto-osaka
-description: How to do Nara as a day trip from Kyoto or Osaka: train options, the two stations, Nara Park, Todaiji and the deer, using official sources.
+description: Nara as a day trip from Kyoto or Osaka: trains, the two stations, the real walking and bus times to Todaiji and Kasugataisha, Nara Park and the deer.
 date: 2026-10-23
-updated: 2026-10-23
+updated: 2026-11-20
 cluster: itineraries
 affiliates: trip_nara_hotels | klook | viator | gyg
 image_queries: Nara Park deer Todai-ji | Todai-ji Daibutsuden Nara | Kasuga Taisha lanterns Nara | Deer Nara Park
 ---
 Nara is an easy day trip from both Kyoto and Osaka, and the official Nara tourism guide treats it that way: it says {{fact:nara_just30}}. The two things to sort out in advance are which station you use and how you will walk between the sights in Nara Park.
 
-This guide sticks to what the official Nara travel guide says about access and the park. Where we add advice, we label it "Our view", so you can tell sourced information from editorial opinion.
+This guide uses the official Nara travel guide for access and the park, and Kintetsu Railway's own Nara pages for the walking and bus times to the main sights. Where we add advice, we label it "Our view", so you can tell sourced information from editorial opinion. Last reviewed on 20 November 2026 against the pages in the Sources box.
 
 {{photo:1|A deer on stone steps in Nara Park}}
 
@@ -31,6 +31,14 @@ Our view: the best choice is usually the line that starts closest to your hotel,
 The official guide notes that {{fact:nara_two_stations}}. That matters because the stations are in different places relative to the park.
 
 According to the park guide, {{fact:nara_walk_kintetsu}}, while {{fact:nara_walk_jr}}. Our view: if you want to start in the park as quickly as possible, Kintetsu-Nara Station is the more direct arrival point, and if you are using a JR pass or JR tickets, plan for the longer walk or a bus.
+
+## How far the sights really are from the station
+
+The two sources answer different questions. The Nara guide says the park starts close to Kintetsu-Nara Station. Kintetsu, which runs that station, gives the times to the sights inside it. For Todaiji it says that {{fact:kt_todaiji}}. For Kasugataisha it says that {{fact:kt_kasuga}}.
+
+So the park begins a short walk from the station, but its main sights are a longer walk away, with a bus as the alternative. Neither source is wrong; the first tells you where the park is, and the second tells you how long it takes to reach the sights.
+
+Our view: this changes how to read the plan below. Kintetsu gives its times from Kintetsu-Nara Station only. From JR Nara Station you first walk to the park, which the Nara guide puts at roughly 20 minutes, so expect the sights to be further still. Treat that as a rough reading of the two sources, not a timetable, and decide on the bus or the walk once you see how tired you are.
 
 {{note|The official guide says {{fact:nara_ic_pass}}. If you already carry a transit card, see our [IC card guide](japan-ic-card-guide.html) before you buy another one.}}
 
@@ -80,7 +88,7 @@ stops: Arrive in Nara=Choose Kintetsu-Nara Station for the shortest walk to the 
 
 Our view: choose by what you want your evenings to look like, because Nara is a short ride from both. Kyoto suits a quiet, traditional stay, and our [Kyoto accommodation guide](where-to-stay-in-kyoto.html) compares the areas. Osaka suits eating out; read our [Osaka food guide](osaka-food-guide.html) for ideas. If Nara is one stop on a longer route, our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows where it can fit.
 
-{{pick|If you are staying in Kyoto, use the Kintetsu line to arrive at Kintetsu-Nara Station and walk into the park. This is our editorial pick, based on the walking distances in the official guide, not a sourced ranking.}}
+{{pick|If you are staying in Kyoto, use the Kintetsu line to arrive at Kintetsu-Nara Station and walk into the park. Then allow time for the walk or the bus to Todaiji and Kasugataisha, as Kintetsu describes above. This is our editorial pick, based on the walking distances in the two sources, not a sourced ranking.}}
 
 ## Booking a guided visit
 
@@ -115,6 +123,10 @@ Our view: yes, if you want temples, the Great Buddha and the deer in one walkabl
 ### Which station should I use?
 
 Kintetsu-Nara Station is a short walk from the park according to the official guide. From JR Nara Station, the guide says the walk along Sanjo-dori Street takes roughly 20 minutes.
+
+### How far is Todaiji from Kintetsu-Nara Station?
+
+Kintetsu says you can walk approx. 20 minutes, or take the Nara Kotsu bus to the Todaiji Daibutsuden/Kasugataisha-mae bus stop and walk approx. 5 minutes. For Kasugataisha it gives approx. 25 minutes on foot.
 
 ### Is it safe to feed the deer?
 

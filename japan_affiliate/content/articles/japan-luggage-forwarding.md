@@ -3,14 +3,14 @@ title: Luggage Forwarding in Japan: How Takkyubin Works
 slug: japan-luggage-forwarding
 description: How to send luggage between airports, hotels and cities in Japan: Hands-Free Travel, the limits, what you cannot send and how to book, from official sources.
 date: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-20
 cluster: planning
 affiliates: klook
 image_queries: Haneda Airport arrivals lobby | Japan train station coin lockers | Yamato Transport truck | FamilyMart Japan convenience store
 ---
 You do not need to carry a large suitcase through Japan's busy stations. The country has a luggage forwarding network, called Hands-Free Travel by the national tourism organisation, that lets you send bags between an airport, your hotels and your next city, so that you travel with only a day bag.
 
-This guide uses the Japan National Tourism Organization's pages on luggage, linked in the Sources box. Prices and counters change, so we send you to the provider for current figures. Where we give an opinion, we label it as our view.
+This guide uses the Japan National Tourism Organization's pages on luggage for the system, and Narita International Airport's own baggage pages for how it works at one real airport. Both are linked in the Sources box. Prices and counters change, so we send you to the provider for current figures. Where we give an opinion, we label it as our view. Last reviewed on 20 November 2026.
 
 {{photo:1|An airport arrivals area in Japan}}
 
@@ -59,6 +59,18 @@ The JNTO guide names several providers: {{fact:hf_carriers}}. The first JNTO pag
 {{photo:3|A delivery truck in Japan}}
 
 On cost, the official page explains that {{fact:hf_fee}}. A second page gives an example range: {{fact:hf_price_range}}. Because that page is dated, treat it as a rough guide and ask the provider for a current quote.
+
+## At Narita Airport: what the airport itself adds
+
+JNTO describes the system in general. Narita's own pages show how it looks on the ground, and they add details JNTO leaves out. This section covers Narita only.
+
+- **Who is certified.** The airport says that {{fact:nrt_certified}}.
+- **Where the counters are.** For example, {{fact:nrt_t1_landside}}.
+- **Same-day orders.** For Sagawa, the airport says that {{fact:nrt_sagawa_sameday}}. It also warns that {{fact:nrt_delay}}.
+- **Lockers.** The airport says that {{fact:nrt_locker_pricing}}. It adds that {{fact:nrt_locker_midnight}}, and that {{fact:nrt_locker_max}}. On payment, it says that {{fact:nrt_locker_pay}}.
+- **Lockers plus delivery.** A locker service at the airport also offers delivery: {{fact:nrt_hotel_sameday}}.
+
+Our view: the practical rule in these pages is the order cut-off. If you reach the counter after the same-day order hours, or your hotel is outside the listed areas, plan for next-day delivery and keep a small bag with what you need for the first night. The same-day service is a convenience for some hotels, not something to count on.
 
 ## If you only need to store a bag
 

@@ -30122,5 +30122,165 @@
    "osaka-food-guide"
   ],
   "verified_on": "2026-11-20"
+ },
+ {
+  "id": "kt_todaiji",
+  "text": "for Todaiji, you can take the Nara Kotsu bus from Kintetsu-Nara Station to the Todaiji Daibutsuden/Kasugataisha-mae bus stop and walk approx. 5 minutes, or walk approx. 20 minutes from the station",
+  "claim": "walking and bus access to Todaiji from Kintetsu-Nara Station",
+  "source_name": "Kintetsu Railway: Nara sightseeing",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/sightseeing/nara/spot02.html",
+  "must_contain": [
+   "Todaiji Daibutsuden/Kasugataisha-mae bus stop and walk approx. 5 minutes",
+   "walk approx. 20 minutes from Kintetsu"
+  ],
+  "topics": [
+   "nara-day-trip-from-kyoto-osaka"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "kt_kasuga",
+  "text": "for Kasugataisha, you can take the Nara Kotsu bus from Kintetsu-Nara Station to the Kasugataisha-honden bus stop, or walk approx. 25 minutes from the station",
+  "claim": "walking and bus access to Kasugataisha from Kintetsu-Nara Station",
+  "source_name": "Kintetsu Railway: Nara sightseeing",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/sightseeing/nara/spot01.html",
+  "must_contain": [
+   "Kasugataisha-honden bus stop",
+   "walk approx. 25 minutes from Kintetsu"
+  ],
+  "topics": [
+   "nara-day-trip-from-kyoto-osaka"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_certified",
+  "text": "all baggage shipment counters at Narita Airport are certified by the government as being capable of offering same-day and next-day delivery services to specified regions in English",
+  "claim": "certified delivery counters at Narita",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/baggage/",
+  "must_contain": [
+   "All baggage shipment counters at Narita Airport are certified",
+   "certified by the government as being capable of offering same-day and next-day delivery services"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_sagawa_sameday",
+  "text": "Sagawa Express takes same-day delivery orders from 06:30 to 14:00 for 10 wards in Tokyo and selected hotels in Urayasu City",
+  "claim": "Sagawa same-day delivery from Narita",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/baggage/",
+  "must_contain": [
+   "06:30-14:00",
+   "10 wards in Tokyo and selected hotels in Urayasu City"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_delay",
+  "text": "same-day delivery areas are limited, and deliveries may be delayed due to weather conditions, traffic, or increased package volume",
+  "claim": "same-day delivery limits at Narita",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/baggage/",
+  "must_contain": [
+   "Delivery areas are limited. Deliveries may be delayed due to weather conditions, traffic, or increased package volume."
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_t1_landside",
+  "text": "the Terminal 1 delivery counters are on the first floor of the North Wing, before the security check",
+  "claim": "Terminal 1 delivery counter location",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/baggage/",
+  "must_contain": [
+   "T1 North Wing / 1F / Before Security Check"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_locker_pricing",
+  "text": "coin-operated lockers have two pricing options, daily rates and hourly rates",
+  "claim": "Narita locker pricing options",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/locker/",
+  "must_contain": [
+   "Two pricing options are available: daily rates and hourly rates"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_locker_midnight",
+  "text": "for daily-rate lockers, one day is the period from the start of use until midnight, and an additional daily charge applies after midnight",
+  "claim": "Narita locker day definition",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/locker/",
+  "must_contain": [
+   "one day is defined as the period from the start of use until midnight",
+   "An additional daily charge will apply after midnight"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_locker_max",
+  "text": "continuous use is limited to 8 days for the small, medium and large lockers",
+  "claim": "Narita locker maximum stay",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/locker/",
+  "must_contain": [
+   "Up to 8 days for Small, Medium, and Large lockers"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_locker_pay",
+  "text": "accepted payment methods include cash, credit cards, transportation IC cards, and various cashless payment options",
+  "claim": "Narita locker payment",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/locker/",
+  "must_contain": [
+   "Accepted payment methods include cash, credit cards, transportation IC cards, and various cashless payment options"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "nrt_hotel_sameday",
+  "text": "luggage deposited by 11:30 a.m. can be delivered on the same day to participating hotels in 10 central Tokyo wards and Urayasu City, but this service is not available at Terminal 3",
+  "claim": "same-day hotel delivery from lockers",
+  "source_name": "Narita International Airport: baggage and delivery services",
+  "source_url": "https://www.narita-airport.jp/en/service/delivery/locker/",
+  "must_contain": [
+   "deposited by 11:30 a.m. can be delivered on the same day",
+   "not available at Terminal 3"
+  ],
+  "topics": [
+   "japan-luggage-forwarding"
+  ],
+  "verified_on": "2026-11-20"
  }
 ]
