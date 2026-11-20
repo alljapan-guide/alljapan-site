@@ -1,107 +1,115 @@
 ---
 title: What to Eat in Osaka: A Street Food and Restaurant Guide
 slug: osaka-food-guide
-description: What to eat in Osaka: street food such as takoyaki, okonomiyaki and kushikatsu, plus yakiniku, and how to order, using official tourism sources.
+description: What to eat in Osaka, from takoyaki to kushikatsu, with the history behind the dishes from JNTO and the Osaka tourism bureau, plus vegan options.
 date: 2026-10-22
-updated: 2026-10-22
+updated: 2026-11-20
 cluster: food
-affiliates: klook | viator | trip_things | trip_osaka_hotels | trip_trains_osaka
+affiliates: klook | viator | trip_things
 image_queries: Takoyaki street food Osaka | Dotonbori Osaka night | Okonomiyaki Osaka | Kushikatsu Shinsekai Osaka
 ---
-If you only have a day or two in Osaka, eat these four things: takoyaki, okonomiyaki, kushikatsu and yakiniku. They are the dishes the national tourism organisation highlights, they are easy to find, and each comes with a small set of etiquette tips that make ordering less stressful.
+Osaka is easy to eat in, and the two official sources that describe its food do different jobs. The Japan National Tourism Organization (JNTO) says what the dishes are and how to order them. The Osaka Convention & Tourism Bureau, the city's own tourism body, explains why the city eats the way it does, and it adds details JNTO leaves out. This guide uses both and says which one each point comes from.
 
-This guide uses the Japan National Tourism Organization's pages on Osaka cuisine as its main sources, linked in the Sources box. We do not recommend individual restaurants, because menus, opening hours and queues change; where we give an opinion, we label it as our view.
+We do not recommend individual restaurants, because menus, opening hours and queues change. Where we give an opinion, we label it as our view. Last reviewed on 20 November 2026 against the pages in the Sources box.
 
 {{photo:1|Takoyaki, a signature street food of Osaka}}
 
-## Why Osaka is a food city
+## Why Osaka eats the way it does
 
-The national tourism organisation describes Osaka this way: {{fact:osaka_known_for}}. A second page on street food adds that {{fact:osaka_kuidaore}}.
+JNTO's summary is short: {{fact:osaka_known_for}}. A second JNTO page on street food adds that {{fact:osaka_kuidaore}}.
 
-Our view: the practical meaning is that Osaka is a good city to eat in without a plan. You can walk through the main entertainment areas and find something at almost every step; the page itself suggests that {{fact:osaka_dotonbori}}.
+The tourism bureau gives the history behind that. It says that {{fact:oi_kitchen}}. It adds that {{fact:oi_fishgarden}}. It also repeats an old saying about the two big cities of the region: {{fact:oi_saying}}.
+
+On the word itself, the bureau explains that {{fact:oi_waste}}, and that {{fact:oi_kuidaore}}.
+
+Our view: read together, the two sources say that Osaka's best-known food is meant to be everyday food. That is a good reason to plan around stalls, counters and casual restaurants, not around one big reservation. The bureau also names the dishes it means, so the rest of this guide follows them.
 
 ```diagram
 type: cards
 caption: Four dishes to try in Osaka (descriptions from the official pages)
-items: Takoyaki=Octopus dumplings sold from street stalls | Okonomiyaki=A savoury pancake, often cooked at your table | Kushikatsu=Battered, deep-fried skewers | Yakiniku=Korean-style barbecue grilled at the table
+items: Takoyaki=Octopus dumplings sold from street stalls | Okonomiyaki=A savoury pancake, often cooked at your table | Kushikatsu=Battered, deep-fried skewers with a dipping rule | Yakiniku=Korean-style barbecue grilled at the table
 ```
 
-## Takoyaki: the street food to start with
+## Konamon: the everyday dishes
 
-The official page explains that {{fact:takoyaki_def}}. It continues: {{fact:takoyaki_fill}}.
+The bureau gives these dishes a name. It says that {{fact:oi_konamon}}, and that {{fact:oi_udon_konamon}}. For where to look, it says that {{fact:oi_minami}}.
 
-On its history, it says that {{fact:takoyaki_1930s}}. Our view: takoyaki are best eaten as a snack while you walk, because a stall will make them in front of you and they are best fresh.
+### Takoyaki: the street food to start with
+
+JNTO explains that {{fact:takoyaki_def}}. It continues: {{fact:takoyaki_fill}}. On its history, it says that {{fact:takoyaki_1930s}}.
+
+Our view: takoyaki are best eaten as a snack while you walk, because a stall makes them in front of you and they are best fresh.
 
 {{tip|Fresh takoyaki are hot inside. Let them cool for a moment before the first bite, and look for stalls where you can see them being made.}}
 
-## Okonomiyaki: a savoury pancake
+### Okonomiyaki: a savoury pancake
 
-For the second classic, the tourism organisation says that {{fact:okonomi_def}}. It also explains the name: {{fact:okonomi_name}}.
+JNTO says that {{fact:okonomi_def}}. It also explains the name: {{fact:okonomi_name}}. At many restaurants you can take part in the cooking, and the page notes that {{fact:okonomi_table}}.
 
 {{photo:3|Okonomiyaki in Osaka}}
 
-At many restaurants you can take part in the cooking. The official page notes that {{fact:okonomi_table}}. Our view: if you are unsure, tell the staff you are a first-timer and ask them to cook it for you.
+Our view: if you are unsure, tell the staff you are a first-timer and ask them to cook it for you.
 
 {{photo:2|Dotonbori, the main food and entertainment district of Osaka}}
 
+JNTO suggests that {{fact:osaka_dotonbori}}.
+
+## Dashi: why the broth tastes the way it does
+
+Konamon are not only snacks. The bureau points to the stock under many Osaka dishes. It says that {{fact:oi_dashi_base}}. It also explains a local advantage: {{fact:oi_dashi_sardine}}.
+
+For udon, the bureau makes a clear claim: {{fact:oi_udon_dashi}}.
+
+Our view: if a plate of fried or grilled food is not your style, a bowl of udon is a quiet way to taste what the bureau means by dashi.
+
 ## Kushikatsu: skewers with a rule
 
-The street food page describes the dish this way: {{fact:kushikatsu_def}}. On where to find it, it says that {{fact:kushikatsu_shinsekai}}.
+JNTO describes the dish this way: {{fact:kushikatsu_def}}. On where to find it, it says that {{fact:kushikatsu_shinsekai}}.
 
 {{photo:4|Kushikatsu in Shinsekai, Osaka}}
 
-{{note|Restaurants that serve kushikatsu often provide a shared dipping sauce. The etiquette of not dipping a skewer twice is widely observed in the city, so follow the staff's instructions at each restaurant.}}
+The bureau adds the part that matters at the table: {{fact:oi_kushikatsu}}.
+
+{{note|The two sources agree on the place, Shinsekai, and the bureau names the rule. Restaurants often provide a shared dipping sauce, so follow the staff's instructions at each one.}}
 
 Our view: kushikatsu is a good dinner choice for a group, since you can order many types and share. Check the menu for ingredients if you have dietary needs, and ask staff if you are unsure.
 
 ## Yakiniku in Tsuruhashi
 
-If you want a sit-down meal, the street food page points to a barbecue district: {{fact:osaka_yakiniku}}. Our view: this is a good option for travellers who prefer a sit-down meal over street food, but check opening times and whether you need a reservation.
+If you want a sit-down meal, JNTO's street food page points to a barbecue district: {{fact:osaka_yakiniku}}. Our view: this suits travellers who prefer a sit-down meal over street food, but check opening times and whether you need a reservation.
 
-## How to plan your eating
+## If you do not eat meat or fish
 
-| Situation | What we suggest |
-|---|---|
-| A quick snack while exploring | Takoyaki from a stall |
-| A relaxed lunch | Okonomiyaki at a table with a griddle |
-| A group dinner | Kushikatsu, shared |
-| A longer meal | Yakiniku in Tsuruhashi |
+The classic dishes above lean on seafood and pork, so the bureau's vegan page is worth a look. It says that {{fact:oi_vegan_count}}, and it lists {{fact:oi_vegan_items}}.
 
-- **Go hungry, but pace yourself.** The dishes above are filling, so share plates.
-- **Check for dietary needs.** Ingredients such as seafood and pork are central to several dishes; ask before you order.
-- **Expect queues at popular places.** Our view is that a late lunch or early dinner is calmer.
-- **Carry some cash.** Small stalls may not take cards, so check before you order.
-
-If you prefer a guided food experience with local help, you can look at food tours on {{aff:klook|Klook}}, {{aff:viator|Viator}} or {{aff:trip_things|Trip.com}}. Read what is included, the group size and the cancellation terms before booking. If you plan to stay overnight in Osaka, you can also browse Osaka hotels on {{aff:trip_osaka_hotels|Trip.com}}.
+Our view: a vegan version of a dish does not mean every restaurant that serves the dish is vegan, and dashi can contain fish, so say what you do not eat before you order. Our [vegetarian and vegan guide](vegetarian-and-vegan-travel-in-japan.html) covers how to ask.
 
 ## How this fits in your trip
 
-Osaka is usually part of a wider route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how to fit it between Tokyo and Kyoto, our [Kyoto area guide](where-to-stay-in-kyoto.html) covers the other half of the route, and our [IC card guide](japan-ic-card-guide.html) explains how to pay for local trains. If you are choosing a rail ticket for the journey, see our [rail pass guide](is-japan-rail-pass-worth-it.html), or look at Tokyo to Osaka train options on {{aff:trip_trains_osaka|Trip.com}}.
+Osaka is usually part of a wider route. Our [7-day itinerary](tokyo-kyoto-osaka-7-day-itinerary.html) shows how to fit it between Tokyo and Kyoto, our [Kyoto area guide](where-to-stay-in-kyoto.html) covers the other half of the route, and our [IC card guide](japan-ic-card-guide.html) explains how to pay for local trains. If you are choosing a rail ticket for the journey, see our [rail pass guide](is-japan-rail-pass-worth-it.html).
 
-For the four main ramen types, regional styles and how to use a ticket machine, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html).
+If you prefer a guided food experience with local help, you can look at food tours on {{aff:klook|Klook}}, {{aff:viator|Viator}} or {{aff:trip_things|Trip.com}}. Read what is included, the group size and the cancellation terms before booking.
 
-For how sharing plates, ordering and drinks work at a Japanese pub, see our [izakaya dining guide](izakaya-dining-guide-japan.html).
-
-For the etiquette and booking of a sushi meal, see our [sushi in Japan: types, how to order and etiquette](sushi-in-japan-guide-types-how-to-order-etiquette.html).
+For other food guides, see our [ramen guide](japanese-ramen-guide-types-and-how-to-order.html), our [izakaya dining guide](izakaya-dining-guide-japan.html) and our [sushi guide](sushi-in-japan-guide-types-how-to-order-etiquette.html).
 
 ## FAQ
 
 ### What is the most famous food in Osaka?
 
-The national tourism organisation names takoyaki and okonomiyaki as the street food and local specialties Osaka is known for.
+JNTO names takoyaki and okonomiyaki as the street food and local specialties Osaka is known for. The tourism bureau calls dishes of this kind konamon.
 
-### What is takoyaki made of?
+### What does kuidaore mean?
 
-According to the official page, it is a batter of flour, dashi, eggs and water, filled with diced octopus, tempura scraps, pickled ginger and green onions.
+The Osaka Convention & Tourism Bureau explains it as a term for eating to your heart's content, and says it came out of a food culture built from the bottom up.
 
 ### Can I cook okonomiyaki myself?
 
-Often yes. The official page says okonomiyaki restaurants often have griddles built into tables where you can cook your own.
+Often yes. JNTO says okonomiyaki restaurants often have griddles built into tables where you can cook your own.
 
 ### Where did kushikatsu come from?
 
-The street food page says it was supposedly invented in Shinsekai during the prewar era, and that the district remains the destination for the dish.
+JNTO says it was supposedly invented in Shinsekai during the prewar era, and that the district remains the destination for the dish.
 
-### Is Osaka good for a food-focused trip?
+### Can vegans eat in Osaka?
 
-The tourism organisation describes Osaka as a culinary destination with a strong street food culture. Our view is that it is one of the easier cities in Japan to eat well in without reservations.
+The tourism bureau says the number of vegan-friendly restaurants in Osaka is increasing, and it lists vegan versions of several local dishes. Confirm the ingredients, including the stock, at each restaurant.

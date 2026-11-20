@@ -29923,5 +29923,204 @@
    "japanese-tea-ceremony-guide-etiquette-and-where-to-try"
   ],
   "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_kitchen",
+  "text": "during the Edo period, ingredients from all over the country were gathered here, earning the city the nickname the kitchen of the world",
+  "claim": "Osaka's reputation as the kitchen of the world",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-kuidaore/",
+  "must_contain": [
+   "ingredients from all over the country were gathered here",
+   "the kitchen of the world"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_fishgarden",
+  "text": "Osaka Bay was so rich in seafood that it was nicknamed Naniwa, meaning fish garden",
+  "claim": "the fish garden of Osaka Bay",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-kuidaore/",
+  "must_contain": [
+   "Osaka Bay was so rich in seafood that it was nicknamed"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_saying",
+  "text": "Kyoto is all about kimonos, and Osaka is all about eating and drinking",
+  "claim": "the old saying about Kyoto and Osaka",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-kuidaore/",
+  "must_contain": [
+   "Kyoto is all about kimonos, and Osaka is all about eating and drinking"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_waste",
+  "text": "Osakans treasure ingredients, avoid waste, and try to throw away as little as possible",
+  "claim": "Osaka cooks without waste",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "They treasure ingredients, avoid waste, and try to throw away as little as possible"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_kuidaore",
+  "text": "this created a bottom-up food culture, giving birth to the term kuidaore (to eat to your heart's content)",
+  "claim": "the origin of kuidaore",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "This has created a bottom-up food culture, giving birth to the term"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_konamon",
+  "text": "cheap and delicious street food such as takoyaki and okonomiyaki, known as konamon, are a major part of Kansai food culture",
+  "claim": "konamon",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "known as konamon, are a major part of Kansai food culture"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_udon_konamon",
+  "text": "udon can also be considered konamon",
+  "claim": "udon as konamon",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "Udon can also be considered konamon"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_udon_dashi",
+  "text": "what sets Osaka udon apart is not the noodles themselves but the careful selection of dashi",
+  "claim": "Osaka udon and dashi",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "careful selection of dashi"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_kushikatsu",
+  "text": "kushikatsu, a representative Osaka B-class gourmet dish known for its no double dipping rule, can be enjoyed at many kushikatsu restaurants in the Shinsekai area around Tsutenkaku Tower",
+  "claim": "kushikatsu and the no double dipping rule",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "B-class gourmet dish",
+   "no double dipping",
+   "restaurants in the Shinsekai area around Tsutenkaku Tower"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_minami",
+  "text": "okonomiyaki and takoyaki can be found in abundance in the Minami area",
+  "claim": "where to find konamon",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-naniwapinchos/",
+  "must_contain": [
+   "Okonomiyaki and takoyaki can be found in abundance in the Minami area"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_dashi_base",
+  "text": "the basic ingredients are kelp from Hokkaido and bonito flakes from Tosa",
+  "claim": "dashi ingredients",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-dashi/",
+  "must_contain": [
+   "The basic ingredients are kelp from Hokkaido and bonito flakes from Tosa"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_dashi_sardine",
+  "text": "the abundance of Japanese anchovies in Osaka Bay and the Seto Inland Sea made it possible to obtain cheap dried sardines",
+  "claim": "sardine dashi",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/gastronomy-dashi/",
+  "must_contain": [
+   "abundance of Japanese anchovies in Osaka Bay and the Seto Inland Sea"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_vegan_count",
+  "text": "the number of vegan-friendly restaurants in Osaka is increasing",
+  "claim": "vegan-friendly restaurants in Osaka",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/osaka-vegan/",
+  "must_contain": [
+   "the number of vegan-friendly restaurants in Osaka is increasing"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
+ },
+ {
+  "id": "oi_vegan_items",
+  "text": "the bureau lists vegan versions of okonomiyaki, curry, gyoza, takoyaki and kushikatsu",
+  "claim": "vegan versions of Osaka dishes",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/food/osaka-vegan/",
+  "must_contain": [
+   "VEGAN OKONOMIYAKI VEGAN CURRY VEGAN GYOZA VEGAN TAKOYAKI VEGAN KUSHIKATSU"
+  ],
+  "topics": [
+   "osaka-food-guide"
+  ],
+  "verified_on": "2026-11-20"
  }
 ]
