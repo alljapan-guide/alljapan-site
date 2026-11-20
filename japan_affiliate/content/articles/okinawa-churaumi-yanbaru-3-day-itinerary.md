@@ -30,7 +30,7 @@ Our view: this plan needs transport planning, because the stops are spread out a
 
 JNTO gives the route from the capital: {{fact:okn_access}}.
 
-{{photo:4|A mensore (welcome) sign at the airport in Okinawa}}
+{{photo:4|A mensore (welcome) sign at Naha Airport}}
 
 Our view: arrive in Naha the day before if you can, and take the first bus north rather than trying to reach the aquarium on the day you land. Our [airport guide](which-airport-to-fly-into-japan.html) compares the main gateways, and our [budget travel tips](japan-budget-travel-tips.html) cover how to keep long transfers affordable.
 
