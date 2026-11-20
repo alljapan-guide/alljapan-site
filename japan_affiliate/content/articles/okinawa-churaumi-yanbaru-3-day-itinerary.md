@@ -3,10 +3,10 @@ title: Okinawa Itinerary: Churaumi Aquarium and Yanbaru Forest in 3 Days
 slug: okinawa-churaumi-yanbaru-3-day-itinerary
 description: A 3-day northern Okinawa itinerary from JNTO: Churaumi Aquarium, Bise Fukugi lane, Hiji Otaki Falls, Yanbaru forest, mangrove canoeing and Nago.
 date: 2026-11-08
-updated: 2026-11-18
+updated: 2026-11-20
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_okinawa_hotels
-image_queries: Churaumi Aquarium whale shark | Hiji Falls Okinawa | Hirugi mangrove Okinawa Yanbaru
+image_queries: Churaumi Aquarium whale shark | Hiji Falls Okinawa | Hirugi mangrove Okinawa Yanbaru | own photo: Okinawa airport welcome sign | own photo: hotel sign | own photo: hotel living room | own photo: view under cloud | own photo: view in sunshine
 ---
 Okinawa is the beach side of a Japan trip, but the north of the main island offers more than sand. The Japan National Tourism Organization (JNTO) has a three-day plan that links a famous aquarium with forests, waterfalls and mangroves. This guide follows the JNTO itinerary "Tropical Adventure in Okinawa" and adds practical notes. Where we give opinion, we label it "Our view", so sourced information and editorial advice stay separate.
 
@@ -29,6 +29,8 @@ Our view: this plan needs transport planning, because the stops are spread out a
 ## How to get there
 
 JNTO gives the route from the capital: {{fact:okn_access}}.
+
+{{photo:4|A mensore (welcome) sign at the airport in Okinawa}}
 
 Our view: arrive in Naha the day before if you can, and take the first bus north rather than trying to reach the aquarium on the day you land. Our [airport guide](which-airport-to-fly-into-japan.html) compares the main gateways, and our [budget travel tips](japan-budget-travel-tips.html) cover how to keep long transfers affordable.
 
@@ -96,6 +98,26 @@ Our view: the table shows why this plan splits into two kinds of days. Day 2 and
 | You do not drive | Mix of buses and a taxi for the park legs | Keep the bus days and the taxi legs separate |
 
 If you rent a car, our [car rental and driving permit guide](renting-a-car-in-japan-driving-permit-guide.html) explains the licence rules before you book.
+
+## Our stay in Onna Village (July 2020)
+
+This part is a first-hand account from our own trip. We stayed in Onna Village, on Okinawa's west coast, at Kafuu Resort Fuchaku Condo Hotel Annex. The trip was in July 2020, so check the hotel's current rooms and facilities before you book.
+
+{{photo:5|The sign at Kafuu Resort Fuchaku Condo Hotel Annex in Onna Village}}
+
+- **Getting there.** We rented a car at Naha Airport and drove to the hotel in about 40 minutes.
+- **The room.** The room was very spacious, and four of us stayed in it. It had an ocean view.
+- **The hotel.** It has an infinity pool among its other facilities, and the views around the hotel were beautiful.
+
+{{photo:6|The living room of our room, with the balcony and the sea beyond, July 2020}}
+
+The view from the room changed with the weather. These two photos were taken from the same spot, a day apart.
+
+{{photo:7|The view from the room on the afternoon of 4 July 2020, under cloud}}
+
+{{photo:8|The same view on the morning of 5 July 2020, in sunshine}}
+
+Our view: for a group, a rental car from Naha Airport is an easy way to reach a resort in Onna Village, and it matches the car option in the table above. Treat the 40 minutes as one data point from our drive, not as a timetable.
 
 ## Common mistakes on this route
 

@@ -126,6 +126,9 @@ def photo_html(rec, caption, root=""):
         caption = rec.get("caption") or commons_caption(rec.get("title", "")) or caption
     if not rec:
         return f'<figure class="photo pending"><div>Photo pending: {esc(caption)}</div></figure>'
+    if rec.get("own"):  # photo taken by the site owner: credit the site, no Commons link
+        return (f'<figure class="photo"><img src="{root}images/{esc(rec["file"])}" alt="{esc(caption)}" loading="lazy">'
+                f'<figcaption>{esc(caption)}<span class="credit">Photo: {esc(rec["author"])}</span></figcaption></figure>')
     lic = f'<a href="{esc(rec["license_url"])}" rel="noopener">{esc(rec["license"])}</a>' if rec.get("license_url") else esc(rec["license"])
     return (f'<figure class="photo"><img src="{root}images/{esc(rec["file"])}" alt="{esc(caption)}" loading="lazy">'
             f'<figcaption>{esc(caption)}<span class="credit">Photo: {esc(rec["author"])} · {lic} · '

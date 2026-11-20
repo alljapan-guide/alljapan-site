@@ -62,3 +62,10 @@ def test_atom_feed_lists_newest_articles_with_clean_urls():
     d = xml.dom.minidom.parseString(build_feed(arts, "https://x.test", "Site", limit=1).encode())
     assert [n.getAttribute("href") for n in d.getElementsByTagName("entry")[0].getElementsByTagName("link")] == ["https://x.test/new"]
     assert len(d.getElementsByTagName("entry")) == 1
+
+
+def test_own_photo_is_credited_to_the_site_without_a_commons_link():
+    from pipeline import visuals as V
+    rec = {"file": "a.jpg", "author": "All Japan", "license": "Own work", "license_url": "", "source_url": "", "own": True, "caption": "Cap"}
+    html_ = V.photo_html(rec, "fallback")
+    assert "Photo: All Japan" in html_ and "Wikimedia" not in html_ and "Cap" in html_
