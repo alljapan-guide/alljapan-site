@@ -3,7 +3,7 @@ title: Where to Stay in Kyoto: Best Areas for First-Time Visitors
 slug: where-to-stay-in-kyoto
 description: The best area to stay in Kyoto: Kyoto Station, Shijo-Kawaramachi, Gion, Gosho or Arashiyama compared, using the official tourism guide.
 date: 2026-10-20
-updated: 2026-11-13
+updated: 2026-11-21
 cluster: hotels
 affiliates: booking | agoda | klook | trip_kyoto_hotels
 references: kyoto_central_size
@@ -118,7 +118,26 @@ Many Kansai trips are decided by this question. JNTO says that {{fact:ot_kansai}
 - **Booking a ryokan without reading the meal and check-in rules.** Our [ryokan guide](how-to-stay-at-a-ryokan-in-japan.html) explains what to check.
 - **Forgetting the departure day.** Plan where your bags will wait; the lockers around Kyoto Station help, and our [luggage forwarding guide](japan-luggage-forwarding.html) covers sending bags ahead. If you arrive by bullet train, our [Tokyo to Kyoto guide](tokyo-to-kyoto-bullet-train.html) explains how booking works.
 
-Last reviewed on 13 November 2026 against the Kyoto City Tourism Association pages cited in this guide.
+## Kyoto's accommodation tax changed in March 2026
+
+Kyoto adds a tax to every overnight stay, and the table of rates was rebuilt in 2026. The Kyoto City Tourism Association's pages say that {{fact:kyt_since}}. They also say that {{fact:kyt_basis}}.
+
+The scale changed: {{fact:kyt_old_rates}}. The new scale is this: {{fact:kyt_new_rates}}.
+
+Two details matter when you choose between a hotel, a rental and a ryokan:
+
+- **It is not only for hotels.** The pages say {{fact:kyt_who}}, so a rental flat does not avoid it.
+- **A ryokan with a hot spring can carry a second charge.** The pages explain that {{fact:kyt_onsen}}.
+
+How to read it on your own booking:
+
+1. Find the fee per person per night, not the room rate for the whole room.
+2. Match that figure to the rate scale above.
+3. Check whether the checkout page includes the tax or adds it later; the Kyoto pages do not say how each booking site shows it.
+
+Our view: the five-step scale is easy to misread if you are working from an older blog post, because the old scale had three steps. Use the dates above to tell which scale a page is describing, and ask the property how it calculates the fee if the figure is close to a step.
+
+Last reviewed on 21 November 2026 against the Kyoto City Tourism Association pages cited in this guide.
 
 ## Booking tips
 

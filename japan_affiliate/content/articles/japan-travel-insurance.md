@@ -3,7 +3,7 @@ title: Do You Need Travel Insurance for Japan? Is It Mandatory?
 slug: japan-travel-insurance
 description: Is travel insurance mandatory for Japan? What JNTO says visitors should do: why it is recommended, what to check in a policy, emergency numbers and the hotline.
 date: 2026-10-23
-updated: 2026-11-12
+updated: 2026-11-21
 cluster: planning
 affiliates: insurance | trip_insurance
 image_queries: Japan hospital building sign | Tokyo ambulance | Japan police box koban | Matsumoto Kiyoshi drugstore
@@ -72,6 +72,18 @@ caption: Numbers and services from the JNTO pages (save them before you travel)
 items: Ambulance and fire=119 | Police=110 | Japan Visitor Hotline=+81-50-3816-2787 from overseas, run by JNTO, with support in English, Chinese and Korean | Your insurer=Keep the emergency number on your person, as JNTO advises
 ```
 
+## What Tokyo's own sources add to the JNTO checklist
+
+JNTO's page tells you what a policy should cover. The Tokyo Convention and Visitors Bureau's guide for visitors adds three practical points about timing and paperwork. First, {{fact:tkn_medplan}}. Second, {{fact:tkn_proof}}. Third, {{fact:tkn_weeks}}.
+
+Our view: read the two together. JNTO answers "what should be in the policy" and the Tokyo bureau answers "what do I carry and when do I buy it". If you forgot to buy before departure, both sources agree that you can still buy once you arrive.
+
+### If you need a doctor right after landing at Narita
+
+Narita Airport's own clinic page gives the details a policy page cannot. It says that {{fact:nrt_clinic_t1}}, and that {{fact:nrt_clinic_t2}}. For the first, {{fact:nrt_clinic_call}}. The page lists the other details under the Terminal 2 clinic: {{fact:nrt_clinic_online}}. It also says that {{fact:nrt_clinic_pay}}. One caution from the same page: {{fact:nrt_clinic_cert}}.
+
+Our view: the page gives the all-year hours for the Terminal 1 clinic and the weekend-style days for Terminal 2, so check which terminal you are in before you plan around it. It puts the insurance, cashless and language details only under the Terminal 2 clinic, so if you plan to use the Terminal 1 clinic, ask by phone when you book whether the same applies. If you may need paperwork for a later claim, ask your insurer before you travel which documents it wants. For an emergency, skip the clinic and use the numbers in the next section.
+
 ## The Japan Visitor Hotline
 
 The hotline is not insurance, but it is worth saving. JNTO says {{fact:hotline_hours}}. It also says {{fact:hotline_langs}}, and lists {{fact:hotline_number}} as the number. The page describes it as a place to call for tourist information or assistance in an accident or emergency.
@@ -91,7 +103,7 @@ Our view: this table is our own editorial shortcut, built on the JNTO points abo
 | You forgot to buy before departure | Sign up online after you arrive, then save the insurer's number | JNTO says you can sign up once you arrive |
 | You are unsure about all of it | Buy a basic travel policy and keep receipts | JNTO strongly recommends cover for all travelers |
 
-Last reviewed on 12 November 2026 against the JNTO pages cited in this guide.
+Last reviewed on 21 November 2026 against the JNTO, Tokyo Convention and Visitors Bureau and Narita Airport pages cited in this guide.
 
 ## Our recommendation
 
