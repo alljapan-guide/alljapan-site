@@ -70,14 +70,17 @@ def render_body(body, meta, facts, images, strict):
     return out + F.sources_html(order, facts)
 
 
-def faq_jsonld(body):
-    """Build FAQPage JSON-LD from '## FAQ' with '### Question' + answer paragraphs."""
+def faq_jsonld(body, facts=None):
+    """Build FAQPage JSON-LD from '## FAQ' with '### Question' + answer paragraphs. {{fact:id}} is replaced by the fact's plain
+    text and markdown links by their link text, so no template syntax ever reaches the structured data."""
     m = re.search(r"^## FAQ.*?\n(.*)$", body, re.S | re.M)
     if not m:
         return ""
     qa = []
     for blk in re.split(r"^### ", m.group(1), flags=re.M)[1:]:
         q, _, a = blk.partition("\n")
+        a = re.sub(r"\{\{fact:([a-z0-9_]+)\}\}", lambda m: (facts or {}).get(m.group(1), {}).get("text", ""), a)
+        a = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", a)
         a = re.sub(r"\s+", " ", re.sub(r"\{\{aff:[^|]*\|([^}]*)\}\}", r"\1", a)).strip()
         if q.strip() and a:
             qa.append({"@type": "Question", "name": q.strip(),
@@ -175,7 +178,7 @@ def build(strict=True):
             f"<li><a href='{r['slug']}.html'>{html.escape(r['title'])}</a></li>" for r in related) + "</ul>") if related else ""
         write(name, title=f"{meta['title']} | {site['name']}", description=meta["description"],
               jsonld=article_jsonld(meta, site, f"{base}/{name}"),
-              faq=faq_jsonld(body),
+              faq=faq_jsonld(body, facts),
               content=f"<article><h1>{html.escape(meta['title'])}</h1>"
                       f"{V.hero_svg(meta['cluster'], meta['slug'])}<p class='meta'>Updated {meta['updated']} · {site['author']}</p>"
                       f"<p class='disc'>{html.escape(site['disclosure'])}</p>{content}{rel_html}</article>")

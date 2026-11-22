@@ -41,6 +41,9 @@ def test_faq_jsonld():
     out = json.loads(faq_jsonld("## FAQ\n\n### Q1?\n\nA1 {{aff:klook|go}}.\n\n### Q2?\n\nA2.\n"))
     assert [q["name"] for q in out["mainEntity"]] == ["Q1?", "Q2?"]
     assert out["mainEntity"][0]["acceptedAnswer"]["text"] == "A1 go."
+    out = json.loads(faq_jsonld("## FAQ\n\n### Q?\n\nSee {{fact:x_y}} and [a link](https://e.com).\n", {"x_y": {"text": "the fact"}}))
+    assert out["mainEntity"][0]["acceptedAnswer"]["text"] == "See the fact and a link."
+    assert "{{" not in json.dumps(out)
 
 
 def test_sitemap_has_per_article_lastmod_and_valid_xml():

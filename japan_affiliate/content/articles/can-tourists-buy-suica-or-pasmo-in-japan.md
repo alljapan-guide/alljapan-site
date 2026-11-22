@@ -47,7 +47,7 @@ steps: Check the PASMO site for Tourist PASMO and current sales notices | If you
 
 PASMO is not the only operator that sells a card. JR-West runs a card for visitors in the Kansai area. It says that {{fact:icw_visitor_card}}. The conditions are strict: {{fact:icw_visitor_req}}. And {{fact:icw_visitor_where}}.
 
-A private railway gives a plainer answer. Kintetsu's FAQ says {{fact:kin_buy_card}}, and {{fact:kin_charge}}. Its ticket machines also take payment by cash or IC card. Those answers do not mention visitors or residents, so they say where a card is sold, not that every card is in stock.
+A private railway gives a plainer answer. Kintetsu's FAQ says {{fact:kin_buy_card}}, and {{fact:kin_charge}}. {{fact:kin_machine_pay}}. Those answers do not mention visitors or residents, so they say where a card is sold, not that every card is in stock.
 
 Our view: a general statement that machines sell cards and a dated notice that sales are limited can both be true. Trust the dated notice for the card it names, and use the general statement to know where to look. If you land in the Kansai area, the visitor card is a second option to check, and its page spells out who can buy it.
 
