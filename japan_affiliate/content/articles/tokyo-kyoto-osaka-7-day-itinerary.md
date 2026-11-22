@@ -3,7 +3,7 @@ title: 7 Days in Japan: Tokyo, Kyoto & Osaka Itinerary for First-Timers
 slug: tokyo-kyoto-osaka-7-day-itinerary
 description: A relaxed 7-day Japan itinerary for first-timers: three nights in Tokyo, three in Kyoto with a Nara day trip, then Osaka, with sourced travel times.
 date: 2026-10-18
-updated: 2026-11-13
+updated: 2026-11-22
 cluster: itineraries
 affiliates: booking | klook | railpass | esim | trip_trains | trip_hotels | trip_tokyo_things
 references: nara_park_guide
@@ -64,7 +64,7 @@ Spend the morning at Meiji Shrine, set in a large wooded park beside Harajuku. W
 
 Check out in the morning and take the Tokaido Shinkansen from Tokyo Station to Kyoto. JR Central gives the trip as {{fact:tokyo_kyoto_130}}. You can check fares and book on {{fact:jrc_booking}}. You can also look at Tokyo to Kyoto train options on {{aff:trip_trains|Trip.com}}, which is a third-party booking site. If you hold a pass, remember the pass rule: {{fact:nozomi_not_covered}}.
 
-Drop your luggage at the hotel, or look into luggage forwarding so you do not carry bags through the station. Spend the afternoon in the Higashiyama area, then walk to Gion for dinner. If you want to hold a pass for the whole week, you can compare seller options through {{aff:railpass|an authorised Japan Rail Pass seller}}.
+Drop your luggage at the hotel, or look into luggage forwarding so you do not carry bags through the station. If you travel with a large suitcase, read the section on large bags below before you buy the ticket. Spend the afternoon in the Higashiyama area, then walk to Gion for dinner. If you want to hold a pass for the whole week, you can compare seller options through {{aff:railpass|an authorised Japan Rail Pass seller}}.
 
 ## Day 5: Fushimi Inari and central Kyoto
 
@@ -95,6 +95,20 @@ Two bases are enough for this route:
 
 Compare hotels with flexible cancellation, particularly for busy dates. Everything in this itinerary can be adjusted if a booking falls through.
 
+## Large bags on the Tokyo to Kyoto bullet train
+
+A week in Japan can mean a large suitcase, and the Day 4 train has rules for those. JR Central's own page says {{fact:jco_scope}}. The size is the three sides of the bag added together: {{fact:jco_reserve}}, and {{fact:jco_max}}. Timing matters, because {{fact:jco_when}}.
+
+```diagram
+type: flow
+caption: What to do with a large bag before the Day 4 bullet train, following JR Central's page
+steps: Add up the three sides of your largest bag | If the total is in the reservation range, ask for a seat with an oversized baggage area when you buy the ticket | If it is over the maximum, it cannot go on board, so send it ahead | If you are close to a limit, measure again before you book
+```
+
+The space is not private: JR Central says {{fact:jco_shared}}. And if you travel with a large bag and no reservation, {{fact:jco_fee}}.
+
+Our view: with one large suitcase each, forwarding the bag between Tokyo and Kyoto is the easier answer, because it removes the question. JR Central's own page points to the same idea, saying {{fact:jco_hands}}. The page states the lower limit a little differently in different places, so if your bag is near it, measure again and reserve to be safe. Our [luggage forwarding guide](japan-luggage-forwarding.html) and [Tokyo to Kyoto bullet train guide](tokyo-to-kyoto-bullet-train.html) cover the options.
+
 ## Decision table: adjust the plan to your trip
 
 Our view: use this table to change the plan without breaking it.
@@ -117,7 +131,7 @@ Our view: use this table to change the plan without breaking it.
 
 If you have more than seven days, JNTO's Kansai Trio plan is a good next step, since {{fact:kg_len}}; see our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html). For a two-week route, see the [Golden Route itinerary](golden-route-2-week-japan-itinerary.html), and for sightseeing in the capital, our [Meiji Jingu guide](meiji-jingu-guide.html) covers the shrine on day 3.
 
-Last reviewed on 13 November 2026 against the official pages cited in this guide.
+Last reviewed on 22 November 2026 against the official pages cited in this guide.
 
 ## What to skip if you are short on time
 
@@ -128,6 +142,10 @@ Last reviewed on 13 November 2026 against the official pages cited in this guide
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
 ## FAQ
+
+### Can I take a large suitcase on the bullet train from Tokyo to Kyoto?
+
+JR Central says {{fact:jco_scope}}. It adds that {{fact:jco_max}}.
 
 ### Is 7 days enough for Tokyo, Kyoto and Osaka?
 

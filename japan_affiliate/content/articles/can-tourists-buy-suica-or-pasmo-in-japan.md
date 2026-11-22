@@ -3,7 +3,7 @@ title: Can Tourists Buy a Suica or PASMO Card in Japan? What to Check Now
 slug: can-tourists-buy-suica-or-pasmo-in-japan
 description: Can tourists still buy a physical Suica or PASMO card? What the PASMO site says about sales suspensions and Tourist PASMO, and the iPhone alternative.
 date: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-22
 cluster: transport
 affiliates: trip_esim | trip_airport_transfer | trip_hotels
 image_queries: IC card charge machine Japan station | ICOCA card
@@ -43,6 +43,14 @@ steps: Check the PASMO site for Tourist PASMO and current sales notices | If you
 3. **Paper tickets.** Ticket machines in stations sell single-journey tickets.
 4. **A different IC card.** Cards from other regions can also be used on the nationwide network, and our [compatibility guide](does-suica-work-everywhere-in-japan.html) explains which ones.
 
+## What two other operators say
+
+PASMO is not the only operator that sells a card. JR-West runs a card for visitors in the Kansai area. It says that {{fact:icw_visitor_card}}. The conditions are strict: {{fact:icw_visitor_req}}. And {{fact:icw_visitor_where}}.
+
+A private railway gives a plainer answer. Kintetsu's FAQ says {{fact:kin_buy_card}}, and {{fact:kin_charge}}. Its ticket machines also take payment by cash or IC card. Those answers do not mention visitors or residents, so they say where a card is sold, not that every card is in stock.
+
+Our view: a general statement that machines sell cards and a dated notice that sales are limited can both be true. Trust the dated notice for the card it names, and use the general statement to know where to look. If you land in the Kansai area, the visitor card is a second option to check, and its page spells out who can buy it.
+
 ## Which airport to buy at
 
 PASMO says the Tourist PASMO is sold at Haneda Airport and Narita Airport. Our [airport guide](which-airport-to-fly-into-japan.html) compares the main airports. If you land at another airport, check the local rail operator for a card.
@@ -63,6 +71,8 @@ Our view: decide before you land how you will pay for the first train. If you wi
 
 {{pick|Before you fly, check the PASMO notices for Tourist PASMO and sales limits, set up a card on your iPhone if you have one, and keep paper tickets as a backup. This is our view, built on the official pages.}}
 
+Last reviewed on 22 November 2026 against the PASMO, JR-West, Kintetsu and Apple pages in the Sources box.
+
 ## FAQ
 
 ### Can tourists buy a Suica or PASMO card in Japan?
@@ -72,6 +82,10 @@ The PASMO site lists notices of temporary suspension of sales of personalized an
 ### What is Tourist PASMO?
 
 PASMO says it is an IC card for international visitors, accepted across Japan, with no service charge, sold at Haneda Airport and Narita Airport. A notice dated April 17, 2026 said it was available soon.
+
+### Is there an IC card only visitors can buy?
+
+JR-West says {{fact:icw_visitor_card}}, and {{fact:icw_visitor_where}}. {{fact:icw_visitor_req}}.
 
 ### Can I use a phone instead of a card?
 

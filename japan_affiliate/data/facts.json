@@ -30621,5 +30621,260 @@
   "topics": [
    "japan-travel-insurance"
   ]
+ },
+ {
+  "id": "jwa_other_areas",
+  "text": "travelers can use ICOCA for railways, buses, and other purchases not only throughout the ICOCA usage area but also in usage areas for Kitaca, PASMO, Suica, manaca, TOICA, PiTaPa, Hayakaken, nimoca, and SUGOCA",
+  "claim": "ICOCA usage area as JR-West words it",
+  "source_name": "JR-West: ICOCA usage area",
+  "source_url": "https://www.westjr.co.jp/global/en/howto/icoca/area/",
+  "must_contain": [
+   "travelers can use ICOCA for railways, buses, and other purchases not only throughout the ICOCA usage area but also in usage areas for Kitaca, PASMO, Suica, manaca, TOICA, PiTaPa, Hayakaken, nimoca, and SUGOCA"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jwa_pitapa_money",
+  "text": "ICOCA electronic money is not accepted in place of PiTaPa",
+  "claim": "ICOCA electronic money and PiTaPa",
+  "source_name": "JR-West: ICOCA usage area",
+  "source_url": "https://www.westjr.co.jp/global/en/howto/icoca/area/",
+  "must_contain": [
+   "ICOCA electronic money is not accepted in place of PiTaPa"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jwm_accept",
+  "text": "ICOCA electronic money is also accepted at locations that accept Kitaca, PASMO, Suica, manaca, TOICA, Hayakaken, nimoca, and SUGOCA",
+  "claim": "Where ICOCA electronic money is accepted",
+  "source_name": "JR-West: ICOCA electronic money",
+  "source_url": "https://www.westjr.co.jp/global/en/howto/icoca/money/",
+  "must_contain": [
+   "ICOCA electronic money is also accepted at locations that accept Kitaca, PASMO, Suica, manaca, TOICA, Hayakaken, nimoca, and SUGOCA"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jwm_where",
+  "text": "funds added to ICOCA can be used as electronic money at convenience stores, restaurants, vending machines, coin-operated lockers, and other locations both inside and outside the station",
+  "claim": "What ICOCA electronic money pays for",
+  "source_name": "JR-West: ICOCA electronic money",
+  "source_url": "https://www.westjr.co.jp/global/en/howto/icoca/money/",
+  "must_contain": [
+   "can be used as electronic money at convenience stores, restaurants, vending machines, coin-operated lockers, and other locations"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "kin_one_card",
+  "text": "with an IC card you need only this card to use Kintetsu and other railway lines, as well as bus services",
+  "claim": "Kintetsu on IC cards",
+  "source_name": "Kintetsu: before you ride",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/about/howto/before.html",
+  "must_contain": [
+   "You need only this card to use Kintetsu and other railway lines, as well as bus services"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan",
+   "can-tourists-buy-suica-or-pasmo-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "kin_machine_pay",
+  "text": "Kintetsu ticket machines take payment by cash or IC card",
+  "claim": "Kintetsu ticket machine payment",
+  "source_name": "Kintetsu: before you ride",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/about/howto/before.html",
+  "must_contain": [
+   "By cash or IC card"
+  ],
+  "topics": [
+   "can-tourists-buy-suica-or-pasmo-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "kin_buy_card",
+  "text": "you can purchase an IC card at a ticket machine at a station",
+  "claim": "Kintetsu on buying an IC card",
+  "source_name": "Kintetsu: FAQ",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/faq/",
+  "must_contain": [
+   "You can purchase an IC card at a ticket machine at a station"
+  ],
+  "topics": [
+   "can-tourists-buy-suica-or-pasmo-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "kin_charge",
+  "text": "you can charge your IC card at a ticket machine at a station",
+  "claim": "Kintetsu on charging an IC card",
+  "source_name": "Kintetsu: FAQ",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/faq/",
+  "must_contain": [
+   "You can charge your IC card at a ticket machine at a station"
+  ],
+  "topics": [
+   "can-tourists-buy-suica-or-pasmo-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "kin_adjust",
+  "text": "if you rode past your destination or the balance of your IC card is insufficient, you adjust the fare at a Fare Adjustment Machine",
+  "claim": "Kintetsu on insufficient balance",
+  "source_name": "Kintetsu: FAQ",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/faq/",
+  "must_contain": [
+   "If you rode past your destination or the balance of your IC card is insufficient, please adjust the fare at a Fare Adjustment Machine"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "kin_le_basic",
+  "text": "to board a Limited Express train you need a Limited Express ticket in addition to a basic fare ticket, and the basic fare ticket can be, for example, an IC card, a contactless payment card, the Kintetsu Rail Pass, another special ticket, or a ticket purchased at a station",
+  "claim": "Kintetsu Limited Express ticket and basic fare",
+  "source_name": "Kintetsu: Limited Express tickets",
+  "source_url": "https://www.kintetsu.co.jp/foreign/english/about/limited_express/ticket.html",
+  "must_contain": [
+   "To board a Limited Express train, be sure to purchase a Limited Express ticket in addition to a basic fare ticket",
+   "an IC card, a contactless payment card, or a ticket purchased at a station"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jct_toica",
+  "text": "the Tokai IC Card (TOICA) is an IC card that can be used in Nagoya and Shizuoka",
+  "claim": "JR Central's description of TOICA",
+  "source_name": "JR Central: tickets, how to buy",
+  "source_url": "https://global.jr-central.co.jp/en/tickets/buy/",
+  "must_contain": [
+   "An IC card that can be used in Nagoya and Shizuoka"
+  ],
+  "topics": [
+   "does-suica-work-everywhere-in-japan"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_reserve",
+  "text": "baggage with total dimensions (A+B+C) of between 160 cm (63 inches) and 250 cm (98 inches) requires a reservation",
+  "claim": "Oversized baggage on the Tokaido Shinkansen: reservation range",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "Baggage with total dimensions (A+B+C) of between 160 cm (63 inches) and 250 cm (98 inches) requires a reservation"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_max",
+  "text": "baggage with a total of three dimensions exceeding 250 cm (98 inches) cannot be brought on board",
+  "claim": "Oversized baggage: maximum",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "Baggage with a total of three dimensions exceeding 250 cm (98 inches) cannot be brought on board"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_scope",
+  "text": "passengers who intend to bring baggage with overall dimensions of more than 160 cm (63 inches) onto the Tokaido-Sanyo-Kyushu Shinkansen (Tokyo - Shin Osaka - Hakata - Kagoshima-Chuo) need to reserve a seat with an oversized baggage area",
+  "claim": "Oversized baggage: which trains",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "need to reserve a seat with an oversized baggage area",
+   "Tokaido-Sanyo-Kyushu Shinkansen (Tokyo - Shin Osaka - Hakata - Kagoshima-Chuo)"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_when",
+  "text": "a reservation for the oversized baggage space is required when purchasing your ticket",
+  "claim": "Oversized baggage: when to reserve",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "a reservation is required when purchasing your ticket"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_fee",
+  "text": "passengers traveling with oversized baggage without a reservation will be charged a baggage fee",
+  "claim": "Oversized baggage: no reservation",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "Passengers traveling with oversized baggage without a reservation will be charged a baggage fee"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_shared",
+  "text": "the space for oversized baggage is shared by the five passengers who reserved the five back row seats with an oversized baggage area",
+  "claim": "Oversized baggage: how the space works",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "The space for the oversized baggage is shared by the five passengers who reserved the five back row seats with an oversized baggage area"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
+ },
+ {
+  "id": "jco_hands",
+  "text": "by leaving your baggage at a hotel or station, you can have it delivered to your destination hotel on the same day",
+  "claim": "JR Central on hands-free travel",
+  "source_name": "JR Central: oversized baggage",
+  "source_url": "https://global.jr-central.co.jp/en/info/oversized-baggage/",
+  "must_contain": [
+   "By leaving your baggage at a hotel or station, you can have it delivered to your destination hotel on the same day"
+  ],
+  "topics": [
+   "tokyo-kyoto-osaka-7-day-itinerary"
+  ],
+  "verified_on": "2026-11-22"
  }
 ]

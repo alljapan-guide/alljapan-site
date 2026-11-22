@@ -3,7 +3,7 @@ title: Japan IC Card Guide: Suica, Pasmo & ICOCA Explained
 slug: japan-ic-card-guide
 description: Which Japan IC card (train card) to use, how to add one to your iPhone, and when a card is not enough. A practical guide for first-time visitors.
 date: 2026-10-18
-updated: 2026-11-21
+updated: 2026-11-22
 cluster: transport
 affiliates: railpass | klook | esim
 references: apple_express_mode | pasmo_tourist
@@ -43,8 +43,8 @@ Always read the issuing operator's own page for the current rules, price and val
 
 The cards are run by different companies, and their pages do not say quite the same thing. Where they differ is where first-time visitors get caught out.
 
-- **Coverage.** JR-West's ICOCA page says {{fact:icw_everywhere}}. PASMO's page says {{fact:pasmo_not_every_line}}. The two sentences are not a contradiction, but they point in different directions. Our view: plan with the cautious one. Cards from different areas work together where the operators take part, so check the local operator for a rural line or a small bus company before you rely on any card.
-- **Cards for visitors.** The PASMO site {{fact:pasmo_tourist}}. JR-West's page adds that {{fact:icw_visitor_card}}. The conditions: {{fact:icw_visitor_req}}. And {{fact:icw_visitor_where}}. Our view: this is a reason to look at where you land. If your first stop is Kansai Airport, the visitor card is a real option; if you land in Tokyo, read the PASMO page for what is on offer that week.
+- **Coverage.** JR-West's ICOCA page says {{fact:icw_everywhere}}, while PASMO's page says {{fact:pasmo_not_every_line}}. Our view: plan with the cautious one, and see our [compatibility guide](does-suica-work-everywhere-in-japan.html), which sets four operators' wordings side by side.
+- **Cards for visitors.** The PASMO site {{fact:pasmo_tourist}}, and JR-West sells a visitor-only ICOCA in the Kansai area. Our [guide for tourists](can-tourists-buy-suica-or-pasmo-in-japan.html) has the conditions and where each is sold. Our view: where you land decides which one to check first.
 - **Putting a card on your phone.** Apple lists what you need: {{fact:apple_wallet_needs}}. JR-West's ICOCA page is more specific about software, saying {{fact:icw_ap_devices}}. For topping up, {{fact:icw_ap_funds}}.
 - **Before you leave Japan.** JR-West warns that {{fact:icw_ap_refund}}. Our view: load small amounts of money on a phone card, because you cannot count on getting the balance back at the end of the trip. Check the issuing operator's rules for the card you actually hold.
 - **Express trains.** JR-West notes that {{fact:icw_ap_limex}}. The card pays for the ride on ordinary services, not the express ticket.

@@ -3,7 +3,7 @@ title: Does Suica Work Everywhere in Japan? Which IC Cards Work Together
 slug: does-suica-work-everywhere-in-japan
 description: Does a Suica or PASMO card work in Osaka, Kyoto and elsewhere? The ten interoperable IC cards, PiTaPa limits, lines that do not accept cards, and shopping use.
 date: 2026-11-12
-updated: 2026-11-12
+updated: 2026-11-22
 cluster: transport
 affiliates: trip_trains | trip_esim | trip_hotels
 image_queries: Suica card | Yamanote Line train
@@ -46,6 +46,25 @@ PASMO says that {{fact:pasmo_not_every_line}}. And the page notes that {{fact:ic
 
 {{warn|Do not assume that a card will work on a small local line, a rural bus or a private operator without the logo. Look for the logo at the gate, and carry cash or a paper ticket for these.}}
 
+## Four operators, four ways of saying "everywhere"
+
+Each operator describes its own card in its own words, and the words differ. Reading them side by side shows where the real limits are.
+
+| Operator | How its page describes the card's reach |
+|---|---|
+| PASMO | {{fact:ic_ten_cards}}, but {{fact:pasmo_not_every_line}} |
+| JR-West (ICOCA) | {{fact:jwa_other_areas}} |
+| JR Central (TOICA) | {{fact:jct_toica}} |
+| Kintetsu (a private railway) | {{fact:kin_one_card}} |
+
+Our view: these are not four different answers. Each operator describes its own card from its own side, so a "home area" description such as TOICA's is not a limit on where the card works, since PASMO says the ten cards work together. The limits that matter are the ones PASMO states: not every line takes cards, so look for the logo.
+
+Three smaller points come from the same pages:
+
+- **Shopping.** JR-West says {{fact:jwm_accept}}, and adds that {{fact:jwa_pitapa_money}}. Our view: at a register, look for the mark of a card you hold, not just for "IC card".
+- **Lockers and vending machines.** JR-West says {{fact:jwm_where}}. Our view: a card with a small balance is handy for coin lockers; see our [coin locker guide](coin-lockers-and-luggage-storage-japan.html).
+- **Express trains.** Kintetsu says {{fact:kin_le_basic}}. Our view: read the card as covering the ride itself, with an express ticket as an extra. If your balance runs short, Kintetsu says {{fact:kin_adjust}}.
+
 ## Shopping
 
 PASMO says that {{fact:icx_p_what}}. And that {{fact:pasmo_shopping}}.
@@ -74,6 +93,8 @@ Our view: for long rides between cities, you buy a separate ticket for the bulle
 
 {{pick|Treat one main IC card as enough for most city travel, look for the logo, and carry cash and a way to buy paper tickets for lines that do not accept cards. This is our view, built on the PASMO page.}}
 
+Last reviewed on 22 November 2026 against the PASMO, JR-West, JR Central and Kintetsu pages in the Sources box.
+
 ## FAQ
 
 ### Does Suica work in Osaka and Kyoto?
@@ -91,6 +112,10 @@ PASMO lists PASMO, Suica, Kitaca, TOICA, manaca, ICOCA, PiTaPa, HAYAKAKEN, nimoc
 ### Can I shop with an IC card?
 
 PASMO says transit IC cards can also be used for cashless payments at participating stores.
+
+### Does an IC card pay for a Limited Express train?
+
+An IC card can serve as the basic fare ticket, but it is not the express ticket. Kintetsu says {{fact:kin_le_basic}}.
 
 ### What if my card is not accepted?
 
