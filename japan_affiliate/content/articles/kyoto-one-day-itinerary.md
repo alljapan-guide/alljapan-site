@@ -3,7 +3,7 @@ title: Kyoto in One Day: A Walking Itinerary from Ginkaku-ji to Gion
 slug: kyoto-one-day-itinerary
 description: A one-day Kyoto walking itinerary from JNTO: Ginkaku-ji, the Philosopher's Path, Nanzen-ji, Heian-jingu, Okazaki, the Shirakawa canal, Gion and Shijo Street.
 date: 2026-11-04
-updated: 2026-11-04
+updated: 2026-11-23
 cluster: itineraries
 affiliates: trip_kyoto_hotels | trip_things | klook | viator | trip_train_osaka_kyoto
 image_queries: Ginkaku-ji Kyoto | Philosopher's Path Kyoto canal | Nanzen-ji Sanmon Kyoto | Heian Jingu Kyoto
@@ -29,6 +29,19 @@ Our view: the order makes sense because it runs downhill and southwards, ending 
 JNTO is direct about timing: {{fact:ky1_early}}. For the first stop, JNTO says that {{fact:ky1_ginkaku}}.
 
 On the way up, JNTO adds that {{fact:ky1_yatsuhashi}}.
+
+## Check the season before you copy the times
+
+JNTO's blog is from {{fact:ky1_date}}, and its timetable does not say which months it assumes. Kyoto Travel, the city's official tourism site, lists opening hours that change with the season:
+
+| Stop | March to November | December to February |
+|---|---|---|
+| Ginkaku-ji | 8:30AM to 5:00PM | 9:00AM to 4:30PM |
+| Nanzen-ji | 8:40AM to 5:00PM | 8:40AM to 4:30PM |
+
+Kyoto Travel adds that {{fact:ky2_nanzen_closed}}. For the shrine, it lists a more detailed calendar: {{fact:ky2_heian}}.
+
+Our view: JNTO's 8:30 start at Ginkaku-ji only works from March to November. In winter the gate opens at 9:00, so the whole morning slides back by about half an hour, and the last stops have less daylight to spare because Ginkaku-ji and Nanzen-ji close at 4:30. If you travel between 28 and 31 December, drop Nanzen-ji and spend that slot on the Philosopher's Path or a longer lunch. Opening hours also change for events, so confirm each stop on its own site on the day.
 
 Our [Kyoto things to do guide](kyoto-things-to-do-first-time.html) explains the bus routes from Kyoto Station to Ginkaku-ji and Kiyomizu-dera, and our [Kansai 3-day itinerary](kansai-3-day-itinerary-kyoto-nara-osaka.html) shows a different order that includes Nara and Osaka.
 
@@ -96,7 +109,7 @@ JNTO says 24 hours in Kyoto is an inadequate amount of time to see everything, b
 
 ### What time should I start?
 
-JNTO says early-morning starts pay off in Kyoto, especially in spring and autumn, and its plan starts at 8:30 am.
+JNTO says early-morning starts pay off in Kyoto, especially in spring and autumn, and its plan starts at 8:30 am. Kyoto Travel lists Ginkaku-ji as opening at 9:00AM from December to February, so in winter start about half an hour later.
 
 ### How long is the Philosopher's Path?
 
@@ -106,6 +119,10 @@ JNTO says it takes roughly another 30 minutes to reach the end of the path, wher
 
 JNTO says Shinbashi Street in Gion has beautifully preserved teahouses that host exclusive geisha receptions.
 
+### Does Nanzen-ji close at any time of year?
+
+Kyoto Travel says visits to Nanzen-ji are not allowed from December 28th to 31st. Check the temple's own site before you go.
+
 ### How old is the JNTO blog?
 
-It was published on Feb. 6, 2020, so check current hours and events at each stop.
+It was published on Feb. 6, 2020, so check current hours and events at each stop. Our season table above uses Kyoto Travel's current hours instead.

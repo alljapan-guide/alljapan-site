@@ -30876,5 +30876,316 @@
    "tokyo-kyoto-osaka-7-day-itinerary"
   ],
   "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_toyosu",
+  "text": "the Toyosu Fish Market is listed as open from 5:00 to 17:00, with closing days on Wednesdays, Sundays, holidays and irregular days",
+  "claim": "Toyosu market hours",
+  "source_name": "GO TOKYO: Toyosu Market",
+  "source_url": "https://www.gotokyo.org/en/spot/1743/index.html",
+  "must_contain": [
+   "5:00-17:00",
+   "Closing days: Wednesdays Sundays Holidays Irregular"
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_takashimaya",
+  "text": "Shinjuku Takashimaya is listed as open from 10:30 to 19:30, with irregular closing days",
+  "claim": "Department store hours",
+  "source_name": "GO TOKYO: Shinjuku Takashimaya",
+  "source_url": "https://www.gotokyo.org/en/spot/612/index.html",
+  "must_contain": [
+   "10:30-19:30",
+   "Closing days: Irregular"
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_mitsukoshi",
+  "text": "Nihombashi Mitsukoshi Main Store is listed as open from 10:00 to 19:00, with hours that vary by floor and change with the season, and irregular closing days",
+  "claim": "Department store hours",
+  "source_name": "GO TOKYO: Nihombashi Mitsukoshi",
+  "source_url": "https://www.gotokyo.org/en/spot/82/index.html",
+  "must_contain": [
+   "10:00-19:00",
+   "Varies by floor, store, and/or facility",
+   "Changes depending on the season and/or time period",
+   "Closing days: Irregular"
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_s109",
+  "text": "SHIBUYA109 is listed as open from 10:00 to 21:00, varying by floor and store, and open year round except for New Year's Day",
+  "claim": "Fashion mall hours",
+  "source_name": "GO TOKYO: SHIBUYA109",
+  "source_url": "https://www.gotokyo.org/en/spot/66/index.html",
+  "must_contain": [
+   "10:00-21:00",
+   "Varies by floor, store, and/or facility",
+   "Open year round except for New Year"
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_gotokyo_check",
+  "text": "for updated information on opening hours and closings, check the official website or ask the facility directly",
+  "claim": "GO TOKYO hours disclaimer",
+  "source_name": "GO TOKYO: Toyosu Market",
+  "source_url": "https://www.gotokyo.org/en/spot/1743/index.html",
+  "must_contain": [
+   "please check the official website or ask the facility directly"
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_hakodate",
+  "text": "at the Hakodate Morning Market, shops are open from 6 a.m. to 2 p.m. in winter (January to April) and from 5 a.m. to 2 p.m. in summer (May to December)",
+  "claim": "Morning market hours",
+  "source_name": "JNTO: Morning Markets in Japan",
+  "source_url": "https://www.japan.travel/en/story/exploring-japans-morning-markets/",
+  "must_contain": [
+   "shops are open from 6 a.m. to 2 p.m.",
+   "from 5 a.m. to 2 p.m."
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "oh_mikoda",
+  "text": "the Mikoda Morning Market in Morioka is held from 5 a.m. to 8:30 a.m. daily, except on Mondays",
+  "claim": "Morning market hours",
+  "source_name": "JNTO: Morning Markets in Japan",
+  "source_url": "https://www.japan.travel/en/story/exploring-japans-morning-markets/",
+  "must_contain": [
+   "5 a.m. to 8:30 a.m.",
+   "daily (except on Mondays)"
+  ],
+  "topics": [
+   "japan-opening-hours-and-holidays"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_shinjuku",
+  "text": "from Shinjuku Station the Semi Limited Express on the Keio Line takes about 55 minutes to Takaosanguchi Station",
+  "claim": "Time from Shinjuku",
+  "source_name": "GO TOKYO: Mt. Takao & Around",
+  "source_url": "https://www.gotokyo.org/en/destinations/outlying-area/mt-takao-and-around/index.html",
+  "must_contain": [
+   "Take the Semi Limited Express train on the Keio Line to Takaosanguchi Station. Travel time: About 55 minutes"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_tokyo_station",
+  "text": "from Tokyo Station the JR Chuo Line with a transfer at Takao Station to the Keio Takao Line takes one hour 25 minutes",
+  "claim": "Time from Tokyo Station",
+  "source_name": "GO TOKYO: Mt. Takao & Around",
+  "source_url": "https://www.gotokyo.org/en/destinations/outlying-area/mt-takao-and-around/index.html",
+  "must_contain": [
+   "Take the JR Chuo Line and transfer at Takao Station to the Keio Takao Line to Takaosanguchi Station. Travel time: One hour 25 minutes"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_haneda",
+  "text": "from Haneda Airport it takes one hour 55 minutes by train or two hours five minutes by limousine bus",
+  "claim": "Time from Haneda",
+  "source_name": "GO TOKYO: Mt. Takao & Around",
+  "source_url": "https://www.gotokyo.org/en/destinations/outlying-area/mt-takao-and-around/index.html",
+  "must_contain": [
+   "From Haneda Airport: Two hours five minutes by limousine bus, or one hour 55 minutes by train"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_narita",
+  "text": "from Narita Airport it takes two hours 55 minutes by train or two hours 40 minutes by limousine bus",
+  "claim": "Time from Narita",
+  "source_name": "GO TOKYO: Mt. Takao & Around",
+  "source_url": "https://www.gotokyo.org/en/destinations/outlying-area/mt-takao-and-around/index.html",
+  "must_contain": [
+   "From Narita Airport: Two hours 40 minutes by limousine bus, or two hours 55 minutes by train"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_limited",
+  "text": "the fastest way to get to Mt. Takao is the private Keio Line Limited Express bound for Takaosanguchi Station",
+  "claim": "Train type on the walking route",
+  "source_name": "GO TOKYO: Mt. Takao walking route",
+  "source_url": "https://www.gotokyo.org/en/story/walks-and-tours/mt-takao/index.html",
+  "must_contain": [
+   "The fastest way to get to Mt. Takao is to take the private Keio Line Limited Express, bound for Takaosanguchi Station"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_cable",
+  "text": "the cable car takes you halfway up the mountain, and the route lists 6 minutes for the ride",
+  "claim": "Cable car",
+  "source_name": "GO TOKYO: Mt. Takao walking route",
+  "source_url": "https://www.gotokyo.org/en/story/walks-and-tours/mt-takao/index.html",
+  "must_contain": [
+   "The cable car takes you halfway up the mountain",
+   "The steepest cable car in Japan, the trip offers spectacular views. 6 mins"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_summit40",
+  "text": "from the upper cable car station the Takao Monkey Park is three minutes away on foot and the summit about 40 minutes",
+  "claim": "Time to the summit",
+  "source_name": "GO TOKYO: Hiking in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/top-hikes-in-tokyo/index.html",
+  "must_contain": [
+   "the Takao Monkey Park is three minutes",
+   "the summit about 40 minutes"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_closures",
+  "text": "trails can close after typhoons, heavy rain or bear sightings, and bus and cable car schedules vary by season",
+  "claim": "Closures",
+  "source_name": "GO TOKYO: Hiking in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/top-hikes-in-tokyo/index.html",
+  "must_contain": [
+   "Trails can close after typhoons, heavy rain or bear sightings, and bus and cable car schedules vary by season, so check before you go"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_bears",
+  "text": "Asian black bears live in the mountains of western Tokyo, so hikers should wear a bear bell, hike with others and stay off the trails at dawn and dusk",
+  "claim": "Bear advice",
+  "source_name": "GO TOKYO: Hiking in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/top-hikes-in-tokyo/index.html",
+  "must_contain": [
+   "Asian black bears live in western Tokyo",
+   "wear a bear bell, hike with others and stay off the trails at dawn and dusk"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "tk2_dark",
+  "text": "hikers should carry water, food and rain gear, take their trash home and plan to be off the trail before dark",
+  "claim": "Hiking advice",
+  "source_name": "GO TOKYO: Hiking in Tokyo",
+  "source_url": "https://www.gotokyo.org/en/story/guide/top-hikes-in-tokyo/index.html",
+  "must_contain": [
+   "Carry water, food and rain gear",
+   "plan to be off the trail before dark"
+  ],
+  "topics": [
+   "mt-takao-day-trip-from-tokyo"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "ky2_ginkaku",
+  "text": "Ginkaku-ji is open from 8:30AM to 5:00PM from March to November and from 9:00AM to 4:30PM from December to February",
+  "claim": "Ginkaku-ji hours",
+  "source_name": "Kyoto Travel: Shrines and temples open to morning prayers and visits",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/kyoto-shrines-and-temples-open-to-morning-prayers-and-visits/",
+  "must_contain": [
+   "March &#8211; November: 8:30AM &#8211; 5:00PM December &#8211; Feburary: 9:00AM &#8211; 4:30PM"
+  ],
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "ky2_nanzen",
+  "text": "Nanzen-ji is open from 8:40AM, closing at 5:00PM from March to November and at 4:30PM from December to February",
+  "claim": "Nanzen-ji hours",
+  "source_name": "Kyoto Travel: Shrines and temples open to morning prayers and visits",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/kyoto-shrines-and-temples-open-to-morning-prayers-and-visits/",
+  "must_contain": [
+   "Nanzen-ji Temple 8:40AM March &#8211; November: 8:40AM &#8211; 5:00PM",
+   "December &#8211; Februrary: 8:40AM &#8211; 4:30PM"
+  ],
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "ky2_nanzen_closed",
+  "text": "visits to Nanzen-ji are not allowed from December 28th to 31st",
+  "claim": "Nanzen-ji closure",
+  "source_name": "Kyoto Travel: Shrines and temples open to morning prayers and visits",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/kyoto-shrines-and-temples-open-to-morning-prayers-and-visits/",
+  "must_contain": [
+   "Visits are not allowed from December 28th to 31st"
+  ],
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-23"
+ },
+ {
+  "id": "ky2_heian",
+  "text": "Heian-jingu opens at 6:00AM and closes at 6:00PM from March 15th to September 30th, at 5:30PM in October and from February 15th to March 14th, and at 5:00PM from November 1st to February 14th",
+  "claim": "Heian-jingu hours",
+  "source_name": "Kyoto Travel: Shrines and temples open to morning prayers and visits",
+  "source_url": "https://kyoto.travel/en/travel-inspiration/kyoto-shrines-and-temples-open-to-morning-prayers-and-visits/",
+  "must_contain": [
+   "Heian-jingu Shrine 6:00AM",
+   "October 1st &#8211; October 31st: 6:00AM &#8211; 5:30PM",
+   "November 1st &#8211; Februrary 14th: 6:00AM &#8211; 5:00PM",
+   "March 15th &#8211; September 30th: 6:00AM &#8211; 6：00PM"
+  ],
+  "topics": [
+   "kyoto-one-day-itinerary"
+  ],
+  "verified_on": "2026-11-23"
  }
 ]
