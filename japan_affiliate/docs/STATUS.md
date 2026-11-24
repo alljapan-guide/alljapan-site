@@ -307,3 +307,9 @@ Queue: can-tourists-buy-suica-or-pasmo-in-japan and does-suica-work-everywhere-i
 
 ## 2026-11-23 enhancement batch 6 (no new articles, no URL changes)
 Enhanced japan-opening-hours-and-holidays (second pass; GO TOKYO venue hours: Takashimaya, Mitsukoshi, SHIBUYA109, Toyosu market, plus Hakodate and Mikoda morning markets; 7 facts), mt-takao-day-trip-from-tokyo (GO TOKYO vs JNTO travel times, 40-minute climb, cable car, bear and closure notes, three-ways-to-do-the-day table; 10 facts) and kyoto-one-day-itinerary (Kyoto Travel seasonal hours for Ginkaku-ji, Nanzen-ji and Heian-jingu vs the 2020 JNTO timetable; 4 facts). Sources: JNTO, GO TOKYO, Kyoto Travel. Verifier quirk: stored page text keeps HTML entities, so en dashes must be written as `&#8211;` in must_contain.
+
+## 2026-11-24 定期強化（行23a/23b続き）
+- 強化: kyoto-things-to-do-first-time（京都市観光協会 Kyoto Travel：清水寺・二条城の節）、osaka-things-to-do-first-time（OSAKA-INFO：周遊パスの節＋flow図）、where-to-stay-in-osaka（OSAKA-INFO：観光局のエリア区分の節）。「Last reviewed」を2026-11-24に更新、混入していた不要な文を削除。
+- 新規ファクト27件（kyt2_*, oi2_*, oi3_*）すべてverify OK。pytest 41通過、strict build成功、distに'{{fact:'なし。
+- 到達不可ホスト: odakyu-global.com等は許可リスト外のため行23（地域別旅程）は保留。追加許可が必要。
+- URL変更なし。写真取得なし。

@@ -31187,5 +31187,386 @@
    "kyoto-one-day-itinerary"
   ],
   "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_columns",
+  "text": "the veranda of Kiyomizu-dera juts out of the side of a mountain on 13-meter-high wooden columns",
+  "claim": "Kiyomizu-dera veranda",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+  "must_contain": [
+   "13-meter-high wooden columns"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_west",
+  "text": "from the veranda you get fine views facing west over the city of Kyoto",
+  "claim": "Kiyomizu-dera view",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+  "must_contain": [
+   "fine views facing west over the city of Kyoto"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_sunset",
+  "text": "this is an auspicious place to watch the sunset",
+  "claim": "Kiyomizu-dera sunset",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+  "must_contain": [
+   "an auspicious place to watch the sunset"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_water",
+  "text": "visitors drink water from the falls by collecting it in tin cups, and there are three different streams",
+  "claim": "Kiyomizu-dera falls",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+  "must_contain": [
+   "collecting it in tin cups",
+   "three different streams"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_jishu",
+  "text": "there is a shrine, Jishu-jinja Shrine, on the grounds",
+  "claim": "Kiyomizu-dera grounds",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+  "must_contain": [
+   "Jishu-jinja Shrine"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_festival",
+  "text": "the temple is very popular with visitors and has something of a festival atmosphere",
+  "claim": "Kiyomizu-dera crowds",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/kiyomizudera-temple/",
+  "must_contain": [
+   "something of a festival atmosphere"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_resid",
+  "text": "Nijo-jo Castle was the residence of the Tokugawa shoguns in Kyoto from 1603 to 1868",
+  "claim": "Nijo-jo history",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/nijojo-castle/",
+  "must_contain": [
+   "from 1603 to 1868"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_audience",
+  "text": "in the main chamber the shoguns met the daimyo, the high-ranking warlord-administrators who sought an audience",
+  "claim": "Nijo-jo main chamber",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/nijojo-castle/",
+  "must_contain": [
+   "the shoguns met the daimyo"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_screens",
+  "text": "the screens of the main chamber were painted by artists of the Kano school",
+  "claim": "Nijo-jo screens",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/nijojo-castle/",
+  "must_contain": [
+   "painted by artists of the Kano school"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "kyt2_tour",
+  "text": "an Official English Guided Tour of Nijo-jo Castle is available",
+  "claim": "Nijo-jo English tour",
+  "source_name": "Kyoto Travel (Kyoto City Tourism Association)",
+  "source_url": "https://kyoto.travel/en/destinations/nijojo-castle/",
+  "must_contain": [
+   "Official English Guided Tour"
+  ],
+  "topics": [
+   "kyoto-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_epass",
+  "text": "the Osaka e-pass lets you enter over 25 tourist spots for free with just one QR code",
+  "claim": "Osaka e-pass",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "over 25 tourist spots for free with just one QR code"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_notrans",
+  "text": "trains and buses are not included in the Osaka e-pass",
+  "claim": "Osaka e-pass transport",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "trains and buses are not included"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_premium",
+  "text": "the Osaka e-pass Premium has no restrictions on time or day of use",
+  "claim": "Osaka e-pass Premium",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "no restrictions on time or day of use"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_premium_spots",
+  "text": "the Premium pass includes free admission to attractions such as Abeno Harukas 300 and the Osaka Castle Museum",
+  "claim": "Osaka e-pass Premium sights",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "Abeno Harukas 300",
+   "Osaka Castle Museum"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_eco",
+  "text": "the Enjoy Eco Card allows unlimited travel on all Osaka Metro and Osaka City Bus lines for one day",
+  "claim": "Enjoy Eco Card",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "unlimited travel on all Osaka Metro and Osaka City Bus lines",
+   "for one day"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_eco_excl",
+  "text": "the Enjoy Eco Card does not cover buses to IKEA Tsuruhama and Universal Studios Japan, airport buses or on-demand buses",
+  "claim": "Enjoy Eco Card exclusions",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "airport buses, and on-demand buses"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi2_icoca",
+  "text": "ICOCA can be used on JR, Osaka Metro, private railways, buses and in the PiTAPA area",
+  "claim": "ICOCA coverage",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/ticket/travel-passes/",
+  "must_contain": [
+   "JR, Osaka Metro, private railways, buses, and in the PiTAPA area"
+  ],
+  "topics": [
+   "osaka-things-to-do-first-time"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_kita",
+  "text": "the Kita area is lined with shopping malls, department stores and office buildings",
+  "claim": "Kita area",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/basic/",
+  "must_contain": [
+   "lined with shopping malls, department stores, and office buildings"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_nakanoshima",
+  "text": "a short walk from Kita leads to Nakanoshima, an area with retro architecture and waterfront scenery",
+  "claim": "Nakanoshima",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/basic/",
+  "must_contain": [
+   "retro architecture and waterfront scenery"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_minami",
+  "text": "the Minami area is an energetic downtown area where tradition and fashion intersect",
+  "claim": "Minami area",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/basic/",
+  "must_contain": [
+   "where tradition and fashion intersect"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_bay",
+  "text": "the Bay Area has leisure spots including theme parks, aquariums, Ferris wheels and sports facilities",
+  "claim": "Bay Area",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/basic/",
+  "must_contain": [
+   "theme parks, aquariums, Ferris wheels, and sports facilities"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_tennoji",
+  "text": "the Tennoji and Abeno area has tourist attractions including a zoo and temples and shrines",
+  "claim": "Tennoji and Abeno area",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/basic/",
+  "must_contain": [
+   "a zoo and temples and shrines"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_castle",
+  "text": "the Osaka Castle area is the place for history, including Osaka Castle and the Osaka Museum of History",
+  "claim": "Osaka Castle area",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/osaka/basic/",
+  "must_contain": [
+   "including Osaka Castle and the Osaka Museum of History"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_hotel_minami",
+  "text": "the bureau lists the hotel search area as Minami (Shinsaibashi/Namba)",
+  "claim": "Hotel search area Minami",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/hotel/",
+  "must_contain": [
+   "Minami (Shinsaibashi/Namba) area"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_hotel_kita",
+  "text": "the bureau lists the hotel search area as Kita (Umeda, Fukushima, Tenma)",
+  "claim": "Hotel search area Kita",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/hotel/",
+  "must_contain": [
+   "Kita (Umeda, Fukushima, Tenma) area"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_hotel_kobe",
+  "text": "the bureau also lists Hyogo and Kobe as a hotel search area",
+  "claim": "Hotel search area Kobe",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/hotel/",
+  "must_contain": [
+   "Hyogo and Kobe"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
+ },
+ {
+  "id": "oi3_hotel_types",
+  "text": "the bureau lets you narrow a hotel search by luxury hotels, city hotels, capsule hotels, inns and business hotels",
+  "claim": "Hotel types",
+  "source_name": "Osaka Convention & Tourism Bureau",
+  "source_url": "https://osaka-info.jp/en/information/hotel/",
+  "must_contain": [
+   "Luxury Hotels City hotels capsule hotel Inn Business hotels"
+  ],
+  "topics": [
+   "where-to-stay-in-osaka"
+  ],
+  "verified_on": "2026-11-24"
  }
 ]

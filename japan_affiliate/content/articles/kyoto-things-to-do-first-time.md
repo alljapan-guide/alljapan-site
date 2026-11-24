@@ -1,9 +1,9 @@
 ---
 title: Things to Do in Kyoto for First-Timers: Temples, Streets and Timing
 slug: kyoto-things-to-do-first-time
-description: What to do in Kyoto on a first visit using JNTO: Higashiyama and Gion, Nijo Castle, Nishiki Market, seasons, manners, crowd tools and how many days to allow.
+description: What to do in Kyoto on a first visit, using JNTO and Kyoto Travel: Higashiyama, Kiyomizu-dera, Nijo Castle, Nishiki Market, seasons, manners and crowds.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-24
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_kyoto_hotels | trip_train_osaka_kyoto
 image_queries: Kiyomizu-dera Kyoto | Ginkaku-ji Silver Pavilion Kyoto | Nishiki Market Kyoto | Nijo Castle Kyoto
@@ -70,6 +70,20 @@ On smoking, JNTO says that {{fact:kt_smoking}}. And on private spaces, {{fact:kt
 
 Our [etiquette guide](japan-etiquette-for-first-timers.html) covers the wider rules, and our [local laws guide](japan-local-laws-for-visitors.html) explains why smoking rules differ from city to city.
 
+## Kiyomizu-dera and Nijo Castle: what Kyoto Travel adds
+
+JNTO treats Kiyomizu-dera as a must-see that needs an uphill walk and a crowd, and Nijo Castle as the shogun's seat. The Kyoto City Tourism Association's own pages for the two sights add detail that helps you decide what to look for and when to go.
+
+**Kiyomizu-dera.** Kyoto Travel says that {{fact:kyt2_columns}}. It adds that {{fact:kyt2_west}}, and that {{fact:kyt2_sunset}}.
+
+- On the grounds, {{fact:kyt2_water}}.
+- {{fact:kyt2_jishu}}.
+- JNTO warns of crowds; Kyoto Travel puts it more cheerfully: {{fact:kyt2_festival}}.
+
+**Nijo Castle.** Kyoto Travel says that {{fact:kyt2_resid}}. Inside the palace, {{fact:kyt2_audience}}, and {{fact:kyt2_screens}}. For context on the building, {{fact:kyt2_tour}}.
+
+Our view: the west-facing veranda is a reason to put Kiyomizu-dera late in the day, while the first hour after opening that JNTO recommends suits Nijo Castle, which is a calm indoor visit. Opening and closing times change by season, so check each site's own page for the day you go. The two sources agree on the crowds; they differ only in emphasis.
+
 ## Beat the crowds
 
 JNTO gives two practical tools. For timing, it says to {{fact:kt_early}}. For checking, it points to a tool: {{fact:kt_forecast}}.
@@ -111,6 +125,8 @@ If you would rather have someone explain the temples and streets, see our guide:
 For a quiet hour in the city, our [Japanese tea ceremony for visitors](japanese-tea-ceremony-guide-etiquette-and-where-to-try.html) explains what happens and how to choose a session.
 
 If you arrive in Kyoto from the mountains, our [Takayama to Kyoto itinerary](hida-takayama-to-kyoto-5-day-itinerary.html) ends with two days in the eastern hills.
+
+Last reviewed on 24 November 2026 against the JNTO and Kyoto Travel pages cited in this guide.
 
 ## FAQ
 

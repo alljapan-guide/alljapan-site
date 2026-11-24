@@ -3,7 +3,7 @@ title: Where to Stay in Osaka: Best Areas for First-Time Visitors
 slug: where-to-stay-in-osaka
 description: How to choose an Osaka base: Umeda, Dotonbori, Namba, Tennoji or the bay area near Universal Studios Japan, using JNTO's official area guides.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-24
 cluster: hotels
 affiliates: trip_osaka_hotels | booking
 image_queries: Namba Osaka street night | Umeda Sky Building | Abeno Harukas | Osaka Aquarium Kaiyukan
@@ -74,6 +74,21 @@ Our view: you can visit the bay area as a day trip from a central base, as JNTO 
 
 {{photo:4|The Osaka Aquarium Kaiyukan in the Osaka bay area}}
 
+## Two maps of the same city
+
+JNTO's area pages are one way to divide Osaka. The tourist bureau, OSAKA-INFO, draws a slightly different map, and the differences matter when a booking site uses the bureau's names.
+
+- **Kita.** The bureau says that {{fact:oi3_kita}}, and that {{fact:oi3_nakanoshima}}. Its hotel search names this area {{fact:oi3_hotel_kita}}.
+- **Minami.** The bureau says that {{fact:oi3_minami}}. Its hotel search puts Shinsaibashi and Namba together: {{fact:oi3_hotel_minami}}. JNTO describes Dotonbori and Shinsaibashi separately from Namba.
+- **Tennoji and Abeno.** {{fact:oi3_tennoji}}.
+- **Bay Area.** {{fact:oi3_bay}}.
+- **Osaka Castle area.** {{fact:oi3_castle}}. JNTO does not offer it as a base area.
+- **Beyond Osaka.** {{fact:oi3_hotel_kobe}}, which shows how the bureau treats Kobe as part of the same search.
+
+The bureau's hotel search also lets you narrow results by type: {{fact:oi3_hotel_types}}.
+
+Our view: when a listing says "Minami", read the hotel's station name as well, because one area name can cover places that JNTO describes as separate. If you want to sleep near the Osaka Castle area for the history, treat it as a choice of its own, not as one of the three main hubs.
+
 ## How to choose in two minutes
 
 | Your priority | Start with |
@@ -101,9 +116,11 @@ Osaka often sits at the end of a longer route. Our [7-day itinerary](tokyo-kyoto
 
 For the whole region at a glance, including day trips and longer Kansai routes, see our [Kansai travel guide](kansai-travel-guide-kyoto-osaka-nara-and-beyond.html).
 
-If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
+If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around the main sights and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
 
 For capsule hotels and business hotels, see our [guide to budget stay types](budget-places-to-stay-in-japan-capsule-minshuku-hostel.html).
+
+Last reviewed on 24 November 2026 against the JNTO and OSAKA-INFO pages cited in this guide.
 
 ## FAQ
 

@@ -3,7 +3,7 @@ title: Things to Do in Osaka for First-Timers: Castle and Dotonbori
 slug: osaka-things-to-do-first-time
 description: What to do in Osaka on a first visit using JNTO: Osaka Castle, Dotonbori, Shinsaibashi, street food, seasonal festivals and Kansai day trips.
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-24
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_osaka_hotels | trip_train_osaka_kyoto
 image_queries: file:Osaka Castle 02bs3200.jpg | Dotonbori Glico sign Osaka | Shinsaibashi-suji shopping street | Takoyaki Osaka
@@ -80,6 +80,23 @@ JNTO says that {{fact:ot_kansai}}. That makes the city a good base for a trip, a
 
 {{photo:3|Shinsaibashi-suji, one of Japan's oldest shopping streets}}
 
+## Passes: what they cover and what they leave out
+
+JNTO's pages do not cover passes. OSAKA-INFO, the site of the Osaka Convention & Tourism Bureau, does, and its page shows that the passes do different jobs.
+
+```diagram
+type: flow
+caption: A pass pays off only if it covers what you already planned
+steps: List the sights you will actually enter | Check which of them are on the pass list | Decide how you will ride between them | Buy a pass only if it covers most of your list
+```
+
+- **Osaka e-pass.** The bureau says that {{fact:oi2_epass}}. It is an entry pass, so {{fact:oi2_notrans}}.
+- **Osaka e-pass Premium.** {{fact:oi2_premium}}, and {{fact:oi2_premium_spots}}.
+- **Enjoy Eco Card.** This one is a ride pass: {{fact:oi2_eco}}. It has limits: {{fact:oi2_eco_excl}}.
+- **ICOCA.** The bureau describes it as a card from JR West, and says that {{fact:oi2_icoca}}. Our [IC card guide](japan-ic-card-guide.html) explains how to get one.
+
+Our view: an entry pass and a ride pass solve different problems, so decide how you will ride first and then see whether a pass covers your sights. We do not repeat prices here because they change; read the current list on the bureau's page before you buy, and count how many listed sights are already on your plan.
+
 ## Booking tours, tickets and a place to stay
 
 For guided food tours, castle tickets or day trips, you can compare options on {{aff:trip_things|Trip.com}}, {{aff:klook|Klook}} and {{aff:viator|Viator}}. For a place to stay, you can compare Osaka hotels on {{aff:trip_osaka_hotels|Trip.com}}, and our [Osaka hotel guide](where-to-stay-in-osaka.html) explains the areas.
@@ -94,9 +111,9 @@ For the short ride between the two cities, you can compare Osaka to Kyoto train 
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
-If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
+If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around these sights and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
 
-For a pop culture theme park day and anime districts in Tokyo, see [Akihabara and anime pop culture in Tokyo](akihabara-and-anime-pop-culture-guide-tokyo.html).
+Last reviewed on 24 November 2026 against the JNTO and OSAKA-INFO pages cited in this guide.
 
 ## FAQ
 
