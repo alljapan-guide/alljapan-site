@@ -1,9 +1,9 @@
 ---
 title: Ise Jingu: How to Visit and Pray at Japan's Most Sacred Shrine
 slug: ise-jingu-guide
-description: How to visit Ise Jingu in the right order: outer shrine first, which side to walk on, how to purify and pray, and what else to see nearby, using JNTO guidance.
+description: Visit Ise Jingu in the right order: outer shrine first, which side to walk on, how to pray, and the station and bus for each shrine (JNTO and Kintetsu).
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-25
 cluster: itineraries
 affiliates: klook | booking
 image_queries: Ise Jingu Naiku main shrine | Uji Bridge Ise Jingu | Meoto Iwa Futami Ise | Ise Jingu Geku outer shrine
@@ -17,6 +17,8 @@ JNTO says that {{fact:is_must}}, and that {{fact:is_heart}}.
 ## What "Ise Jingu" actually means
 
 The name covers more than the two famous shrines. JNTO explains that {{fact:is_125}}. It also notes that {{fact:is_newyear}}.
+
+Kintetsu Railway, the line that serves Ise, adds detail that JNTO's guide leaves out. On the outer shrine, it says that {{fact:kti_geku_deity}}. On the inner shrine, it says that {{fact:kti_naiku_deity}}. And it notes that {{fact:kti_rebuilt}}.
 
 Our view: knowing this changes how you plan. You are not visiting a single building, so decide in advance whether you want the two main shrines only or a longer route that includes the smaller ones.
 
@@ -36,7 +38,15 @@ At each shrine, the route is the same. JNTO says to {{fact:is_hall}}.
 
 ## Getting between the two shrines
 
-JNTO notes that {{fact:is_6km}}. Our view: this is the planning detail that surprises most first-time visitors. Check the transport options from the official Ise and Mie tourism pages before you go, and allow time for the transfer. If you are travelling with luggage, our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to travel hands-free.
+JNTO notes that {{fact:is_6km}}. Kintetsu agrees on the order, saying that {{fact:kti_geku_first}}. Where the two sources differ is in how much help they give with the journey: JNTO stops at the distance, while Kintetsu names a different way in to each shrine.
+
+| Place | What Kintetsu says | What it means for your day |
+|---|---|---|
+| Outer shrine (Geku) | Kintetsu says that {{fact:kti_geku_access}} | You can step off the train and walk |
+| Inner shrine (Naiku) | Kintetsu says that {{fact:kti_naiku_access}} | There is a bus leg between station and shrine |
+| Okage Yokocho | Kintetsu says that {{fact:kti_okage_access}} | A separate bus stop from the shrine, so it is its own stop |
+
+Our view: the three station numbers run in sequence on Kintetsu's page, M73, M74 and M75, so the outer shrine is the natural first stop and the bus leg belongs to the second half of your day. Check the bus timetable on the day, since Kintetsu's page gives the stop and not the frequency. If you are travelling with luggage, our [luggage forwarding guide](japan-luggage-forwarding.html) explains how to travel hands-free.
 
 For the rail side of getting to Ise, our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to check whether a pass helps.
 
@@ -71,7 +81,9 @@ JNTO suggests that the trip should not stop at the two main shrines. It points t
 
 If you want the full ritual route, JNTO adds that {{fact:is_betsugu}}. One of the famous ones is described as follows: {{fact:is_tsukiyomi}}.
 
-Our view: for a first visit, the two main shrines plus one or two betsugu is plenty. Add the coast if you have an extra half day.
+Kintetsu also lists a street worth a stop on the way: {{fact:kti_okage_shops}}. On the way in, {{fact:kti_uji}}.
+
+Our view: for a first visit, the two main shrines plus one or two betsugu is plenty. If you want two days with the food and the coast, our [Ise food and culture itinerary](ise-food-and-culture-2-day-itinerary.html) builds them around the same shrine order. Add the coast if you have an extra half day.
 
 ## Rituals and festivals
 
@@ -95,6 +107,8 @@ If you are visiting as part of a longer route, our [7-day itinerary](tokyo-kyoto
 
 Not sure this is the right plan? Compare more options in our [Japan itineraries by length and region](japan-itineraries-by-region-and-length.html).
 
+Last reviewed on 25 November 2026 against the JNTO and Kintetsu Railway pages cited in this guide.
+
 ## FAQ
 
 ### Which shrine should I visit first at Ise?
@@ -116,3 +130,7 @@ JNTO says to bow deeply at the torii gate, clap twice and pray, then bow again, 
 ### What are the basic manners?
 
 JNTO says smoking is prohibited in the shrine area, you should speak softly, switch your phone to silent mode, avoid exposing too much skin and take off your hat in front of the god.
+
+### How do I get to each shrine by train?
+
+Kintetsu lists Iseshi Station for the outer shrine, which is a short walk away, and Ujiyamada or Isuzugawa station for the inner shrine, from where you take a Mie Kotsu bus to the Naiku-mae stop.

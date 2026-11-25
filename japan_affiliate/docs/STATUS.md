@@ -313,3 +313,13 @@ Enhanced japan-opening-hours-and-holidays (second pass; GO TOKYO venue hours: Ta
 - 新規ファクト27件（kyt2_*, oi2_*, oi3_*）すべてverify OK。pytest 41通過、strict build成功、distに'{{fact:'なし。
 - 到達不可ホスト: odakyu-global.com等は許可リスト外のため行23（地域別旅程）は保留。追加許可が必要。
 - URL変更なし。写真取得なし。
+
+## 2026-11-25 定期強化（第二出典：気象庁 JMA、近畿日本鉄道 Kintetsu）
+- 行23（川越・日光・しまなみ・熊野古道・会津・東北夏祭り）は保留のまま。第二出典になる観光協会・鉄道会社（東武、西武、各地観光協会）がすべて許可リスト外で、JR-West のしまなみ・熊野の記述は短い紹介文のみ。odakyu.jp / nankai.co.jp は日本語ページだけが届き、英語版（odakyu-global.com など）は別ホスト。姫路も OSAKA-INFO・JR-West に記述なし。
+- 強化（URL変更なし、アフィリエイト追加なし、写真追加なし）:
+  - earthquake-and-typhoon-safety-for-visitors-in-japan: JNTO のみだった記事に気象庁の英語ページを追加。節「What the Japan Meteorological Agency adds」（緊急地震速報は数秒〜数十秒で震源に近い所では間に合わない、震度階級と5弱〜6弱の体感の表、警戒レベル2〜5のflow図、津波警報は2〜3分、南海トラフ臨時情報、英語版JMAは警報・注意報のみ）。FAQ 2問追加、Last reviewed 更新。
+  - ise-jingu-guide: Kintetsu の外宮・内宮・おかげ横丁ページを追加。外宮は伊勢市駅（M73）から徒歩、内宮は宇治山田（M74）または五十鈴川（M75）からバス、のアクセス表。祭神・20年ごとの建て替え・宇治橋・おかげ横丁。内部リンク追加。
+  - ise-food-and-culture-2-day-itinerary: 出典どうしの食い違いを記事に反映。JNTO旅程は1日目に内宮・2日目に外宮だが、JNTOの伊勢神宮ガイドと Kintetsu はどちらも外宮が先。節「Which shrine first? Two sources, two orders」と入れ替え案の表、FAQ・editorial pick を修正。海の幸の季節差（JNTO: 伊勢海老は10〜4月、Kintetsu: アワビは夏）、松阪牛、夫婦岩へのアクセス（鳥羽駅からCANバス）と夏至の日の出を追加。
+- 新規ファクト29件（jma_* 16、kti_* 13）。すべて該当ページで must_contain 検証OK。
+- 使った出典: JMA（earthquake、eew1/eew2、inttable、Emergency Warning、forecast）、Kintetsu（sightseeing/mie の spot01・02・17・18・22・23）。
+

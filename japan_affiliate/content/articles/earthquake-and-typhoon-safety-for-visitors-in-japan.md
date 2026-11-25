@@ -1,9 +1,9 @@
 ---
 title: Earthquakes and Typhoons in Japan: A Visitor Safety Guide
 slug: earthquake-and-typhoon-safety-for-visitors-in-japan
-description: How to prepare for earthquakes and typhoons in Japan: what JNTO advises, when typhoon season runs, where to get alerts, and how to plan around a storm.
+description: Earthquakes and typhoons in Japan: JNTO's advice beside the Japan Meteorological Agency's alert levels, shaking scale and warning times, plus a typhoon plan.
 date: 2026-11-13
-updated: 2026-11-13
+updated: 2026-11-25
 cluster: planning
 affiliates: insurance | trip_insurance | booking
 image_queries: Tsunami evacuation route sign Japan | Japanese koban police box Tokyo | Japan disaster prevention drill emergency
@@ -37,6 +37,50 @@ steps: On arrival: note the evacuation route at your hotel | Before you go out: 
 ```
 
 {{tip|Photograph the evacuation map on your hotel room door or in the corridor on the first night. It takes ten seconds and you will have it on your phone when you need it.}}
+
+## What the Japan Meteorological Agency adds
+
+JNTO tells you what to do. The Japan Meteorological Agency (JMA) issues the alerts, so its own pages show how much time you will have and what the levels on a warning mean. The two sources agree, but they stress different things: JNTO says to stay calm and follow staff, while JMA is blunt about how little time an early warning gives.
+
+### How much time does an early warning give you?
+
+JMA says that {{fact:jma_eew_seconds}}. It also says that {{fact:jma_eew_near}}. The system exists so that {{fact:jma_eew_trains}}.
+
+Our view: a phone alert is not a prompt to read the message. It is a prompt to step away from windows, shelves and anything that can fall, and to look at the screen afterwards.
+
+### What the shaking numbers mean
+
+The figure on a news site or an alert is JMA's seismic intensity, not the magnitude. {{fact:jma_scale10}}. Three of the higher levels are worth knowing:
+
+| Reading | What JMA describes | Our view for a visitor |
+|---|---|---|
+| 5 lower | {{fact:jma_int5l}} | Hold the rail or a fixed object, and keep away from loose items |
+| 5 upper | {{fact:jma_int5u}} | Do not try to walk through a crowd or down stairs while it lasts |
+| 6 lower | {{fact:jma_int6l}} | Get low and stay where you are until it stops |
+
+JMA adds a caution that matters in a hotel: {{fact:jma_int_floor}}. A reading for the city does not describe your room on a high floor.
+
+### Reading the rain and typhoon alert levels
+
+For storms, JMA uses a ladder of levels. It says that {{fact:jma_levels5}}.
+
+```diagram
+type: flow
+caption: JMA's alert levels for heavy rain, floods, landslides and storm surge, from lowest to highest
+steps: Level 2 Advisory | Level 3 Warning: people who need more time start to evacuate | Level 4 Urgent Warning: everyone evacuates from dangerous areas | Level 5 Emergency Warning: exceptional risk
+```
+
+At the middle of the ladder, JMA says that {{fact:jma_l3}}. At the next step, it says that {{fact:jma_l4}}. At the top, {{fact:jma_l5}}.
+
+JNTO speaks in terms of staying inside and keeping a Plan B. JMA's ladder tells you when that plan has to start: at Level 3 you should already be deciding, not waiting for Level 4. If you are travelling with someone who needs extra time to move, that is your signal.
+
+{{note|JMA's English pages have a limit. {{fact:jma_en_scope}}. Ask your hotel desk about local evacuation advice when an alert is in effect.}}
+
+### Tsunami and the Nankai Trough
+
+For coastal areas, JMA says that {{fact:jma_tsunami_time}}. That gap is why JNTO's advice to move to higher ground at once after a strong coastal quake does not wait for an alert.
+
+JMA also publishes information about the Nankai Trough, a source of large earthquakes off the Pacific coast. It says that {{fact:jma_nankai_any}}, and that {{fact:jma_nankai_info}}. Our view: treat such a notice as a reason to recheck your evacuation route and your phone, not as a reason to cancel a trip.
 
 {{photo:3|Firefighters and officials at a disaster prevention drill in Zama, Kanagawa}}
 
@@ -112,7 +156,7 @@ If you are visiting Okinawa in typhoon season, our [Okinawa itinerary](okinawa-c
 
 {{note|Hazard information changes quickly. Use the guide to prepare, and use the official sources on the day.}}
 
-Last reviewed on 13 November 2026 against the JNTO pages cited in this guide.
+Last reviewed on 25 November 2026 against the JNTO and Japan Meteorological Agency pages cited in this guide.
 
 ## FAQ
 
@@ -135,3 +179,11 @@ Usually not. JNTO says typhoons tend to pass through in less than 24 hours, thou
 ### Which apps and sites should I use for alerts?
 
 JNTO lists the Japan Safe Travel Information site, the Safety Tips app and NHK WORLD-JAPAN.
+
+### What do the JMA alert levels mean?
+
+JMA's five alert levels apply to heavy rain, floods, landslides and storm surge. Level 3 is the point at which people who need more time should start to evacuate, Level 4 means everyone should evacuate from dangerous areas, and Level 5 is an Emergency Warning for exceptional risk.
+
+### How much warning will I get before an earthquake?
+
+JMA says an Earthquake Early Warning gives a matter of seconds, and that areas close to the epicentre may not receive it before strong shaking starts.
