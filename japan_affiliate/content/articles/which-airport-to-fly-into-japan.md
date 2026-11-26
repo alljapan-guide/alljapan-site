@@ -3,7 +3,7 @@ title: Which Airport to Fly Into: Narita, Haneda or Kansai
 slug: which-airport-to-fly-into-japan
 description: How to choose between Narita, Haneda and Kansai International for your first trip to Japan, using the Japan National Tourism Organization's airport guides.
 date: 2026-10-25
-updated: 2026-10-25
+updated: 2026-11-27
 cluster: planning
 affiliates: trip_airport_transfer | trip_kix_car | booking | esim | trip_trains | trip_trains_osaka | trip_esim
 image_queries: Narita Airport terminal 1 departure hall | Kansai International Airport | Narita Express train | Tokyo Monorail Haneda Airport
@@ -25,6 +25,8 @@ JNTO also reminds readers that {{fact:a_check}}. Check flight times, transfers a
 On Narita, JNTO says that {{fact:a_narita}}. JNTO adds that {{fact:a_narita_gateway}}.
 
 {{photo:3|A Narita Express train}}
+
+The airport operator's own pages add that Narita is spread over three terminals: {{fact:nrt2_walk}}. Between terminals, {{fact:nrt2_shuttle}}, and {{fact:nrt2_shuttle_time}}. Our [Narita and Haneda to Tokyo guide](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html) sets out the trains, buses and taxis from each.
 
 Our view: Narita suits travellers who find a good fare, or who do not mind a longer journey into the city. Plan your first night with the transfer time in mind, and remember that a late arrival leaves little margin.
 
@@ -85,6 +87,8 @@ If your plans include a visa or entry paperwork, see our [visa and entry guide](
 For mobile data on arrival, you can compare Japan eSIM and SIM options on {{aff:trip_esim|Trip.com}}. Check that your phone supports eSIM first.
 
 Once you know the airport, our guide explains the way into the city: [Narita and Haneda Airport to Tokyo: train, bus or taxi](narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city.html).
+
+Last reviewed on 27 November 2026 against the JNTO and Narita International Airport pages cited in this guide.
 
 ## FAQ
 

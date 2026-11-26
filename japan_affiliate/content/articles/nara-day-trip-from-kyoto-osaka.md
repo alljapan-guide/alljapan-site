@@ -3,7 +3,7 @@ title: Nara Day Trip from Kyoto or Osaka: Getting There and What to See
 slug: nara-day-trip-from-kyoto-osaka
 description: Nara as a day trip from Kyoto or Osaka: trains, the two stations, the real walking and bus times to Todaiji and Kasugataisha, Nara Park and the deer.
 date: 2026-10-23
-updated: 2026-11-20
+updated: 2026-11-27
 cluster: itineraries
 affiliates: trip_nara_hotels | klook | viator | gyg
 image_queries: Nara Park deer Todai-ji | Todai-ji Daibutsuden Nara | Kasuga Taisha lanterns Nara | Deer Nara Park
@@ -44,7 +44,7 @@ Our view: this changes how to read the plan below. Kintetsu gives its times from
 
 ## Does a rail pass make sense?
 
-Probably not for Nara alone. The official Nara guide notes that {{fact:nara_passes}}, so a pass can make sense when Nara is one part of a longer trip. Our view: for a single return trip from Kyoto or Osaka, compare the pass price with the cost of the two tickets before you buy. Our [rail pass guide](is-japan-rail-pass-worth-it.html) walks through that comparison.
+Probably not for Nara alone. The official Nara guide notes that {{fact:nara_passes}}, so a pass can make sense when Nara is one part of a longer trip. Check the list against the operator's own page before you plan around it: JR-West says that {{fact:jwk_area_ended}}. The two official sources therefore disagree about the Kansai Area Pass, and the operator's dated notice is the one to trust. Our view: for a single return trip from Kyoto or Osaka, compare the pass price with the cost of the two tickets before you buy. Our [rail pass guide](is-japan-rail-pass-worth-it.html) walks through that comparison.
 
 ## Nara Park: the main attraction
 
@@ -105,6 +105,8 @@ For the autumn colour spots JNTO recommends, including Goshikinuma, Showa Kinen 
 If you have three days based in Osaka, our [Osaka 3-day itinerary](osaka-3-day-itinerary.html) builds a plan around this day trip and shows how to combine it with Kyoto, Nara, Kobe or Himeji.
 
 For a guided walk through Nara, our booking guide explains the organizations and what to confirm: [Where to book a licensed guide in Japan](where-to-book-a-licensed-guide-in-japan.html).
+
+Last reviewed on 27 November 2026 against the Nara travel guide, Kintetsu Railway and JR-West pages cited in this guide.
 
 ## FAQ
 

@@ -31986,5 +31986,228 @@
    "ise-food-and-culture-2-day-itinerary"
   ],
   "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_rail_lines",
+  "text": "rail access to the airport is available via the Narita Sky Access line, the Keisei line and the JR line",
+  "claim": "Narita Airport rail lines",
+  "source_name": "Narita International Airport: Rail",
+  "source_url": "https://www.narita-airport.jp/en/access/train/",
+  "must_contain": [
+   "Rail access is available via the Narita Sky Access line, Keisei line and JR line"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_walk",
+  "text": "Terminal 1 is a 5-minute walk from Narita Airport Station, and Terminals 2 and 3 are a 5-minute and a 10-minute walk respectively from Airport Terminal 2 Building Station",
+  "claim": "Narita station to terminal walks",
+  "source_name": "Narita International Airport: Rail",
+  "source_url": "https://www.narita-airport.jp/en/access/train/",
+  "must_contain": [
+   "Terminal 1 is a 5-minute walk from",
+   "Terminal 2 and 3 are 5-minute walk and 10-minute walk from"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_nex_stops",
+  "text": "the Narita Express stops at Tokyo, Shinagawa, Shibuya, Shinjuku, Yokohama and Ofuna stations",
+  "claim": "Narita Express stations",
+  "source_name": "Narita International Airport: Rail",
+  "source_url": "https://www.narita-airport.jp/en/access/train/",
+  "must_contain": [
+   "Tokyo Station Shinagawa Station Shibuya Station Shinjuku Station Yokohama Station Ofuna Station"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_sky_stops",
+  "text": "the Skyliner serves Nippori and Keisei Ueno, and some Skyliner trains also stop at Aoto and Shin-Kamagaya stations",
+  "claim": "Narita Skyliner stations",
+  "source_name": "Narita International Airport: Rail",
+  "source_url": "https://www.narita-airport.jp/en/access/train/",
+  "must_contain": [
+   "Some Skyliner trains stop at Aoto Station and Shin-Kamagaya Station",
+   "Nippori Station Keisei Ueno Station"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_shuttle",
+  "text": "transfers between terminals use the free terminal shuttle bus",
+  "claim": "Narita terminal shuttle",
+  "source_name": "Narita International Airport: Traveling between terminals",
+  "source_url": "https://www.narita-airport.jp/en/access/shuttlebus/",
+  "must_contain": [
+   "please use the free terminal shuttle bus"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_shuttle_time",
+  "text": "the shuttle ride is about 14 minutes between Terminals 1 and 3, about 3 minutes between Terminals 3 and 2, and about 10 minutes between Terminals 2 and 1",
+  "claim": "Narita shuttle ride times",
+  "source_name": "Narita International Airport: Traveling between terminals",
+  "source_url": "https://www.narita-airport.jp/en/access/shuttlebus/",
+  "must_contain": [
+   "between Terminals 1 &amp; 3 : about 14 minutes",
+   "between Terminals 3 &amp; 2 : about 3 minutes",
+   "between Terminals 2 &amp; 1 : about 10 minutes"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_walk_t23",
+  "text": "it is also possible to walk between Terminals 2 and 3 through the access corridor",
+  "claim": "Narita Terminal 2 to 3 walk",
+  "source_name": "Narita International Airport: Traveling between terminals",
+  "source_url": "https://www.narita-airport.jp/en/access/shuttlebus/",
+  "must_contain": [
+   "It is also possible to walk between Terminal 2 and 3"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_taxi_fixed",
+  "text": "fixed-fare taxis charge a uniform price from the airport to each zone of Tokyo, and advance reservations are not required",
+  "claim": "Narita fixed-fare taxi",
+  "source_name": "Narita International Airport: Taxi",
+  "source_url": "https://www.narita-airport.jp/en/access/taxi/",
+  "must_contain": [
+   "These taxis charge a uniform price from Narita Airport to different zones in Tokyo",
+   "Advance reservations are not required"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_taxi_extra",
+  "text": "expressway tolls are paid by the passenger on top of the fixed fare, late-night and early-morning surcharges apply between 22:00 and 5:00, and travel via the Aqua-Line costs extra",
+  "claim": "Narita taxi extras",
+  "source_name": "Narita International Airport: Taxi",
+  "source_url": "https://www.narita-airport.jp/en/access/taxi/",
+  "must_contain": [
+   "Expressway tolls and other actual charges incurred are the responsibility of the passenger in addition to the fixed fare",
+   "Late night and early morning surcharges apply (22:00-5:00)",
+   "an additional charge is applied for travel via the Aqua-Line"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_taxi_meter",
+  "text": "the fixed fares assume the expressway, and the meter is used if the passenger chooses a non-expressway route",
+  "claim": "Narita taxi meter",
+  "source_name": "Narita International Airport: Taxi",
+  "source_url": "https://www.narita-airport.jp/en/access/taxi/",
+  "must_contain": [
+   "The meter will be used if passengers elect to travel via non-expressway route"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_night_24h",
+  "text": "the arrivals level of each terminal is open 24 hours, and so is the departures level of Terminal 3",
+  "claim": "Narita overnight access",
+  "source_name": "Narita International Airport: Terminal use at night and early mornings",
+  "source_url": "https://www.narita-airport.jp/en/access/early-morning/",
+  "must_contain": [
+   "1F(International arrivals and domestic departures) Available 24 hours",
+   "1F(International and domestic arrivals) Available 24 hours",
+   "2F(International and domestic departures) Available 24 hours"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_night_shops",
+  "text": "each terminal has a 24-hour convenience store: Lawson in Terminals 1 and 3 and 7-Eleven in Terminal 2",
+  "claim": "Narita 24-hour shops",
+  "source_name": "Narita International Airport: Terminal use at night and early mornings",
+  "source_url": "https://www.narita-airport.jp/en/access/early-morning/",
+  "must_contain": [
+   "LAWSON Terminal1 B1F",
+   "7-Eleven Terminal2 B1F",
+   "LAWSON NARITA INTERNATIONAL AIRPORT Terminal3"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_capsule",
+  "text": "the capsule hotel in Parking P-2, directly connected to Terminal 2, is open 24 hours but may be full on the day of your flight, so booking in advance is recommended",
+  "claim": "Narita capsule hotel",
+  "source_name": "Narita International Airport: Terminal use at night and early mornings",
+  "source_url": "https://www.narita-airport.jp/en/access/early-morning/",
+  "must_contain": [
+   "There is a capsule hotel in Parking P-2, which is directly connected to Terminal 2",
+   "may be full on the day of your flight, so booking in advance is recommended"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "nrt2_noise",
+  "text": "there may be cleaning, construction or other work near waiting areas early in the morning and late at night",
+  "claim": "Narita night-time noise",
+  "source_name": "Narita International Airport: Terminal use at night and early mornings",
+  "source_url": "https://www.narita-airport.jp/en/access/early-morning/",
+  "must_contain": [
+   "there may be cleaning, construction or other work near waiting areas early in the morning and late at night"
+  ],
+  "topics": [
+   "narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city"
+  ],
+  "verified_on": "2026-11-26"
+ },
+ {
+  "id": "jwk_area_ended",
+  "text": "JR-West says sales of the Kansai Area Pass ended as of 30 September 2026, and passes bought by that date remain valid for their validity period",
+  "claim": "JR-West Kansai Area Pass sales ended",
+  "source_name": "JR-West: Kansai Area Pass",
+  "source_url": "https://www.westjr.co.jp/global/en/ticket/pass/kansai/",
+  "must_contain": [
+   "Sales ended as of September 30, 2026",
+   "Passes purchased by September 30, 2026 will remain valid throughout the specified validity period"
+  ],
+  "topics": [
+   "nara-day-trip-from-kyoto-osaka"
+  ],
+  "verified_on": "2026-11-26"
  }
 ]

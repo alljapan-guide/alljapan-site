@@ -323,3 +323,13 @@ Enhanced japan-opening-hours-and-holidays (second pass; GO TOKYO venue hours: Ta
 - 新規ファクト29件（jma_* 16、kti_* 13）。すべて該当ページで must_contain 検証OK。
 - 使った出典: JMA（earthquake、eew1/eew2、inttable、Emergency Warning、forecast）、Kintetsu（sightseeing/mie の spot01・02・17・18・22・23）。
 
+## 2026-11-27 定期強化（第二出典：成田空港、JR-West）
+- 許可ホストは11/25から変わらず（東武・各地観光協会・odakyu-global.com・haneda-airport.jp は届かない）。行23は保留のまま。
+- 強化（URL変更なし、アフィリエイト追加なし、写真追加なし）:
+  - narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city（JNTOのみ→成田国際空港の公式ページを追加）: 節「Which terminal, which station」（駅から各ターミナルの徒歩、成田エクスプレス・スカイライナーの停車駅、ターミナル間シャトルの所要、2・3ターミナル間の徒歩）、定額タクシーの条件（予約不要・高速代別・22:00〜5:00の割増・アクアライン別料金・メーター切替）、夜間の過ごし方（各ターミナルの24時間エリア・24時間コンビニ・カプセルホテルは満室の可能性・工事音）、FAQ1問。金額は書かない。
+  - nara-day-trip-from-kyoto-osaka: 奈良市公式の周遊券の記述（Kansai Area Pass を含む）と、JR-West の「2026年9月30日で販売終了、それ以前の購入分は有効」が食い違うことを記事に明記。Last reviewed 追加。
+  - which-airport-to-fly-into-japan: 成田の3ターミナルの実情（駅からの徒歩、シャトル所要）を追加し、成田・羽田の市内アクセス記事へリンク。Last reviewed 追加。
+- 新規ファクト15件（nrt2_* 14、jwk_area_ended 1）。すべて検証OK。
+- 使った出典: 成田国際空港（access/train・taxi・shuttlebus・early-morning）、JR-West（Kansai Area Pass）。
+- 注意: JR-West の Kansai Area Pass は販売終了だが、Kansai WIDE Area Pass 等は同サイトに残る。nara_passes（奈良市公式）の文言は変えていない（ページどおり）。
+

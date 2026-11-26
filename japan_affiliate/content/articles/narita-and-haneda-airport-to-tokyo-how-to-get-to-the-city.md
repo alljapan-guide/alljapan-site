@@ -1,14 +1,14 @@
 ---
 title: Narita and Haneda Airport to Tokyo: Train, Bus or Taxi?
 slug: narita-and-haneda-airport-to-tokyo-how-to-get-to-the-city
-description: How to get from Narita or Haneda Airport to central Tokyo by train, bus or taxi, with JNTO's travel times, first and last services and a choice table.
+description: From Narita or Haneda to central Tokyo by train, bus or taxi: JNTO's times, Narita's own terminal walks and taxi rules, and what to do if you land late.
 date: 2026-11-15
-updated: 2026-11-15
+updated: 2026-11-27
 cluster: transport
 affiliates: trip_airport_transfer | trip_hotels | trip_esim | klook
 image_queries: Narita Express train | Keisei Skyliner Ueno station platform | Tokyo Monorail Haneda | Airport Limousine bus Haneda Terminal
 ---
-Your first hour in Japan sets the tone for the trip, and the way from the airport to your hotel is the part most visitors worry about. Tokyo has two airports, and the best route depends on which one you land at, how much luggage you carry and what time you arrive. This guide uses the Japan National Tourism Organization (JNTO) airport pages for Narita and Haneda, and turns them into a simple choice. Where we add opinion, we label it "Our view", so sourced information and editorial advice stay separate. Timetables and fares change, so check the operator's page for the day you travel.
+Your first hour in Japan sets the tone for the trip, and the way from the airport to your hotel is the part most visitors worry about. Tokyo has two airports, and the best route depends on which one you land at, how much luggage you carry and what time you arrive. This guide uses the Japan National Tourism Organization (JNTO) airport pages for Narita and Haneda, adds the details that the Narita airport operator publishes itself, and turns them into a simple choice. Where we add opinion, we label it "Our view", so sourced information and editorial advice stay separate. Timetables and fares change, so check the operator's page for the day you travel.
 
 {{photo:1|A Narita Express train at Shibuya Station}}
 
@@ -36,7 +36,19 @@ Our view: choose by where your hotel is. The Narita Express serves the big stati
 
 **Bus.** JNTO says that {{fact:nh_nrt_bus}}. It adds that {{fact:nh_nrt_bus_tix}}.
 
-**Taxi.** On the last option, {{fact:nh_nrt_taxi}}. Also, {{fact:nh_nrt_taxi_grp}}.
+**Taxi.** On the last option, {{fact:nh_nrt_taxi}}. Also, {{fact:nh_nrt_taxi_grp}}. Narita's own taxi page sets out the rules that JNTO leaves out: {{fact:nrt2_taxi_fixed}}. It also says that {{fact:nrt2_taxi_extra}}, and that {{fact:nrt2_taxi_meter}}. Our view: before you get in at night, ask the driver which route the fixed fare assumes, because the late-night surcharge and the road tolls are paid on top.
+
+### Which terminal, which station
+
+JNTO says which terminals most flights use. The airport operator adds the part that matters once you are on the ground. It says that {{fact:nrt2_rail_lines}}, and the walk from the station differs by terminal.
+
+| Question | What Narita's own pages say | Our view |
+|---|---|---|
+| How far is the station? | Narita says that {{fact:nrt2_walk}} | Terminal 3 has the longest walk, so allow for it with a heavy bag |
+| Which stations does each train serve? | Narita says that {{fact:nrt2_nex_stops}}, and that {{fact:nrt2_sky_stops}} | Match the train to your hotel's side of the city before you buy |
+| What if I land at the wrong terminal for my ticket? | Narita says that {{fact:nrt2_shuttle}} | The ride is short between Terminals 2 and 3, and longer to Terminal 1 |
+| How long is the shuttle? | Narita says that {{fact:nrt2_shuttle_time}} | Add waiting time to the ride when you plan a connection |
+| Can I walk between Terminals 2 and 3? | Narita says that {{fact:nrt2_walk_t23}} | A walk can be quicker than waiting for a bus when you have little luggage |
 
 {{photo:2|The Keisei platform at Ueno Station, where the Skyliner arrives}}
 
@@ -59,6 +71,10 @@ Our view: if your hotel is near Shinagawa or on the south side of the city, the 
 This is where many arrival plans fail. At Narita, JNTO says that {{fact:nh_nrt_last}}, and that {{fact:nh_nrt_sky_hours}}. At Haneda, {{fact:nh_hnd_late}}, and {{fact:nh_hnd_bus_late}}.
 
 {{warn|If your flight lands late, check the last train and bus times for your airport before you leave home, and decide where you will sleep if the delay is long. Do not assume that a train will be waiting after a late arrival.}}
+
+Narita's own page on night and early-morning use adds what the airport offers if you wait. It says that {{fact:nrt2_night_24h}}, and that {{fact:nrt2_night_shops}}. On sleeping, it adds that {{fact:nrt2_capsule}}. It also warns that {{fact:nrt2_noise}}.
+
+Our view: waiting overnight in a terminal is possible but it is not rest. If you land after the last trains, book the capsule hotel or a bed in the city in advance, and treat the 24-hour floors as a fallback for a delay rather than a plan.
 
 If you cannot make the last service, JNTO notes an easy fallback at each airport. At Narita, {{fact:nh_nrt_hotel}}. At Haneda, {{fact:nh_hnd_hotel}}. And if you are moving between the two airports, JNTO says that {{fact:nh_hnd_to_nrt}}.
 
@@ -92,11 +108,11 @@ Our view: a booked transfer makes sense if you arrive late at night, travel with
 
 - **Choosing a route without checking the last train.** A delay can turn an easy plan into a hard one.
 - **Buying the wrong ticket for a rail pass.** JNTO says that the Skyliner is not covered by a Japan Rail Pass, while the Narita Express is covered. Our [rail pass guide](is-japan-rail-pass-worth-it.html) explains how to decide whether a pass pays off.
-- **Going to the wrong terminal.** Narita and Haneda both have several terminals, so check the terminal on your ticket before you pick a route.
+- **Going to the wrong terminal.** Narita and Haneda both have several terminals, so check the terminal on your ticket before you pick a route. At Narita, the shuttle between Terminals 1 and 3 takes longest, as the table above shows.
 - **Carrying a large bag through a station change.** If your route needs two changes, a bus or a taxi may be easier.
 - **Arriving with no data.** Set up an eSIM or collect a SIM or pocket WiFi at the airport, so you can read a map when you leave.
 
-Last reviewed on 15 November 2026 against the JNTO pages cited in this guide.
+Last reviewed on 27 November 2026 against the JNTO pages and the Narita International Airport pages cited in this guide.
 
 {{pick|If you land at Haneda, take the Keikyu Line or the monorail and keep the plan simple. If you land at Narita, take the Narita Express for the west side of Tokyo and the Skyliner for the north. Use a bus or a taxi when you have a lot of luggage or arrive late. This is our editorial pick, based on JNTO's route descriptions.}}
 
@@ -125,3 +141,7 @@ JNTO gives the last services for each airport, and notes that you can stay at an
 ### Is a taxi a good choice from the airport?
 
 JNTO says flat-rate taxi fares are available to most central destinations, and that a taxi is more expensive than other options but can be a reasonable choice for a group.
+
+### Can I wait overnight at Narita if I miss the last train?
+
+Narita's own page says the arrivals level of each terminal is open 24 hours, and that each terminal has a 24-hour convenience store. It also warns of cleaning or construction work near waiting areas at night, so a booked bed is the safer plan.
