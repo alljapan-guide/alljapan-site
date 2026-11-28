@@ -1,9 +1,9 @@
 ---
 title: Osaka in One Day: A North-to-South Itinerary from Umeda to Shinsekai
 slug: osaka-one-day-itinerary
-description: A one-day Osaka itinerary from JNTO: Umeda Sky Building, Midosuji, Dotonbori, Hozenji Yokocho, Shinsekai kushikatsu and the Abeno Harukas observatory.
+description: One day in Osaka from JNTO and Kintetsu: Umeda, Midosuji, Dotonbori, Hozenji Yokocho, Shinsekai kushikatsu and the Abeno Harukas view, with station walks.
 date: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-27
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_osaka_hotels | trip_train_osaka_kyoto
 image_queries: Osaka Umeda Sky Building night | Midosuji Osaka ginkgo | Shinsekai Tsutenkaku Osaka | Shitennoji Osaka pagoda
@@ -70,15 +70,36 @@ To end the day, JNTO says that {{fact:on_harukas}}. And in daylight, {{fact:on_h
 
 {{photo:4|The five-story pagoda of Shitennoji in Tennoji, Osaka}}
 
+## The south of the city, station by station
+
+JNTO's route moves by district. Kintetsu Railway, which has its own stations in the south of the city, gives a walk from a named station to each stop, and that is the detail you need when you arrive from a different line. These are its figures.
+
+| Stop | What Kintetsu says |
+|---|---|
+| Minami: Namba, Dotonbori, Shinsaibashi | Kintetsu says that {{fact:kno_minami}} |
+| Hozenji Yokocho | Kintetsu says that {{fact:kno_hozenji}} |
+| Abeno Harukas | Kintetsu says that {{fact:kno_harukas}} |
+| Shitennoji, the temple in the pagoda photo above | Kintetsu says that {{fact:kno_shitennoji}} |
+
+Our view: the walks are short for the three busy stops and long for Shitennoji, so treat the temple as a separate detour in the afternoon, not a stop between Dotonbori and Shinsekai.
+
 ## An optional extra: Nakanoshima
 
 If you have time earlier in the day, JNTO says that {{fact:on_nakanoshima}}.
+
+## Stops the JNTO route leaves out
+
+Kintetsu lists four more places that fit the same day if you drop something else. For food, it says that {{fact:kno_kuromon}}. For electronics and pop culture, {{fact:kno_denden}}. For a family stop, {{fact:kno_kaiyukan}}. And for the castle that symbolises the city, {{fact:kno_castle}}.
+
+Our view: Kuromon Market and Denden Town sit on the same station, so they pair well as a morning block. Osaka Castle and the aquarium are each a long walk from the nearest station, so add one of them only if you are happy to give up Kita or Shinsekai to do it.
 
 ## How to adapt the day
 
 Our view: the route is flexible because each stop is a separate hub on the same subway line. If you start late, begin at Shinsaibashi and keep Kita for another day, since the Dotonbori evening is the part most people regret missing. If the weather is wet, move the Umeda underground arcades and the museums on Nakanoshima to the front of the plan, and leave the outdoor views for the end of the day.
 
 If you are travelling with children or with limited mobility, the day is easier if you take the subway between each area instead of walking the whole length of Midosuji.
+
+Last reviewed on 27 November 2026 against the JNTO and Kintetsu Railway pages cited in this guide.
 
 ## Where to stay and what to book
 
@@ -117,3 +138,11 @@ JNTO points to the Umeda Sky Building and to the Abeno Harukas observatory, whic
 ### How long should I spend in Shinsekai?
 
 JNTO says Tsutenkaku and Shinsekai can easily fill a couple of hours.
+
+### How far is Osaka Castle from the nearest station?
+
+Kintetsu says it is about an 18-minute walk from Osaka Metro Tanimachi 4-chome Station, so allow more time than the map suggests.
+
+### Which Kintetsu station is closest to Abeno Harukas?
+
+Kintetsu says Abeno Harukas is about a 1-minute walk from Osaka-Abenobashi Station.

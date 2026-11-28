@@ -333,3 +333,12 @@ Enhanced japan-opening-hours-and-holidays (second pass; GO TOKYO venue hours: Ta
 - 使った出典: 成田国際空港（access/train・taxi・shuttlebus・early-morning）、JR-West（Kansai Area Pass）。
 - 注意: JR-West の Kansai Area Pass は販売終了だが、Kansai WIDE Area Pass 等は同サイトに残る。nara_passes（奈良市公式）の文言は変えていない（ページどおり）。
 
+## 2026-11-27 定期強化その2（第二出典：Kintetsu の名古屋・大阪エリア）
+- 前回 push（9a3b863）のデプロイは成功（push #169、定期 #170）。許可ホストは変わらず。visa 記事（isa.go.jp は moj.go.jp/isa へ移転、許可外）と天気記事（JMA の気候ページは data.jma.go.jp、許可外）は出典不足で見送り。
+- 強化（URL変更なし、アフィリエイト追加なし、写真追加なし）:
+  - nagoya-one-day-itinerary（JNTOのみ→Kintetsu）: 名古屋城の駅からの徒歩（JNTO「市役所駅の隣」とKintetsu「徒歩約5分」の差）、トヨタ産業技術記念館への2経路の比較表（JNTOは美術館から42分、Kintetsuは名古屋駅から名鉄で直通）と「順序を逆にする」案、ひつまぶし・きしめん・味噌カツの表、熱田神宮・犬山城の節、判断表1行、FAQ2問。
+  - osaka-one-day-itinerary（JNTOのみ→Kintetsu）: 南エリアの駅別徒歩表（ミナミ、法善寺横丁、あべのハルカス、四天王寺）、JNTOの経路外の4か所（黒門市場、日本橋でんでんタウン、水族館、大阪城は最寄駅から徒歩約18分）、FAQ2問。既存の写真4（四天王寺の五重塔）の説明が本文に入った。
+- 新規ファクト19件（kng_* 11、kno_* 8）。すべて検証OK。
+- 使った出典: Kintetsu（sightseeing/nagoya の spot01・02・03・07・12・13・14、sightseeing/osaka の spot01・02・04・07・08・09・10・12）。
+- 数字や評価は出典にある範囲だけ。「いちばん軽い」等の未出典の評価は削除済み。
+

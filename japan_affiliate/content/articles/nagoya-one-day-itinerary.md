@@ -1,9 +1,9 @@
 ---
 title: Nagoya in One Day: Castle, Samurai Museum and Toyota Industry Guide
 slug: nagoya-one-day-itinerary
-description: A one-day Nagoya itinerary from JNTO: Nagoya Castle, the Tokugawa Art Museum, the Toyota museum, Noritake Garden, Midland Square and local food.
+description: A one-day Nagoya itinerary from JNTO and Kintetsu: Nagoya Castle, the Tokugawa Art Museum, the Toyota museum, Noritake Garden, Midland Square and local food.
 date: 2026-11-08
-updated: 2026-11-16
+updated: 2026-11-27
 cluster: itineraries
 affiliates: trip_things | klook | viator | trip_hotels
 image_queries: Tokugawa Art Museum Nagoya | Toyota Commemorative Museum of Industry and Technology | Midland Square Nagoya skyscraper
@@ -35,6 +35,8 @@ Our view: this makes Nagoya an easy stop on the way between Tokyo and Kyoto. Our
 
 JNTO starts with the castle. It says that {{fact:ngy_castle}}. Inside, {{fact:ngy_keep}}.
 
+Kintetsu Railway's access page for the castle gives a slightly different picture of the walk. JNTO says the station is next to the castle, while Kintetsu says that {{fact:kng_castle_walk}}. It also names what to look for: {{fact:kng_castle_feat}}. Our view: plan on a few minutes on foot, not none.
+
 On the grounds, JNTO adds that {{fact:ngy_park}}. And for spring, {{fact:ngy_sakura}}.
 
 {{tip|Check the castle's current opening hours and any restrictions on the keep before you go. Our [opening hours guide](japan-opening-hours-and-holidays.html) explains the usual closing days.}}
@@ -53,6 +55,17 @@ JNTO's third stop is industrial history. It gives the route: {{fact:ngy_to_toyot
 
 At the museum, {{fact:ngy_toyota}}. And if you want more, {{fact:ngy_toyota_cars}}.
 
+## Two routes to the Toyota museum
+
+JNTO builds the day in one order, and the Toyota museum comes late. The two sources give different ways to reach it:
+
+| Route | Source | What it says |
+|---|---|---|
+| From the Tokugawa Art Museum | JNTO | JNTO says that {{fact:ngy_to_toyota}} |
+| Straight from the main station | Kintetsu | Kintetsu says that {{fact:kng_toyota_access}} |
+
+Our view: if the Toyota museum and Noritake Garden are the reason you came, reverse the day. Start from Nagoya Station with the direct train, do the museum and the garden, then go to the castle and the Tokugawa Art Museum, whose own link is short. This removes the long cross-city transfer that JNTO lists, though you will still travel between the Toyota area and the castle, so check the times on the day.
+
 {{photo:2|The red-brick Toyota Commemorative Museum of Industry and Technology}}
 
 Next is the garden. JNTO says that {{fact:ngy_noritake}}. And on what to do, {{fact:ngy_noritake_work}}.
@@ -65,9 +78,25 @@ JNTO ends the day by the station. It says that {{fact:ngy_midland}}.
 
 For dinner, {{fact:ngy_food}}.
 
+Kintetsu's food pages name three dishes that are Nagoya's own, and they say more about how to eat them than JNTO's one-line list does.
+
+| Dish | What it is | Our view |
+|---|---|---|
+| Hitsumabushi | Kintetsu says that {{fact:kng_hitsu}} | Taste the first bowl as it comes, then change it as Kintetsu describes |
+| Kishimen | Kintetsu says that {{fact:kng_kishimen}} | The only one of the three served as a noodle soup |
+| Miso katsu | Kintetsu says that {{fact:kng_misokatsu}} | JNTO also lists it, so it is the dish both sources agree on |
+
 {{photo:3|High-rise towers in the Nagoya Station area, including Midland Square}}
 
 Our view: arrive at the observatory before sunset if you want to see the city lit up, and eat afterwards on the dining floors. Our [Japan etiquette guide](japan-etiquette-for-first-timers.html) covers the basic manners for a restaurant meal.
+
+## Two places the day does not include
+
+Kintetsu lists two more sights that suit a longer stay. For the first, it says that {{fact:kng_atsuta}}. The shrine is also known for its collection: {{fact:kng_atsuta_hall}}. On the way there, {{fact:kng_atsuta_access}}.
+
+The second is outside the city. Kintetsu says that {{fact:kng_inuyama}}. For the journey, {{fact:kng_inuyama_access}}.
+
+Our view: Atsuta Jingu is the better add-on for a stopover day, since it is a short walk from its station. Inuyama Castle is out of town and has the longest walk from its station, so it fits a second day better than the first.
 
 ## How to adapt the day
 
@@ -87,6 +116,7 @@ Our view: this table is our own editorial shortcut, built on the JNTO points abo
 | You like industry and cars | Add the Toyota Commemorative Museum, and the separate Toyota Museum if you want cars | JNTO describes them as two different museums |
 | You come in early May or in spring | Start in Meijo Park | Wisterias bloom in early May, and the castle area is a spring cherry blossom spot |
 | You are continuing north | Plan Hida Takayama next | JNTO calls it an easy one-day trip from Nagoya |
+| You want a shrine or a second castle | Add Atsuta Jingu, or give Inuyama its own day | Kintetsu lists both, with the train and the walk |
 
 ## The transfers, side by side
 
@@ -113,7 +143,7 @@ items: From Tokyo=1 hour 40 minutes by Shinkansen | From Osaka=50 minutes by Shi
 - **Leaving the 42-minute transfer for the end of the day.** Check train times and the museum's current hours, so you do not arrive near closing time.
 - **Forgetting the bags.** Our view: if Nagoya is a stopover, send the luggage ahead with our [luggage forwarding guide](japan-luggage-forwarding.html) and travel light.
 
-Last reviewed on 16 November 2026 against the JNTO pages cited in this guide.
+Last reviewed on 27 November 2026 against the JNTO and Kintetsu Railway pages cited in this guide.
 
 ## Where to stay and what to book
 
@@ -158,3 +188,11 @@ JNTO says Hida Takayama is an easy one-day trip from Nagoya, or you can stay ove
 ### Which museum should you choose if you only have time for one?
 
 Our view: choose the Tokugawa Art Museum for a first visit to Japan, and the Toyota Commemorative Museum if industry and cars are the reason you came.
+
+### Is there a direct way to the Toyota museum from Nagoya Station?
+
+Kintetsu lists a Meitetsu train from the main station to Sako Station, then a walk of about three minutes. JNTO's route to the museum starts from the Tokugawa Art Museum instead.
+
+### What else is worth adding if I have time?
+
+Kintetsu lists Atsuta Jingu, a shrine said to have housed the sacred sword Kusanagi, and Inuyama Castle, one of only five castles designated as a national treasure.
